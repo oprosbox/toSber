@@ -1,0 +1,5 @@
+CREATE TABLE <currency>
+  {code varcar(3),
+   digital varcar(3),
+    name varcar(50)
+   };

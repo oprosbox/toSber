@@ -1,0 +1,8 @@
+CREATE TABLES 223fz_documents{
+      <guid> varchar(50);
+      <createDateTime> INTEGER;
+      <filename> varchar(255);
+      <description> varchar(2000);
+      <url> varchar(2000);
+      <registrationNumber> varchar(50);
+      };

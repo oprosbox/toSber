@@ -1,0 +1,4 @@
+CREATE TABLE 223fz_<lots><lot><jointLotData><lotCustomers>{
+<guid> varchar(50),
+<data> varchar(100000)
+};

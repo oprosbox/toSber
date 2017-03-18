@@ -1,0 +1,19 @@
+CREATE TABLE 223fz_company{
+        <fullName> varchar(500),
+        <shortName> varchar(50),
+        <iko> varchar(20),
+        <inn> varchar(20),
+        <kpp> varchar(20),
+        <ogrn> varchar(20),
+        <legalAddress> varchar(2000),
+        <postalAddress> varchar(2000),
+        <phone> varchar(300),
+        <fax> varchar(300),
+        <email> varchar(300),
+		<okato> varchar(20),
+		<okopf> varchar(20),
+		<okopfName> varchar(200),
+        <okpo> varchar(20),
+		<customerRegistration> INTEGER
+		};
+ 
