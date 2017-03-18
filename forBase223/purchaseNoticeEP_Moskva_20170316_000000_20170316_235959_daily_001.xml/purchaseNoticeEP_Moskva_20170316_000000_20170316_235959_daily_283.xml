@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>68bec581-1258-4c5b-bd22-20d6e0d3076b</guid>
+        <createDateTime>2017-03-16T11:08:40</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58caf277-4338-98ce-e100-00000a388ca5</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>58caf277-4338-98ce-e100-00000a388ca5</ns2:guid>
+                <ns2:createDateTime>2017-03-16T11:03:44</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883882</ns2:urlOOS>
+                <ns2:urlVSRZ>https://zakupki.gazprom.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704896288</ns2:registrationNumber>
+                <ns2:name>Трубопроводная арматура</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Сергей</firstName>
+                    <middleName>Викторович</middleName>
+                    <lastName>Дмитриев</lastName>
+                    <phone>+7 (499) 5802494</phone>
+                    <email>SDmitriev@komplekt.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                            <shortName>ООО "Газпром комплектация"</shortName>
+                            <iko>67740000044773601001</iko>
+                            <inn>7740000044</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1027700501113</ogrn>
+                            <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                            <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                            <phone>7-495-6315782</phone>
+                            <email>komplekt@komplekt.gazprom.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>05030632</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:08:40</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>58cade35-37ce-f392-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T11:03:44</createDateTime>
+                        <fileName>ДОКУМЕНТАЦИЯ.doc</fileName>
+                        <description>ДОКУМЕНТАЦИЯ.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098752</url>
+                    </document>
+                    <document>
+                        <guid>58cade36-37ce-f392-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T11:03:44</createDateTime>
+                        <fileName>Форма 34-Извещение о проведении.doc</fileName>
+                        <description>Форма 34-Извещение о проведении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098753</url>
+                    </document>
+                    <document>
+                        <guid>58cade37-37ce-f392-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T11:03:44</createDateTime>
+                        <fileName>Договор поставки оплата по факту.doc</fileName>
+                        <description>Договор поставки оплата по факту.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098754</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:08:40</ns2:modificationDate>
+                <ns2:saveUserId>206753</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58c97fe6-54b2-26ec-e100-00000a388ca5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Трубопроводная арматура</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>169284486.00</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58caddb5-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddb6-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddb7-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddb8-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddb9-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddba-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>14</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddbb-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddbc-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddbd-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddbe-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddbf-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc0-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc1-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc2-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc3-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc4-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc5-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>17</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>14</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc6-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>18</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc7-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>19</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc8-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>20</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddc9-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>21</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddca-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>22</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddcb-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>23</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>18</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddcc-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>24</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>18</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddcd-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>25</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddce-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>26</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddcf-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>27</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd0-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>28</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd1-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>29</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd2-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>30</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd3-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>31</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd4-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>32</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd5-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>33</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd6-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>34</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd7-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>35</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd8-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>36</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddd9-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>37</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddda-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>38</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadddb-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>39</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadddc-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>40</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadddd-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>41</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddde-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>42</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadddf-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>43</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde0-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>44</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde1-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>45</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde2-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>46</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde3-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>47</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde4-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>48</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde5-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>49</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde6-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>50</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde7-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>51</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde8-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>52</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>58</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadde9-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>53</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>25</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddea-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>54</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddeb-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>55</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddec-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>56</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cadded-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>57</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddee-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>58</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddef-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>59</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf0-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>60</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf1-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>61</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf2-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>62</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf3-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>63</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf4-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>64</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf5-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>65</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf6-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>66</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf7-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>67</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf8-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>68</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddf9-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>69</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddfa-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>70</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddfb-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>71</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddfc-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>72</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddfd-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>73</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddfe-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>74</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58caddff-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>75</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade00-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>76</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade01-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>77</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade02-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>78</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade03-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>79</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade04-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>80</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade05-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>81</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>33</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade06-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>82</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>24</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade07-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>83</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade08-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>84</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>22</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade09-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>85</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0a-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>86</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0b-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>87</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0c-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>88</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0d-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>89</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0e-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>90</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade0f-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>91</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade10-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>92</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade11-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>93</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade12-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>94</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade13-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>95</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade14-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>96</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade15-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>97</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade16-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>98</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade17-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>99</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade18-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>100</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade19-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>101</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1a-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>102</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1b-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>103</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1c-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>104</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>32</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1d-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>105</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1e-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>106</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade1f-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>107</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade20-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>108</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>18</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade21-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>109</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade22-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>110</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade23-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>111</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade24-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>112</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade25-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>113</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade26-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>114</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade27-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>115</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade28-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>116</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>24</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade29-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>117</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2a-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>118</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2b-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>119</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2c-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>120</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2d-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>121</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>7</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2e-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>122</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>25</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade2f-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>123</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>21</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade30-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>124</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>9</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade31-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>125</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade32-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>126</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade33-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>127</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58cade34-37ce-f392-e100-00000a388ca5</guid>
+                                    <ordinalNumber>128</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14.13</code>
+                                        <name>Клапаны управления процессом, задвижки, краны и клапаны шаровые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>8648ced6-ac36-4a87-929a-51ae89150e53</planGuid>
+                            <positionNumber>173</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58c7f904-e2f8-0045-e100-00000a388ca6</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

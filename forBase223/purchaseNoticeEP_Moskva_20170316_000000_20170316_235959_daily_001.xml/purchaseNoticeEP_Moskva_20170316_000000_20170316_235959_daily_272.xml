@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9f36012b-d67a-4f98-9b72-823e13b62808</guid>
+        <createDateTime>2017-03-16T18:51:07</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>5a0ce100-6b0e-4f77-9a4a-9f25036c2377</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>5a0ce100-6b0e-4f77-9a4a-9f25036c2377</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:50:21</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888370</ns2:urlOOS>
+                <ns2:registrationNumber>31704899991</ns2:registrationNumber>
+                <ns2:name>Создание аудиовизуальных произведений  - телевизионных передач под рабочим названием«Раскрывая мистические тайны» в количестве 10 выпусков, и передачаисключительного права на указанные аудиовизуальные произведения в полном объемеЗаказчику</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКВА МЕДИА"</fullName>
+                        <shortName>АО "МОСКВА МЕДИА"</shortName>
+                        <iko>57705194654771401001</iko>
+                        <inn>7705194654</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1037739325755</ogrn>
+                        <legalAddress>127137, г МОСКВА, ул ПРАВДЫ, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>127137, Москва, Правды, дом 24, строение 2</postalAddress>
+                        <phone>7-495-7287381</phone>
+                        <email>nubaranova@vgtrk.com</email>
+                        <okato>45277556000</okato>
+                        <okpo>18446892</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКВА МЕДИА"</fullName>
+                        <shortName>АО "МОСКВА МЕДИА"</shortName>
+                        <iko>57705194654771401001</iko>
+                        <inn>7705194654</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1037739325755</ogrn>
+                        <legalAddress>127137, г МОСКВА, ул ПРАВДЫ, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>127137, Москва, Правды, дом 24, строение 2</postalAddress>
+                        <phone>7-495-7287381</phone>
+                        <email>nubaranova@vgtrk.com</email>
+                        <okato>45277556000</okato>
+                        <okpo>18446892</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Маргарита</firstName>
+                    <lastName>Смолкова</lastName>
+                    <phone>+7 (495) 7287381, доб.: 8032</phone>
+                    <email>msmolkova@vgtrk.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКВА МЕДИА"</fullName>
+                            <shortName>АО "МОСКВА МЕДИА"</shortName>
+                            <iko>57705194654771401001</iko>
+                            <inn>7705194654</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1037739325755</ogrn>
+                            <legalAddress>127137, г МОСКВА, ул ПРАВДЫ, дом 24, корпус СТР.2</legalAddress>
+                            <postalAddress>127137, Москва, Правды, дом 24, строение 2</postalAddress>
+                            <phone>7-495-7287381</phone>
+                            <email>nubaranova@vgtrk.com</email>
+                            <okato>45277556000</okato>
+                            <okpo>18446892</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:51:07</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>5043b9d2-fcc4-4a49-b985-b7ae27b901ba</guid>
+                        <createDateTime>2017-03-16T18:50:50</createDateTime>
+                        <fileName>Закупочная документация.docx</fileName>
+                        <description>Закупочная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120978</url>
+                    </document>
+                    <document>
+                        <guid>0a1f4c05-a00a-4dc4-8797-a6cc1e8822db</guid>
+                        <createDateTime>2017-03-16T18:50:54</createDateTime>
+                        <fileName>Протокол определения НМЦД.DOCX</fileName>
+                        <description>Протокол определения НМЦД</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120979</url>
+                    </document>
+                    <document>
+                        <guid>54f1f486-3d94-44eb-818a-a9cc9cc199b1</guid>
+                        <createDateTime>2017-03-16T18:50:57</createDateTime>
+                        <fileName>Проект договора.docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120980</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:51:07</ns2:modificationDate>
+                <ns2:saveUserId>17875</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>ba6ec82e-0bdd-45e1-873d-33d6951e27fa</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Создание аудиовизуальных произведений  - телевизионных передач под рабочим названием «Раскрывая мистические тайны» в количестве 10 выпусков, и передача исключительного права на указанные аудиовизуальные произведения в полном объеме Заказчику</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>10637000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва ул. Правды 24 стр. 2</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>4f7e3408-49bd-4504-8d7f-e4def0d679d3</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>59.11.13</code>
+                                        <name>Услуги по производству прочих телевизионных программ</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>59.11</code>
+                                        <name>Производство кинофильмов, видеофильмов и телевизионных программ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160198404</planRegistrationNumber>
+                            <planGuid>2bb94e6a-5f33-4384-8d3f-473af9c714b9</planGuid>
+                            <positionNumber>67</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>626ed991-e68e-4f58-92d7-cb49d1155809</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

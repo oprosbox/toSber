@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1efab28b-3f58-417e-9538-37782ff9ec44</guid>
+        <createDateTime>2017-03-16T09:52:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>01d77cab-c1d1-4ad5-98d8-8eb19a540732</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>01d77cab-c1d1-4ad5-98d8-8eb19a540732</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:42:25</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882915</ns2:urlOOS>
+                <ns2:registrationNumber>31704895578</ns2:registrationNumber>
+                <ns2:name>Замена приборов учета электроэнергии</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</shortName>
+                        <iko>57725815123772601001</iko>
+                        <inn>7725815123</inn>
+                        <kpp>772601001</kpp>
+                        <ogrn>1147746013524</ogrn>
+                        <legalAddress>117152, Г МОСКВА, Ш ЗАГОРОДНОЕ, дом ДОМ 6, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>117152, Москва Город, Загородное Шоссе, дом 6, корпус 1</postalAddress>
+                        <phone>7-495-9582036</phone>
+                        <fax>7-495-9583083</fax>
+                        <email>gbu_don@mail.ru</email>
+                        <okato>45296561000</okato>
+                        <okpo>33672476</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</shortName>
+                        <iko>57725815123772601001</iko>
+                        <inn>7725815123</inn>
+                        <kpp>772601001</kpp>
+                        <ogrn>1147746013524</ogrn>
+                        <legalAddress>117152, Г МОСКВА, Ш ЗАГОРОДНОЕ, дом ДОМ 6, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>117152, Москва Город, Загородное Шоссе, дом 6, корпус 1</postalAddress>
+                        <phone>7-495-9582036</phone>
+                        <fax>7-495-9583083</fax>
+                        <email>gbu_don@mail.ru</email>
+                        <okato>45296561000</okato>
+                        <okpo>33672476</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (495) 9582036</phone>
+                    <email>gbu_don@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК ДОНСКОГО РАЙОНА"</shortName>
+                            <iko>57725815123772601001</iko>
+                            <inn>7725815123</inn>
+                            <kpp>772601001</kpp>
+                            <ogrn>1147746013524</ogrn>
+                            <legalAddress>117152, Г МОСКВА, Ш ЗАГОРОДНОЕ, дом ДОМ 6, корпус КОРПУС 1</legalAddress>
+                            <postalAddress>117152, Москва Город, Загородное Шоссе, дом 6, корпус 1</postalAddress>
+                            <phone>7-495-9582036</phone>
+                            <fax>7-495-9583083</fax>
+                            <email>gbu_don@mail.ru</email>
+                            <okato>45296561000</okato>
+                            <okpo>33672476</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:52:52</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>d1f011df-7835-4e95-bc00-45c21b39c892</guid>
+                        <createDateTime>2017-03-16T09:50:31</createDateTime>
+                        <fileName>Договор счетчики.docx</fileName>
+                        <description>Договор счетчики</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094626</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:52:52</ns2:modificationDate>
+                <ns2:saveUserId>244369</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>27c5a833-c66e-48d8-b489-6f20dc325faf</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Замена приборов учета электроэнергии
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>298000.00</initialSum>
+                            <deliveryPlace>
+                                <address>117152, г. Москва, Загородное ш., д.6, корп.1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>c89a5351-fecf-4b0a-af46-ad9b08bfb881</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>Подраздел DL</code>
+                                        <name>ЭЛЕКТРИЧЕСКОЕ И ОПТИЧЕСКОЕ ОБОРУДОВАНИЕ</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.12.2</code>
+                                        <name>Технологическое присоединение к распределительным электросетям</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>20</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160186732</planRegistrationNumber>
+                            <planGuid>60d26e25-aec0-4456-b320-f061400a57b6</planGuid>
+                            <positionNumber>17</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>9afb6503-6c3c-44f3-9337-863020b28397</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

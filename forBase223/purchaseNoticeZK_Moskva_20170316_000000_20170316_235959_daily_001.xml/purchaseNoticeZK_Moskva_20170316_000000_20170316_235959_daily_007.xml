@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d5089ca7-925d-4eed-9d1b-034c710be1ac</guid>
+        <createDateTime>2017-03-16T09:26:47</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>980532a3-7553-4a62-b12f-621b37198e68</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>980532a3-7553-4a62-b12f-621b37198e68</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:20:55</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882697</ns2:urlOOS>
+                <ns2:registrationNumber>31704848208</ns2:registrationNumber>
+                <ns2:name>Поставка лабораторной посуды длянужд Вихоревского филиала ФБУЗ «Центр гигиены иэпидемиологии по железнодорожному транспорту»".</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634770101001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>8-499-2657679</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>76088820</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Вихоревский филиал Федерального бюджетного учреждения здравоохранения "Центр гигиены и эпидемиологии по железнодорожному транспорту"</fullName>
+                        <inn>7701351634</inn>
+                        <kpp>382302001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>665770; Иркутская область, Братский район, г. Вихоревка, ул. Ленина, дом 26</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Вихоревский филиал Федерального бюджетного учреждения здравоохранения "Центр гигиены и эпидемиологии по железнодорожному транспорту"</fullName>
+                        <shortName>Вихоревский филиал ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту"</shortName>
+                        <iko>57701351634382302001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>382302001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>665770; Иркутская область, Братский район, г. Вихоревка, ул. Ленина, дом 26</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>7-3953-498393</phone>
+                        <fax>7-3953-498393</fax>
+                        <email>fcrw@mail.ru</email>
+                        <okato>25204503000</okato>
+                        <okpo>46710600</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+643 (3953) 498393</phone>
+                    <email>vlcgsen@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                            <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                            <iko>57701351634770101001</iko>
+                            <inn>7701351634</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1057701020816</ogrn>
+                            <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                            <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                            <phone>8-499-2657679</phone>
+                            <email>fcrw@mail.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>76088820</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:26:47</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-02</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>665770; Иркутская область; Братский район; г. Вихоревка, ул. Ленина, дом 26</place>
+                    <procedure>Котировочная заявка подается в письменной форме, в запечатанном конверте с указанием заказчика, номера закупки, наименования закупки. Для обеспечения сохранности и целостности конверта и информации на конверте указать: «НЕ ВСКРЫВАТЬ ДО:________(указать дату и время вскрытия конвертов)»
+ Участник закупки вправе не указывать на таком конверте свое фирменное наименование, почтовый адрес (для юридического лица) или фамилию, имя, отчество, сведения о месте жительства (для физического лица).
+Котировочная заявка на участие в запросе котировок подаются по адресу, указанному в извещении. Каждый конверт с  котировочной заявкой на участие в запросе котировок, поступивший в срок, указанный в извещении, регистрируется уполномоченным лицом в Журнале регистрации  заявок на участие в запросе котировок, в порядке поступления  котировочной заявки. Запись регистрации должна включать регистрационный номер  котировочной заявки на участие в запросе котировок, дату, время, способ подачи. По требованию участника процедуры закупки, подавшего котировочную заявку. Заказчик выдает расписку в получении котировочной заявки с указанием даты и время ее получения.
+Котировочные заявки, поданные после окончания срока подачи  котировочных заявок, указанного в извещении о запросе котировок, документации о проведении запроса котировок не рассматриваются и в день их поступления возвращаются участникам процедуры закупки, подавшим такие заявки.
+</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Подана одна заявка </ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>5d97511c-c793-4d71-bd92-412ba032f915</guid>
+                        <createDateTime>2017-03-16T09:25:01</createDateTime>
+                        <fileName>Документация о закупке 2.docx</fileName>
+                        <description>Документация о закупке 2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30093297</url>
+                    </document>
+                    <document>
+                        <guid>ff4202b1-1adf-45bd-927e-45a1b9272b13</guid>
+                        <createDateTime>2017-03-02T08:57:15</createDateTime>
+                        <fileName>Документация о закупке.docx</fileName>
+                        <description>Документация о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30093079</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:26:47</ns2:modificationDate>
+                <ns2:saveUserId>167623</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>11e3b534-9495-46aa-a72b-cebf2ec57ee3</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка лабораторной посуды для нужд Вихоревского филиала ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>24000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Сибирский федеральный округ</state>
+                                <region>Иркутская   обл</region>
+                                <regionOkato>25000000000</regionOkato>
+                                <address>665770; Иркутская область; Братский район; г. Вихоревка, ул. Ленина, дом 26</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a632421b-d20a-4150-a17d-b9d8b20bfdc3</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>47.78.90.000</code>
+                                        <name>Услуги по розничной торговле непродовольственными товарами, не включенными в другие группировки, в специализированных магазинах</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>47.78.9</code>
+                                        <name>Торговля розничная непродовольственными товарами, не включенными в другие группировки, в специализированных магазинах</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216745</planRegistrationNumber>
+                            <planGuid>718ac8a7-5acc-4816-8791-03f226fb5a5f</planGuid>
+                            <positionNumber>322</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>eb453cb6-9daf-4932-8c23-a09dc1d0b799</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-20T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>Иркутская область; Братский район; г. Вихоревка, ул. Ленина, д.26, кабинет главного врача  </ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Котировочная заявка должна содержать следующие сведения и документы:
+1)	Фирменное наименование (наименование), сведения об организационно-правовой форме, о месте нахождения, почтовый адрес (для юридического лица), фамилия, имя, отчество, паспортные данные, сведения о месте жительства (для физического лица), номер контактного телефона, информация контактном лице (ФИО, номер телефона), ИНН, КПП, ОГРН, ОКПО, ОКТМО, банковские реквизиты;
+2)	Документы, подтверждающие полномочия лица на осуществление действий от имени участника процедуры закупки;
+3)	Сведения о подлежащих поставке товарах, которые являются предметом договора,  и иные сведения об условиях исполнения договора согласно требованиям к содержанию, форме, оформлению и составу котировочной заявке, установленными в документации о проведении запроса котировок (в соответствии установленным техническим заданием Заказчика);
+</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-20T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

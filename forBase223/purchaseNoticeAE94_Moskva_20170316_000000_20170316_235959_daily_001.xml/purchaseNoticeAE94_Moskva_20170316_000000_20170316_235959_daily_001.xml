@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE94FZ xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b36f0e96-ba7c-4807-80a4-e95805db79a9</guid>
+        <createDateTime>2017-03-16T16:34:54</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0addd403-d90a-1ed7-82c4-d7e7c8ab06d9</guid>
+            <ns2:purchaseNoticeAE94FZData>
+                <ns2:guid>0addd403-d90a-1ed7-82c4-d7e7c8ab06d9</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:29:09</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887514</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899252</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на приобретение лицензий Cisco Unified Communication Manager и сертификатов технической поддержки для нужд АО «Гринатом</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>47525</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме (по 94ФЗ)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <middleName>Алексеевна</middleName>
+                    <lastName>Никольская</lastName>
+                    <phone>+8 (499) 949, доб.: 4919</phone>
+                    <fax>+8 (499) 949, доб.: 4919</fax>
+                    <email>OANikolskaya@greenatom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                            <shortName>АО "ГРИНАТОМ"</shortName>
+                            <iko>77706729736770601001</iko>
+                            <inn>7706729736</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1097746819720</ogrn>
+                            <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                            <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                            <phone>7-499-9494919</phone>
+                            <email>MYErmolaev@greenatom.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>64509942</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:34:54</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-05</deliveryEndDateTime>
+                    <place>Фабрикант 2 http://www.fabrikant.ru/</place>
+                    <procedure>Фабрикант 2 http://www.fabrikant.ru/</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c5-48abed381edc</guid>
+                        <createDateTime>2017-03-16T09:23:52</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116775</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c5-46413135553a</guid>
+                        <createDateTime>2017-03-16T09:23:20</createDateTime>
+                        <fileName>Том 2. Техническая часть.docx</fileName>
+                        <description>Том 2. Техническая часть</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116776</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c5-40839e15c8f1</guid>
+                        <createDateTime>2017-03-16T09:22:03</createDateTime>
+                        <fileName>Приложение 1 к документации.docx</fileName>
+                        <description>Приложение 1 к документации</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116777</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c5-422f5727cd1c</guid>
+                        <createDateTime>2017-03-16T09:22:25</createDateTime>
+                        <fileName>Часть 2.docx</fileName>
+                        <description>Часть 2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116778</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c5-43eae63adf77</guid>
+                        <createDateTime>2017-03-16T09:22:48</createDateTime>
+                        <fileName>Часть 3 Договор.docx</fileName>
+                        <description>Часть 3 Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116779</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c5-3ecd4a118162</guid>
+                        <createDateTime>2017-03-16T09:21:40</createDateTime>
+                        <fileName>Документация.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116780</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:34:54</ns2:modificationDate>
+                <ns2:saveUserId>21328</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>0addd403-d90a-1ed7-82c4-d8f9124a06d9</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения договора на приобретение лицензий Cisco Unified Communication Manager и сертификатов технической поддержки для нужд АО "Гринатом"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>11130576.99</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Права на использование ПО предоставляются посредством направления электронных ключей по электронной почте. Место поставки сертификатов технической поддержки: 115230, г. Москва, 1-й Нагатинский проезд, дом 10, строение 1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58882d7d-54b5-1f70-e100-80000a7c106e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>58.29.50.000</code>
+                                        <name>Услуги по предоставлению лицензий на право использовать компьютерное программное обеспечение</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>58.29</code>
+                                        <name>Издание прочих программных продуктов</name>
+                                    </okved2>
+                                    <additionalInfo> Инновационная продукция.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160182074</planRegistrationNumber>
+                            <planGuid>a22a2ab1-590a-1ed7-82af-f84cbcdd119a</planGuid>
+                            <positionNumber>980400352</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>0addd011-6b0a-1ee6-bfb6-c28e662c831b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>Фабрикант 2</name>
+                    <url>http://fabrikant.ru</url>
+                    <electronicPlaceId>111</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-17T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-12T23:59:59</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-05T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:considerationSecondPartDate>2017-04-20</ns2:considerationSecondPartDate>
+            </ns2:purchaseNoticeAE94FZData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE94FZ>

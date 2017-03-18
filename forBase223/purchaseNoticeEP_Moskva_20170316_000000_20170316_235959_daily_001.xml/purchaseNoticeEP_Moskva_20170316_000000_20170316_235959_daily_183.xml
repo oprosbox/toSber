@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>47dd3a98-bf7d-4b2f-a7b0-b03a914d88cc</guid>
+        <createDateTime>2017-03-16T10:19:42</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a9f9a56b-970f-4485-b1fb-5e66fd3e48c5</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>a9f9a56b-970f-4485-b1fb-5e66fd3e48c5</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:02:28</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883147</ns2:urlOOS>
+                <ns2:registrationNumber>31704895816</ns2:registrationNumber>
+                <ns2:name>Техническое обслуживание оборудования операционного отделения</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "9 ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЙ ЦЕНТР" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГБУ "9 ЛДЦ" МИНОБОРОНЫ РОССИИ</shortName>
+                        <iko>85050087976770401001</iko>
+                        <inn>5050087976</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1105050007700</ogrn>
+                        <legalAddress>119146, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 13 А</legalAddress>
+                        <postalAddress>119146, г. Москва, Комсомольский проспект, 13А</postalAddress>
+                        <phone>7-495-6932017</phone>
+                        <email>feo.9ldc@gmail.com</email>
+                        <okato>45286590000</okato>
+                        <okpo>07901344</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "9 ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЙ ЦЕНТР" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГБУ "9 ЛДЦ" МИНОБОРОНЫ РОССИИ</shortName>
+                        <iko>85050087976770401001</iko>
+                        <inn>5050087976</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1105050007700</ogrn>
+                        <legalAddress>119146, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 13 А</legalAddress>
+                        <postalAddress>119146, г. Москва, Комсомольский проспект, 13А</postalAddress>
+                        <phone>7-495-6932017</phone>
+                        <email>feo.9ldc@gmail.com</email>
+                        <okato>45286590000</okato>
+                        <okpo>07901344</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ирина</firstName>
+                    <middleName>Алексеевна</middleName>
+                    <lastName>Кирсанова</lastName>
+                    <phone>+8 (495) 6095438</phone>
+                    <fax>+8 (495) 6095438</fax>
+                    <email>zakupki9ldc@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "9 ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЙ ЦЕНТР" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГБУ "9 ЛДЦ" МИНОБОРОНЫ РОССИИ</shortName>
+                            <iko>85050087976770401001</iko>
+                            <inn>5050087976</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1105050007700</ogrn>
+                            <legalAddress>119146, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 13 А</legalAddress>
+                            <postalAddress>119146, г. Москва, Комсомольский проспект, 13А</postalAddress>
+                            <phone>7-495-6932017</phone>
+                            <email>feo.9ldc@gmail.com</email>
+                            <okato>45286590000</okato>
+                            <okpo>07901344</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:19:42</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>c18fdff4-bb0e-43a8-a84b-c6c9d0baf44b</guid>
+                        <createDateTime>2017-03-16T10:14:13</createDateTime>
+                        <fileName>Документация на закупку.docx</fileName>
+                        <description>Документация на закупку</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095911</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:19:42</ns2:modificationDate>
+                <ns2:saveUserId>180130</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>29bd98ba-d6cf-4357-9b04-467ea4c678b7</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по техническому обслуживанию оборудования операционного отделения</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>669800.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ул. Б. Пироговская, д. 15/18, стр. 1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7728234c-f295-41b5-a0e1-1b34424d49f1</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.18.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию небытового холодильного и вентиляционного оборудования</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>a3a49ba8-9ce2-4064-a3ac-7f640d6677d3</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.19.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170230322</planRegistrationNumber>
+                            <planGuid>a544fccc-af68-4c5e-871e-3946b9e5664e</planGuid>
+                            <positionNumber>15</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>72e8cd51-1d89-4efa-9c53-6760eb073fc5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

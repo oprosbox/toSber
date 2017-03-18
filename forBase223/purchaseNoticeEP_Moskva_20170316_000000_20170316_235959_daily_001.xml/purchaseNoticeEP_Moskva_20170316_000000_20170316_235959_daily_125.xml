@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>0b69809b-5ea5-40f2-b3dd-620c1cbcab5c</guid>
+        <createDateTime>2017-03-16T16:54:35</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>147741f1-1a3b-421c-9049-46e6f43b4e4e</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>147741f1-1a3b-421c-9049-46e6f43b4e4e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:49:14</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887697</ns2:urlOOS>
+                <ns2:registrationNumber>31704899423</ns2:registrationNumber>
+                <ns2:name>Закупка комплектов материалов для прилива подошвы</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ</fullName>
+                        <shortName>ФГУП "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФСИН РОССИИ</shortName>
+                        <iko>52634011006770101001</iko>
+                        <inn>2634011006</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1022601954891</ogrn>
+                        <legalAddress>105005, Г МОСКВА, ПЕР БРИГАДИРСКИЙ, дом ДОМ 12</legalAddress>
+                        <postalAddress>129343, Москва Город, Серебрякова Проезд, дом 14, строение 15</postalAddress>
+                        <phone>8-495-1340895</phone>
+                        <email>ppd@fsin.su</email>
+                        <okato>45286555000</okato>
+                        <okpo>08551260</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ</fullName>
+                        <shortName>ФГУП "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФСИН РОССИИ</shortName>
+                        <iko>52634011006770101001</iko>
+                        <inn>2634011006</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1022601954891</ogrn>
+                        <legalAddress>105005, Г МОСКВА, ПЕР БРИГАДИРСКИЙ, дом ДОМ 12</legalAddress>
+                        <postalAddress>129343, Москва Город, Серебрякова Проезд, дом 14, строение 15</postalAddress>
+                        <phone>8-495-1340895</phone>
+                        <email>ppd@fsin.su</email>
+                        <okato>45286555000</okato>
+                        <okpo>08551260</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Румия</firstName>
+                    <middleName>Алиевна</middleName>
+                    <lastName>Широкова</lastName>
+                    <phone>+7 (495) 1340895</phone>
+                    <email>shirokova@ppd-fsin.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ</fullName>
+                            <shortName>ФГУП "ПРОИЗВОДСТВЕННО-ПРОМЫШЛЕННЫЙ ДОМ" ФСИН РОССИИ</shortName>
+                            <iko>52634011006770101001</iko>
+                            <inn>2634011006</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1022601954891</ogrn>
+                            <legalAddress>105005, Г МОСКВА, ПЕР БРИГАДИРСКИЙ, дом ДОМ 12</legalAddress>
+                            <postalAddress>129343, Москва Город, Серебрякова Проезд, дом 14, строение 15</postalAddress>
+                            <phone>8-495-1340895</phone>
+                            <email>ppd@fsin.su</email>
+                            <okato>45286555000</okato>
+                            <okpo>08551260</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:54:35</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-17</deliveryEndDateTime>
+                    <place>Россия, 129343, г.Москва, Серебрякова проезд, д.14, корп.15</place>
+                    <procedure>по запросу</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>02aa93b7-1ab2-4b5f-a0ab-23b336bd113e</guid>
+                        <createDateTime>2017-03-16T16:51:57</createDateTime>
+                        <fileName>Извещение  к ГК 48 (1).docx</fileName>
+                        <description>Извещение  к ГК 48 (1)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117991</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:54:35</ns2:modificationDate>
+                <ns2:saveUserId>221487</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>a0d0915f-2fd1-4b92-ae75-d2ed8e7e4513</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Закупка комплектов материалов для прилива подошвы</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1245185.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Липецкая   обл</region>
+                                <regionOkato>42000000000</regionOkato>
+                                <address>согласно условиям проекта договора</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1bcb426a-8631-4538-af0c-5448b0eeac5f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>15.2</code>
+                                        <name>Обувь</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>15.2</code>
+                                        <name>Производство обуви</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>715</code>
+                                        <name>Пара (2 шт.)</name>
+                                    </okei>
+                                    <qty>4500</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160177733</planRegistrationNumber>
+                            <planGuid>4e892ac9-eb82-49a4-82c2-fe6cfd84c86d</planGuid>
+                            <positionNumber>58</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c7a03883-3b46-4d49-adc7-84af0ea308de</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

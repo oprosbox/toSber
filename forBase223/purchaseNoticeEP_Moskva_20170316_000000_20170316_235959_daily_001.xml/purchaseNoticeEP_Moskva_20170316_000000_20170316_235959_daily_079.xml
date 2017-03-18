@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>36e6d390-8196-4f7b-b332-c1cb23989145</guid>
+        <createDateTime>2017-03-16T13:35:54</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>812424a7-ec76-45bc-8589-acb3717f6460</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>812424a7-ec76-45bc-8589-acb3717f6460</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:34:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885386</ns2:urlOOS>
+                <ns2:registrationNumber>31704896135</ns2:registrationNumber>
+                <ns2:name>ОАО «Железнодорожная торговая компания» в лице Читинского филиала ОАО «ЖТК» информирует о закупке у единственного поставщика услуг по железнодорожным перевозкам с расчетами через ЕЛС плательщика</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ЖЕЛЕЗНОДОРОЖНАЯ ТОРГОВАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ОАО "ЖТК"</shortName>
+                        <iko>67708639622770801001</iko>
+                        <inn>7708639622</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>5077746868403</ogrn>
+                        <legalAddress>107228, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом 12</legalAddress>
+                        <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                        <phone>7-495-7899930-137</phone>
+                        <fax>7-499-2620999</fax>
+                        <email>rwtk@rwtk.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>81375880</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Читинский филиал Открытого акционерного общества "Железнодорожная торговая компания"</fullName>
+                        <shortName>ЧФ ОАО "ЖТК"</shortName>
+                        <iko>57708639622753643001</iko>
+                        <inn>7708639622</inn>
+                        <kpp>753643001</kpp>
+                        <ogrn>5077746868403</ogrn>
+                        <legalAddress>Забайкальский край, г. Чита, ул. Газимурская, д. 5 стр. 1</legalAddress>
+                        <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                        <phone>7-495-7899930-137</phone>
+                        <fax>7-499-2620999</fax>
+                        <email>rwtk@rwtk.ru</email>
+                        <okato>76401364000</okato>
+                        <okpo>81796676</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Татьяна</firstName>
+                    <middleName>Анатольевна</middleName>
+                    <lastName>Топоркова</lastName>
+                    <phone>+8 (3022) 204064</phone>
+                    <email>chitazakaz@corp.rwtk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ЖЕЛЕЗНОДОРОЖНАЯ ТОРГОВАЯ КОМПАНИЯ"</fullName>
+                            <shortName>ОАО "ЖТК"</shortName>
+                            <iko>67708639622770801001</iko>
+                            <inn>7708639622</inn>
+                            <kpp>770801001</kpp>
+                            <ogrn>5077746868403</ogrn>
+                            <legalAddress>107228, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом 12</legalAddress>
+                            <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                            <phone>7-495-7899930-137</phone>
+                            <fax>7-499-2620999</fax>
+                            <email>rwtk@rwtk.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>81375880</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:35:54</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>техническая ошибка</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>a94a51b8-f478-4fe9-8712-88b16738541a</guid>
+                        <createDateTime>2017-03-16T13:35:14</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106609</url>
+                    </document>
+                    <document>
+                        <guid>2ad7d84c-1c07-4e14-b6c0-d8aa51875b13</guid>
+                        <createDateTime>2017-03-16T10:53:15</createDateTime>
+                        <fileName>Дополнительное соглашение.docx</fileName>
+                        <description>Дополнительное соглашение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106522</url>
+                    </document>
+                    <document>
+                        <guid>ad636ce4-3716-4d1a-ac9b-5db3b4eaf381</guid>
+                        <createDateTime>2017-03-16T10:52:54</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106523</url>
+                    </document>
+                    <document>
+                        <guid>797e62b3-3d12-4ec5-8ed6-1917cec7890c</guid>
+                        <createDateTime>2017-03-16T10:53:07</createDateTime>
+                        <fileName>Договор.doc</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106524</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:35:54</ns2:modificationDate>
+                <ns2:saveUserId>46475</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>35c9c8b9-7c81-4c64-bb5b-a79cebbd0fd0</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по железнодорожным перевозкам с расчетами через ЕЛС плательщика</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1866760.00</initialSum>
+                            <orderPricing>с учетом всех видов налогов, других расходов, с учетом НДС. </orderPricing>
+                            <deliveryPlace>
+                                <state>Сибирский федеральный округ</state>
+                                <region>Забайкальский край</region>
+                                <regionOkato>76000000000</regionOkato>
+                                <address>Забайкальский край</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a75faa48-d945-4547-9fc2-3ad80fd48236</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>49.20</code>
+                                        <name>Услуги железнодорожного транспорта по перевозке грузов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>49.20</code>
+                                        <name>Деятельность железнодорожного транспорта: грузовые перевозки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160202621</planRegistrationNumber>
+                            <planGuid>5b81d5f4-1571-4838-a52c-7a600ca13955</planGuid>
+                            <positionNumber>346</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>5934bb4b-0bf7-41f8-93b4-47fe7392da12</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

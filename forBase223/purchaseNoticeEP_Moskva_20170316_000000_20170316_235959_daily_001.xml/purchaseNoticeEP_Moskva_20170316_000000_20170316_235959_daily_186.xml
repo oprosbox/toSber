@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>ee3eebde-e727-4edc-ba19-1d3c4a4efa33</guid>
+        <createDateTime>2017-03-16T10:38:10</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>ae2cef65-99f6-4b51-8110-5990a044997c</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>ae2cef65-99f6-4b51-8110-5990a044997c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:33:20</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883515</ns2:urlOOS>
+                <ns2:registrationNumber>31704896009</ns2:registrationNumber>
+                <ns2:name>Поставка тепловой энергии для обособленного подразделения "Верхневолжское" АО "ГУ ЖКХ" (Ярославская обл., г. Переславль-Залесский)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Михаил</firstName>
+                    <middleName>Сергеевич</middleName>
+                    <lastName>Чиганаев</lastName>
+                    <phone>+7 (499) 7909111, доб.: 236</phone>
+                    <email>ChiganaevMS@GUZHKH.RU</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                            <shortName>АО "ГУ ЖКХ"</shortName>
+                            <iko>55116000922511601001</iko>
+                            <inn>5116000922</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1095110000325</ogrn>
+                            <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                            <postalAddress>119021, дом 18, строение 3</postalAddress>
+                            <phone>7-499-7909111</phone>
+                            <email>ZaicevVV@GUZHKH.RU</email>
+                            <okato>47525000000</okato>
+                            <okpo>08267116</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:38:10</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>15</totalDocumentsCount>
+                    <document>
+                        <guid>7ad0b433-1500-4958-baec-b1371338616b</guid>
+                        <createDateTime>2017-03-16T10:37:03</createDateTime>
+                        <fileName>Приложение № 7 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 7 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097282</url>
+                    </document>
+                    <document>
+                        <guid>619c8b81-6417-42dc-a848-ec58b4bb1976</guid>
+                        <createDateTime>2017-03-16T10:37:43</createDateTime>
+                        <fileName>РНЦ 76-ТХ-012-Я.PDF_Output.PDF</fileName>
+                        <description>РНЦ 76-ТХ-012-Я.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097315</url>
+                    </document>
+                    <document>
+                        <guid>3ee62278-1a5d-43b9-8c84-f71bb7152186</guid>
+                        <createDateTime>2017-03-16T10:37:09</createDateTime>
+                        <fileName>Приложение № 8 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 8 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097285</url>
+                    </document>
+                    <document>
+                        <guid>ae3b4b47-7e35-4eb0-9a1b-fbb403e7b457</guid>
+                        <createDateTime>2017-03-16T10:36:07</createDateTime>
+                        <fileName>Извещение рсо.doc</fileName>
+                        <description>Извещение рсо</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097221</url>
+                    </document>
+                    <document>
+                        <guid>ab38f05d-96f3-4822-a58f-0ffdc5594f6b</guid>
+                        <createDateTime>2017-03-16T10:36:35</createDateTime>
+                        <fileName>Приложение № 2 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 2 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097253</url>
+                    </document>
+                    <document>
+                        <guid>3e878cb0-477e-47de-baa5-f0b37e00bb43</guid>
+                        <createDateTime>2017-03-16T10:36:40</createDateTime>
+                        <fileName>Приложение № 3 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 3 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097258</url>
+                    </document>
+                    <document>
+                        <guid>c99bf159-bbc7-4cc0-8df0-380579c8be14</guid>
+                        <createDateTime>2017-03-16T10:37:15</createDateTime>
+                        <fileName>Приложение № 9 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 9 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097292</url>
+                    </document>
+                    <document>
+                        <guid>8667ff98-6635-4ceb-8c2c-edf3a6b565c2</guid>
+                        <createDateTime>2017-03-16T10:37:19</createDateTime>
+                        <fileName>Приложение № 10 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 10 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097298</url>
+                    </document>
+                    <document>
+                        <guid>588856b0-9a70-496b-8235-1f104cd4fa85</guid>
+                        <createDateTime>2017-03-16T10:36:02</createDateTime>
+                        <fileName>Договор № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Договор № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097202</url>
+                    </document>
+                    <document>
+                        <guid>34042a8b-02e8-4537-93ad-7b39c69c7d49</guid>
+                        <createDateTime>2017-03-16T10:36:48</createDateTime>
+                        <fileName>Приложение № 4 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 4 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097267</url>
+                    </document>
+                    <document>
+                        <guid>2f2eaac9-7218-43b1-9eb5-c7e39ed7d88a</guid>
+                        <createDateTime>2017-03-16T10:36:53</createDateTime>
+                        <fileName>Приложение № 5 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 5 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097272</url>
+                    </document>
+                    <document>
+                        <guid>fb384c14-1181-4250-bd83-828e4f2147ca</guid>
+                        <createDateTime>2017-03-16T10:37:27</createDateTime>
+                        <fileName>Протокол разногласий к договору № 09-17 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Протокол разногласий к договору № 09-17 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097305</url>
+                    </document>
+                    <document>
+                        <guid>a422dc8e-97a1-4d16-b0d9-8f52635736ad</guid>
+                        <createDateTime>2017-03-16T10:36:57</createDateTime>
+                        <fileName>Приложение № 6 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 6 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097275</url>
+                    </document>
+                    <document>
+                        <guid>f1871e57-fa51-4f30-8b2a-9da97f98296f</guid>
+                        <createDateTime>2017-03-16T10:35:39</createDateTime>
+                        <fileName>3. Техническое задание новое.docx</fileName>
+                        <description>3. Техническое задание новое</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097181</url>
+                    </document>
+                    <document>
+                        <guid>bb1020a5-b539-4cbe-9692-12291701e977</guid>
+                        <createDateTime>2017-03-16T10:36:30</createDateTime>
+                        <fileName>Приложение № 1 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output.PDF</fileName>
+                        <description>Приложение № 1 к договору № 09-17 от 23.09.16 с ООО МЭС.PDF_Output</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097247</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:38:10</ns2:modificationDate>
+                <ns2:saveUserId>221696</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>b705bef6-6972-4cbf-84d0-c143c0347631</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка тепловой энергии для обособленного подразделения "Верхневолжское" АО "ГУ ЖКХ" (Ярославская обл., г. Переславль-Залесский)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>11512206.54</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Ярославская   обл</region>
+                                <regionOkato>78000000000</regionOkato>
+                                <address>В соответствии с техническим заданием</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>9009aaae-3eab-49a2-bced-90ce5543f062</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>35.30</code>
+                                        <name>Услуги по снабжению паром и кондиционированию воздуха</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.30</code>
+                                        <name>Производство, передача и распределение пара и горячей воды; кондиционирование воздуха</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>233</code>
+                                        <name>Гигакалория</name>
+                                    </okei>
+                                    <qty>6238</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>8</code>
+                                <name>Закупки услуг по водоснабжению, водоотведению, теплоснабжению и газоснабжению (за исключением услуг по реализации сжиженного газа), а также по подключению (присоединению) к сетям инженерно-технического обеспечения по регулируемым в соответствии с законодательством Российской Федерации ценам (тарифам)</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160197754</planRegistrationNumber>
+                            <planGuid>5e15102f-f315-4169-a029-0a4cfc79b56a</planGuid>
+                            <positionNumber>423</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a6462673-7f60-409a-9f1d-40b9267aedba</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

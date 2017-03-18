@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>5d86a605-ad3a-44f9-8af4-9de48fc088b5</guid>
+        <createDateTime>2017-03-16T13:19:40</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>b73bd5f0-1daf-4bc4-899f-f4b5ac077dfd</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>b73bd5f0-1daf-4bc4-899f-f4b5ac077dfd</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:17:04</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885217</ns2:urlOOS>
+                <ns2:registrationNumber>31704897346</ns2:registrationNumber>
+                <ns2:name>Разработка руководства по эксплуатации на систему измерения воздействия подвижного состава на железнодорожный путь. </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <lastName>Давыдов А.М.</lastName>
+                    <phone>+8 (495) 6842313</phone>
+                    <email>davydov@miit.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                            <shortName>МГУПС (МИИТ)</shortName>
+                            <iko>87715027733771501001</iko>
+                            <inn>7715027733</inn>
+                            <kpp>771501001</kpp>
+                            <ogrn>1027739733922</ogrn>
+                            <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                            <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                            <phone>7-495-6842403</phone>
+                            <email>ea-miit@mail.ru</email>
+                            <okato>45280569000</okato>
+                            <okpo>01115863</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:19:40</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>169bdc91-43a6-4aa6-878f-bdd51d9c658c</guid>
+                        <createDateTime>2017-03-16T13:19:23</createDateTime>
+                        <fileName>Извещение  223 у ед. поставщика.doc</fileName>
+                        <description>Извещение  223 у ед. поставщика</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30105787</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:19:40</ns2:modificationDate>
+                <ns2:saveUserId>203394</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>21774066-25a9-41f5-ae6d-e22e992a9d14</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Разработка руководства по эксплуатации на систему измерения воздействия подвижного состава на железнодорожный путь.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>300000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ПКБ АО «ВНИИЖТ»
+
+ Срок: 31.03.2017год.
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1d20521e-494b-4b3a-b18c-cd0007e52790</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>72.19.50.000</code>
+                                        <name>Работы оригинальные научных исследований и экспериментальных разработок в области естественных и технических наук, кроме биотехнологии</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>72.19.2</code>
+                                        <name>Научные исследования и разработки в области технических наук</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Разработка руководства по эксплуатации на систему измерения воздействия подвижного состава на железнодорожный путь.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224160</planRegistrationNumber>
+                            <planGuid>4ac0f323-2775-0724-e053-47cdf5c333e4</planGuid>
+                            <positionNumber>25016</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4a9aaeea-ca64-092f-e053-47cdf5c31a6a</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

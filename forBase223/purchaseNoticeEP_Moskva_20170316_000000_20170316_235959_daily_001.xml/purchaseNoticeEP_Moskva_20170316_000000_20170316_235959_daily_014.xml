@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>123a0882-d29b-4a0c-8f34-5aeba3a8c1a3</guid>
+        <createDateTime>2017-03-16T10:01:18</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fb4b051a-9f60-4bac-b71b-3cb353ae235d</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>fb4b051a-9f60-4bac-b71b-3cb353ae235d</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:58:29</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883101</ns2:urlOOS>
+                <ns2:registrationNumber>31704895645</ns2:registrationNumber>
+                <ns2:name>Образовательные услуги, обучение</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ АНАЛИТИЧЕСКИЙ ЦЕНТР"</fullName>
+                        <shortName>ГАУ "НИАЦ"</shortName>
+                        <iko>87710917860771001001</iko>
+                        <inn>7710917860</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1127746596922</ogrn>
+                        <legalAddress>125047, Г МОСКВА, УЛ БРЕСТСКАЯ 2-Я, дом 8</legalAddress>
+                        <postalAddress>125047, Москва Город, Брестская 1-я Улица, дом 27</postalAddress>
+                        <phone>7-499-2519818</phone>
+                        <fax>7-499-2514240</fax>
+                        <email>NIAC@str.mos.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>45917397</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ АНАЛИТИЧЕСКИЙ ЦЕНТР"</fullName>
+                        <shortName>ГАУ "НИАЦ"</shortName>
+                        <iko>87710917860771001001</iko>
+                        <inn>7710917860</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1127746596922</ogrn>
+                        <legalAddress>125047, Г МОСКВА, УЛ БРЕСТСКАЯ 2-Я, дом 8</legalAddress>
+                        <postalAddress>125047, Москва Город, Брестская 1-я Улица, дом 27</postalAddress>
+                        <phone>7-499-2519818</phone>
+                        <fax>7-499-2514240</fax>
+                        <email>NIAC@str.mos.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>45917397</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (499) 6526066</phone>
+                    <email>GuschinNV1@str.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ АНАЛИТИЧЕСКИЙ ЦЕНТР"</fullName>
+                            <shortName>ГАУ "НИАЦ"</shortName>
+                            <iko>87710917860771001001</iko>
+                            <inn>7710917860</inn>
+                            <kpp>771001001</kpp>
+                            <ogrn>1127746596922</ogrn>
+                            <legalAddress>125047, Г МОСКВА, УЛ БРЕСТСКАЯ 2-Я, дом 8</legalAddress>
+                            <postalAddress>125047, Москва Город, Брестская 1-я Улица, дом 27</postalAddress>
+                            <phone>7-499-2519818</phone>
+                            <fax>7-499-2514240</fax>
+                            <email>NIAC@str.mos.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>45917397</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:01:18</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <place>125047, г. Москва, 1-я Брестская, д.27</place>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>3fca4688-e14c-4701-ba49-b6771d4c6cc6</guid>
+                        <createDateTime>2017-03-16T10:00:43</createDateTime>
+                        <fileName>Документация к закупке у единственного поставщика.docx</fileName>
+                        <description>Документация к закупке у единственного поставщика</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095189</url>
+                    </document>
+                    <document>
+                        <guid>82fa0116-c69a-4d76-a282-bc366ac4f18c</guid>
+                        <createDateTime>2017-03-16T10:00:48</createDateTime>
+                        <fileName>Договор от 15.03.2017 № ПК-67-17.pdf</fileName>
+                        <description>Договор от 15.03.2017 № ПК-67-17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095207</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:01:18</ns2:modificationDate>
+                <ns2:saveUserId>180872</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>b5f385ec-286a-40e0-8ae5-23cde02c1f85</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Образовательные услуги для слушателей, направленных заказчиком на обучение</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>200000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>125047, г. Москва, 1-я Брестская, д.27</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b72bd25a-a037-4a33-b246-cdc8f2513e37</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>85.3</code>
+                                        <name>Услуги по профессиональному обучению</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>85.30</code>
+                                        <name>Обучение профессиональное</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160217295</planRegistrationNumber>
+                            <planGuid>f07e53eb-83e2-4ba8-bf88-16a04df28436</planGuid>
+                            <positionNumber>94</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>214cbba4-b2df-4dd3-bd4e-db4b2362dd35</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

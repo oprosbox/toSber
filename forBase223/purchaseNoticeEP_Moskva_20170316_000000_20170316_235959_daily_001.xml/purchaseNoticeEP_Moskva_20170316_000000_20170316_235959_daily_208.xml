@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e52c22b5-970e-42bc-8e93-914c4683ee47</guid>
+        <createDateTime>2017-03-16T13:11:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e6b01bdc-eef6-4c21-b524-c1c85ffa366c</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>e6b01bdc-eef6-4c21-b524-c1c85ffa366c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:02:49</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885068</ns2:urlOOS>
+                <ns2:registrationNumber>31704897287</ns2:registrationNumber>
+                <ns2:name>Поставка приборов учета электроэнергии</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</shortName>
+                        <iko>57723895250772301001</iko>
+                        <inn>7723895250</inn>
+                        <kpp>772301001</kpp>
+                        <ogrn>1147746017275</ogrn>
+                        <legalAddress>109388, г МОСКВА, ул ПОЛБИНА, дом 40</legalAddress>
+                        <postalAddress>109388, дом 65, офис (квартира) 0</postalAddress>
+                        <phone>8-495-3540429</phone>
+                        <email>gbu-123456789@yandex.ru</email>
+                        <okato>45290582000</okato>
+                        <okpo>11424329</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</shortName>
+                        <iko>57723895250772301001</iko>
+                        <inn>7723895250</inn>
+                        <kpp>772301001</kpp>
+                        <ogrn>1147746017275</ogrn>
+                        <legalAddress>109388, г МОСКВА, ул ПОЛБИНА, дом 40</legalAddress>
+                        <postalAddress>109388, дом 65, офис (квартира) 0</postalAddress>
+                        <phone>8-495-3540429</phone>
+                        <email>gbu-123456789@yandex.ru</email>
+                        <okato>45290582000</okato>
+                        <okpo>11424329</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Людмила</firstName>
+                    <middleName>Леонидовна</middleName>
+                    <lastName>Митяева</lastName>
+                    <phone>+7 (495) 3548829</phone>
+                    <email>gbu-pechatniki@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ПЕЧАТНИКИ"</shortName>
+                            <iko>57723895250772301001</iko>
+                            <inn>7723895250</inn>
+                            <kpp>772301001</kpp>
+                            <ogrn>1147746017275</ogrn>
+                            <legalAddress>109388, г МОСКВА, ул ПОЛБИНА, дом 40</legalAddress>
+                            <postalAddress>109388, дом 65, офис (квартира) 0</postalAddress>
+                            <phone>8-495-3540429</phone>
+                            <email>gbu-123456789@yandex.ru</email>
+                            <okato>45290582000</okato>
+                            <okpo>11424329</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:11:52</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <place>город Москва, район Печатники, ул. Гурьянова д. 65</place>
+                    <procedure>в соответствии с положением</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>371dc87b-2958-4903-a265-2fe9330d55e5</guid>
+                        <createDateTime>2017-03-16T13:09:02</createDateTime>
+                        <fileName>Решение о закупке 223фз.doc</fileName>
+                        <description>Решение о закупке 223фз</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30105346</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:11:52</ns2:modificationDate>
+                <ns2:saveUserId>206575</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5ff530c2-83ea-4189-aace-861677619219</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка приборов учета электроэнергии</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>298452.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ул. Гурьянова д. 65</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>61352e07-f28c-4873-9510-15462cb6c8e2</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>46.73.16.000</code>
+                                        <name>Услуги по оптовой торговле прочими строительными материалами и изделиями</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.73.6</code>
+                                        <name>Торговля оптовая прочими строительными материалами и изделиями</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160192679</planRegistrationNumber>
+                            <planGuid>f923c49e-f2be-4ed9-a856-72c46b533c02</planGuid>
+                            <positionNumber>18</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>960bd23a-0010-45c5-8d85-98db000f6d93</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

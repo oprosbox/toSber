@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b81197b2-b4c2-4f39-b6bc-489353f52587</guid>
+        <createDateTime>2017-03-16T11:38:08</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4ede4773-0fd1-494c-9a6c-01d13e9620fd</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>4ede4773-0fd1-494c-9a6c-01d13e9620fd</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:47:15</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883677</ns2:urlOOS>
+                <ns2:registrationNumber>31704896575</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на оказание услуг по доступу к сервису «Double Data Social Link»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>МЕЖРЕГИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК РАЗВИТИЯ СВЯЗИ И ИНФОРМАТИКИ (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО)</fullName>
+                        <shortName>ПАО АКБ "СВЯЗЬ-БАНК"</shortName>
+                        <iko>67710301140775001001</iko>
+                        <inn>7710301140</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1027700159288</ogrn>
+                        <legalAddress>105066, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом ДОМ 31/7, корпус КОРПУС 2</legalAddress>
+                        <postalAddress>105066, г. Москва, ул. Новорязанская, д. 31/7, корп. 2</postalAddress>
+                        <phone>7-495-5000042</phone>
+                        <email>tender@sviaz-bank.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>09301192</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>МЕЖРЕГИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК РАЗВИТИЯ СВЯЗИ И ИНФОРМАТИКИ (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО)</fullName>
+                        <shortName>ПАО АКБ "СВЯЗЬ-БАНК"</shortName>
+                        <iko>67710301140775001001</iko>
+                        <inn>7710301140</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1027700159288</ogrn>
+                        <legalAddress>105066, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом ДОМ 31/7, корпус КОРПУС 2</legalAddress>
+                        <postalAddress>105066, г. Москва, ул. Новорязанская, д. 31/7, корп. 2</postalAddress>
+                        <phone>7-495-5000042</phone>
+                        <email>tender@sviaz-bank.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>09301192</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юлия</firstName>
+                    <middleName>Владимировна</middleName>
+                    <lastName>Назарова</lastName>
+                    <phone>+7 (495) 5000042</phone>
+                    <email>tender@sviaz-bank.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>МЕЖРЕГИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК РАЗВИТИЯ СВЯЗИ И ИНФОРМАТИКИ (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО)</fullName>
+                            <shortName>ПАО АКБ "СВЯЗЬ-БАНК"</shortName>
+                            <iko>67710301140775001001</iko>
+                            <inn>7710301140</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1027700159288</ogrn>
+                            <legalAddress>105066, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом ДОМ 31/7, корпус КОРПУС 2</legalAddress>
+                            <postalAddress>105066, г. Москва, ул. Новорязанская, д. 31/7, корп. 2</postalAddress>
+                            <phone>7-495-5000042</phone>
+                            <email>tender@sviaz-bank.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>09301192</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:38:07</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>2ea3f4df-6804-4099-9f81-de9163a9ef7d</guid>
+                        <createDateTime>2017-03-16T10:51:32</createDateTime>
+                        <fileName>Документация.rar</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098014</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:38:08</ns2:modificationDate>
+                <ns2:saveUserId>172611</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>c5e29665-f337-4881-88df-2ef0603846e5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по доступу к сервису 'Double Data Social Link'</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>3776000.00</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>4d6fca0c-4ab0-42b6-aaba-92c8c34f068f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>63.11.11.000</code>
+                                        <name>Услуги по обработке данных</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>63.9</code>
+                                        <name>Деятельность в области информационных услуг прочая</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>362</code>
+                                        <name>Месяц</name>
+                                    </okei>
+                                    <qty>24</qty>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160199515</planRegistrationNumber>
+                            <planGuid>68fc1ff0-acc8-4696-e9e1-196ca61add2f</planGuid>
+                            <positionNumber>130</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>5366ff18-173f-b8b2-9f88-53aa2e6b9117</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

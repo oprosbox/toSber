@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1c7a7faf-ca58-4f04-ad66-0e28cf776226</guid>
+        <createDateTime>2017-03-16T14:54:34</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7ea5efa4-eabb-4ee5-948e-060af5981afe</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>7ea5efa4-eabb-4ee5-948e-060af5981afe</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:46:53</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886294</ns2:urlOOS>
+                <ns2:registrationNumber>31704898233</ns2:registrationNumber>
+                <ns2:name>Поставка муки для предприятий общественного питания для работников ОАО "РЖД"    
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ЖЕЛЕЗНОДОРОЖНАЯ ТОРГОВАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ОАО "ЖТК"</shortName>
+                        <iko>67708639622770801001</iko>
+                        <inn>7708639622</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>5077746868403</ogrn>
+                        <legalAddress>107228, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом 12</legalAddress>
+                        <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                        <phone>7-495-7899930-137</phone>
+                        <fax>7-499-2620999</fax>
+                        <email>rwtk@rwtk.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>81375880</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Ярославский филиал Открытое акционерное общество "Железнодорожная торговая компания"</fullName>
+                        <shortName>ЯФ ОАО "ЖТК"</shortName>
+                        <iko>67708639622760402001</iko>
+                        <inn>7708639622</inn>
+                        <kpp>760402001</kpp>
+                        <ogrn>5077746868403</ogrn>
+                        <legalAddress>150030, г. Ярославль, пр. Московский, д .91</legalAddress>
+                        <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                        <phone>7-495-7899930-137</phone>
+                        <fax>7-499-2620999</fax>
+                        <email>rwtk@rwtk.ru</email>
+                        <okato>78401368000</okato>
+                        <okpo>81919699</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Наталья</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Клюкина</lastName>
+                    <phone>+8 (4852) 525244</phone>
+                    <email>klyukina@yarwtc.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ЖЕЛЕЗНОДОРОЖНАЯ ТОРГОВАЯ КОМПАНИЯ"</fullName>
+                            <shortName>ОАО "ЖТК"</shortName>
+                            <iko>67708639622770801001</iko>
+                            <inn>7708639622</inn>
+                            <kpp>770801001</kpp>
+                            <ogrn>5077746868403</ogrn>
+                            <legalAddress>107228, Г МОСКВА, УЛ НОВОРЯЗАНСКАЯ, дом 12</legalAddress>
+                            <postalAddress>107228, Москва Город, Новорязанская Улица, дом 12</postalAddress>
+                            <phone>7-495-7899930-137</phone>
+                            <fax>7-499-2620999</fax>
+                            <email>rwtk@rwtk.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>81375880</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:54:34</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>8b246944-c6d9-457f-92ab-e6afe8457a40</guid>
+                        <createDateTime>2017-03-16T14:53:41</createDateTime>
+                        <fileName>проект договора 175.pdf</fileName>
+                        <description>проект договора 175</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30111425</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:54:34</ns2:modificationDate>
+                <ns2:saveUserId>226206</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>3ff0f903-9b38-4843-88e1-33dc2aa77fcc</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка муки для предприятий общественного питания для работников ОАО "РЖД"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>991500.00</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Коми Респ </region>
+                                <regionOkato>87000000000</regionOkato>
+                                <address>указано в договоре</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>cac08b68-4315-40d9-a85b-4f173fa10044</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.61</code>
+                                        <name>Продукция мукомольно-крупяного производства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.23</code>
+                                        <name>Торговля оптовая мукой и макаронными изделиями</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>166</code>
+                                        <name>Килограмм</name>
+                                    </okei>
+                                    <qty>44000</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160202621</planRegistrationNumber>
+                            <planGuid>5b81d5f4-1571-4838-a52c-7a600ca13955</planGuid>
+                            <positionNumber>568</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>6cadf5f7-3a38-4d97-a7fd-9bb8a282bc58</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

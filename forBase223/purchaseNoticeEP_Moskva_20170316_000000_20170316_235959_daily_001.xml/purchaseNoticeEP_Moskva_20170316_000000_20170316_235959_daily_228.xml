@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c5f6bd86-fe48-4c44-a7a6-d6ddfaa9dd54</guid>
+        <createDateTime>2017-03-16T15:29:01</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>8c109dce-a80f-4ca2-9aa0-60adc3e2a9cb</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>8c109dce-a80f-4ca2-9aa0-60adc3e2a9cb</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:25:59</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886786</ns2:urlOOS>
+                <ns2:registrationNumber>31704898589</ns2:registrationNumber>
+                <ns2:name>Оказание услуг холодного водоснабжения и водоотведения для обособленного подразделения "Московское" АО "ГУ ЖКХ" (г. Москва, ул. Поперечный просек 17, корп.31, ул. Матросская Тишина 10 и т.д.)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Михаил</firstName>
+                    <middleName>Сергеевич</middleName>
+                    <lastName>Чиганаев</lastName>
+                    <phone>+7 (499) 7909111, доб.: 236</phone>
+                    <email>ChiganaevMS@GUZHKH.RU</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                            <shortName>АО "ГУ ЖКХ"</shortName>
+                            <iko>55116000922511601001</iko>
+                            <inn>5116000922</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1095110000325</ogrn>
+                            <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                            <postalAddress>119021, дом 18, строение 3</postalAddress>
+                            <phone>7-499-7909111</phone>
+                            <email>ZaicevVV@GUZHKH.RU</email>
+                            <okato>47525000000</okato>
+                            <okpo>08267116</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:29:01</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>7</totalDocumentsCount>
+                    <document>
+                        <guid>b0f0bd41-caa4-4ef1-99a3-e7c5566682f9</guid>
+                        <createDateTime>2017-03-16T15:28:05</createDateTime>
+                        <fileName>Протокол разногласий по условиям к договору 2007765.pdf</fileName>
+                        <description>Протокол разногласий по условиям к договору 2007765</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113440</url>
+                    </document>
+                    <document>
+                        <guid>fdfde423-60f3-4483-855a-4f185a0437cc</guid>
+                        <createDateTime>2017-03-16T15:27:54</createDateTime>
+                        <fileName>Доп.соглашение к дог.2007765.pdf</fileName>
+                        <description>Доп.соглашение к дог.2007765</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113428</url>
+                    </document>
+                    <document>
+                        <guid>486f2577-6d46-41c3-b56d-547e85ac6888</guid>
+                        <createDateTime>2017-03-16T15:28:13</createDateTime>
+                        <fileName>Протокол согласования разногласий 2007765.pdf</fileName>
+                        <description>Протокол согласования разногласий 2007765</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113446</url>
+                    </document>
+                    <document>
+                        <guid>d9631f72-a7af-4e17-94cd-e327886eb314</guid>
+                        <createDateTime>2017-03-16T15:28:20</createDateTime>
+                        <fileName>Протокол урегулирования разногласий 2007765.pdf</fileName>
+                        <description>Протокол урегулирования разногласий 2007765</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113448</url>
+                    </document>
+                    <document>
+                        <guid>bca56c88-e7cb-42ff-85c8-276f0e2e8e90</guid>
+                        <createDateTime>2017-03-16T15:27:59</createDateTime>
+                        <fileName>Извещение рсо.doc</fileName>
+                        <description>Извещение рсо</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113434</url>
+                    </document>
+                    <document>
+                        <guid>84e032e4-1fa3-49e1-b02c-dcbfa8deb66b</guid>
+                        <createDateTime>2017-03-16T15:27:49</createDateTime>
+                        <fileName>Договор 2007765.pdf</fileName>
+                        <description>Договор 2007765</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113418</url>
+                    </document>
+                    <document>
+                        <guid>96af8d9a-3699-470d-bef9-e4d4a4bfe6d7</guid>
+                        <createDateTime>2017-03-16T15:28:25</createDateTime>
+                        <fileName>ТЗ к 76 ВКХ.pdf</fileName>
+                        <description>ТЗ к 76 ВКХ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113451</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:29:01</ns2:modificationDate>
+                <ns2:saveUserId>221696</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>6ef7a500-8a1f-492e-a3b4-c9f559ce4f6a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг холодного водоснабжения и водоотведения для обособленного подразделения "Московское" АО "ГУ ЖКХ" (г. Москва, ул. Поперечный просек 17, корп.31, ул. Матросская Тишина 10 и т.д.)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>910165.30</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>В соответствии с техническим заданием</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a86b5932-960d-4747-8fb1-a5b486061a67</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>36.00</code>
+                                        <name>Вода природная; услуги по очистке воды и водоснабжению</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>36.00</code>
+                                        <name>Забор, очистка и распределение воды</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>113</code>
+                                        <name>Кубический метр</name>
+                                    </okei>
+                                    <qty>27493.92</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>d626a2d3-3cf0-4490-bc83-0238964a6f13</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>37.00</code>
+                                        <name>Услуги по водоотведению; шлам сточных вод</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>37.00</code>
+                                        <name>Сбор и обработка сточных вод</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>113</code>
+                                        <name>Кубический метр</name>
+                                    </okei>
+                                    <qty>53.899</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>8</code>
+                                <name>Закупки услуг по водоснабжению, водоотведению, теплоснабжению и газоснабжению (за исключением услуг по реализации сжиженного газа), а также по подключению (присоединению) к сетям инженерно-технического обеспечения по регулируемым в соответствии с законодательством Российской Федерации ценам (тарифам)</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160197754</planRegistrationNumber>
+                            <planGuid>5e15102f-f315-4169-a029-0a4cfc79b56a</planGuid>
+                            <positionNumber>485</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c32825fa-8c20-4fb5-a065-59b0a3c2f845</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

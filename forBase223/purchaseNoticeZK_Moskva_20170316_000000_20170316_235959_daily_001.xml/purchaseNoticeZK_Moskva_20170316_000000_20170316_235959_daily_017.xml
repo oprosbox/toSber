@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>49a2c063-05ea-4fa9-b8bf-284303ddb271</guid>
+        <createDateTime>2017-03-16T14:19:43</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fcd526b6-48fc-427e-8876-0843ed50b779</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>fcd526b6-48fc-427e-8876-0843ed50b779</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:17:46</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885916</ns2:urlOOS>
+                <ns2:registrationNumber>31704884254</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по поверке средств измерений для нужд Старооскольского филиала ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634770101001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>8-499-2657679</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>76088820</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>СТАРООСКОЛЬСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <inn>7701351634</inn>
+                        <kpp>312802001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>309501, Белгородская обл., г. Старый Оскол, ул. Победы, д.14 а</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>СТАРООСКОЛЬСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>СТАРООСКОЛЬСКИЙ ФИЛИАЛ ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634312802001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>312802001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>309501, Белгородская обл., г. Старый Оскол, ул. Победы, д.14 а</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>7-4725-413041</phone>
+                        <fax>7-4725-412038</fax>
+                        <email>fcrw@mail.ru</email>
+                        <okato>00000000000</okato>
+                        <okpo>22286149</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Роман</firstName>
+                    <middleName>Иванович</middleName>
+                    <lastName>Камынин</lastName>
+                    <phone>+7 (4725) 412081</phone>
+                    <email> osk.fguz.g_d31@list.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                            <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                            <iko>57701351634770101001</iko>
+                            <inn>7701351634</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1057701020816</ogrn>
+                            <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                            <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                            <phone>8-499-2657679</phone>
+                            <email>fcrw@mail.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>76088820</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:19:43</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-14</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>Документация о закупке, размещенная на официальном сайте Единой информационной системы в сфере закупок www.zakupki.gov.ru доступна для ознакомления без взимания платы.
+
+</place>
+                    <procedure>Документация о закупке, размещенная на официальном сайте Единой информационной системы в сфере закупок www.zakupki.gov.ru доступна для ознакомления без взимания платы.
+
+</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>Исправление документации</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>e733c6ab-a45a-4514-9bf4-dcdbff93b3d7</guid>
+                        <createDateTime>2017-03-14T11:05:10</createDateTime>
+                        <fileName>Приложние №3 проект договора.docx</fileName>
+                        <description>Приложние №3 проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30109107</url>
+                    </document>
+                    <document>
+                        <guid>655d5a6e-7442-4cc9-90ba-5a2023aff13c</guid>
+                        <createDateTime>2017-03-14T11:04:46</createDateTime>
+                        <fileName>Закупка.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30109108</url>
+                    </document>
+                    <document>
+                        <guid>02d677a3-aca5-49be-bf0b-554b6f70d171</guid>
+                        <createDateTime>2017-03-16T14:18:36</createDateTime>
+                        <fileName>Закупка.docx</fileName>
+                        <description>Закупка</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30109284</url>
+                    </document>
+                    <document>
+                        <guid>02d2046b-1762-4e7a-bc34-df027fbdcbe5</guid>
+                        <createDateTime>2017-03-13T16:51:00</createDateTime>
+                        <fileName>Приложение 5 График поверки 2017г..doc</fileName>
+                        <description>Приложение 5 График поверки 2017г.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30109109</url>
+                    </document>
+                    <document>
+                        <guid>d15b1801-29c6-4366-ab8a-4dc292869fe2</guid>
+                        <createDateTime>2017-03-13T16:50:48</createDateTime>
+                        <fileName>Приложение 4 обоснование цены.docx</fileName>
+                        <description>Приложение 4 обоснование цены</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30109110</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:19:43</ns2:modificationDate>
+                <ns2:saveUserId>216629</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>1f94081f-31af-414f-b366-08d6771e4a5a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по поверке средств измерений для нужд Старооскольского филиала ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>51572.02</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Белгородская   обл</region>
+                                <regionOkato>14000000000</regionOkato>
+                                <address>309501, Российская Федерация, Белгородская обл., г. Старый Оскол, ул. Победы, дом 14А</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>d89550a1-1ad5-4402-8123-fa8be7fef159</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.12.40.129</code>
+                                        <name>Услуги в области метрологии прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.12.62</code>
+                                        <name>Деятельность в области метрологии</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216745</planRegistrationNumber>
+                            <planGuid>718ac8a7-5acc-4816-8791-03f226fb5a5f</planGuid>
+                            <positionNumber>968</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>3f63755e-f400-474f-bc83-e64a3a77ef89</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-20T13:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>309501, Российская Федерация, Белгородская обл., г. Старый Оскол, ул. Победы, дом 14А, актовый зал.</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Приложение № 2 
+к информационной карте
+ (рекомендуемая форма заявки)
+</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-20T12:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-14</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

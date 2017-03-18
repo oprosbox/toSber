@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>2123745f-ac72-49f6-a126-8fa4ac8650e6</guid>
+        <createDateTime>2017-03-16T10:03:20</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>eb5e8922-0a15-11e7-80f5-9a1ae9797fa3</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>eb5e8922-0a15-11e7-80f5-9a1ae9797fa3</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:02:46</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883151</ns2:urlOOS>
+                <ns2:urlVSRZ>zakupki.gov.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704895665</ns2:registrationNumber>
+                <ns2:name>Метронидазол</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР КОЛОПРОКТОЛОГИИ ИМЕНИ А.Н. РЫЖИХ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГБУ "ГНЦК ИМ. А.Н. РЫЖИХ" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87734087696773401001</iko>
+                        <inn>7734087696</inn>
+                        <kpp>773401001</kpp>
+                        <ogrn>1037739408761</ogrn>
+                        <legalAddress>123423, Г МОСКВА, УЛ САЛЯМА АДИЛЯ, дом 2</legalAddress>
+                        <postalAddress>123423, Москва Город, Саляма Адиля Улица, дом 2</postalAddress>
+                        <phone>7-499-1991567</phone>
+                        <fax>7-499-1990409</fax>
+                        <email>info@gnck.ru</email>
+                        <okato>45283582000</okato>
+                        <okpo>01966590</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР КОЛОПРОКТОЛОГИИ ИМЕНИ А.Н. РЫЖИХ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГБУ "ГНЦК ИМ. А.Н. РЫЖИХ" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87734087696773401001</iko>
+                        <inn>7734087696</inn>
+                        <kpp>773401001</kpp>
+                        <ogrn>1037739408761</ogrn>
+                        <legalAddress>123423, Г МОСКВА, УЛ САЛЯМА АДИЛЯ, дом 2</legalAddress>
+                        <postalAddress>123423, Москва Город, Саляма Адиля Улица, дом 2</postalAddress>
+                        <phone>7-499-1991567</phone>
+                        <fax>7-499-1990409</fax>
+                        <email>info@gnck.ru</email>
+                        <okato>45283582000</okato>
+                        <okpo>01966590</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Владимир</firstName>
+                    <middleName>Николаевич</middleName>
+                    <lastName>Кашников</lastName>
+                    <phone>+7 (499) 1993814</phone>
+                    <email>gnck@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР КОЛОПРОКТОЛОГИИ ИМЕНИ А.Н. РЫЖИХ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГБУ "ГНЦК ИМ. А.Н. РЫЖИХ" МИНЗДРАВА РОССИИ</shortName>
+                            <iko>87734087696773401001</iko>
+                            <inn>7734087696</inn>
+                            <kpp>773401001</kpp>
+                            <ogrn>1037739408761</ogrn>
+                            <legalAddress>123423, Г МОСКВА, УЛ САЛЯМА АДИЛЯ, дом 2</legalAddress>
+                            <postalAddress>123423, Москва Город, Саляма Адиля Улица, дом 2</postalAddress>
+                            <phone>7-499-1991567</phone>
+                            <fax>7-499-1990409</fax>
+                            <email>info@gnck.ru</email>
+                            <okato>45283582000</okato>
+                            <okpo>01966590</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:03:20</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-24</deliveryEndDateTime>
+                    <place>Указано в документации</place>
+                    <procedure>Указано в документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>39aad855-021f-4ef1-912e-d8618ad3eafe</guid>
+                        <createDateTime>2017-03-16T10:02:46</createDateTime>
+                        <fileName>26К-16-223 Котировочная документация.doc</fileName>
+                        <description>26К-16-223 Котировочная документация.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095312</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:03:20</ns2:modificationDate>
+                <ns2:saveUserId>76722</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>dcec7ef7-703b-4f1f-a73c-a1b205afb987</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Метронидазол</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>197128.80</initialSum>
+                            <deliveryPlace>
+                                <address>Указано в документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0eb25e71-4ecc-4146-a64c-4eaf61c33094</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.10.193</code>
+                                        <name>Препараты, активные в отношении микобактерий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20.1</code>
+                                        <name>Производство лекарственных препаратов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>260</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>d5b0050f-8827-4043-833c-b4ac0ff0dc29</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.10.193</code>
+                                        <name>Препараты, активные в отношении микобактерий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20.1</code>
+                                        <name>Производство лекарственных препаратов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>500</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170228362</planRegistrationNumber>
+                            <planGuid>aa2eb888-0a14-11e7-80f5-9a1ae9797fa3</planGuid>
+                            <positionNumber>19</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>cdb8d030-982e-4ab8-b027-a76e50209109</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-24T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>Указано в документации</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>В форме бумажного документа согласно приложению 1 "Извещения о проведении запроса котировок"</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-24T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

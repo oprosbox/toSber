@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c2633338-3edb-4977-8553-0c84da56822c</guid>
+        <createDateTime>2017-03-16T16:44:36</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>84cf8ff1-c597-4c89-9fb1-0fafda0527fb</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>84cf8ff1-c597-4c89-9fb1-0fafda0527fb</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:42:40</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887632</ns2:urlOOS>
+                <ns2:registrationNumber>31704899325</ns2:registrationNumber>
+                <ns2:name>Изготовление инженерно-топографического плана М1:2000 по имеющимся материалам для предпроектных проработок на участке по адресу: г. Москва, ул. Сельскохозяйственная, вл. 12</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "СПЕЦИАЛЬНОЕ КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКОЕ БЮРО ПО ЭЛЕКТРОХИМИИ С ОПЫТНЫМ ЗАВОДОМ"</fullName>
+                        <shortName>АО "СКТБЭ"</shortName>
+                        <iko>57717633296771701001</iko>
+                        <inn>7717633296</inn>
+                        <kpp>771701001</kpp>
+                        <ogrn>5087746576605</ogrn>
+                        <legalAddress>129226, г МОСКВА, ул СЕЛЬСКОХОЗЯЙСТВЕННАЯ, дом 12</legalAddress>
+                        <postalAddress>129226, Москва, Сельскохозяйственная, дом 12 </postalAddress>
+                        <phone>7-495-6627116-253</phone>
+                        <email>sktbe@intelhim.ru</email>
+                        <okato>45280577000</okato>
+                        <okpo>00209585</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "СПЕЦИАЛЬНОЕ КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКОЕ БЮРО ПО ЭЛЕКТРОХИМИИ С ОПЫТНЫМ ЗАВОДОМ"</fullName>
+                        <shortName>АО "СКТБЭ"</shortName>
+                        <iko>57717633296771701001</iko>
+                        <inn>7717633296</inn>
+                        <kpp>771701001</kpp>
+                        <ogrn>5087746576605</ogrn>
+                        <legalAddress>129226, г МОСКВА, ул СЕЛЬСКОХОЗЯЙСТВЕННАЯ, дом 12</legalAddress>
+                        <postalAddress>129226, Москва, Сельскохозяйственная, дом 12 </postalAddress>
+                        <phone>7-495-6627116-253</phone>
+                        <email>sktbe@intelhim.ru</email>
+                        <okato>45280577000</okato>
+                        <okpo>00209585</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 6627116, доб.: 253</phone>
+                    <email>sktbe@bk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "СПЕЦИАЛЬНОЕ КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКОЕ БЮРО ПО ЭЛЕКТРОХИМИИ С ОПЫТНЫМ ЗАВОДОМ"</fullName>
+                            <shortName>АО "СКТБЭ"</shortName>
+                            <iko>57717633296771701001</iko>
+                            <inn>7717633296</inn>
+                            <kpp>771701001</kpp>
+                            <ogrn>5087746576605</ogrn>
+                            <legalAddress>129226, г МОСКВА, ул СЕЛЬСКОХОЗЯЙСТВЕННАЯ, дом 12</legalAddress>
+                            <postalAddress>129226, Москва, Сельскохозяйственная, дом 12 </postalAddress>
+                            <phone>7-495-6627116-253</phone>
+                            <email>sktbe@intelhim.ru</email>
+                            <okato>45280577000</okato>
+                            <okpo>00209585</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:44:36</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-17</deliveryEndDateTime>
+                    <place>г.Москва, ул. Сельскохозяйственная, д.12</place>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>6bd69994-27e2-4188-a56e-64137e76d197</guid>
+                        <createDateTime>2017-03-16T16:44:07</createDateTime>
+                        <fileName>Документация для поставщиков 2016.rar</fileName>
+                        <description>Документация для поставщиков 2016</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117529</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:44:36</ns2:modificationDate>
+                <ns2:saveUserId>57901</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>45815b90-38b4-407d-bec4-b2b889595dd2</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Изготовление инженерно-топографического плана М1:2000 по имеющимся материалам для предпроектных проработок на участке по адресу: г. Москва, ул. Сельскохозяйственная, вл. 12</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>165366.38</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>010282a4-3cc3-4120-99c5-b7685dddde6c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.12.12</code>
+                                        <name>Услуги по инженерно-техническому проектированию зданий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.1</code>
+                                        <name>Деятельность в области архитектуры, инженерных изысканий и предоставление технических консультаций в этих областях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160206970</planRegistrationNumber>
+                            <planGuid>15a38fd2-8c70-47b9-bc99-05b6222f46e4</planGuid>
+                            <positionNumber>152</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>206e14f8-2438-4eac-b2b5-23bfaa006ec9</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

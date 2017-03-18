@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-2.0.6/purchase.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns4="http://zakupki.gov.ru/223fz/orderClauseList/1">
+    <header>
+        <guid>7aa6764c-046f-4047-a3bf-d03aa1ad3c6a</guid>
+        <createDateTime>2012-12-20T21:18:21.624+04:00</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d27b9bf5-5be2-427c-a62f-127c310cc7b6</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>d27b9bf5-5be2-427c-a62f-127c310cc7b6</ns2:guid>
+                <ns2:createDateTime>2012-12-20T20:57:52.426+04:00</ns2:createDateTime>
+                <ns2:registrationNumber>31200078402</ns2:registrationNumber>
+                <ns2:name>Запрос предложений по оказанию услуг специализированной организации по организации и проведению конкурентных закупочных процедур для нужд Казенного предприятия города Москвы «Управление гражданского строительства».</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Казённое предприятие города Москвы "Управление гражданского строительства"</fullName>
+                        <shortName>КП "УГС"</shortName>
+                        <inn>7719272800</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037719025376</ogrn>
+                        <legalAddress>125375, Москва, Тверская, дом 7</legalAddress>
+                        <postalAddress>125375, Москва, Тверская, дом 7 </postalAddress>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5185</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Казённое предприятие города Москвы "Управление гражданского строительства"</fullName>
+                        <shortName>КП "УГС"</shortName>
+                        <inn>7719272800</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037719025376</ogrn>
+                        <legalAddress>125375, Москва, Тверская, дом 7</legalAddress>
+                        <postalAddress>125375, Москва, Тверская, дом 7 </postalAddress>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>7-495-5056080</phone>
+                    <fax>7-495-5056080</fax>
+                    <email>torgi@kpugs.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Казённое предприятие города Москвы "Управление гражданского строительства"</fullName>
+                            <shortName>КП "УГС"</shortName>
+                            <inn>7719272800</inn>
+                            <kpp>771001001</kpp>
+                            <ogrn>1037719025376</ogrn>
+                            <legalAddress>125375, Москва, Тверская, дом 7</legalAddress>
+                            <postalAddress>125375, Москва, Тверская, дом 7 </postalAddress>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2012-12-20T21:18:21.604+04:00</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2012-12-20+04:00</deliveryStartDateTime>
+                    <deliveryEndDateTime>2012-12-24+04:00</deliveryEndDateTime>
+                    <place>125375, г. Москва, ул. Тверская, д. 7, подъезд 4, 2 этаж</place>
+                    <procedure>по рабочим дням с 10:00 до 16:00 часов московского времени. Документация запроса предложений предоставляется в письменном виде на бумажном носителе всем заинтересованным лицам, направившим заказчику по факсу или электронной почте запрос на получение документации запроса предложений. Выдача документации запроса предложений производится при представлении оригинала доверенности и копии платежного документа об оплате ее стоимости.</procedure>
+                    <url>www.zakupki.gov.ru</url>
+                    <payment>
+                        <currency>
+                            <code>RUB</code>
+                            <digitalCode>810</digitalCode>
+                            <name>Российский рубль</name>
+                        </currency>
+                        <sum>2000</sum>
+                        <procedure>На основании запроса выставляется счет на оплату стоимости документации запроса предложений. В случае направления документации запроса предложений по почте отправитель не берет на себя ответственность за утерю или вручение с опозданием документации запроса предложений. Срок внесения платы - до даты вскрытия конвертов с предложениями на участие в запросе предложений.</procedure>
+                    </payment>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:lots>
+                    <lot>
+                        <guid>898ca3bd-a79c-432d-bedc-877199e436be</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <subject>Оказание услуг специализированной организации по организации и проведению конкурентных закупочных процедур для нужд Казенного предприятия города Москвы «Управление гражданского строительства»</subject>
+                        <currency>
+                            <code>RUB</code>
+                            <digitalCode>810</digitalCode>
+                            <name>Российский рубль</name>
+                        </currency>
+                        <initialSum>5720000</initialSum>
+                        <deliveryPlace>г. Москва</deliveryPlace>
+                        <lotItems>
+                            <lotItem>
+                                <ordinalNumber>1</ordinalNumber>
+                                <okdp>
+                                    <code>7499090</code>
+                                    <name>Коммерческие и технические услуги прочие, не включенные в другие группировки</name>
+                                </okdp>
+                                <okved>
+                                    <code>74.84</code>
+                                    <name>Предоставление прочих услуг</name>
+                                </okved>
+                                <okei>
+                                    <code>876</code>
+                                    <name>Условная единица</name>
+                                </okei>
+                                <qty>120</qty>
+                            </lotItem>
+                        </lotItems>
+                    </lot>
+                </ns2:lots>
+                <ns2:attachements>
+                    <document>
+                        <createDateTime>2012-12-20T21:10:41.434+04:00</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306177</url>
+                    </document>
+                    <document>
+                        <createDateTime>2012-12-20T21:10:46.613+04:00</createDateTime>
+                        <fileName>Документация запроса предложений.doc</fileName>
+                        <description>Документация запроса предложений</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306178</url>
+                    </document>
+                    <document>
+                        <createDateTime>2012-12-20T21:11:09.116+04:00</createDateTime>
+                        <fileName>Техническая часть.doc</fileName>
+                        <description>Техническая часть</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306180</url>
+                    </document>
+                    <document>
+                        <createDateTime>2012-12-20T21:15:41.209+04:00</createDateTime>
+                        <fileName>Проект договора.doc</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306181</url>
+                    </document>
+                </ns2:attachements>
+                <ns2:nonelectronicPlaceInfo>
+                    <summarizingPlace>125375, г. Москва, ул. Тверская, д. 7, подъезд 4, 2 этаж 
+Процедура запроса предложений не является конкурсом, либо аукционом и ее проведение не регулируется статьями 447 - 449 Гражданского кодекса Российской Федерации, не является публичным конкурсом и не регулируется статьями 1057 - 1061 Гражданского кодекса Российской Федерации, не накладывает на Заказчика соответствующего объема гражданско-правовых обязательств по обязательному заключению договора с победителем запроса предложений или иным его участником.
+До заключения договора Заказчик вправе на любом этапе отказаться от проведения запроса предложений, разместив извещение об отказе от проведения запроса предложений на официальном сайте и сайте заказчика в информационно-телекоммуникационной сети "Интернет"
+</summarizingPlace>
+                    <summarizingDateTime>2012-12-27T11:00:00.000+04:00</summarizingDateTime>
+                </ns2:nonelectronicPlaceInfo>
+                <ns2:examinationPlace>125375, г. Москва, ул. Тверская, д. 7, подъезд 4, 2 этаж</ns2:examinationPlace>
+                <ns2:examinationDateTime>2012-12-25T11:00:00.000+04:00</ns2:examinationDateTime>
+                <ns2:submissionCloseDateTime>2012-12-24T11:00:00.000+04:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2012-12-20+04:00</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

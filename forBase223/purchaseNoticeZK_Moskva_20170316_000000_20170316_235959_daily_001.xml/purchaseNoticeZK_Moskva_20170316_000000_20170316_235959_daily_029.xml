@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e0128a0e-5df4-4ad1-a918-b17583e44bdc</guid>
+        <createDateTime>2017-03-16T09:26:47</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f6474df2-1706-4cbd-9edc-deeea2fc422b</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>f6474df2-1706-4cbd-9edc-deeea2fc422b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:24:37</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882732</ns2:urlOOS>
+                <ns2:urlVSRZ>http://zakupki.gov.ru/223/</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704895384</ns2:registrationNumber>
+                <ns2:name>Поставка топлива для автотранспортных средств Калининградского филиала ФБУ "Морспасслужба Росморречфлота"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА"</fullName>
+                        <shortName>ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, г МОСКВА, ул ПЕТРОВКА, дом 3/6, корпус 2</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                        <phone>7-495-6261808</phone>
+                        <fax>7-495-6261809</fax>
+                        <email>info@morspas.com</email>
+                        <okato>45286585000</okato>
+                        <okpo>18685292</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>КАЛИНИНГРАДСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА" </fullName>
+                        <inn>7707274249</inn>
+                        <kpp>390643001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>236003, г. Калининград, ул. Портовая, 24</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>КАЛИНИНГРАДСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА" </fullName>
+                        <shortName>КФ ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                        <iko>87707274249390643001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>390643001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>236003, г. Калининград, ул. Портовая, 24</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                        <phone>7-495-6261808</phone>
+                        <fax>7-495-6261809</fax>
+                        <email>info@morspas.com</email>
+                        <okato>27401373000</okato>
+                        <okpo>31832154</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (401) 2692220</phone>
+                    <email>zak_kld@morspas.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>КАЛИНИНГРАДСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА" </fullName>
+                            <shortName>КФ ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                            <iko>87707274249390643001</iko>
+                            <inn>7707274249</inn>
+                            <kpp>390643001</kpp>
+                            <ogrn>1027739737321</ogrn>
+                            <legalAddress>236003, г. Калининград, ул. Портовая, 24</legalAddress>
+                            <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                            <phone>7-495-6261808</phone>
+                            <fax>7-495-6261809</fax>
+                            <email>info@morspas.com</email>
+                            <okato>27401373000</okato>
+                            <okpo>31832154</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:26:47</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>236003, г. Калининград, ул. Портовая, 24</place>
+                    <procedure>По запросу любого участника закупки, оформленному и представленному в письменной форме (запрос также может быть направлен факсом, курьером, в электронном виде в форме отсканированной копии письма за подписью уполномоченного руководителя), заказчик предоставляет участнику закупки, от которого получен запрос, документацию запроса котировок на бумажном носителе (в электронном виде).
+Предоставление документации о проведении запроса котировок на бумажном носителе (в электронном виде) до размещения такой документации в единой информационной системе не допускается.
+Плата за предоставление заказчиком документации о закупке не взимается.
+Документация о закупке размещена в единой информационной системе по адресу: www.zakupki.gov.ru и доступна для ознакомления без взимания платы.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>f717e07b-85f6-43c2-a53a-78da79ad1187</guid>
+                        <createDateTime>2017-03-15T15:02:14</createDateTime>
+                        <fileName>Приложение №2 к Документации_ТЗ (1).doc</fileName>
+                        <description>Приложение №2 к Документации_ТЗ (1).doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30093286</url>
+                    </document>
+                    <document>
+                        <guid>2e60ea9b-8751-489e-b9f0-e6f063f8e46f</guid>
+                        <createDateTime>2017-03-15T15:02:14</createDateTime>
+                        <fileName>Приложение №3 к Документации_Проект договора (3).doc</fileName>
+                        <description>Приложение №3 к Документации_Проект договора (3).doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30093287</url>
+                    </document>
+                    <document>
+                        <guid>a313d78c-f800-475a-a981-94477b4948c5</guid>
+                        <createDateTime>2017-03-15T17:53:44</createDateTime>
+                        <fileName>Извещение и документация (запрос котировок) 2017.doc</fileName>
+                        <description>Извещение и документация (запрос котировок) 2017.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30093288</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:26:47</ns2:modificationDate>
+                <ns2:saveUserId>126528</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>21624906-afe9-499f-9287-ce5fb3d46b13</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка топлива для автотранспортных средств Калининградского филиала ФБУ "Морспасслужба Росморречфлота"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>594036.67</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Калининградская   обл</region>
+                                <regionOkato>27000000000</regionOkato>
+                                <address>[27000000000] Калининградская область</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>64f06d66-f611-4783-9a11-45a28a22ba90</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>19.20.21</code>
+                                        <name>Топливо моторное, включая автомобильный и авиационный бензин</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>19.20</code>
+                                        <name>Производство нефтепродуктов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218271</planRegistrationNumber>
+                            <planGuid>67bd21b1-96a6-4ad2-9196-77da26a851e4</planGuid>
+                            <positionNumber>261</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>83fb10c5-a18e-47d4-ab1b-0bddfb6c34e9</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>236003, г. Калининград, ул. Портовая, 24</ns2:quotationExaminationPlace>
+                <ns2:submissionCloseDateTime>2017-03-22T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

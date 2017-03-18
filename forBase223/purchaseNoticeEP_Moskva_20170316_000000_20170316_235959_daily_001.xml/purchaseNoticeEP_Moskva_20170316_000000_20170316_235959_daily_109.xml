@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b71cd7eb-fc87-4684-8808-7726bb4fd286</guid>
+        <createDateTime>2017-03-16T15:53:11</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>ecaddf38-13af-403e-9d80-7ce36290ac59</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>ecaddf38-13af-403e-9d80-7ce36290ac59</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:51:14</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887081</ns2:urlOOS>
+                <ns2:registrationNumber>31704898833</ns2:registrationNumber>
+                <ns2:name>Оказание  услуг по передаче и обработке фискальных данных</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МОСКОВСКОЕ ПРОТЕЗНО-ОРТОПЕДИЧЕСКОЕ ПРЕДПРИЯТИЕ" МИНИСТЕРСТВА ТРУДА И СОЦИАЛЬНОЙ ЗАЩИТЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГУП "МОСКОВСКОЕ ПРОП" МИНТРУДА РОССИИ</shortName>
+                        <iko>57711027436774301001</iko>
+                        <inn>7711027436</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1037739258040</ogrn>
+                        <legalAddress>125412, Г МОСКВА, Ш КОРОВИНСКОЕ, дом ДОМ 17А</legalAddress>
+                        <postalAddress>125412,  г. Москва, Коровинское шоссе, д.17А</postalAddress>
+                        <phone>7-499-4880083</phone>
+                        <fax>7-499-4884475</fax>
+                        <email>mpop.dir@yandex.ru</email>
+                        <okato>45277577000</okato>
+                        <okpo>03151308</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МОСКОВСКОЕ ПРОТЕЗНО-ОРТОПЕДИЧЕСКОЕ ПРЕДПРИЯТИЕ" МИНИСТЕРСТВА ТРУДА И СОЦИАЛЬНОЙ ЗАЩИТЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГУП "МОСКОВСКОЕ ПРОП" МИНТРУДА РОССИИ</shortName>
+                        <iko>57711027436774301001</iko>
+                        <inn>7711027436</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1037739258040</ogrn>
+                        <legalAddress>125412, Г МОСКВА, Ш КОРОВИНСКОЕ, дом ДОМ 17А</legalAddress>
+                        <postalAddress>125412,  г. Москва, Коровинское шоссе, д.17А</postalAddress>
+                        <phone>7-499-4880083</phone>
+                        <fax>7-499-4884475</fax>
+                        <email>mpop.dir@yandex.ru</email>
+                        <okato>45277577000</okato>
+                        <okpo>03151308</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (499) 4880083, доб.: 1021</phone>
+                    <email>mpop.zakupki@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МОСКОВСКОЕ ПРОТЕЗНО-ОРТОПЕДИЧЕСКОЕ ПРЕДПРИЯТИЕ" МИНИСТЕРСТВА ТРУДА И СОЦИАЛЬНОЙ ЗАЩИТЫ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГУП "МОСКОВСКОЕ ПРОП" МИНТРУДА РОССИИ</shortName>
+                            <iko>57711027436774301001</iko>
+                            <inn>7711027436</inn>
+                            <kpp>774301001</kpp>
+                            <ogrn>1037739258040</ogrn>
+                            <legalAddress>125412, Г МОСКВА, Ш КОРОВИНСКОЕ, дом ДОМ 17А</legalAddress>
+                            <postalAddress>125412,  г. Москва, Коровинское шоссе, д.17А</postalAddress>
+                            <phone>7-499-4880083</phone>
+                            <fax>7-499-4884475</fax>
+                            <email>mpop.dir@yandex.ru</email>
+                            <okato>45277577000</okato>
+                            <okpo>03151308</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:53:10</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>232b1f5c-2931-4353-b7e6-40b3776489ee</guid>
+                        <createDateTime>2017-03-16T15:52:50</createDateTime>
+                        <fileName>документация, единственный поставщик.docx</fileName>
+                        <description>документация, единственный поставщик</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114880</url>
+                    </document>
+                    <document>
+                        <guid>d10b9760-4d30-4fc2-9541-c482361404e2</guid>
+                        <createDateTime>2017-03-16T15:52:53</createDateTime>
+                        <fileName>Извещение о закупке.docx</fileName>
+                        <description>Извещение о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114881</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:53:10</ns2:modificationDate>
+                <ns2:saveUserId>27345</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>1782db07-7804-4eb2-86d5-ff22c9fbfe7b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание  услуг по передаче и обработке фискальных данных</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>450000.00</initialSum>
+                            <deliveryPlace>
+                                <address>Коровинское шоссе д. 17 А</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>aab8a8d6-de4a-4314-9989-2eabfcf17321</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>63.11.12.000</code>
+                                        <name>Услуги по размещению в информационно-коммуникационной сети Интернет</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>32.50</code>
+                                        <name>Производство медицинских инструментов и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>150</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195075</planRegistrationNumber>
+                            <planGuid>2f5a8910-299b-414b-a597-5f091d8d0930</planGuid>
+                            <positionNumber>31</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>6324d14c-fcd5-4d70-8efe-2ee412b5ad2a</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

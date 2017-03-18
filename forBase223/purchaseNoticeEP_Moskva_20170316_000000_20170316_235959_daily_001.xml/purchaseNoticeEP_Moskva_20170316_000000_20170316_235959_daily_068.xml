@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9c51679b-97a7-4d71-bdd2-257616366172</guid>
+        <createDateTime>2017-03-16T12:59:10</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0addd011-6b0b-1ed7-82c5-e2baf570c620</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>0addd011-6b0b-1ed7-82c5-e2baf570c620</ns2:guid>
+                <ns2:createDateTime>2017-03-16T12:58:26</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885028</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704897207</ns2:registrationNumber>
+                <ns2:name>Аренда движимого имущества для филиала АО «Гринатом» в г. Электростали</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>И.Г.</firstName>
+                    <lastName>Носова</lastName>
+                    <phone>+8 (496) 5775115</phone>
+                    <fax>+8 (496) 5775115</fax>
+                    <email>IGrNosova@Greenatom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                            <shortName>АО "ГРИНАТОМ"</shortName>
+                            <iko>77706729736770601001</iko>
+                            <inn>7706729736</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1097746819720</ogrn>
+                            <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                            <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                            <phone>7-499-9494919</phone>
+                            <email>MYErmolaev@greenatom.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>64509942</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T12:59:10</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>58aa6f55-8929-4880-e100-80000a7c1051</guid>
+                        <createDateTime>2017-02-20T08:10:37</createDateTime>
+                        <fileName>Извещение о проведении закупки.doc</fileName>
+                        <description>Извещение о проведении закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104922</url>
+                    </document>
+                    <document>
+                        <guid>f2f32b7a-a50b-1ee7-82c5-de2c51608085</guid>
+                        <createDateTime>2017-03-16T09:57:19</createDateTime>
+                        <fileName>проект договора.doc</fileName>
+                        <description>проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104923</url>
+                    </document>
+                    <document>
+                        <guid>f2f32b7a-a50b-1ed7-82c5-e0538c194018</guid>
+                        <createDateTime>2017-03-16T09:57:48</createDateTime>
+                        <fileName>ТЗ.pdf</fileName>
+                        <description>ТЗ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104924</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T12:59:10</ns2:modificationDate>
+                <ns2:saveUserId>100723</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5880256f-6ad2-49f0-e100-80000a7c101b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Аренда движимого имущества для филиала АО «Гринатом» в г. Электростали</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>294840.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>144001, Московская область, г. Электросталь, ул. Карла Маркса, д.12, корпус 75</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>588025b6-6ad2-49f0-e100-80000a7c101b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>77.33.1</code>
+                                        <name>Услуги по аренде и лизингу офисных машин и оборудования, включая вычислительную технику</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>77.33</code>
+                                        <name>Аренда и лизинг офисных машин и оборудования, включая вычислительную технику</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160182074</planRegistrationNumber>
+                            <planGuid>a22a2ab1-590a-1ed7-82af-f84cbcdd119a</planGuid>
+                            <positionNumber>980400212</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7a9888ea-fb0a-1ed6-bffc-00e9a2dc1095</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

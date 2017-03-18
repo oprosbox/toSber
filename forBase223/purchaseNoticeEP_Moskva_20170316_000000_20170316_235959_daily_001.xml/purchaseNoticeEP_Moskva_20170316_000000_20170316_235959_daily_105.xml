@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d61230ca-fc62-4345-a64e-4f885541fea1</guid>
+        <createDateTime>2017-03-16T16:06:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>deb8805b-ae9d-460e-b752-368b785db4ca</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>deb8805b-ae9d-460e-b752-368b785db4ca</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:43:26</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886981</ns2:urlOOS>
+                <ns2:registrationNumber>31704898977</ns2:registrationNumber>
+                <ns2:name>Выполнениекомплекса строительно-монтажных работ на объекте: "Реконструкцияразводного моста через реку Свирь на 284 км линии Волховстрой - МурманскОктябрьской железной дороги". Испытания моста</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (812) 4364734</phone>
+                    <email>TsvetkovaLV@rzdstroy.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                            <shortName>АО "РЖДСТРОЙ"</shortName>
+                            <iko>67708587205770901001</iko>
+                            <inn>7708587205</inn>
+                            <kpp>770901001</kpp>
+                            <ogrn>1067746082546</ogrn>
+                            <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                            <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                            <phone>7-499-2603432-1247</phone>
+                            <email>BoroninAV@rzdstroy.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>93287520</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:06:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>не предоставляется</place>
+                    <procedure>не предоставляется</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>796f9a70-3793-472e-aff8-179dfc57dad5</guid>
+                        <createDateTime>2017-03-16T16:05:20</createDateTime>
+                        <fileName>Документация.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115539</url>
+                    </document>
+                    <document>
+                        <guid>4669e378-7c16-4748-b755-23f2a95317b5</guid>
+                        <createDateTime>2017-03-16T15:52:15</createDateTime>
+                        <fileName>Проект договора.docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114853</url>
+                    </document>
+                    <document>
+                        <guid>6486c9cf-0248-4cd0-b40e-63e1d177cdeb</guid>
+                        <createDateTime>2017-03-16T15:51:56</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114844</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:06:37</ns2:modificationDate>
+                <ns2:saveUserId>260451</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>7ba06ad2-3717-4357-ab8c-1d066df747a2</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение комплекса строительно-монтажных работ на объекте: "Реконструкция разводного моста через реку Свирь на 284 км линии Волховстрой - Мурманск Октябрьской железной дороги". Испытания моста</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>721228.98</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Мурманская   обл</region>
+                                <regionOkato>47000000000</regionOkato>
+                                <address>г. Санкт-Петербург</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>5d174519-84ff-4a22-b6df-02086664429d</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>41</code>
+                                        <name>Здания и работы по возведению зданий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>41</code>
+                                        <name>Строительство зданий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210428</planRegistrationNumber>
+                            <planGuid>7a3019e8-39bb-449d-8584-fa2ac8fd6d7a</planGuid>
+                            <positionNumber>2082</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2d080bf7-edf7-4543-ad98-738dac81e60b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

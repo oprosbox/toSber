@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>809dd569-804d-4ab4-baf3-1c7388ecc7c5</guid>
+        <createDateTime>2017-03-16T03:23:08</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>18138840-1810-4e8f-bb4e-c6e388938ab6</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>18138840-1810-4e8f-bb4e-c6e388938ab6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T02:54:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5881664</ns2:urlOOS>
+                <ns2:registrationNumber>31704894637</ns2:registrationNumber>
+                <ns2:name>Поставка ПКИ для тех.МСУ</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРАЖДАНСКИЕ САМОЛЕТЫ СУХОГО"</fullName>
+                        <shortName>АО "ГСС"</shortName>
+                        <iko>77714175986771401001</iko>
+                        <inn>7714175986</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1027739155180</ogrn>
+                        <legalAddress>125284, г МОСКВА, ул ПОЛИКАРПОВА, дом 23 Б, корпус 2</legalAddress>
+                        <postalAddress>125284, Москва, Поликарпова, дом 23 Б, корпус 2</postalAddress>
+                        <phone>7-495-7271988-2700</phone>
+                        <email>info@scac.ru</email>
+                        <okato>45277598000</okato>
+                        <okpo>52786180</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Комсомольский-на-Амуре филиал акционерного общества "Гражданские самолеты Сухого"</fullName>
+                        <shortName>Комсомольский-на-Амуре филиал АО "ГСС"</shortName>
+                        <iko>77714175986270303001</iko>
+                        <inn>7714175986</inn>
+                        <kpp>270303001</kpp>
+                        <ogrn>1027739155180</ogrn>
+                        <legalAddress>Хабаровский край, г. Комсомольск-на-Амуре, ул. Советская, 1</legalAddress>
+                        <postalAddress>Хабаровский край, г. Комсомольск-на-Амуре, ул. Советская, 1</postalAddress>
+                        <phone>8-4217-244059-7779</phone>
+                        <email>info@scac.ru</email>
+                        <okato>08409000000</okato>
+                        <okpo>74558574</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (4217) 244059, доб.: 7358</phone>
+                    <email>R_Zhukov@kms.scac.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРАЖДАНСКИЕ САМОЛЕТЫ СУХОГО"</fullName>
+                            <shortName>АО "ГСС"</shortName>
+                            <iko>77714175986771401001</iko>
+                            <inn>7714175986</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1027739155180</ogrn>
+                            <legalAddress>125284, г МОСКВА, ул ПОЛИКАРПОВА, дом 23 Б, корпус 2</legalAddress>
+                            <postalAddress>125284, Москва, Поликарпова, дом 23 Б, корпус 2</postalAddress>
+                            <phone>7-495-7271988-2700</phone>
+                            <email>info@scac.ru</email>
+                            <okato>45277598000</okato>
+                            <okpo>52786180</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T03:23:08</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>b003e19f-150f-4477-8286-b2ee405787bd</guid>
+                        <createDateTime>2017-03-16T03:22:46</createDateTime>
+                        <fileName>03-2017-071Е-829 PowerJet 10-12544.pdf</fileName>
+                        <description>03-2017-071Е-829 PowerJet 10-12544</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30088349</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T03:23:08</ns2:modificationDate>
+                <ns2:saveUserId>42408</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>da8c1c77-8a59-419e-82f0-74bbf1d8abf1</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка ПКИ для тех.МСУ</subject>
+                            <currency>
+                                <code>USD</code>
+                                <digitalCode>840</digitalCode>
+                                <name>Доллар США</name>
+                            </currency>
+                            <initialSum>80711.64</initialSum>
+                            <deliveryPlace>
+                                <state>Дальневосточный федеральный округ</state>
+                                <region>Хабаровский край</region>
+                                <regionOkato>08000000000</regionOkato>
+                                <address>Комсомольск-на-Амуре, ул. Ленинградская, д.80 корп.4, лит. "А"</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>fdb41cc9-736c-4eff-8c41-fc383ca65229</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.74.1</code>
+                                        <name>Изделия крепежные, винты мелкие крепежные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>27.1</code>
+                                        <name>Производство электродвигателей, генераторов, трансформаторов и распределительных устройств, а также контрольно-измерительной аппаратуры</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210718</planRegistrationNumber>
+                            <planGuid>12656fa0-b97c-469a-80e5-365a0246257d</planGuid>
+                            <positionNumber>300</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>66a3e576-fda6-4ab0-83a4-4d30200cff10</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

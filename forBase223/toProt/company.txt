@@ -1,0 +1,15 @@
+ 223fz_company
+        <fullName>
+        <shortName>
+        <iko>
+        <inn>
+        <kpp>
+        <ogrn>
+        <legalAddress>
+        <postalAddress>
+        <phone>
+        <fax>
+        <email>
+		<okato>
+        <okpo>
+ 

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>82b88dca-3a06-4303-8f14-7de8055ebd57</guid>
+        <createDateTime>2017-03-16T15:56:23</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>53c5f9dd-ae61-23c5-fcf3-797da221652e</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>53c5f9dd-ae61-23c5-fcf3-797da221652e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:55:06</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887127</ns2:urlOOS>
+                <ns2:urlVSRZ>https://rosgeo.roseltorg.ru/#com/procedure/view/id/6417</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898859</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по предоставлению банковских гарантий 
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОСГЕОЛОГИЯ"</fullName>
+                        <shortName>АО "РОСГЕО"</shortName>
+                        <iko>57724294887772801001</iko>
+                        <inn>7724294887</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1047724014040</ogrn>
+                        <legalAddress>117246, г МОСКВА, ул ХЕРСОНСКАЯ, дом ДОМ 43, корпус КОРПУС 3</legalAddress>
+                        <postalAddress>117246, дом 43, корпус 3</postalAddress>
+                        <phone>7-495-9885807</phone>
+                        <fax>7-499-2719760</fax>
+                        <email>info@rusgeology.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>01427462</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОСГЕОЛОГИЯ"</fullName>
+                        <shortName>АО "РОСГЕО"</shortName>
+                        <iko>57724294887772801001</iko>
+                        <inn>7724294887</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1047724014040</ogrn>
+                        <legalAddress>117246, г МОСКВА, ул ХЕРСОНСКАЯ, дом ДОМ 43, корпус КОРПУС 3</legalAddress>
+                        <postalAddress>117246, дом 43, корпус 3</postalAddress>
+                        <phone>7-495-9885807</phone>
+                        <fax>7-499-2719760</fax>
+                        <email>info@rusgeology.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>01427462</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Светлана</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Чередниченко</lastName>
+                    <phone>+7 (495) 9885807</phone>
+                    <email>sscherednichenko@rusgeology.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОСГЕОЛОГИЯ"</fullName>
+                            <shortName>АО "РОСГЕО"</shortName>
+                            <iko>57724294887772801001</iko>
+                            <inn>7724294887</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1047724014040</ogrn>
+                            <legalAddress>117246, г МОСКВА, ул ХЕРСОНСКАЯ, дом ДОМ 43, корпус КОРПУС 3</legalAddress>
+                            <postalAddress>117246, дом 43, корпус 3</postalAddress>
+                            <phone>7-495-9885807</phone>
+                            <fax>7-499-2719760</fax>
+                            <email>info@rusgeology.ru</email>
+                            <okato>45286575000</okato>
+                            <okpo>01427462</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:56:23</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>https://rosgeo.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>2e1520d3-b032-8b51-622b-07723bd8780f</guid>
+                        <createDateTime>2017-03-16T15:46:26</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115002</url>
+                    </document>
+                    <document>
+                        <guid>45c482fb-d282-57b2-78df-258989f46afb</guid>
+                        <createDateTime>2017-03-16T15:50:05</createDateTime>
+                        <fileName>Дог._непокр.БГ_251_финальная_корр.doc</fileName>
+                        <description>проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115003</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:56:23</ns2:modificationDate>
+                <ns2:saveUserId>203058</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>53ee9c98-42e3-7141-78f6-0bef2e7b1ffd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по предоставлению банковских гарантий 
+
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1307194.59</initialSum>
+                            <deliveryPlace>
+                                <address>в соответствии с условиями Договора</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bea91e43-dfd6-b9c4-e71c-83e09f236db1</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>64.19.30</code>
+                                        <name>Услуги по посредничеству в денежно-кредитной сфере прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>64.99</code>
+                                        <name>Предоставление прочих финансовых услуг, кроме услуг по страхованию и пенсионному обеспечению, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Оказание услуг по предоставлению банковских гарантий </additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160205126</planRegistrationNumber>
+                            <planGuid>d662ab1f-a79f-42e2-b132-17f34bc02293</planGuid>
+                            <positionNumber>147</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>44e76603-e11d-4c5f-ba60-16b33278b97f</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

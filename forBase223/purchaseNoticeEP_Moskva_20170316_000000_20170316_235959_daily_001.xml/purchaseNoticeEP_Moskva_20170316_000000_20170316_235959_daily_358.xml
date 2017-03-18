@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>00ad4437-3849-4897-bc69-479365642c10</guid>
+        <createDateTime>2017-03-16T18:05:10</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>bb7c1ed3-55c8-410b-b5f3-2a477a167ca4</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>bb7c1ed3-55c8-410b-b5f3-2a477a167ca4</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:53:27</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888196</ns2:urlOOS>
+                <ns2:registrationNumber>31704899859</ns2:registrationNumber>
+                <ns2:name>Услуги по реализации Билетов на мероприятия Принципала в рамках участия Принципала в акции Агента, приуроченной к празднованию Всемирного дня театра - 27.03.2017г.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Федеральное государственное бюджетное учреждение культуры "Российский государственный академический молодежный театр"</fullName>
+                        <shortName>РАМТ</shortName>
+                        <iko>87707035829770701001</iko>
+                        <inn>7707035829</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1037739196747</ogrn>
+                        <legalAddress>125009, Москва, Театральная, дом 2</legalAddress>
+                        <postalAddress>125009, г. Москва, Театральная площадь, д. 2</postalAddress>
+                        <phone>7-495-6920150</phone>
+                        <fax>7-495-6920154</fax>
+                        <email>contract.ramt@mail.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>02190460</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Федеральное государственное бюджетное учреждение культуры "Российский государственный академический молодежный театр"</fullName>
+                        <shortName>РАМТ</shortName>
+                        <iko>87707035829770701001</iko>
+                        <inn>7707035829</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1037739196747</ogrn>
+                        <legalAddress>125009, Москва, Театральная, дом 2</legalAddress>
+                        <postalAddress>125009, г. Москва, Театральная площадь, д. 2</postalAddress>
+                        <phone>7-495-6920150</phone>
+                        <fax>7-495-6920154</fax>
+                        <email>contract.ramt@mail.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>02190460</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 6920241</phone>
+                    <email>contract.ramt@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Федеральное государственное бюджетное учреждение культуры "Российский государственный академический молодежный театр"</fullName>
+                            <shortName>РАМТ</shortName>
+                            <iko>87707035829770701001</iko>
+                            <inn>7707035829</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1037739196747</ogrn>
+                            <legalAddress>125009, Москва, Театральная, дом 2</legalAddress>
+                            <postalAddress>125009, г. Москва, Театральная площадь, д. 2</postalAddress>
+                            <phone>7-495-6920150</phone>
+                            <fax>7-495-6920154</fax>
+                            <email>contract.ramt@mail.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>02190460</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:05:10</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>37603135-08f9-4802-bcd3-d4ba2a05b30f</guid>
+                        <createDateTime>2017-03-16T18:04:24</createDateTime>
+                        <fileName>Проект договора.doc</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120372</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:05:10</ns2:modificationDate>
+                <ns2:saveUserId>260737</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>f0791d03-c38c-4e43-bb46-6bc34e395635</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Услуги по реализации Билетов на мероприятия Принципала в рамках участия Принципала в акции Агента, приуроченной к празднованию Всемирного дня театра - 27.03.2017г.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>100000.00</initialSum>
+                            <orderPricing>6% от цены каждого реализованного Агентом Билета</orderPricing>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Интернет-ресурс Агента </address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>779bcac9-5913-428a-a644-7f44975218a9</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>79.90.39.110</code>
+                                        <name>Услуги по бронированию билетов на культурно-развлекательные мероприятия</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>79.90.3</code>
+                                        <name>Деятельность по предоставлению туристических услуг, связанных с бронированием</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>п.4.2.30. раздела II Положения о закупке товаров, работ, услуг для нужд РАМТ, утв. Приказом МК РФ от 21.03.2014г., № 490</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>true</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

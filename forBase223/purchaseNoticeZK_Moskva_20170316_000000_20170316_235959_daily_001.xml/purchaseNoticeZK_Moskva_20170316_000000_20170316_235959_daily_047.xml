@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>da934e87-1ff4-4e97-8efa-a41e8f08eb8c</guid>
+        <createDateTime>2017-03-16T18:14:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>bd9a6c6c-b7e9-4196-be5a-686b4a73f845</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>bd9a6c6c-b7e9-4196-be5a-686b4a73f845</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:09:21</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888260</ns2:urlOOS>
+                <ns2:registrationNumber>31704899892</ns2:registrationNumber>
+                <ns2:name>Техническое обслуживание холодильной установки СД  (Хоккейный) и  СК (Крытый летний  каток).</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ "ЦЕНТРАЛЬНЫЙ СПОРТИВНЫЙ КЛУБ АРМИИ"</fullName>
+                        <shortName>ФАУ МО РФ ЦСКА</shortName>
+                        <iko>57714317863771401001</iko>
+                        <inn>7714317863</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1037714063078</ogrn>
+                        <legalAddress>125167, г МОСКВА, пр-кт ЛЕНИНГРАДСКИЙ, дом 39, корпус 29</legalAddress>
+                        <postalAddress>125167, Москва Город, Ленинградский Проспект, дом 39, строение 29</postalAddress>
+                        <phone>7-495-6134545</phone>
+                        <email>dalevan@cska.ru</email>
+                        <okato>45277598000</okato>
+                        <okpo>07659239</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>филиал Федерального автономного учреждения Министерства обороны Российской Федерации "Центральный спортивный клуб Армии" (СКА, г. Санкт-Петербург)</fullName>
+                        <shortName>филиал ФАУ МО РФ ЦСКА (СКА, г. Санкт-Петербург)</shortName>
+                        <iko>57714317863784143001</iko>
+                        <inn>7714317863</inn>
+                        <kpp>784143001</kpp>
+                        <ogrn>1037714063078</ogrn>
+                        <legalAddress>191011, г. Санкт-Петербург, ул. Инженерная д.13</legalAddress>
+                        <postalAddress>125167, Москва Город, Ленинградский Проспект, дом 39, строение 29</postalAddress>
+                        <phone>7-812-5705222</phone>
+                        <email>dalevan@cska.ru</email>
+                        <okato>40298561000</okato>
+                        <okpo>07884083</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Сергей</firstName>
+                    <middleName>Станиславович</middleName>
+                    <lastName>Чуриков</lastName>
+                    <phone>+7 (812) 3148063</phone>
+                    <email>mto-spb@cska.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ "ЦЕНТРАЛЬНЫЙ СПОРТИВНЫЙ КЛУБ АРМИИ"</fullName>
+                            <shortName>ФАУ МО РФ ЦСКА</shortName>
+                            <iko>57714317863771401001</iko>
+                            <inn>7714317863</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1037714063078</ogrn>
+                            <legalAddress>125167, г МОСКВА, пр-кт ЛЕНИНГРАДСКИЙ, дом 39, корпус 29</legalAddress>
+                            <postalAddress>125167, Москва Город, Ленинградский Проспект, дом 39, строение 29</postalAddress>
+                            <phone>7-495-6134545</phone>
+                            <email>dalevan@cska.ru</email>
+                            <okato>45277598000</okato>
+                            <okpo>07659239</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:14:27</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>191011, Санкт-Петербург, улица Инженерная, дом 13, кабинет 60</place>
+                    <procedure>В соответствии с Документацией о Закупке</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>653c7e15-7b6c-4706-90dd-5ea581536398</guid>
+                        <createDateTime>2017-03-16T18:13:26</createDateTime>
+                        <fileName>Документация-ТО ХУ Хоккейный и КЛК.docx</fileName>
+                        <description>Документация-ТО ХУ Хоккейный и КЛК</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120562</url>
+                    </document>
+                    <document>
+                        <guid>11731ede-9cb9-4bf7-a9b4-ff2029150de5</guid>
+                        <createDateTime>2017-03-16T18:13:32</createDateTime>
+                        <fileName>Приложение №1 к Техническому заданию.doc</fileName>
+                        <description>Приложение №1 к Техническому заданию</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120564</url>
+                    </document>
+                    <document>
+                        <guid>c180160d-f1f1-4c58-8d77-7be4c05f5266</guid>
+                        <createDateTime>2017-03-16T18:13:39</createDateTime>
+                        <fileName>Приложение1-Техническое задание ТО ХУ Хоккейный и КЛК.doc</fileName>
+                        <description>Приложение1-Техническое задание ТО ХУ Хоккейный и КЛК</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120566</url>
+                    </document>
+                    <document>
+                        <guid>ae652537-b486-4e3f-8944-ff462d69e199</guid>
+                        <createDateTime>2017-03-16T18:13:45</createDateTime>
+                        <fileName>Приложение2-Проект договора ТО и ХУ Хоккейный и КЛК.doc</fileName>
+                        <description>Приложение2-Проект договора ТО и ХУ Хоккейный и КЛК</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120567</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:14:27</ns2:modificationDate>
+                <ns2:saveUserId>241701</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>3d09912b-d3bf-4632-bf9c-99a3607e5932</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>ТО холодильной установки СД (Хоккейный), СК (Крытый летний каток)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>485667.00</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Санкт-Петербург</region>
+                                <regionOkato>40000000000</regionOkato>
+                                <address>-г. Санкт-Петербург, Ждановская наб., дом 2, СД (Хоккейный);
+-г. Санкт- Петербург, Московский пр., дом 17, СК (Крытый летний каток)
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1aaef64a-c1b9-45b0-82a1-b1ee520298f8</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.18.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию небытового холодильного и вентиляционного оборудования</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>18</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210394</planRegistrationNumber>
+                            <planGuid>e9beac23-1fb4-4797-bb5f-b5e9269eba87</planGuid>
+                            <positionNumber>166</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>12630697-718f-45ec-a635-425c7fa276dc</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>191011, Санкт-Петербург, улица Инженерная, дом 13, кабинет 60</ns2:quotationExaminationPlace>
+                <ns2:submissionCloseDateTime>2017-03-22T09:15:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

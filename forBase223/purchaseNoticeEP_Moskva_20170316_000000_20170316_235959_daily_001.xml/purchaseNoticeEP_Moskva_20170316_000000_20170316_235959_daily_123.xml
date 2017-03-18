@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>66bdf54d-d0ba-44ab-8801-5507f5c2d6f9</guid>
+        <createDateTime>2017-03-16T16:48:57</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>b088af9d-f6ef-4ce0-965c-cc35d8f95ee8</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>b088af9d-f6ef-4ce0-965c-cc35d8f95ee8</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:42:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887627</ns2:urlOOS>
+                <ns2:registrationNumber>31704899366</ns2:registrationNumber>
+                <ns2:name>Временный прием в техническое обслуживание кабельных линий и сетевых сооружений (трансформаторных подстанций, распределительных подстанций и специальных подземных сооружений)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ ПО КОСМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ "РОСКОСМОС"</fullName>
+                        <shortName>ГОСКОРПОРАЦИЯ "РОСКОСМОС"</shortName>
+                        <iko>57702388027770201001</iko>
+                        <inn>7702388027</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1157700012502</ogrn>
+                        <legalAddress>129110, Г МОСКВА, УЛ ЩЕПКИНА, дом ДОМ 42, корпус СТРОЕНИЕ 1, 2</legalAddress>
+                        <postalAddress>107996, дом 42</postalAddress>
+                        <phone>7-495-6319444</phone>
+                        <fax>7-495-6319900</fax>
+                        <email>smev@roscosmos.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>00084008</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ ПО КОСМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ "РОСКОСМОС"</fullName>
+                        <shortName>ГОСКОРПОРАЦИЯ "РОСКОСМОС"</shortName>
+                        <iko>57702388027770201001</iko>
+                        <inn>7702388027</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1157700012502</ogrn>
+                        <legalAddress>129110, Г МОСКВА, УЛ ЩЕПКИНА, дом ДОМ 42, корпус СТРОЕНИЕ 1, 2</legalAddress>
+                        <postalAddress>107996, дом 42</postalAddress>
+                        <phone>7-495-6319444</phone>
+                        <fax>7-495-6319900</fax>
+                        <email>smev@roscosmos.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>00084008</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Александр</firstName>
+                    <middleName>Иванович</middleName>
+                    <lastName>Борисов</lastName>
+                    <phone>+7 (495) 7802244, доб.: 2124</phone>
+                    <email>zakupka@roscosmos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ ПО КОСМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ "РОСКОСМОС"</fullName>
+                            <shortName>ГОСКОРПОРАЦИЯ "РОСКОСМОС"</shortName>
+                            <iko>57702388027770201001</iko>
+                            <inn>7702388027</inn>
+                            <kpp>770201001</kpp>
+                            <ogrn>1157700012502</ogrn>
+                            <legalAddress>129110, Г МОСКВА, УЛ ЩЕПКИНА, дом ДОМ 42, корпус СТРОЕНИЕ 1, 2</legalAddress>
+                            <postalAddress>107996, дом 42</postalAddress>
+                            <phone>7-495-6319444</phone>
+                            <fax>7-495-6319900</fax>
+                            <email>smev@roscosmos.ru</email>
+                            <okato>45286570000</okato>
+                            <okpo>00084008</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:48:57</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>2029c8b8-5cac-4725-92a2-b8237855d60a</guid>
+                        <createDateTime>2017-03-16T16:44:50</createDateTime>
+                        <fileName>Техническое задание.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117572</url>
+                    </document>
+                    <document>
+                        <guid>dabbb360-192a-46ae-bba4-418a993237ec</guid>
+                        <createDateTime>2017-03-16T16:44:25</createDateTime>
+                        <fileName>Извещение_Единственный поставщик.doc</fileName>
+                        <description>Извещение_Единственный поставщик</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117544</url>
+                    </document>
+                    <document>
+                        <guid>1feb0980-dc95-4ce9-9fc8-91e3ba611fd9</guid>
+                        <createDateTime>2017-03-16T16:47:19</createDateTime>
+                        <fileName>Договор.doc</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117709</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:48:57</ns2:modificationDate>
+                <ns2:saveUserId>193848</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>2dcf04ce-1ee5-45f7-95ec-c1ba024fc18a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Временный прием в техническое обслуживание кабельных линий и сетевых сооружений (трансформаторных подстанций, распределительных подстанций и специальных подземных сооружений)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>395976.42</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>abbe1e1d-53db-495f-9d5b-9d9bd0cfe2ad</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>35.11.10</code>
+                                        <name>Электроэнергия</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.11.1</code>
+                                        <name>Производство электроэнергии тепловыми электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160204751</planRegistrationNumber>
+                            <planGuid>9456dd8b-f7f9-4d11-83cf-4810c71c2e4b</planGuid>
+                            <positionNumber>163</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d6b5c8af-553b-4f6d-9038-8e07aec9139a</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

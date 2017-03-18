@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>81d73413-0cd7-492f-bf6e-6acd97c4092d</guid>
+        <createDateTime>2017-03-16T17:28:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>280b513c-6760-4692-a1b9-eb70cd55afd9</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>280b513c-6760-4692-a1b9-eb70cd55afd9</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:24:50</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888021</ns2:urlOOS>
+                <ns2:registrationNumber>31704899701</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по организации  и проведению 5-дневных военных учебных сборов с лицами, направленными ФГБОУ ВО "РЭУ им. Г.В. Плеханова"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                        <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                        <iko>87705043493770501001</iko>
+                        <inn>7705043493</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1037700012008</ogrn>
+                        <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                        <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                        <phone>7-499-2374114</phone>
+                        <email>eis@rea.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>02068686</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                        <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                        <iko>87705043493770501001</iko>
+                        <inn>7705043493</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1037700012008</ogrn>
+                        <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                        <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                        <phone>7-499-2374114</phone>
+                        <email>eis@rea.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>02068686</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9581746</phone>
+                    <email>monitoring@rea.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                            <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                            <iko>87705043493770501001</iko>
+                            <inn>7705043493</inn>
+                            <kpp>770501001</kpp>
+                            <ogrn>1037700012008</ogrn>
+                            <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                            <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                            <phone>7-499-2374114</phone>
+                            <email>eis@rea.ru</email>
+                            <okato>45286560000</okato>
+                            <okpo>02068686</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:28:27</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>fbabfcca-8d07-4f6f-91e6-5d8b06aac217</guid>
+                        <createDateTime>2017-03-16T17:27:50</createDateTime>
+                        <fileName>Договор2.docx</fileName>
+                        <description>Договор2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119386</url>
+                    </document>
+                    <document>
+                        <guid>ccd01356-7041-49c1-9ff9-eaca944f2caa</guid>
+                        <createDateTime>2017-03-16T17:26:16</createDateTime>
+                        <fileName>Извещение и Документация.doc</fileName>
+                        <description>Извещение и Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119340</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:28:27</ns2:modificationDate>
+                <ns2:saveUserId>184474</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>b3e7e8e0-f469-410a-9e7e-4318cf9b5f88</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по организации  и проведению 5-дневных военных учебных сборов с лицами, направленными ФГБОУ ВО "РЭУ им. Г.В. Плеханова"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>192000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>Московская область, Раменский район, пос. Зюзино  (в/ч № 75384)</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>82948936-fe87-4d1b-9b64-d84d25cad422</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>85.41.93.000</code>
+                                        <name>Услуги в области дополнительного образования вспомогательные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>85.41</code>
+                                        <name>Образование дополнительное детей и взрослых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Оказание услуг по организации  и проведению 5-дневных военных учебных сборов с лицами, направленными ФГБОУ ВО "РЭУ им. Г.В. Плеханова"</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209814</planRegistrationNumber>
+                            <planGuid>5fca74db-2996-4a12-bba4-6b9bc0a9758f</planGuid>
+                            <positionNumber>680</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>12090d15-6034-41c2-b1ed-5699cd86483f</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

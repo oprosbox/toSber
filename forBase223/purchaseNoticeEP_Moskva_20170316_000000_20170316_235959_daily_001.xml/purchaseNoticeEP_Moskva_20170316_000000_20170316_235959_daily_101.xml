@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>6bea8f2d-f98d-44c8-8323-6a1725613351</guid>
+        <createDateTime>2017-03-16T15:29:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>85758859-bbcd-40ca-aa94-bea86258f6c2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>85758859-bbcd-40ca-aa94-bea86258f6c2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:24:38</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886765</ns2:urlOOS>
+                <ns2:registrationNumber>31704898598</ns2:registrationNumber>
+                <ns2:name>Оказание образовательных услуг (кровельщик-альпинист)  </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</shortName>
+                        <iko>87733904240773301001</iko>
+                        <inn>7733904240</inn>
+                        <kpp>773301001</kpp>
+                        <ogrn>5147746421169</ogrn>
+                        <legalAddress>125480, Г МОСКВА, УЛ ГЕРОЕВ ПАНФИЛОВЦЕВ, дом ДОМ 7, корпус КОРПУС 5</legalAddress>
+                        <postalAddress>125480, Москва Город, Героев Панфиловцев Улица, дом 7, корпус 5</postalAddress>
+                        <phone>7-495-4943511</phone>
+                        <fax>7-495-4954264</fax>
+                        <email>dez_priemnaya@mail.ru</email>
+                        <okato>45283573000</okato>
+                        <okpo>29041646</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</shortName>
+                        <iko>87733904240773301001</iko>
+                        <inn>7733904240</inn>
+                        <kpp>773301001</kpp>
+                        <ogrn>5147746421169</ogrn>
+                        <legalAddress>125480, Г МОСКВА, УЛ ГЕРОЕВ ПАНФИЛОВЦЕВ, дом ДОМ 7, корпус КОРПУС 5</legalAddress>
+                        <postalAddress>125480, Москва Город, Героев Панфиловцев Улица, дом 7, корпус 5</postalAddress>
+                        <phone>7-495-4943511</phone>
+                        <fax>7-495-4954264</fax>
+                        <email>dez_priemnaya@mail.ru</email>
+                        <okato>45283573000</okato>
+                        <okpo>29041646</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Максим</firstName>
+                    <middleName>Михайлович</middleName>
+                    <lastName>Козлов</lastName>
+                    <phone>+8 (495) 4959487</phone>
+                    <email>stzakupki@yandex.ru   </email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СЕВЕРНОЕ ТУШИНО"</shortName>
+                            <iko>87733904240773301001</iko>
+                            <inn>7733904240</inn>
+                            <kpp>773301001</kpp>
+                            <ogrn>5147746421169</ogrn>
+                            <legalAddress>125480, Г МОСКВА, УЛ ГЕРОЕВ ПАНФИЛОВЦЕВ, дом ДОМ 7, корпус КОРПУС 5</legalAddress>
+                            <postalAddress>125480, Москва Город, Героев Панфиловцев Улица, дом 7, корпус 5</postalAddress>
+                            <phone>7-495-4943511</phone>
+                            <fax>7-495-4954264</fax>
+                            <email>dez_priemnaya@mail.ru</email>
+                            <okato>45283573000</okato>
+                            <okpo>29041646</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:29:52</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>c39c869b-baa1-47a1-987d-ad8585bd2db3</guid>
+                        <createDateTime>2017-03-16T15:28:59</createDateTime>
+                        <fileName>Отчет о нецелесообразности ОУ-АЛ.doc</fileName>
+                        <description>Отчет о нецелесообразности ОУ-АЛ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113467</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:29:52</ns2:modificationDate>
+                <ns2:saveUserId>213646</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>c5bb6d2a-9235-4d94-a8ce-e50530e1821f</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по прохождению переаттестации сотрудников (кровельщик-альпинист)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>6000.00</initialSum>
+                            <deliveryPlace>
+                                <address>Место проведения обучения: 109377, Москва г, Академика Скрябина ул, дом № 9, строение 4.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1e659c87-fcf4-4fda-90a0-4cfc02307129</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>85.42.19</code>
+                                        <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>85.42</code>
+                                        <name>Образование профессиональное дополнительное</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>792</code>
+                                        <name>Человек</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224536</planRegistrationNumber>
+                            <planGuid>c29d768a-73f9-435b-a937-b6f8ed87755a</planGuid>
+                            <positionNumber>29</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2bffe9d8-060e-4da2-a7b1-8e9a1ce38f67</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

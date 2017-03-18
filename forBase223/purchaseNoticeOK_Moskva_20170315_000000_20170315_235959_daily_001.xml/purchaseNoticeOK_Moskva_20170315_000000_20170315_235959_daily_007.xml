@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeOK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d985b014-ac47-4d28-a073-58940ce789bb</guid>
+        <createDateTime>2017-03-15T16:35:59</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>31af30eb-54ec-4bf2-a8ba-33ae51acf5fe</guid>
+            <ns2:purchaseNoticeOKData>
+                <ns2:guid>31af30eb-54ec-4bf2-a8ba-33ae51acf5fe</ns2:guid>
+                <ns2:createDateTime>2017-03-15T16:09:17</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5880164</ns2:urlOOS>
+                <ns2:registrationNumber>31704893505</ns2:registrationNumber>
+                <ns2:name>Открытый конкурс на право заключения договора  на выполнение работ по созданию автоматизированной системы управления дорожным движением для объекта: «Линия вдоль Калужского шоссе на территории Большой Москвы (Парламентский центр, район «Коммунарка»). Линия метрополитена станция метро «Улица Новаторов» - станция метро «Столбово». Этап: «Подготовка территории». 1.4 этап: Станционный комплекс«Улица Новаторов», включая оборотные тупики и соединительную ветку с третьим пересадочным контуром. Переоборудование светофорных объектов и переустройство АСУДД (строительная площадка №1)»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                        <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                        <iko>59701021862770101001</iko>
+                        <inn>9701021862</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>5157746085173</ogrn>
+                        <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                        <phone>7-495-2251940-1074</phone>
+                        <fax>7-495-6250256</fax>
+                        <email>institute@mosinzhproekt.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>42953493</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3359</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                        <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                        <iko>59701021862770101001</iko>
+                        <inn>9701021862</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>5157746085173</ogrn>
+                        <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                        <phone>7-495-2251940-1074</phone>
+                        <fax>7-495-6250256</fax>
+                        <email>institute@mosinzhproekt.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>42953493</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <middleName>Бахтияровна</middleName>
+                    <lastName>Юсифова</lastName>
+                    <phone>+7 (495) 6250256</phone>
+                    <email>YsifovaOB@mosinzhproekt.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                            <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                            <iko>59701021862770101001</iko>
+                            <inn>9701021862</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>5157746085173</ogrn>
+                            <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                            <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                            <phone>7-495-2251940-1074</phone>
+                            <fax>7-495-6250256</fax>
+                            <email>institute@mosinzhproekt.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>42953493</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-15T16:35:58</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-17</deliveryEndDateTime>
+                    <place>г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект", каб.А-217    </place>
+                    <procedure>Конкурсная документация предоставляется без взимания платы по адресу Заказчика: 101000, г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект", каб. А-217     или с официального сайта www.zakupki.gov.ru.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>fa756a0f-692f-4de7-af9d-f826631c27b6</guid>
+                        <createDateTime>2017-03-15T16:33:18</createDateTime>
+                        <fileName>28-0317-ОК-М5.pdf</fileName>
+                        <description>28-0317-ОК-М5</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30082682</url>
+                    </document>
+                    <document>
+                        <guid>e1583596-7d9b-4792-a70a-c45922868cc1</guid>
+                        <createDateTime>2017-03-15T16:26:29</createDateTime>
+                        <fileName>локальные сметы.pdf</fileName>
+                        <description>локальные сметы</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30082367</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-15T16:35:58</ns2:modificationDate>
+                <ns2:saveUserId>188491</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5d2c708a-af1c-49e9-894b-f5a43a7d45ff</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по созданию автоматизированной системы управления дорожным движением для объекта: Линия вдоль Калужского шоссе на территории Большой Москвы (Парламентский центр, район «Коммунарка»). Линия метрополитена станция метро «Улица Новаторов» - станция метро «Столбово». Этап: «Подготовка территории». 1.4 этап: Станционный комплекс «Улица Новаторов», включая оборотные тупики и соединительную ветку с третьим пересадочным контуром. Переоборудование светофорных объектов и переустройство АСУДД (строительная площадка №1)»</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1115040.54</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект"</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>3a4bc8ed-171b-4445-8f6b-c9ece5f542f2</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>41.10.10.000</code>
+                                        <name>Документация проектная для строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>41.10</code>
+                                        <name>Разработка строительных проектов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160189482</planRegistrationNumber>
+                            <planGuid>2c0ea19a-7293-4090-83b3-faef33d8f16e</planGuid>
+                            <positionNumber>157</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>82a05dcc-3244-4f46-9d92-746f786dfdf9</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:examinationPlace>г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект", каб.А-301     </ns2:examinationPlace>
+                <ns2:examinationDateTime>2017-04-20T10:00:00</ns2:examinationDateTime>
+                <ns2:envelopeOpeningPlace>г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект", каб.А-301     </ns2:envelopeOpeningPlace>
+                <ns2:envelopeOpeningTime>2017-04-18T10:30:00</ns2:envelopeOpeningTime>
+                <ns2:summingupPlace>г.Москва, Сверчков переулок, дом 4/1, строение 1, офис ООО "Институт "Мосинжпроект", каб.А-301     </ns2:summingupPlace>
+                <ns2:summingupTime>2017-04-24T10:00:00</ns2:summingupTime>
+                <ns2:submissionCloseDateTime>2017-04-18T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-15</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeOKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeOK>

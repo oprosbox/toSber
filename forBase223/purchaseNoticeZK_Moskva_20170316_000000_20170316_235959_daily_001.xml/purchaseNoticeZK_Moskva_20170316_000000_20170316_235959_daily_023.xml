@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>326f39cd-c9a3-4409-8825-bc2ddaf5196b</guid>
+        <createDateTime>2017-03-16T17:52:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f6c91aae-b0e5-4753-b4a5-5a1a15e4199b</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>f6c91aae-b0e5-4753-b4a5-5a1a15e4199b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:48:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888168</ns2:urlOOS>
+                <ns2:registrationNumber>31704899810</ns2:registrationNumber>
+                <ns2:name>Поставка мясопродуктов (фарш натуральный, вырезка свиная, колбаса домашняя, печень, язык, филе куриное, окорок свиной и др.)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ УНИВЕРСИТЕТ "МЭИ"</fullName>
+                        <shortName>ФГБОУ ВО "НИУ "МЭИ"</shortName>
+                        <iko>87722019652772201001</iko>
+                        <inn>7722019652</inn>
+                        <kpp>772201001</kpp>
+                        <ogrn>1027700251644</ogrn>
+                        <legalAddress>111250, Г МОСКВА, УЛ КРАСНОКАЗАРМЕННАЯ, дом ДОМ 14</legalAddress>
+                        <postalAddress>111250, г. Москва, ул. Красноказарменная, д. 14</postalAddress>
+                        <phone>7-495-3627911</phone>
+                        <fax>7-495-3627911</fax>
+                        <email>RogalevND@mpei.ru</email>
+                        <okato>45290564000</okato>
+                        <okpo>02066411</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Филиал федерального государственного образовательного учреждения высшего образования "Национальный исследовательский университет "МЭИ" в г. Смоленске</fullName>
+                        <inn>7722019652</inn>
+                        <kpp>673002001</kpp>
+                        <ogrn>1027700251644</ogrn>
+                        <legalAddress>214013, г. Смоленск, Энергетический проезд, д.1</legalAddress>
+                        <postalAddress>214013, г. Смоленск, Энергетический проезд, д.1</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Филиал федерального государственного образовательного учреждения высшего образования "Национальный исследовательский университет "МЭИ" в г. Смоленске</fullName>
+                        <shortName>филиал ФГБОУ ВО "НИУ "МЭИ" в г. Смоленске</shortName>
+                        <iko>87722019652673002001</iko>
+                        <inn>7722019652</inn>
+                        <kpp>673002001</kpp>
+                        <ogrn>1027700251644</ogrn>
+                        <legalAddress>214013, г. Смоленск, Энергетический проезд, д.1</legalAddress>
+                        <postalAddress>214013, г. Смоленск, Энергетический проезд, д.1</postalAddress>
+                        <phone>7-4812-667957</phone>
+                        <email>RogalevND@mpei.ru</email>
+                        <okato>66401000000</okato>
+                        <okpo>02066701</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Марина </firstName>
+                    <middleName>Дмитриевна</middleName>
+                    <lastName>Божанова</lastName>
+                    <phone>+7 (4812) 667957</phone>
+                    <email>sfmeiord@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ УНИВЕРСИТЕТ "МЭИ"</fullName>
+                            <shortName>ФГБОУ ВО "НИУ "МЭИ"</shortName>
+                            <iko>87722019652772201001</iko>
+                            <inn>7722019652</inn>
+                            <kpp>772201001</kpp>
+                            <ogrn>1027700251644</ogrn>
+                            <legalAddress>111250, Г МОСКВА, УЛ КРАСНОКАЗАРМЕННАЯ, дом ДОМ 14</legalAddress>
+                            <postalAddress>111250, г. Москва, ул. Красноказарменная, д. 14</postalAddress>
+                            <phone>7-495-3627911</phone>
+                            <fax>7-495-3627911</fax>
+                            <email>RogalevND@mpei.ru</email>
+                            <okato>45290564000</okato>
+                            <okpo>02066411</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:52:19</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>г. Смоленск, Энергетический проезд, 1(3 эт., каб. 334)</place>
+                    <procedure>Прием заявок осуществляется пн.-чт. с 09:00 до 17:00, в пятницу с 09:00 до 16:00, с перерывом с 13:00 до 14:00 (по московскому времени).Заявка на участие в запросе котировок принимается в письменной форме в запечатанном конверте по приложению 1 к настоящей документации.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>9870ffeb-c1e1-48d6-a5a2-ac6f66cccea7</guid>
+                        <createDateTime>2017-03-16T17:51:16</createDateTime>
+                        <fileName>Извещение с приложениями МЯСО.doc</fileName>
+                        <description>Извещение с приложениями МЯСО</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120074</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:52:19</ns2:modificationDate>
+                <ns2:saveUserId>115249</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>293343ff-138d-4dec-a3e2-d7a50e7869ae</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка мясопродуктов (фарш натуральный, вырезка свиная, колбаса домашняя, печень, язык, филе куриное, окорок свиной и др.)
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>438170.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Смоленская   обл</region>
+                                <regionOkato>66000000000</regionOkato>
+                                <address>г. Смоленск, Энергетический проезд, 1 (столовая)</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>6ad3414b-0e9c-45c6-bda1-f7826975f82b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.13.14.110</code>
+                                        <name>Изделия колбасные вареные, в том числе фаршированные мясные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>10.13</code>
+                                        <name>Производство продукции из мяса убойных животных и мяса птицы</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Согласно техническому заданию.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160194540</planRegistrationNumber>
+                            <planGuid>8ee22ea5-95ba-4df6-88ab-be3f005b47b3</planGuid>
+                            <positionNumber>23</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>84411702-5413-4ead-ad5b-0e63653f8fa7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-24T09:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>г. Смоленск, Энергетический проезд, 1</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Заявка на участие в запросе котировок принимается в письменной форме в запечатанном конверте по приложению 1 к настоящей документации.</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-23T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

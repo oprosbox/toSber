@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b73bd041-456c-49ac-8c05-d8ca64d9ebbf</guid>
+        <createDateTime>2017-03-16T18:35:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>adad085c-7b53-4cf1-b739-713e99047973</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>adad085c-7b53-4cf1-b739-713e99047973</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:26:58</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888316</ns2:urlOOS>
+                <ns2:registrationNumber>31704899958</ns2:registrationNumber>
+                <ns2:name>Поставка директ-боксов и аудио рекордера</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ПЛАНЕТАРИЙ"</fullName>
+                        <shortName>АО "ПЛАНЕТАРИЙ"</shortName>
+                        <iko>57709679191770301001</iko>
+                        <inn>7709679191</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1067746624659</ogrn>
+                        <legalAddress>123242, Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, дом 5, корпус СТР.1</legalAddress>
+                        <postalAddress>123242Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, 5, СТР.1</postalAddress>
+                        <phone>84952217690 доб.2048</phone>
+                        <email>info@planetarium-moscow.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>05032128</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ПЛАНЕТАРИЙ"</fullName>
+                        <shortName>АО "ПЛАНЕТАРИЙ"</shortName>
+                        <iko>57709679191770301001</iko>
+                        <inn>7709679191</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1067746624659</ogrn>
+                        <legalAddress>123242, Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, дом 5, корпус СТР.1</legalAddress>
+                        <postalAddress>123242Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, 5, СТР.1</postalAddress>
+                        <phone>84952217690 доб.2048</phone>
+                        <email>info@planetarium-moscow.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>05032128</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Иван</firstName>
+                    <middleName>Андреевич</middleName>
+                    <lastName>Косарев</lastName>
+                    <phone>+7 (495) 2217690, доб.: 2048</phone>
+                    <fax>+7 (495) 2217692</fax>
+                    <email>i.kosarev@planetarium-moscow.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ПЛАНЕТАРИЙ"</fullName>
+                            <shortName>АО "ПЛАНЕТАРИЙ"</shortName>
+                            <iko>57709679191770301001</iko>
+                            <inn>7709679191</inn>
+                            <kpp>770301001</kpp>
+                            <ogrn>1067746624659</ogrn>
+                            <legalAddress>123242, Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, дом 5, корпус СТР.1</legalAddress>
+                            <postalAddress>123242Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, 5, СТР.1</postalAddress>
+                            <phone>84952217690 доб.2048</phone>
+                            <email>info@planetarium-moscow.ru</email>
+                            <okato>45286575000</okato>
+                            <okpo>05032128</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:35:19</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>Документация о закупке доступна для ознакомления до срока окончания подачи заявок в ЕИС – https://zakupki.gov.ru, без взимания платы.</place>
+                    <procedure>Документация о закупке доступна для ознакомления до срока окончания подачи заявок в ЕИС – https://zakupki.gov.ru, без взимания платы.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>ca107d2a-0b53-41a8-865f-750a0fb303ac</guid>
+                        <createDateTime>2017-03-16T18:33:29</createDateTime>
+                        <fileName>Документация ЗК Директ-бокс,рекордер.docx</fileName>
+                        <description>Документация ЗК Директ-бокс,рекордер</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120792</url>
+                    </document>
+                    <document>
+                        <guid>cba837f5-f0e3-4436-8217-196e8234abda</guid>
+                        <createDateTime>2017-03-16T18:33:32</createDateTime>
+                        <fileName>Обоснование начальной (максимальной) цены Договора.rtf</fileName>
+                        <description>Обоснование начальной (максимальной) цены Договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120793</url>
+                    </document>
+                    <document>
+                        <guid>a1cbf0d4-de61-4451-9111-6d10e3ac0b27</guid>
+                        <createDateTime>2017-03-16T18:33:35</createDateTime>
+                        <fileName>проект договора.doc</fileName>
+                        <description>проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120794</url>
+                    </document>
+                    <document>
+                        <guid>b2748726-a13b-4dc6-b125-b343bd2a6c99</guid>
+                        <createDateTime>2017-03-16T18:33:38</createDateTime>
+                        <fileName>Техническое задание Директ бокс,рекордер.docx</fileName>
+                        <description>Техническое задание Директ бокс,рекордер</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120796</url>
+                    </document>
+                    <document>
+                        <guid>57df42a6-4431-49d1-8d5e-5022da0dd4fc</guid>
+                        <createDateTime>2017-03-16T18:33:41</createDateTime>
+                        <fileName>Форма котировочной заявки.docx</fileName>
+                        <description>Форма котировочной заявки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120798</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:35:19</ns2:modificationDate>
+                <ns2:saveUserId>254807</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>342aa2ef-dbba-43b2-baf0-e137ca1f79f2</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка директ-боксови аудио рекордера </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>86297.67</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>123242, г. Москва, ул. Садовая-Кудринская, д. 5, стр. 1
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>231b036a-07cb-4af5-86a6-295e42d69ec1</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.40.31.190</code>
+                                        <name>Аппаратура для воспроизведения звука прочая</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26</code>
+                                        <name>Производство компьютеров, электронных и оптических изделий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>true</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-24T12:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>123242, г. Москва, ул. Садовая-Кудринская, дом 5, стр.1, конференц-зал Московского планетария</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>В соответствии с документацией</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-23T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

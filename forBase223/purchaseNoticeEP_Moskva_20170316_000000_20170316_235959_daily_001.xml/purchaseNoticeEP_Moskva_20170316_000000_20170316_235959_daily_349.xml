@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>ae3744c2-9e13-401b-b665-782cf7524fb6</guid>
+        <createDateTime>2017-03-16T17:10:53</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58ca3b75-5679-8d0c-e100-00000a388ca5</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>58ca3b75-5679-8d0c-e100-00000a388ca5</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:09:16</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887912</ns2:urlOOS>
+                <ns2:urlVSRZ>https://zakupki.gazprom.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899571</ns2:registrationNumber>
+                <ns2:name>Трубопроводная арматура</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Татьяна</firstName>
+                    <middleName>Петровна</middleName>
+                    <lastName>Шалимова</lastName>
+                    <phone>+7 (499) 5802123</phone>
+                    <email>TShalimova@komplekt.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                            <shortName>ООО "Газпром комплектация"</shortName>
+                            <iko>67740000044773601001</iko>
+                            <inn>7740000044</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1027700501113</ogrn>
+                            <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                            <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                            <phone>7-495-6315782</phone>
+                            <email>komplekt@komplekt.gazprom.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>05030632</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:10:53</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>58ca21c2-8ec4-33f1-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T17:09:16</createDateTime>
+                        <fileName>ДОКУМЕНТАЦИЯ.doc</fileName>
+                        <description>ДОКУМЕНТАЦИЯ.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118807</url>
+                    </document>
+                    <document>
+                        <guid>58ca21c3-8ec4-33f1-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T17:09:16</createDateTime>
+                        <fileName>Форма 34-Извещение о проведении.doc</fileName>
+                        <description>Форма 34-Извещение о проведении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118808</url>
+                    </document>
+                    <document>
+                        <guid>58ca21c4-8ec4-33f1-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T17:09:16</createDateTime>
+                        <fileName>Договор поставки оплата по факту.doc</fileName>
+                        <description>Договор поставки оплата по факту.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118809</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:10:53</ns2:modificationDate>
+                <ns2:saveUserId>206753</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58caf08c-99bd-ecb5-e100-00000a388ca5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка трубопроводной арматуры</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>25311181.55</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58ca216d-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca216e-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca216f-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2170-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2171-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2172-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2173-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2174-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2175-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2176-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2177-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2178-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2179-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217a-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217b-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217c-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217d-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>17</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217e-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>18</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca217f-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>19</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2180-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>20</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2181-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>21</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2182-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>22</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2183-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>23</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2184-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>24</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2185-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>25</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2186-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>26</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2187-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>27</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2188-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>28</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2189-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>29</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218a-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>30</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218b-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>31</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218c-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>32</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218d-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>33</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218e-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>34</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca218f-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>35</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2190-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>36</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2191-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>37</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2192-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>38</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2193-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>39</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2194-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>40</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2195-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>41</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2196-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>42</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2197-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>43</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2198-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>44</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca2199-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>45</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219a-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>46</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219b-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>47</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219c-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>48</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219d-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>49</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219e-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>50</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca219f-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>51</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a0-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>52</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a1-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>53</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a2-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>54</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a3-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>55</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a4-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>56</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a5-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>57</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a6-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>58</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a7-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>59</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a8-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>60</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21a9-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>61</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21aa-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>62</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21ab-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>63</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21ac-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>64</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21ad-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>65</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21ae-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>66</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21af-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>67</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b0-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>68</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b1-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>69</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b2-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>70</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b3-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>71</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b4-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>72</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>7</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b5-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>73</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b6-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>74</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b7-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>75</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b8-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>76</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21b9-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>77</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21ba-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>78</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21bb-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>79</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21bc-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>80</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21bd-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>81</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21be-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>82</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21bf-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>83</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21c0-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>84</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58ca21c1-8ec4-33f1-e100-00000a388ca5</guid>
+                                    <ordinalNumber>85</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>65f8f22d-8916-44d2-86c6-876ac125ccf2</planGuid>
+                            <positionNumber>189</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58c7bb92-e6cd-147b-e100-00000a388ca6</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

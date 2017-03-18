@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>23742e2c-f8a4-46d1-910f-da25d4cb3d9d</guid>
+        <createDateTime>2017-03-16T10:13:01</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>ff9f589c-d8a9-4a7a-845f-aee96c080a0f</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>ff9f589c-d8a9-4a7a-845f-aee96c080a0f</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:03:32</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883157</ns2:urlOOS>
+                <ns2:registrationNumber>31704895763</ns2:registrationNumber>
+                <ns2:name>Услуги связи дляНовоуральского технологического института – филиала НИЯУ МИФИ (НТИ НИЯУ МИФИ)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЯДЕРНЫЙ УНИВЕРСИТЕТ "МИФИ"</fullName>
+                        <shortName>НИЯУ МИФИ</shortName>
+                        <iko>57724068140772401001</iko>
+                        <inn>7724068140</inn>
+                        <kpp>772401001</kpp>
+                        <ogrn>1037739366477</ogrn>
+                        <legalAddress>115409, г МОСКВА, ш КАШИРСКОЕ, дом 31</legalAddress>
+                        <postalAddress>115409, Москва, Каширское шоссе, дом 31</postalAddress>
+                        <phone>7-495-7885699-9129</phone>
+                        <email>TBGuseva@mephi.ru</email>
+                        <okato>45296569000</okato>
+                        <okpo>02066569</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Новоуральский технологический институт – филиал  федерального государственного автономного образовательного учреждения высшего образования «Национальный исследовательский ядерный университет «МИФИ» </fullName>
+                        <inn>7724068140</inn>
+                        <kpp>662943001</kpp>
+                        <ogrn>1037739366477</ogrn>
+                        <legalAddress>624130, Свердловская область, город Новоуральск, улица Ленина, дом 85</legalAddress>
+                        <postalAddress>624130, Свердловская область, город Новоуральск, улица Ленина, дом 85</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Новоуральский технологический институт – филиал  федерального государственного автономного образовательного учреждения высшего образования «Национальный исследовательский ядерный университет «МИФИ» </fullName>
+                        <shortName>НТИ НИЯУ МИФИ</shortName>
+                        <iko>57724068140662943001</iko>
+                        <inn>7724068140</inn>
+                        <kpp>662943001</kpp>
+                        <ogrn>1037739366477</ogrn>
+                        <legalAddress>624130, Свердловская область, город Новоуральск, улица Ленина, дом 85</legalAddress>
+                        <postalAddress>624130, Свердловская область, город Новоуральск, улица Ленина, дом 85</postalAddress>
+                        <phone>7-34370-91659</phone>
+                        <fax>7-34370-95025</fax>
+                        <email>TBGuseva@mephi.ru</email>
+                        <okato>65540000000</okato>
+                        <okpo>31386157</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <middleName>Михайловна</middleName>
+                    <lastName>Воронина</lastName>
+                    <phone>+7 (34370) 93835</phone>
+                    <email>nsti@mephi.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЯДЕРНЫЙ УНИВЕРСИТЕТ "МИФИ"</fullName>
+                            <shortName>НИЯУ МИФИ</shortName>
+                            <iko>57724068140772401001</iko>
+                            <inn>7724068140</inn>
+                            <kpp>772401001</kpp>
+                            <ogrn>1037739366477</ogrn>
+                            <legalAddress>115409, г МОСКВА, ш КАШИРСКОЕ, дом 31</legalAddress>
+                            <postalAddress>115409, Москва, Каширское шоссе, дом 31</postalAddress>
+                            <phone>7-495-7885699-9129</phone>
+                            <email>TBGuseva@mephi.ru</email>
+                            <okato>45296569000</okato>
+                            <okpo>02066569</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:13:01</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-01-01</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-12-31</deliveryEndDateTime>
+                    <place>см.прикрепленное извещение</place>
+                    <procedure>см.прикрепленное извещение</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>f930bbff-2cc3-4465-9e1c-4e70e55eb998</guid>
+                        <createDateTime>2017-03-16T10:11:45</createDateTime>
+                        <fileName>документация извещение.doc</fileName>
+                        <description>документация извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095815</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:13:01</ns2:modificationDate>
+                <ns2:saveUserId>197564</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>43ea95b8-3a24-4df6-aef4-c495b858a06f</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Услуги связи  для  Новоуральского технологического института – филиала НИЯУ МИФИ (НТИ НИЯУ МИФИ) 
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>381900.00</initialSum>
+                            <deliveryPlace>
+                                <state>Уральский федеральный округ</state>
+                                <region>Свердловская   обл</region>
+                                <regionOkato>65000000000</regionOkato>
+                                <address>624130, г. Новоуральск, ул. Ленина, д.85; ул. Первомайская, д. 107; ул. Герцена, д. 18</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b492703c-abb7-412d-9b66-313fa6506708</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>61.10.1</code>
+                                        <name>Услуги фиксированной телефонной связи</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>61.10.1</code>
+                                        <name>Деятельность по предоставлению услуг телефонной связи</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>9b72b894-cbaf-4b8e-ab09-3a523b622af6</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>61.10.20</code>
+                                        <name>Услуги операторов связи в сфере проводных телекоммуникаций</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>61.10</code>
+                                        <name>Деятельность в области связи на базе проводных технологий</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>163d71a0-6c26-4e7a-9967-a06ca0855a36</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>61.20</code>
+                                        <name>Услуги телекоммуникационные беспроводные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>61.20</code>
+                                        <name>Деятельность в области связи на базе беспроводных технологий</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>3</code>
+                                <name>Закупки, которые относятся к сфере деятельности субъектов естественных монополий в соответствии с Федеральным законом «О естественных монополиях»</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160204605</planRegistrationNumber>
+                            <planGuid>89d8ad5b-8dcc-49c5-9912-1bdfb781ac09</planGuid>
+                            <positionNumber>113</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>251e6069-3a48-4f7b-87f5-cbd7b606704b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

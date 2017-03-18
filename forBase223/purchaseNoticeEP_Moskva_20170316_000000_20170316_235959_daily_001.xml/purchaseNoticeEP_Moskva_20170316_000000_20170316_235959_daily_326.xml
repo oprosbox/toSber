@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3afa2a26-7642-464f-83ad-7edfadd2dd4c</guid>
+        <createDateTime>2017-03-16T15:48:39</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>33b769fb-cc61-4a6b-a85a-9cb56dd2695c</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>33b769fb-cc61-4a6b-a85a-9cb56dd2695c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:45:41</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887015</ns2:urlOOS>
+                <ns2:registrationNumber>31704898793</ns2:registrationNumber>
+                <ns2:name>Закупка стереомикроскопа бинокулярного типа для зондовой станции MPI ITS50COAX</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Федеральное государственное бюджетное учреждение науки Институт физической химии и электрохимии им. А.Н. Фрумкина Российской академии наук</fullName>
+                        <shortName>ИФХЭ РАН</shortName>
+                        <iko>87725046608772501001</iko>
+                        <inn>7725046608</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1037739294230</ogrn>
+                        <legalAddress>119991, Москва, Ленинский, дом 31, корпус 4</legalAddress>
+                        <postalAddress>119071, Москва Город, Ленинский Проспект, дом 31, корпус 4</postalAddress>
+                        <phone>7-495-9520062</phone>
+                        <fax>8-495-9525308</fax>
+                        <email>tender.phyche@yandex.ru</email>
+                        <okato>45000000000</okato>
+                        <okpo>02699292</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Федеральное государственное бюджетное учреждение науки Институт физической химии и электрохимии им. А.Н. Фрумкина Российской академии наук</fullName>
+                        <shortName>ИФХЭ РАН</shortName>
+                        <iko>87725046608772501001</iko>
+                        <inn>7725046608</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1037739294230</ogrn>
+                        <legalAddress>119991, Москва, Ленинский, дом 31, корпус 4</legalAddress>
+                        <postalAddress>119071, Москва Город, Ленинский Проспект, дом 31, корпус 4</postalAddress>
+                        <phone>7-495-9520062</phone>
+                        <fax>8-495-9525308</fax>
+                        <email>tender.phyche@yandex.ru</email>
+                        <okato>45000000000</okato>
+                        <okpo>02699292</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Владимир</firstName>
+                    <lastName>Малов</lastName>
+                    <phone>+7 (916) 0950701</phone>
+                    <email>vladimir.vl.malov@gmail.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Федеральное государственное бюджетное учреждение науки Институт физической химии и электрохимии им. А.Н. Фрумкина Российской академии наук</fullName>
+                            <shortName>ИФХЭ РАН</shortName>
+                            <iko>87725046608772501001</iko>
+                            <inn>7725046608</inn>
+                            <kpp>772501001</kpp>
+                            <ogrn>1037739294230</ogrn>
+                            <legalAddress>119991, Москва, Ленинский, дом 31, корпус 4</legalAddress>
+                            <postalAddress>119071, Москва Город, Ленинский Проспект, дом 31, корпус 4</postalAddress>
+                            <phone>7-495-9520062</phone>
+                            <fax>8-495-9525308</fax>
+                            <email>tender.phyche@yandex.ru</email>
+                            <okato>45000000000</okato>
+                            <okpo>02699292</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:48:39</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <place>Документация не предоставляется</place>
+                    <procedure>Заявки не подаются</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>f7690d67-ec14-441b-98f8-1a73b58127ef</guid>
+                        <createDateTime>2017-03-16T15:48:11</createDateTime>
+                        <fileName>Проект д-ра.doc</fileName>
+                        <description>Проект д-ра</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114681</url>
+                    </document>
+                    <document>
+                        <guid>5e3ccbcd-11ce-4160-a79e-560ebd50741b</guid>
+                        <createDateTime>2017-03-16T15:48:01</createDateTime>
+                        <fileName>Документация 16_ЕП_17.doc</fileName>
+                        <description>Документация 16_ЕП_17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114666</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:48:39</ns2:modificationDate>
+                <ns2:saveUserId>105893</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>26f3bbbc-ba50-4178-84dc-432be27803ba</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Закупка стеромикроскопа бинокулярного типа для зондовой станции MPI ITS50COAX
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>494455.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>119071, г. Москва, Ленинский проспект, д. 31, стр. 4</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>533029b1-4efe-481b-adb9-25e1f86916f8</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.70.2</code>
+                                        <name>Приборы оптические прочие и их части</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.70.2</code>
+                                        <name>Производство микроскопов (кроме электронных и протонных)</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Закупка стеромикроскопа бинокулярного типа для зондовой станции MPI ITS50COAX	Наличие подсветки, увеличение не менее 100 крат,модули сопряжения с зондовой станцией MPI ITS50COAX в комплекте
+</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160219069</planRegistrationNumber>
+                            <planGuid>24dab729-23ec-4c89-8514-b02fc940464d</planGuid>
+                            <positionNumber>27</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>0651e724-53ea-4848-b2a9-6df2f05d98e0</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

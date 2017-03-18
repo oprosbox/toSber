@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>a32a9116-06f1-4dc7-bae6-373e78b15259</guid>
+        <createDateTime>2017-03-16T12:06:51</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4ad82f54-b6dd-4a6b-8828-fd17ca7a0a87</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>4ad82f54-b6dd-4a6b-8828-fd17ca7a0a87</ns2:guid>
+                <ns2:createDateTime>2017-03-16T11:57:48</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5884452</ns2:urlOOS>
+                <ns2:registrationNumber>31704896797</ns2:registrationNumber>
+                <ns2:name>Изготовление проектной документации по выполненным переустройствам нежилого здания.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ"</fullName>
+                        <shortName>МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ, МОСКОВСКИЙ ПОЛИТЕХ, ПОЛИТЕХ</shortName>
+                        <iko>87719014460771901001</iko>
+                        <inn>7719455553</inn>
+                        <kpp>771901001</kpp>
+                        <ogrn>1167746817810</ogrn>
+                        <legalAddress>107023, Г МОСКВА, УЛ СЕМЁНОВСКАЯ Б., дом ДОМ 38</legalAddress>
+                        <postalAddress>107023 г. Москва, ул. Большая Семеновская, д.38</postalAddress>
+                        <phone>7-495-2230523-1240</phone>
+                        <email>rector@mospolytech.ru</email>
+                        <okato>45263588000</okato>
+                        <okpo>02068692</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ"</fullName>
+                        <shortName>МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ, МОСКОВСКИЙ ПОЛИТЕХ, ПОЛИТЕХ</shortName>
+                        <iko>87719014460771901001</iko>
+                        <inn>7719455553</inn>
+                        <kpp>771901001</kpp>
+                        <ogrn>1167746817810</ogrn>
+                        <legalAddress>107023, Г МОСКВА, УЛ СЕМЁНОВСКАЯ Б., дом ДОМ 38</legalAddress>
+                        <postalAddress>107023 г. Москва, ул. Большая Семеновская, д.38</postalAddress>
+                        <phone>7-495-2230523-1240</phone>
+                        <email>rector@mospolytech.ru</email>
+                        <okato>45263588000</okato>
+                        <okpo>02068692</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 2230523, доб.: 1140</phone>
+                    <email>torgi@mospolytech.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ"</fullName>
+                            <shortName>МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ, МОСКОВСКИЙ ПОЛИТЕХ, ПОЛИТЕХ</shortName>
+                            <iko>87719014460771901001</iko>
+                            <inn>7719455553</inn>
+                            <kpp>771901001</kpp>
+                            <ogrn>1167746817810</ogrn>
+                            <legalAddress>107023, Г МОСКВА, УЛ СЕМЁНОВСКАЯ Б., дом ДОМ 38</legalAddress>
+                            <postalAddress>107023 г. Москва, ул. Большая Семеновская, д.38</postalAddress>
+                            <phone>7-495-2230523-1240</phone>
+                            <email>rector@mospolytech.ru</email>
+                            <okato>45263588000</okato>
+                            <okpo>02068692</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T12:06:51</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>d04df152-cecf-4713-98e9-71b9b3363d47</guid>
+                        <createDateTime>2017-03-16T12:05:12</createDateTime>
+                        <fileName>Извещение_документация_ЕП_по_Положению .docx</fileName>
+                        <description>Извещение_документация_ЕП_по_Положению </description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30102070</url>
+                    </document>
+                    <document>
+                        <guid>87602dab-7fbb-4dbe-bf8a-33435d496978</guid>
+                        <createDateTime>2017-03-16T12:06:32</createDateTime>
+                        <fileName>Договор Проектная документация по выполненным переустройствам.docx</fileName>
+                        <description>Договор Проектная документация по выполненным переустройствам</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30102135</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T12:06:51</ns2:modificationDate>
+                <ns2:saveUserId>153814</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>4fda2b15-2f17-4465-a6c5-60ac2949781a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Изготовление проектной документации по выполненным переустройствам нежилого здания </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>499900.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, ул. Большая Семеновская, д.38, стр. 12</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e797a7a6-c94f-4df5-8f62-6866787b484e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.11.22.000</code>
+                                        <name>Услуги в области архитектуры, связанные с проектами строительства нежилых зданий и сооружений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.11</code>
+                                        <name>Деятельность в области архитектуры</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218948</planRegistrationNumber>
+                            <planGuid>1a7bb5a6-a329-4843-bfcd-acf1acf41dd2</planGuid>
+                            <positionNumber>85</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>1d9a29c2-3d10-4a5a-a39c-c12add3f3123</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

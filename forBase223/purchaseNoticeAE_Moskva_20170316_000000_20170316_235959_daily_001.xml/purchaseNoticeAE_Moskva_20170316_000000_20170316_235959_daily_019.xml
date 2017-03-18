@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>6c225717-dc9d-4182-bd29-66ca14047174</guid>
+        <createDateTime>2017-03-16T16:29:41</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>073be981-2f0f-8821-baeb-6b663f582cb4</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>073be981-2f0f-8821-baeb-6b663f582cb4</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:20:07</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887430</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286285</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899207</ns2:registrationNumber>
+                <ns2:name>Поставка оборудования для видеоконференцсвязи для нужд Объединения лесопромышленников России "Лесной Ковчег"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "КОВЧЕГ"</fullName>
+                        <shortName>ООО "КОВЧЕГ"</shortName>
+                        <iko>57736286584773601001</iko>
+                        <inn>7736286584</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>5167746487464</ogrn>
+                        <legalAddress>119331, Г МОСКВА, ПР-КТ ВЕРНАДСКОГО, дом ДОМ 29, офис (квартира) ПОМЕЩЕНИЕ I КОМНАТА 4А</legalAddress>
+                        <postalAddress>119331, г. Москва, пр-т Вернадского, д. 29, офис.4</postalAddress>
+                        <phone>7-495-1326356</phone>
+                        <email>ooo.kovcheeg@bk.ru</email>
+                        <okato>45000000000</okato>
+                        <okpo>06127109</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "КОВЧЕГ"</fullName>
+                        <shortName>ООО "КОВЧЕГ"</shortName>
+                        <iko>57736286584773601001</iko>
+                        <inn>7736286584</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>5167746487464</ogrn>
+                        <legalAddress>119331, Г МОСКВА, ПР-КТ ВЕРНАДСКОГО, дом ДОМ 29, офис (квартира) ПОМЕЩЕНИЕ I КОМНАТА 4А</legalAddress>
+                        <postalAddress>119331, г. Москва, пр-т Вернадского, д. 29, офис.4</postalAddress>
+                        <phone>7-495-1326356</phone>
+                        <email>ooo.kovcheeg@bk.ru</email>
+                        <okato>45000000000</okato>
+                        <okpo>06127109</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Артем</firstName>
+                    <middleName>Константинович</middleName>
+                    <lastName>Жданов</lastName>
+                    <phone>+7 (925) 0141516</phone>
+                    <email>Jdanov.Artem@lesnojkovcheg.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "КОВЧЕГ"</fullName>
+                            <shortName>ООО "КОВЧЕГ"</shortName>
+                            <iko>57736286584773601001</iko>
+                            <inn>7736286584</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>5167746487464</ogrn>
+                            <legalAddress>119331, Г МОСКВА, ПР-КТ ВЕРНАДСКОГО, дом ДОМ 29, офис (квартира) ПОМЕЩЕНИЕ I КОМНАТА 4А</legalAddress>
+                            <postalAddress>119331, г. Москва, пр-т Вернадского, д. 29, офис.4</postalAddress>
+                            <phone>7-495-1326356</phone>
+                            <email>ooo.kovcheeg@bk.ru</email>
+                            <okato>45000000000</okato>
+                            <okpo>06127109</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:29:41</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>98e3458b-6864-b012-4eef-d99d71faf662</guid>
+                        <createDateTime>2017-03-16T16:13:22</createDateTime>
+                        <fileName>Док-ция-Поставка_оборудования_для_видеоконференцсвязи.rar</fileName>
+                        <description>Док-ция-Поставка оборудования для видеоконференцсвязи</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116344</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:29:41</ns2:modificationDate>
+                <ns2:saveUserId>264093</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5ce526f8-6e9c-7354-7fc3-aa7aabd41c2b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка оборудования для видеоконференцсвязи</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>21481500.00</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b6e2c3ee-6d67-2081-6707-2a72a2061e0a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.20.18.000</code>
+                                        <name>Устройства периферийные с двумя или более функциями: печать данных, копирование, сканирование, прием и передача факсимильных сообщений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.20</code>
+                                        <name>Производство компьютеров и периферийного оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>15</qty>
+                                    <additionalInfo>Оборудования для видеоконференцсвязи</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170231284</planRegistrationNumber>
+                            <planGuid>ebb49744-89e4-853e-53dc-5c1ed1cbd8fc</planGuid>
+                            <positionNumber>5</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c18a03b7-cfc7-2032-4a41-f8c20a7050b8</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-03-24T12:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-03-23T12:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-03-23T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

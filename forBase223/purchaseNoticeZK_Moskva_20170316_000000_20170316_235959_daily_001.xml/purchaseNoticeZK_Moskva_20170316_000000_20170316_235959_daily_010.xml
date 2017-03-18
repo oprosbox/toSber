@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>7b0c716f-73cf-439b-a63d-fade485171a1</guid>
+        <createDateTime>2017-03-16T10:55:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a30c3199-6f5d-427d-9d7b-67396c70479e</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>a30c3199-6f5d-427d-9d7b-67396c70479e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:47:48</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883682</ns2:urlOOS>
+                <ns2:registrationNumber>31704896163</ns2:registrationNumber>
+                <ns2:name>Поставка материалов для обеспечения деятельности микробиологической лаборатории для нужд Псковского филиала ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту" </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634770101001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>8-499-2657679</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>76088820</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПСКОВСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>ПСКОВСКИЙ ФИЛИАЛ ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634602702001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>602702001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>180004, ПСКОВ, УЛ.ВОКЗАЛЬНАЯ, Д.15-Б</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>643-8112-752143</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>58401000000</okato>
+                        <okpo>74324830</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Анатольевна</middleName>
+                    <lastName>Григорович</lastName>
+                    <phone>+7 (8112) 290276</phone>
+                    <email>pskovfgus@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                            <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                            <iko>57701351634770101001</iko>
+                            <inn>7701351634</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1057701020816</ogrn>
+                            <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                            <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                            <phone>8-499-2657679</phone>
+                            <email>fcrw@mail.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>76088820</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:55:49</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>г. Псков, ул. Вокзальная, д. 15 б</place>
+                    <procedure>письменная форма в запечатанном конверте</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>33241c6c-ed11-4227-8c0b-c8802f241c31</guid>
+                        <createDateTime>2017-03-16T10:55:22</createDateTime>
+                        <fileName>Обоснование НМЦД.doc</fileName>
+                        <description>Обоснование НМЦД</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098244</url>
+                    </document>
+                    <document>
+                        <guid>d9783f34-08ec-4b73-a185-7a87e9c81e8a</guid>
+                        <createDateTime>2017-03-16T10:55:16</createDateTime>
+                        <fileName>Извещение 6 микробиология  на 2017.doc</fileName>
+                        <description>Извещение 6 микробиология  на 2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098233</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:55:49</ns2:modificationDate>
+                <ns2:saveUserId>185728</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>700d788c-4151-4ba5-9b5b-849f6c5e28ae</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка материалов для обеспечения деятельности микробиологической лаборатории для нужд Псковского филиала ФБУЗ "Центр гигиены и эпидемиологии по железнодорожному транспорту" </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>214675.33</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Псковская   обл</region>
+                                <regionOkato>58000000000</regionOkato>
+                                <address>г. Псков, ул. Вокзальная, д. 15 б</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>de3d28f7-a3ba-40c8-ae62-679515bc323a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.23.111</code>
+                                        <name>Препараты диагностические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20.2</code>
+                                        <name>Производство материалов, применяемых в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216745</planRegistrationNumber>
+                            <planGuid>718ac8a7-5acc-4816-8791-03f226fb5a5f</planGuid>
+                            <positionNumber>936</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>f4ea8440-8327-4db3-9f53-c2b37544e9cc</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-28T10:30:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>г. Псков, ул. Вокзальная, д. 15 б, кабинет главного врача</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>письменная форма в запечатанном конверте</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-27T15:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

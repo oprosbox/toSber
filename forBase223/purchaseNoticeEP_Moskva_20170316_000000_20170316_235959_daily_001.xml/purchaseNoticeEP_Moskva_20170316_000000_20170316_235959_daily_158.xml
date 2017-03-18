@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>0938aeae-bc36-4177-af20-0f3f4208b382</guid>
+        <createDateTime>2017-03-16T19:04:34</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d439e09d-b1ef-4365-a683-61283089f0ad</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>d439e09d-b1ef-4365-a683-61283089f0ad</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:54:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888377</ns2:urlOOS>
+                <ns2:registrationNumber>31704866478</ns2:registrationNumber>
+                <ns2:name>Поставка канцелярских товаров</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 51 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГАУЗ " СП № 51 ДЗМ"</shortName>
+                        <iko>57723001873772301001</iko>
+                        <inn>7723001873</inn>
+                        <kpp>772301001</kpp>
+                        <ogrn>1037739654545</ogrn>
+                        <legalAddress>109651, Г МОСКВА, УЛ ДОНЕЦКАЯ, дом 9</legalAddress>
+                        <postalAddress>109651, дом 9</postalAddress>
+                        <phone>7-499-3567451</phone>
+                        <fax>7-499-3567451</fax>
+                        <email>info@sp51.mosgorzdrav.ru</email>
+                        <okato>45290572000</okato>
+                        <okpo>16861715</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 51 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГАУЗ " СП № 51 ДЗМ"</shortName>
+                        <iko>57723001873772301001</iko>
+                        <inn>7723001873</inn>
+                        <kpp>772301001</kpp>
+                        <ogrn>1037739654545</ogrn>
+                        <legalAddress>109651, Г МОСКВА, УЛ ДОНЕЦКАЯ, дом 9</legalAddress>
+                        <postalAddress>109651, дом 9</postalAddress>
+                        <phone>7-499-3567451</phone>
+                        <fax>7-499-3567451</fax>
+                        <email>info@sp51.mosgorzdrav.ru</email>
+                        <okato>45290572000</okato>
+                        <okpo>16861715</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Наталья </firstName>
+                    <middleName>Алексеевна</middleName>
+                    <lastName>Ткачева</lastName>
+                    <phone>+7 (499) 3572241</phone>
+                    <fax>+7 (499) 3572241</fax>
+                    <email>sp51@zdrav.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 51 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГАУЗ " СП № 51 ДЗМ"</shortName>
+                            <iko>57723001873772301001</iko>
+                            <inn>7723001873</inn>
+                            <kpp>772301001</kpp>
+                            <ogrn>1037739654545</ogrn>
+                            <legalAddress>109651, Г МОСКВА, УЛ ДОНЕЦКАЯ, дом 9</legalAddress>
+                            <postalAddress>109651, дом 9</postalAddress>
+                            <phone>7-499-3567451</phone>
+                            <fax>7-499-3567451</fax>
+                            <email>info@sp51.mosgorzdrav.ru</email>
+                            <okato>45290572000</okato>
+                            <okpo>16861715</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:04:34</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <place>документация не предоставляется</place>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Уменьшение цены договора</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>bb2a2287-423e-4b3d-ae72-ecfec51e2eca</guid>
+                        <createDateTime>2017-03-16T19:03:36</createDateTime>
+                        <fileName>Извещение канцтовары.pdf</fileName>
+                        <description>Извещение канцтовары</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121077</url>
+                    </document>
+                    <document>
+                        <guid>2289f9ac-7e29-4fd3-8137-7a2ff656c2e7</guid>
+                        <createDateTime>2017-03-07T15:09:12</createDateTime>
+                        <fileName>Извещение канцтовары.pdf</fileName>
+                        <description>Извещение канцтовары</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121004</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:04:34</ns2:modificationDate>
+                <ns2:saveUserId>258543</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58d403dd-8e0b-4304-9ccb-f6128f7bc265</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка канцелярских товаров</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>296132.80</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>109651, г. Москва, ул. Донецкая, д.9</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>fbf6b6b2-d3b8-41a2-ba9c-0d89319c74a3</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>46.49.23.000</code>
+                                        <name>Услуги по оптовой торговле писчебумажными и канцелярскими товарами</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>32.99.9</code>
+                                        <name>Производство прочих изделий, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170228839</planRegistrationNumber>
+                            <planGuid>4ec0a5d4-9fa2-4462-b619-aaeefaf76dbd</planGuid>
+                            <positionNumber>22</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d7ee9297-9bb5-4e7d-8492-90689e2c06f0</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

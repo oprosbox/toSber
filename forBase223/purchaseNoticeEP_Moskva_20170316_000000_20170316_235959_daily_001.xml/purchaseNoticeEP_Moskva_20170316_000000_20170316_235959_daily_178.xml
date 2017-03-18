@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3a62d470-8f9f-4cf5-b34b-e4cecbe3f8f5</guid>
+        <createDateTime>2017-03-16T08:25:28</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>65136626-7a9c-435f-b189-24bb779489a1</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>65136626-7a9c-435f-b189-24bb779489a1</ns2:guid>
+                <ns2:createDateTime>2017-03-16T08:23:48</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882263</ns2:urlOOS>
+                <ns2:registrationNumber>31704895035</ns2:registrationNumber>
+                <ns2:name>страхование гражданской ответственности за причинение вреда третьи лицам</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</shortName>
+                        <iko>87704880121770401001</iko>
+                        <inn>7704880121</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>5147746341881</ogrn>
+                        <legalAddress>119048, г МОСКВА, ул ФРУНЗЕНСКАЯ 3-Я, дом 19</legalAddress>
+                        <postalAddress>119048, г.Москва, ул.3-я Фрунзенская, д.19</postalAddress>
+                        <phone>7-499-2425204</phone>
+                        <email>71.irina@mail.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>03324660</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</shortName>
+                        <iko>87704880121770401001</iko>
+                        <inn>7704880121</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>5147746341881</ogrn>
+                        <legalAddress>119048, г МОСКВА, ул ФРУНЗЕНСКАЯ 3-Я, дом 19</legalAddress>
+                        <postalAddress>119048, г.Москва, ул.3-я Фрунзенская, д.19</postalAddress>
+                        <phone>7-499-2425204</phone>
+                        <email>71.irina@mail.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>03324660</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ирина</firstName>
+                    <lastName>Чудинова</lastName>
+                    <phone>+8 (499) 2453026</phone>
+                    <email>71.irina@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА ХАМОВНИКИ"</shortName>
+                            <iko>87704880121770401001</iko>
+                            <inn>7704880121</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>5147746341881</ogrn>
+                            <legalAddress>119048, г МОСКВА, ул ФРУНЗЕНСКАЯ 3-Я, дом 19</legalAddress>
+                            <postalAddress>119048, г.Москва, ул.3-я Фрунзенская, д.19</postalAddress>
+                            <phone>7-499-2425204</phone>
+                            <email>71.irina@mail.ru</email>
+                            <okato>45286590000</okato>
+                            <okpo>03324660</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T08:25:28</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-12-31</deliveryEndDateTime>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>aef84dc0-9163-472c-be94-d5869ee0bd27</guid>
+                        <createDateTime>2017-03-16T08:25:15</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30091002</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T08:25:28</ns2:modificationDate>
+                <ns2:saveUserId>180204</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>aa5b9671-e0e7-4b31-a983-0932053238c3</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>страхование гражданской ответственности за причинение вреда третьи лицам</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>84331.97</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>3я Фрунзенская 19</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>741fd62a-5d78-47d3-bcfa-548f3e454700</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>65</code>
+                                        <name>Услуги по страхованию, перестрахованию и негосударственному пенсионному обеспечению, кроме обязательного социального обеспечения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>65.12.3</code>
+                                        <name>Страхование гражданской ответственности</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160203563</planRegistrationNumber>
+                            <planGuid>1ac16df4-9d86-4cae-a7e5-26daec8bac7d</planGuid>
+                            <positionNumber>21</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>82a3d942-ec05-4744-8aa5-d2e9132af169</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

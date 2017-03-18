@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>ead840ca-d17d-47b5-b651-331cf5488644</guid>
+        <createDateTime>2017-03-16T19:07:35</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>817ccbd2-4f29-4293-ba8e-260a0fc0a4b6</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>817ccbd2-4f29-4293-ba8e-260a0fc0a4b6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T19:05:14</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888395</ns2:urlOOS>
+                <ns2:registrationNumber>31704900016</ns2:registrationNumber>
+                <ns2:name>Выполнение работ по экспедированию грузов (оборудования) к месту монтажа на основании договора гражданско-правового характера с физическим лицом.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                        <shortName>ООО "ААТ"</shortName>
+                        <iko>57701324782770101001</iko>
+                        <inn>7701324782</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1037701007618</ogrn>
+                        <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                        <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                        <phone>7-495-7460110</phone>
+                        <fax>7-495-7460110</fax>
+                        <email>77010ic@host7.taxcom.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>13565784</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                        <shortName>ООО "ААТ"</shortName>
+                        <iko>57701324782770101001</iko>
+                        <inn>7701324782</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1037701007618</ogrn>
+                        <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                        <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                        <phone>7-495-7460110</phone>
+                        <fax>7-495-7460110</fax>
+                        <email>77010ic@host7.taxcom.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>13565784</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 7460110</phone>
+                    <email>tender@a-at.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                            <shortName>ООО "ААТ"</shortName>
+                            <iko>57701324782770101001</iko>
+                            <inn>7701324782</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1037701007618</ogrn>
+                            <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                            <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                            <phone>7-495-7460110</phone>
+                            <fax>7-495-7460110</fax>
+                            <email>77010ic@host7.taxcom.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>13565784</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:07:35</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>319bc70e-ef14-41d8-866a-f6976ad26db5</guid>
+                        <createDateTime>2017-03-16T19:06:03</createDateTime>
+                        <fileName>Izveschenie_o_zakupke_u_edinstvennogo_postavschika_092.pdf</fileName>
+                        <description>Izveschenie_o_zakupke_u_edinstvennogo_postavschika_092</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121085</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:07:35</ns2:modificationDate>
+                <ns2:saveUserId>34895</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>c040170e-2f55-46c4-bfcf-f204cd938155</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Работы по экспедированию грузов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>9640.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>141006, Московская область, г. Мытищи, пер. Рупасовский 2-й, д. 6а.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bbaf5f76-6ec8-4476-8747-30c608c332c1</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>52.29.19.110</code>
+                                        <name>Услуги по экспедированию грузов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>52.29</code>
+                                        <name>Деятельность вспомогательная прочая, связанная с перевозками</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170222443</planRegistrationNumber>
+                            <planGuid>109522df-a756-406b-b5d0-d0b7019116ef</planGuid>
+                            <positionNumber>378</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a29e5da1-cdbc-4b1d-ab94-7dc42c14640f</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

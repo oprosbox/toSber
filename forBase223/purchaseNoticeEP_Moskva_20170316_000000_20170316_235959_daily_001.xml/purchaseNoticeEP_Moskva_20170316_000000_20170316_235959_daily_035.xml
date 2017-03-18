@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>fb8566cf-99ab-4e41-a627-2697adcb4dec</guid>
+        <createDateTime>2017-03-16T11:06:14</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>dc12239e-3bf9-46c2-b71a-cf7f0daf1c85</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>dc12239e-3bf9-46c2-b71a-cf7f0daf1c85</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:58:18</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883818</ns2:urlOOS>
+                <ns2:registrationNumber>31704896269</ns2:registrationNumber>
+                <ns2:name>оказания услуг по информационно-технологическому взаимодействию при осуществлении переводов денежных средств в пользу ОАО «Центральная ППК» в оплату проездных документов с использованием программно-технических средств</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  "ЦЕНТРАЛЬНАЯ ПРИГОРОДНАЯ ПАССАЖИРСКАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ОАО "ЦЕНТРАЛЬНАЯ ППК"</shortName>
+                        <iko>57705705370770501001</iko>
+                        <inn>7705705370</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1057749440781</ogrn>
+                        <legalAddress>115054, Г МОСКВА, ПЛ ПАВЕЛЕЦКАЯ, дом 1А</legalAddress>
+                        <postalAddress>115054, Москва, Павелецкая, дом 1А </postalAddress>
+                        <phone>7-499-2660265</phone>
+                        <fax>7-499-2660255</fax>
+                        <email>info@central-ppk.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>93265553</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  "ЦЕНТРАЛЬНАЯ ПРИГОРОДНАЯ ПАССАЖИРСКАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ОАО "ЦЕНТРАЛЬНАЯ ППК"</shortName>
+                        <iko>57705705370770501001</iko>
+                        <inn>7705705370</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1057749440781</ogrn>
+                        <legalAddress>115054, Г МОСКВА, ПЛ ПАВЕЛЕЦКАЯ, дом 1А</legalAddress>
+                        <postalAddress>115054, Москва, Павелецкая, дом 1А </postalAddress>
+                        <phone>7-499-2660265</phone>
+                        <fax>7-499-2660255</fax>
+                        <email>info@central-ppk.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>93265553</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Давид</firstName>
+                    <middleName>Арнольдович</middleName>
+                    <lastName>Сафарян</lastName>
+                    <phone>+7 (499) 2660265, доб.: 7181</phone>
+                    <email>DSafaryan@central-ppk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  "ЦЕНТРАЛЬНАЯ ПРИГОРОДНАЯ ПАССАЖИРСКАЯ КОМПАНИЯ"</fullName>
+                            <shortName>ОАО "ЦЕНТРАЛЬНАЯ ППК"</shortName>
+                            <iko>57705705370770501001</iko>
+                            <inn>7705705370</inn>
+                            <kpp>770501001</kpp>
+                            <ogrn>1057749440781</ogrn>
+                            <legalAddress>115054, Г МОСКВА, ПЛ ПАВЕЛЕЦКАЯ, дом 1А</legalAddress>
+                            <postalAddress>115054, Москва, Павелецкая, дом 1А </postalAddress>
+                            <phone>7-499-2660265</phone>
+                            <fax>7-499-2660255</fax>
+                            <email>info@central-ppk.ru</email>
+                            <okato>45286560000</okato>
+                            <okpo>93265553</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:06:14</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>93597e78-f9b5-463d-a26d-3f4acf426c4c</guid>
+                        <createDateTime>2017-03-16T11:02:20</createDateTime>
+                        <fileName>Документация по ЕИ.docx</fileName>
+                        <description>Документация по ЕИ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098680</url>
+                    </document>
+                    <document>
+                        <guid>d9ea5b21-8a77-4fbf-a328-8d0fc32356c8</guid>
+                        <createDateTime>2017-03-16T11:02:24</createDateTime>
+                        <fileName>проект Договора.docx</fileName>
+                        <description>проект Договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098683</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:06:14</ns2:modificationDate>
+                <ns2:saveUserId>211334</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>630a3778-ccb0-435e-816d-a9a73a3b13a5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>оказания услуг по информационно-технологическому взаимодействию при осуществлении переводов денежных средств в пользу ОАО «Центральная ППК» в оплату проездных документов с использованием программно-технических средств</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1996000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>107078, Москва, ул. Новорязанская, д.18, стр. 22</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>96db87e0-d76d-493d-9ae6-ca822ef2a370</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>62.0</code>
+                                        <name>Продукты программные и услуги по разработке программного обеспечения; консультационные и аналогичные услуги в области информационных технологий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>62.0</code>
+                                        <name>Разработка компьютерного программного обеспечения, консультационные услуги в данной области и другие сопутствующие услуги</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160203372</planRegistrationNumber>
+                            <planGuid>07f04be1-12cd-429c-83b6-ac02f69329d8</planGuid>
+                            <positionNumber>161</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e737b918-bac8-446c-adf5-8005588f4555</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

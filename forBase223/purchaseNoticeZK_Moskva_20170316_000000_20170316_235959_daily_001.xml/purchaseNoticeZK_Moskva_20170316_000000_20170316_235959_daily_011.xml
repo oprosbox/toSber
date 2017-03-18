@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>10388519-ec0d-44b9-8ea4-860857280c55</guid>
+        <createDateTime>2017-03-16T11:06:32</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>95e858f0-38dc-4161-aaf7-7a8d50b807ca</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>95e858f0-38dc-4161-aaf7-7a8d50b807ca</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:51:51</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883727</ns2:urlOOS>
+                <ns2:registrationNumber>31704896271</ns2:registrationNumber>
+                <ns2:name>Поставка продуктовпитания (свинина, субпродукты) для нужд Комбината питания  Уральского института управления -филиала   РАНХиГС  
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                        <shortName>РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ, АКАДЕМИЯ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ, РАНХИГС, ФГБОУ ВО "РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ"</shortName>
+                        <iko>87729050901772901001</iko>
+                        <inn>7729050901</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>1027739610018</ogrn>
+                        <legalAddress>119571, Г МОСКВА, ПР-КТ ВЕРНАДСКОГО, дом 82</legalAddress>
+                        <postalAddress>119571, Москва Город, Вернадского Проспект, дом 82</postalAddress>
+                        <phone>7-499-9569230</phone>
+                        <email>kostrova@ranepa.ru</email>
+                        <okato>45268592000</okato>
+                        <okpo>00035106</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Уральский институт управления - филиал федерального государственного бюджетного образовательного учреждения высшего  образования "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации"</fullName>
+                        <inn>7729050901</inn>
+                        <kpp>667143001</kpp>
+                        <ogrn>1027739610018</ogrn>
+                        <legalAddress>. 620219, Свердловская область, г. Екатеринбург, ул. 8 Марта, 66</legalAddress>
+                        <postalAddress>119571, Москва Город, Вернадского Проспект, дом 82</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Уральский институт управления - филиал федерального государственного бюджетного образовательного учреждения высшего  образования "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации"</fullName>
+                        <shortName>Уральский институт управления - филиал РАНХиГС</shortName>
+                        <iko>87729050901667143001</iko>
+                        <inn>7729050901</inn>
+                        <kpp>667143001</kpp>
+                        <ogrn>1027739610018</ogrn>
+                        <legalAddress>. 620219, Свердловская область, г. Екатеринбург, ул. 8 Марта, 66</legalAddress>
+                        <postalAddress>119571, Москва Город, Вернадского Проспект, дом 82</postalAddress>
+                        <phone>7-499-9569230</phone>
+                        <email>kostrova@ranepa.ru</email>
+                        <okato>65401377000</okato>
+                        <okpo>92920694</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Наталия</firstName>
+                    <middleName>Николаевна</middleName>
+                    <lastName>Мадан</lastName>
+                    <phone>+7 (343) 2517764</phone>
+                    <email>natalya.madan@ui.ranepa.ru </email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                            <shortName>РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ, АКАДЕМИЯ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ, РАНХИГС, ФГБОУ ВО "РОССИЙСКАЯ АКАДЕМИЯ НАРОДНОГО ХОЗЯЙСТВА И ГОСУДАРСТВЕННОЙ СЛУЖБЫ ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ"</shortName>
+                            <iko>87729050901772901001</iko>
+                            <inn>7729050901</inn>
+                            <kpp>772901001</kpp>
+                            <ogrn>1027739610018</ogrn>
+                            <legalAddress>119571, Г МОСКВА, ПР-КТ ВЕРНАДСКОГО, дом 82</legalAddress>
+                            <postalAddress>119571, Москва Город, Вернадского Проспект, дом 82</postalAddress>
+                            <phone>7-499-9569230</phone>
+                            <email>kostrova@ranepa.ru</email>
+                            <okato>45268592000</okato>
+                            <okpo>00035106</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:06:32</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-28</deliveryEndDateTime>
+                    <place>официальный сайт ЕИС</place>
+                    <procedure>Документация предоставляется в форме электронного документа, размещенного  в ЕИС </procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>608ab6d6-bed3-43f0-8c3f-883147f7b399</guid>
+                        <createDateTime>2017-03-16T11:04:40</createDateTime>
+                        <fileName>03 ЗКТ-223 свинина 2017.docx</fileName>
+                        <description>03 ЗКТ-223 свинина 2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30098797</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:06:32</ns2:modificationDate>
+                <ns2:saveUserId>94778</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>8b653954-a7c7-459d-b02a-35020ba84305</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка продуктов питания (свинина, субпродукты) для нужд Комбината питания Уральского института управления – филиала РАНХиГС</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>570680.00</initialSum>
+                            <deliveryPlace>
+                                <state>Уральский федеральный округ</state>
+                                <region>Свердловская   обл</region>
+                                <regionOkato>65000000000</regionOkato>
+                                <address>Комбинат питания Уральского института управления – филиала РАНХиГС по адресу: 620144, г. Екатеринбург, ул. 8 Марта, 70</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>9770e9c1-d656-44fa-87ac-f8a113c81364</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.11.32.110</code>
+                                        <name>Свинина замороженная</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>10.11.3</code>
+                                        <name>Производство мяса и пищевых субпродуктов в замороженном виде</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>166</code>
+                                        <name>Килограмм</name>
+                                    </okei>
+                                    <qty>2000</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6b589ec0-1875-4df3-b941-1c43034f88d0</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.11.31.140</code>
+                                        <name>Субпродукты пищевые крупного рогатого скота замороженные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>10.11.3</code>
+                                        <name>Производство мяса и пищевых субпродуктов в замороженном виде</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>166</code>
+                                        <name>Килограмм</name>
+                                    </okei>
+                                    <qty>60</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170226670</planRegistrationNumber>
+                            <planGuid>1a0efcbf-ac79-48ab-9a2f-29ca014194bb</planGuid>
+                            <positionNumber>4</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d0895317-8542-4f97-8e97-44e60cdf51f0</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-29T09:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>Уральский институт управления – филиал РАНХ и ГС  по адресу: г. Екатеринбург, ул. 8 Марта, 66, комн. 12</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Котировочная заявка должна быть составлена в письменной форме и заверена подписью полномочного представителя участника размещения заказа и печатью. Форма заявки содержится в РАЗДЕЛ IV документации о проведении запроса котировок.</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-28T16:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

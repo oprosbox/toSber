@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>f1d485ef-38e4-4179-8fe6-1922a06d42da</guid>
+        <createDateTime>2017-03-16T12:04:10</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>380293a8-df97-4c1e-836e-898d128bcda2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>380293a8-df97-4c1e-836e-898d128bcda2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T11:54:32</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5884429</ns2:urlOOS>
+                <ns2:registrationNumber>31704896785</ns2:registrationNumber>
+                <ns2:name>
+на  оказание охранных услугпосредством выезда группы быстрого реагирования при   срабатывании охранной и тревожнойсигнализации
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</fullName>
+                        <shortName>ООО "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</shortName>
+                        <iko>67840306212770401001</iko>
+                        <inn>7840306212</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>1047855105650</ogrn>
+                        <legalAddress>108811, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАД 6, корпус СТРОЕН 1</legalAddress>
+                        <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 6, строение 1</postalAddress>
+                        <phone>7-499-5508883</phone>
+                        <email>Tatyana.Pronoza@RT.RU</email>
+                        <okato>45286590000</okato>
+                        <okpo>74764227</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</fullName>
+                        <shortName>ООО "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</shortName>
+                        <iko>67840306212770401001</iko>
+                        <inn>7840306212</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>1047855105650</ogrn>
+                        <legalAddress>108811, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАД 6, корпус СТРОЕН 1</legalAddress>
+                        <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 6, строение 1</postalAddress>
+                        <phone>7-499-5508883</phone>
+                        <email>Tatyana.Pronoza@RT.RU</email>
+                        <okato>45286590000</okato>
+                        <okpo>74764227</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <lastName>Небыкова</lastName>
+                    <phone>+7 (499) 5508883</phone>
+                    <email>Olga.Nebykova@rt.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</fullName>
+                            <shortName>ООО "РОСТЕЛЕКОМ - РОЗНИЧНЫЕ СИСТЕМЫ"</shortName>
+                            <iko>67840306212770401001</iko>
+                            <inn>7840306212</inn>
+                            <kpp>775101001</kpp>
+                            <ogrn>1047855105650</ogrn>
+                            <legalAddress>108811, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАД 6, корпус СТРОЕН 1</legalAddress>
+                            <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 6, строение 1</postalAddress>
+                            <phone>7-499-5508883</phone>
+                            <email>Tatyana.Pronoza@RT.RU</email>
+                            <okato>45286590000</okato>
+                            <okpo>74764227</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T12:04:10</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>adfd682a-2d98-4291-83d9-d680430a9d22</guid>
+                        <createDateTime>2017-03-16T11:59:54</createDateTime>
+                        <fileName>1.2. Приложение №2 - Проект договора.zip</fileName>
+                        <description>1.2. Приложение №2 - Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101748</url>
+                    </document>
+                    <document>
+                        <guid>f01d13d6-9977-4d73-9712-277d146bda8f</guid>
+                        <createDateTime>2017-03-16T11:59:35</createDateTime>
+                        <fileName>1. Извещение и документация.docx</fileName>
+                        <description>1. Извещение и документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101733</url>
+                    </document>
+                    <document>
+                        <guid>f00db018-9372-4488-80bd-2e710be6ab0d</guid>
+                        <createDateTime>2017-03-16T11:59:45</createDateTime>
+                        <fileName>1.1. Приложение №1 -Форма Информация о цепочке собственников претендента.xls</fileName>
+                        <description>1.1. Приложение №1 -Форма Информация о цепочке собственников претендента</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101740</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T12:04:10</ns2:modificationDate>
+                <ns2:saveUserId>260254</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>51c37964-6147-44e1-83d9-7fa594016624</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Услуги охранной и тревожной сигнализации</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>210000.00</initialSum>
+                            <deliveryPlace>
+                                <address>Дальневосточный федеральный округ, Камчатский край, г.Петропавловск-Камчатский, ул.Академика Королева, 29/1Дальневосточный федеральный округ, Приморский край, г.Владивосток, ул.Луговая, 18</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>3390e01a-4716-421d-bea4-e4a9f648e209</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>80.10.12.000</code>
+                                        <name>Услуги охраны</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>80.10</code>
+                                        <name>Деятельность частных охранных служб</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160207045</planRegistrationNumber>
+                            <planGuid>8553db46-55a8-6a62-5a2a-76038ad6bbb5</planGuid>
+                            <positionNumber>63</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>42c28a68-592f-8ea8-a209-45a523a059fd</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

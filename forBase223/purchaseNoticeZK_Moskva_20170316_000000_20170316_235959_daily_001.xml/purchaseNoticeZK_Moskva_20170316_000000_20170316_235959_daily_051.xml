@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>243cd789-eadb-4048-b9f4-91e86de066ed</guid>
+        <createDateTime>2017-03-16T16:45:55</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>1c5eb532-04d5-442c-9019-c96e85c6d3aa</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>1c5eb532-04d5-442c-9019-c96e85c6d3aa</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:23:25</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887464</ns2:urlOOS>
+                <ns2:registrationNumber>31704899334</ns2:registrationNumber>
+                <ns2:name>Поставка запасных частей к механизированной крепи 1М138КРУ для  ФГУП «ГТ «Арктикуголь»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>федеральное государственное унитарное предприятие "Государственный трест "Арктикуголь"</fullName>
+                        <shortName>ФГУП "ГТ "Арктикуголь"</shortName>
+                        <iko>57707050810770701001</iko>
+                        <inn>7707050810</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1025100861543</ogrn>
+                        <legalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</legalAddress>
+                        <postalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</postalAddress>
+                        <phone>7-495-6848480</phone>
+                        <fax>7-495-6848816</fax>
+                        <email>mts@arcticugol.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>05743556</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>федеральное государственное унитарное предприятие "Государственный трест "Арктикуголь"</fullName>
+                        <shortName>ФГУП "ГТ "Арктикуголь"</shortName>
+                        <iko>57707050810770701001</iko>
+                        <inn>7707050810</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1025100861543</ogrn>
+                        <legalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</legalAddress>
+                        <postalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</postalAddress>
+                        <phone>7-495-6848480</phone>
+                        <fax>7-495-6848816</fax>
+                        <email>mts@arcticugol.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>05743556</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Александр</firstName>
+                    <middleName>Сергеевич</middleName>
+                    <lastName>Кудлинский</lastName>
+                    <phone>+7 (495) 6848232</phone>
+                    <email>mts@arcticugol.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>федеральное государственное унитарное предприятие "Государственный трест "Арктикуголь"</fullName>
+                            <shortName>ФГУП "ГТ "Арктикуголь"</shortName>
+                            <iko>57707050810770701001</iko>
+                            <inn>7707050810</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1025100861543</ogrn>
+                            <legalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</legalAddress>
+                            <postalAddress>127473, Москва город, Волконский 2-й переулок, дом 8а</postalAddress>
+                            <phone>7-495-6848480</phone>
+                            <fax>7-495-6848816</fax>
+                            <email>mts@arcticugol.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>05743556</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:45:55</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>Вся необходимая документация о закупке представлена вместе с извещением о закупке в разделе в документы закупки и предоставляется бесплатно без ограничения.</place>
+                    <procedure>Документация о запросе котировок размещена на Официальном сайте Российской Федерации www.zakupki.gov.ru и доступна без взимания платы. Документация о запросе котировок на бумажном носителе выдается Организатором аукциона без взимания платы на основании письменного обращения заявителя.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>9592267d-3b5a-405a-8df4-cb49fda250a0</guid>
+                        <createDateTime>2017-03-16T16:37:07</createDateTime>
+                        <fileName>Извещение_запроса_котировок_з.ч.  1М138КРУ.pdf</fileName>
+                        <description>Извещение_запроса_котировок_з.ч.  1М138КРУ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117176</url>
+                    </document>
+                    <document>
+                        <guid>adf8c54a-4d7b-48bc-9027-93d34f7875d4</guid>
+                        <createDateTime>2017-03-16T16:42:10</createDateTime>
+                        <fileName>Форма_заявки_з.ч. 1М138КРУ.doc</fileName>
+                        <description>Форма_заявки_з.ч. 1М138КРУ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117419</url>
+                    </document>
+                    <document>
+                        <guid>73252581-b6df-4f30-af5c-707444a0aed6</guid>
+                        <createDateTime>2017-03-16T16:43:10</createDateTime>
+                        <fileName>Проект_договора_з.ч. 1М138КРУ.doc</fileName>
+                        <description>Проект_договора_з.ч. 1М138КРУ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117468</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:45:55</ns2:modificationDate>
+                <ns2:saveUserId>6225</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>2256d55f-a1a6-43ce-84ea-1b2ac2a5616e</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка запасных частей к механизированной крепи 1М138КРУ											
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2274796.00</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Западный федеральный округ</state>
+                                <region>Мурманская   обл</region>
+                                <regionOkato>47000000000</regionOkato>
+                                <address>Мурманск, 3-й Грузовой район, Мурманского морского торгового порта</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>eda907ee-854b-4e63-ba2b-48e9c7797bdb</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92.61.120</code>
+                                        <name>Комплектующие (запасные части) машин для выемки грунта, не имеющие самостоятельных группировок</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92.1</code>
+                                        <name>Производство оборудования для добычи полезных ископаемых подземным способом</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2586</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216689</planRegistrationNumber>
+                            <planGuid>2f0df6b5-5cd4-4f89-b83b-17ec060ef71a</planGuid>
+                            <positionNumber>21</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e2da02e2-6b0a-4925-b817-3ff30a79ef4d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>127473, Москва, 2-ой Волконский переулок, 8а</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>представлена в разделе документы закупки</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-21T15:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

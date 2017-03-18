@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b0c96243-4139-4a0d-8e7b-8a98b21cb940</guid>
+        <createDateTime>2017-03-16T16:15:53</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>18e44bfe-dc00-47d5-a409-e4cbf54e92b4</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>18e44bfe-dc00-47d5-a409-e4cbf54e92b4</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:57:20</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887157</ns2:urlOOS>
+                <ns2:registrationNumber>31704899061</ns2:registrationNumber>
+                <ns2:name>Закупка контрольно-кассовой техники, обеспечивающей передачу оператору фискальных данных каждого кассового чека или бланка строгой отчетности в электронной форме </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "КНИЖНАЯ ЭКСПЕДИЦИЯ УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                        <shortName>ФГУП "КНИЖНАЯ ЭКСПЕДИЦИЯ"</shortName>
+                        <iko>57710038499771001001</iko>
+                        <inn>7710038499</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037739307341</ogrn>
+                        <legalAddress>103705, Г МОСКВА, УЛ ВАРВАРКА, дом 9, офис (квартира) ПОД.15</legalAddress>
+                        <postalAddress>103132, Москва Город, Варварка Улица, дом 9, корпус -, строение -</postalAddress>
+                        <phone>7-495-6065294</phone>
+                        <fax>7-495-6062913</fax>
+                        <email>kniga15@bk.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58066073</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "КНИЖНАЯ ЭКСПЕДИЦИЯ УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                        <shortName>ФГУП "КНИЖНАЯ ЭКСПЕДИЦИЯ"</shortName>
+                        <iko>57710038499771001001</iko>
+                        <inn>7710038499</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037739307341</ogrn>
+                        <legalAddress>103705, Г МОСКВА, УЛ ВАРВАРКА, дом 9, офис (квартира) ПОД.15</legalAddress>
+                        <postalAddress>103132, Москва Город, Варварка Улица, дом 9, корпус -, строение -</postalAddress>
+                        <phone>7-495-6065294</phone>
+                        <fax>7-495-6062913</fax>
+                        <email>kniga15@bk.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58066073</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юлия</firstName>
+                    <middleName>Михайловна</middleName>
+                    <lastName>Рыжикова</lastName>
+                    <phone>+8 (495) 6062902</phone>
+                    <email>Rizhikova@books-expedition.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "КНИЖНАЯ ЭКСПЕДИЦИЯ УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                            <shortName>ФГУП "КНИЖНАЯ ЭКСПЕДИЦИЯ"</shortName>
+                            <iko>57710038499771001001</iko>
+                            <inn>7710038499</inn>
+                            <kpp>771001001</kpp>
+                            <ogrn>1037739307341</ogrn>
+                            <legalAddress>103705, Г МОСКВА, УЛ ВАРВАРКА, дом 9, офис (квартира) ПОД.15</legalAddress>
+                            <postalAddress>103132, Москва Город, Варварка Улица, дом 9, корпус -, строение -</postalAddress>
+                            <phone>7-495-6065294</phone>
+                            <fax>7-495-6062913</fax>
+                            <email>kniga15@bk.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>58066073</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:15:53</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>103132, г. Москва, ул. Варварка, д. 9, под. 15, кабинет 106</place>
+                    <procedure>Заявки на участие в запросе котировок подаются в письменной форме в запечатанном конверте, не позволяющем просматривать содержание такой заявки. Подача заявок в электронной форме в Единой информационной системе в настоящее время технически не возможна. Заявки подаются в рабочие дня с 9-00 до 18-00 (пятница с 9-00 до 16-45). При доставки заявок нарочным рекомендуется предварительно связаться с контактным лицом по телефону 8 (495) 606-29-20. Заявки на участие в запросе котировок, поданные после окончания срока подачи таких заявок, указанного в извещении, не рассматриваются и в день их поступления возвращаются лицам, подавшим такие заявки. Форма заявки в "Приложении № 2 форма заявки" (вкладка документация)</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>585029a8-efcf-4401-97d0-a19d0e48a5a3</guid>
+                        <createDateTime>2017-03-16T16:11:58</createDateTime>
+                        <fileName>Приложение №2 Форма заявки.docx</fileName>
+                        <description>Приложение №2 Форма заявки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115936</url>
+                    </document>
+                    <document>
+                        <guid>92cd182c-68f6-4a89-bd90-1c611dc7e0ed</guid>
+                        <createDateTime>2017-03-16T16:12:37</createDateTime>
+                        <fileName>Ф2_Кассы.xlsx</fileName>
+                        <description>Ф2_Кассы</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115972</url>
+                    </document>
+                    <document>
+                        <guid>c44bdab1-6864-4c48-ab4c-15c131cf407b</guid>
+                        <createDateTime>2017-03-16T16:11:46</createDateTime>
+                        <fileName>Приложение 1. Технические характеристики поставляемого Товара.docx</fileName>
+                        <description>Приложение 1. Технические характеристики поставляемого Товара</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115924</url>
+                    </document>
+                    <document>
+                        <guid>e662ae8c-0a8e-47e8-a8f1-268ad743d693</guid>
+                        <createDateTime>2017-03-16T16:11:38</createDateTime>
+                        <fileName>НМЦК_кассы.xlsx</fileName>
+                        <description>НМЦК_кассы</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115909</url>
+                    </document>
+                    <document>
+                        <guid>58156e58-b549-4afb-84e8-f201cc839f91</guid>
+                        <createDateTime>2017-03-16T16:11:27</createDateTime>
+                        <fileName>Договор поставки ККТ.doc</fileName>
+                        <description>Договор поставки ККТ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115894</url>
+                    </document>
+                    <document>
+                        <guid>c548ddb0-f88e-4e0a-87a3-d9fece3fd84e</guid>
+                        <createDateTime>2017-03-16T16:12:20</createDateTime>
+                        <fileName>Техническое задание.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115965</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:15:53</ns2:modificationDate>
+                <ns2:saveUserId>246478</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>ce134f01-603b-4891-a684-008b9b93695d</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Покупка  кассовых аппаратов, подключаемых к сети передачи данных</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>854999.99</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>103132, г. Москва, ул. Варварка, д. 9, под. 15</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>c7a4b6ca-b438-492f-bcab-f1a6fbe57e7f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.20.12.110</code>
+                                        <name>Терминалы кассовые, подключаемые к компьютеру или сети передачи данных</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.20</code>
+                                        <name>Производство компьютеров и периферийного оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>18</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170225942</planRegistrationNumber>
+                            <planGuid>0f39f4bd-26d2-4b3f-9967-36d1e60a91d0</planGuid>
+                            <positionNumber>5</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>72432704-637e-4850-bb76-19ad74928e30</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>103132, г. Москва, ул. Варварка, д. 9, под. 15., кабинет 106</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Заявки на участие в запросе котировок подаются в письменной форме в запечатанном конверте, не позволяющем просматривать содержание такой заявки. Подача заявок в электронной форме в Единой информационной системе в настоящее время технически не возможна. Заявки подаются в рабочие дня с 9-00 до 18-00 (пятница с 9-00 до 16-45). При доставки заявок нарочным рекомендуется предварительно связаться с контактным лицом по телефону 8 (495) 606-29-20. Заявки на участие в запросе котировок, поданные после окончания срока подачи таких заявок, указанного в извещении, не рассматриваются и в день их поступления возвращаются лицам, подавшим такие заявки. Форма заявки в "Приложении № 2 форма заявки" (вкладка документация)</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-22T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

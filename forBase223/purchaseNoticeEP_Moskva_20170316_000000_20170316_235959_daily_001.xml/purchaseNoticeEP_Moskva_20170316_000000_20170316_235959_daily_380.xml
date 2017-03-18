@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>77c55d99-3c83-478f-adbd-49769e02873e</guid>
+        <createDateTime>2017-03-16T15:07:05</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>32d8f967-39c2-400d-ad4d-18fb91b0c125</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>32d8f967-39c2-400d-ad4d-18fb91b0c125</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:05:59</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886545</ns2:urlOOS>
+                <ns2:registrationNumber>31704898359</ns2:registrationNumber>
+                <ns2:name>закупка лекарственных средств</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР РОССИЙСКОЙ ФЕДЕРАЦИИ - ФЕДЕРАЛЬНЫЙ МЕДИЦИНСКИЙ БИОФИЗИЧЕСКИЙ ЦЕНТР ИМЕНИ А.И. БУРНАЗЯНА"</fullName>
+                        <shortName>ФГБУ ГНЦ ФМБЦ ИМ. А.И. БУРНАЗЯНА ФМБА РОССИИ</shortName>
+                        <iko>87734581136773401001</iko>
+                        <inn>7734581136</inn>
+                        <kpp>773401001</kpp>
+                        <ogrn>1087746355498</ogrn>
+                        <legalAddress>123182, МОСКВА, ЖИВОПИСНАЯ, дом 46</legalAddress>
+                        <postalAddress>123182 Москва, ул.Живописная, 46</postalAddress>
+                        <phone>7-499-1909458</phone>
+                        <fax>7-499-1908635</fax>
+                        <email>torgi.vika@mail.ru</email>
+                        <okato>45283587000</okato>
+                        <okpo>85667361</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР РОССИЙСКОЙ ФЕДЕРАЦИИ - ФЕДЕРАЛЬНЫЙ МЕДИЦИНСКИЙ БИОФИЗИЧЕСКИЙ ЦЕНТР ИМЕНИ А.И. БУРНАЗЯНА"</fullName>
+                        <shortName>ФГБУ ГНЦ ФМБЦ ИМ. А.И. БУРНАЗЯНА ФМБА РОССИИ</shortName>
+                        <iko>87734581136773401001</iko>
+                        <inn>7734581136</inn>
+                        <kpp>773401001</kpp>
+                        <ogrn>1087746355498</ogrn>
+                        <legalAddress>123182, МОСКВА, ЖИВОПИСНАЯ, дом 46</legalAddress>
+                        <postalAddress>123182 Москва, ул.Живописная, 46</postalAddress>
+                        <phone>7-499-1909458</phone>
+                        <fax>7-499-1908635</fax>
+                        <email>torgi.vika@mail.ru</email>
+                        <okato>45283587000</okato>
+                        <okpo>85667361</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Виктория</firstName>
+                    <middleName>Геннадьевна</middleName>
+                    <lastName>Водянова</lastName>
+                    <phone>+7 (499) 1908635</phone>
+                    <email>zakupki@inbox.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ГОСУДАРСТВЕННЫЙ НАУЧНЫЙ ЦЕНТР РОССИЙСКОЙ ФЕДЕРАЦИИ - ФЕДЕРАЛЬНЫЙ МЕДИЦИНСКИЙ БИОФИЗИЧЕСКИЙ ЦЕНТР ИМЕНИ А.И. БУРНАЗЯНА"</fullName>
+                            <shortName>ФГБУ ГНЦ ФМБЦ ИМ. А.И. БУРНАЗЯНА ФМБА РОССИИ</shortName>
+                            <iko>87734581136773401001</iko>
+                            <inn>7734581136</inn>
+                            <kpp>773401001</kpp>
+                            <ogrn>1087746355498</ogrn>
+                            <legalAddress>123182, МОСКВА, ЖИВОПИСНАЯ, дом 46</legalAddress>
+                            <postalAddress>123182 Москва, ул.Живописная, 46</postalAddress>
+                            <phone>7-499-1909458</phone>
+                            <fax>7-499-1908635</fax>
+                            <email>torgi.vika@mail.ru</email>
+                            <okato>45283587000</okato>
+                            <okpo>85667361</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:07:05</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>e9815abb-77a4-4b33-9b5c-f031fcb4562b</guid>
+                        <createDateTime>2017-03-16T15:06:47</createDateTime>
+                        <fileName>Извещение-документация.rtf</fileName>
+                        <description>Извещение-документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30112237</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:07:05</ns2:modificationDate>
+                <ns2:saveUserId>219879</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>186ee716-10fe-4240-b5bb-0c62680aa9a6</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Закупка лекарственных средств</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>967892.60</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г.Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e4d64b98-0349-43e8-8da9-2d6924ceed48</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.10.145</code>
+                                        <name>Ангиопротекторы</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20</code>
+                                        <name>Производство лекарственных препаратов и материалов, применяемых в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>4708</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216979</planRegistrationNumber>
+                            <planGuid>1d51e71b-de26-46ab-85a0-4ae3ddeecd33</planGuid>
+                            <positionNumber>140</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c8ffd8bb-cbf0-4ef0-b9fa-6eb2f4ed939d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

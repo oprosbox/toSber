@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeOK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>61a26c3d-0a43-4e61-9b18-b1481122aab6</guid>
+        <createDateTime>2017-03-15T12:01:47</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>129817b2-5981-4e73-ab40-527e2d9e4509</guid>
+            <ns2:purchaseNoticeOKData>
+                <ns2:guid>129817b2-5981-4e73-ab40-527e2d9e4509</ns2:guid>
+                <ns2:createDateTime>2017-03-15T11:55:18</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5877302</ns2:urlOOS>
+                <ns2:registrationNumber>31704887167</ns2:registrationNumber>
+                <ns2:name>В-2.154.17 Специализированное оборудование и материалы (Подъемно-транспортное оборудование)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                        <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                        <iko>57706061801770601001</iko>
+                        <inn>7706061801</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1027700049486</ogrn>
+                        <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                        <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                        <phone>7-495-9508451</phone>
+                        <email>transneft@ak.transneft.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>00044463</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3359</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                        <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                        <iko>57706061801770601001</iko>
+                        <inn>7706061801</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1027700049486</ogrn>
+                        <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                        <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                        <phone>7-495-9508451</phone>
+                        <email>transneft@ak.transneft.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>00044463</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9508623</phone>
+                    <fax>+7 (499) 7998484</fax>
+                    <email>KazminVA@ak.transneft.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                            <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                            <iko>57706061801770601001</iko>
+                            <inn>7706061801</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1027700049486</ogrn>
+                            <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                            <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                            <phone>7-495-9508451</phone>
+                            <email>transneft@ak.transneft.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>00044463</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-15T12:01:47</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-14</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-04</deliveryEndDateTime>
+                    <place>Документация о закупке размещена в форме электронного документа в единой информационной системе в сфере закупок - http://zakupki.gov.ru </place>
+                    <procedure>Документация о закупке размещена в форме электронного документа в единой информационной системе в сфере закупок - http://zakupki.gov.ru </procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>корректировка документации</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>aae1a08e-058f-4340-9cc2-a10e3729ecfc</guid>
+                        <createDateTime>2017-03-14T15:19:17</createDateTime>
+                        <fileName>3. Проект договора.rar</fileName>
+                        <description>3. Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30068021</url>
+                    </document>
+                    <document>
+                        <guid>5ece4e33-245b-47f2-bafd-b7406ea1697c</guid>
+                        <createDateTime>2017-03-14T15:18:55</createDateTime>
+                        <fileName>1. Извещение о закупке.doc</fileName>
+                        <description>1. Извещение о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30068022</url>
+                    </document>
+                    <document>
+                        <guid>41e65d65-4a4c-4c45-8e4e-6a7a5826be32</guid>
+                        <createDateTime>2017-03-15T10:25:43</createDateTime>
+                        <fileName>2. Документация о закупке по лоту В-2.154.17.rar</fileName>
+                        <description>2. Документация о закупке по лоту В-2.154.17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30068023</url>
+                    </document>
+                    <document>
+                        <guid>72291720-a960-42ce-924b-2f9ce248f7e2</guid>
+                        <createDateTime>2017-03-15T11:55:32</createDateTime>
+                        <fileName>2. Документация о закупке по лоту В-2.154.17.rar</fileName>
+                        <description>2. Документация о закупке по лоту В-2.154.17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30068046</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-15T12:01:47</ns2:modificationDate>
+                <ns2:saveUserId>10044</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>true</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>33c279b4-3683-4f8c-b7d0-9f7fbc735164</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>В-2.154.17 Специализированное оборудование и материалы (Подъемно-транспортное оборудование)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>4209800.36</initialSum>
+                            <deliveryPlace>
+                                <address>АО "Транснефть - Приволга"
+
+АО "Транснефть - Верхняя Волга"
+
+АО "Транснефть - Север"
+
+ООО "Транснефть - Балтика"</address>
+                            </deliveryPlace>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>true</jointLot>
+                            <lotCustomers>
+                                <lotCustomer>
+                                    <lotCustomerEditEnabled>false</lotCustomerEditEnabled>
+                                    <lotCustomerData>
+                                        <currency>
+                                            <code>RUB</code>
+                                            <digitalCode>643</digitalCode>
+                                            <name>Российский рубль</name>
+                                        </currency>
+                                        <price>1372360.76</price>
+                                        <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                                        <lotItems>
+                                            <newCodes>true</newCodes>
+                                            <lotItem>
+                                                <guid>deadbc3f-d220-406f-be13-fd3311524f55</guid>
+                                                <ordinalNumber>1</ordinalNumber>
+                                                <okpd2>
+                                                    <code>28.22.14.129</code>
+                                                    <name>Краны грузоподъемные прочие</name>
+                                                </okpd2>
+                                                <okved2>
+                                                    <code>28.22</code>
+                                                    <name>Производство подъемно-транспортного оборудования</name>
+                                                </okved2>
+                                                <okei>
+                                                    <code>839</code>
+                                                    <name>Комплект</name>
+                                                </okei>
+                                                <qty>1</qty>
+                                            </lotItem>
+                                        </lotItems>
+                                        <notInLaw223>false</notInLaw223>
+                                    </lotCustomerData>
+                                    <lotPlanInfo>
+                                        <planRegistrationNumber>2160193805</planRegistrationNumber>
+                                        <planGuid>77317406-d21a-48bd-9e01-6a993f10a0de</planGuid>
+                                        <positionNumber>395</positionNumber>
+                                        <lotPlanPosition>COMMODITY</lotPlanPosition>
+                                        <positionGuid>6f4a9772-8086-f2bd-6c0e-9b90bff1bbca</positionGuid>
+                                    </lotPlanInfo>
+                                    <customerInfo>
+                                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ-ПРИВОЛГА"</fullName>
+                                        <shortName>АО "ТРАНСНЕФТЬ-ПРИВОЛГА"</shortName>
+                                        <iko>66317024749631701001</iko>
+                                        <inn>6317024749</inn>
+                                        <kpp>631701001</kpp>
+                                        <ogrn>1026301416371</ogrn>
+                                        <legalAddress>443020, обл САМАРСКАЯ, г САМАРА, ул ЛЕНИНСКАЯ, дом 100</legalAddress>
+                                        <postalAddress>443020, Самарская, Самара, Ленинская, дом 100</postalAddress>
+                                        <phone>7-846-9998678</phone>
+                                        <fax>7-846-9994086</fax>
+                                        <email>ootorg@pmn.ru</email>
+                                        <okato>36401388000</okato>
+                                        <okpo>00139117</okpo>
+                                    </customerInfo>
+                                </lotCustomer>
+                                <lotCustomer>
+                                    <lotCustomerEditEnabled>false</lotCustomerEditEnabled>
+                                    <lotCustomerData>
+                                        <currency>
+                                            <code>RUB</code>
+                                            <digitalCode>643</digitalCode>
+                                            <name>Российский рубль</name>
+                                        </currency>
+                                        <price>498999.58</price>
+                                        <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                                        <lotItems>
+                                            <newCodes>true</newCodes>
+                                            <lotItem>
+                                                <guid>ac35e0fa-3683-4551-9a84-2fbba05a6767</guid>
+                                                <ordinalNumber>1</ordinalNumber>
+                                                <okpd2>
+                                                    <code>28.22.14.129</code>
+                                                    <name>Краны грузоподъемные прочие</name>
+                                                </okpd2>
+                                                <okved2>
+                                                    <code>28.22</code>
+                                                    <name>Производство подъемно-транспортного оборудования</name>
+                                                </okved2>
+                                                <okei>
+                                                    <code>839</code>
+                                                    <name>Комплект</name>
+                                                </okei>
+                                                <qty>1</qty>
+                                            </lotItem>
+                                        </lotItems>
+                                        <notInLaw223>false</notInLaw223>
+                                    </lotCustomerData>
+                                    <lotPlanInfo>
+                                        <planRegistrationNumber>2160193569</planRegistrationNumber>
+                                        <planGuid>b99f6442-8f85-4222-af50-4edb4907bf40</planGuid>
+                                        <positionNumber>401</positionNumber>
+                                        <lotPlanPosition>COMMODITY</lotPlanPosition>
+                                        <positionGuid>2a2d2273-6d45-4265-8bad-025838b5da34</positionGuid>
+                                    </lotPlanInfo>
+                                    <customerInfo>
+                                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ТРАНСНЕФТЬ - БАЛТИКА"</fullName>
+                                        <shortName>ООО "ТРАНСНЕФТЬ - БАЛТИКА"</shortName>
+                                        <iko>54704041900780401001</iko>
+                                        <inn>4704041900</inn>
+                                        <kpp>780401001</kpp>
+                                        <ogrn>1024700871711</ogrn>
+                                        <legalAddress>195009, г САНКТ-ПЕТЕРБУРГ, наб АРСЕНАЛЬНАЯ, дом 11, корпус ЛИТЕР А</legalAddress>
+                                        <postalAddress>195009, Санкт-Петербург город, Арсенальная набережная, дом 11 лит. А</postalAddress>
+                                        <phone>7-812-7034763</phone>
+                                        <email>sib@spb.transneft.ru</email>
+                                        <okato>40273563000</okato>
+                                        <okpo>55146765</okpo>
+                                    </customerInfo>
+                                </lotCustomer>
+                                <lotCustomer>
+                                    <lotCustomerEditEnabled>false</lotCustomerEditEnabled>
+                                    <lotCustomerData>
+                                        <currency>
+                                            <code>RUB</code>
+                                            <digitalCode>643</digitalCode>
+                                            <name>Российский рубль</name>
+                                        </currency>
+                                        <price>1441939.74</price>
+                                        <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                                        <lotItems>
+                                            <newCodes>true</newCodes>
+                                            <lotItem>
+                                                <guid>9a66f48b-4e4d-414d-89f0-b5b8216a6417</guid>
+                                                <ordinalNumber>1</ordinalNumber>
+                                                <okpd2>
+                                                    <code>28.22.14.129</code>
+                                                    <name>Краны грузоподъемные прочие</name>
+                                                </okpd2>
+                                                <okved2>
+                                                    <code>28.22</code>
+                                                    <name>Производство подъемно-транспортного оборудования</name>
+                                                </okved2>
+                                                <okei>
+                                                    <code>839</code>
+                                                    <name>Комплект</name>
+                                                </okei>
+                                                <qty>1</qty>
+                                            </lotItem>
+                                        </lotItems>
+                                        <notInLaw223>false</notInLaw223>
+                                    </lotCustomerData>
+                                    <lotPlanInfo>
+                                        <planRegistrationNumber>2160188963</planRegistrationNumber>
+                                        <planGuid>2f9d05b5-2c16-4c8f-bebc-cc405dbffcac</planGuid>
+                                        <positionNumber>366</positionNumber>
+                                        <lotPlanPosition>COMMODITY</lotPlanPosition>
+                                        <positionGuid>b9b139f9-ac31-4624-b90a-5756b7ab6843</positionGuid>
+                                    </lotPlanInfo>
+                                    <customerInfo>
+                                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ - СЕВЕР"</fullName>
+                                        <shortName>АО "ТРАНСНЕФТЬ - СЕВЕР"</shortName>
+                                        <iko>51102016594110201001</iko>
+                                        <inn>1102016594</inn>
+                                        <kpp>110201001</kpp>
+                                        <ogrn>1021100730353</ogrn>
+                                        <legalAddress>169313, РЕСП КОМИ, Г УХТА, ПР-КТ А.И.ЗЕРЮНОВА, дом 2/1</legalAddress>
+                                        <postalAddress>169313, Коми республика, Ухта город, А.И.Зерюнова проспект, дом 2/1</postalAddress>
+                                        <phone>7-8216-771380</phone>
+                                        <email>tender@uht.transneft.ru</email>
+                                        <okato>87425000000</okato>
+                                        <okpo>00139672</okpo>
+                                    </customerInfo>
+                                </lotCustomer>
+                                <lotCustomer>
+                                    <lotCustomerEditEnabled>false</lotCustomerEditEnabled>
+                                    <lotCustomerData>
+                                        <currency>
+                                            <code>RUB</code>
+                                            <digitalCode>643</digitalCode>
+                                            <name>Российский рубль</name>
+                                        </currency>
+                                        <price>896500.28</price>
+                                        <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                                        <lotItems>
+                                            <newCodes>true</newCodes>
+                                            <lotItem>
+                                                <guid>7938705a-0483-4504-9b41-c602546ebb58</guid>
+                                                <ordinalNumber>1</ordinalNumber>
+                                                <okpd2>
+                                                    <code>28.22.14.123</code>
+                                                    <name>Краны консольные</name>
+                                                </okpd2>
+                                                <okved2>
+                                                    <code>28.22</code>
+                                                    <name>Производство подъемно-транспортного оборудования</name>
+                                                </okved2>
+                                                <okei>
+                                                    <code>839</code>
+                                                    <name>Комплект</name>
+                                                </okei>
+                                                <qty>1</qty>
+                                            </lotItem>
+                                        </lotItems>
+                                        <notInLaw223>false</notInLaw223>
+                                    </lotCustomerData>
+                                    <lotPlanInfo>
+                                        <planRegistrationNumber>2160206010</planRegistrationNumber>
+                                        <planGuid>1b1f7dc9-1310-4aec-9e7c-35a907b2ab3b</planGuid>
+                                        <positionNumber>574</positionNumber>
+                                        <lotPlanPosition>COMMODITY</lotPlanPosition>
+                                        <positionGuid>982e6a51-2d11-479c-972d-463f6647858a</positionGuid>
+                                    </lotPlanInfo>
+                                    <customerInfo>
+                                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ -ВЕРХНЯЯ ВОЛГА"</fullName>
+                                        <shortName>АО "ТРАНСНЕФТЬ-ВЕРХНЯЯ ВОЛГА"</shortName>
+                                        <iko>55260900725526001001</iko>
+                                        <inn>5260900725</inn>
+                                        <kpp>526001001</kpp>
+                                        <ogrn>1025203014748</ogrn>
+                                        <legalAddress>603006, обл НИЖЕГОРОДСКАЯ, г НИЖНИЙ НОВГОРОД, пер ГРАНИТНЫЙ, дом 4/1</legalAddress>
+                                        <postalAddress>Почтовый адрес 603950, Россия, г. Нижний Новгород, переулок Гранитный, д. 4/1 ГСП 1504</postalAddress>
+                                        <phone>7-831-4381725</phone>
+                                        <fax>7-831-4381735</fax>
+                                        <email>SmirnovVE@nnov.transneft.ru</email>
+                                        <okato>22401373000</okato>
+                                        <okpo>04668367</okpo>
+                                    </customerInfo>
+                                </lotCustomer>
+                            </lotCustomers>
+                        </jointLotData>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:examinationPlace>121059, г. Москва, ул. Киевская, д.7, подъезд 7, этаж 9</ns2:examinationPlace>
+                <ns2:examinationDateTime>2017-05-22T11:00:00</ns2:examinationDateTime>
+                <ns2:envelopeOpeningPlace>121059, г. Москва, ул. Киевская, д.7, подъезд 7, этаж 9</ns2:envelopeOpeningPlace>
+                <ns2:envelopeOpeningTime>2017-04-04T11:00:00</ns2:envelopeOpeningTime>
+                <ns2:summingupPlace>121059, г. Москва, ул. Киевская, д.7, подъезд 7, этаж 9</ns2:summingupPlace>
+                <ns2:summingupTime>2017-05-22T11:00:00</ns2:summingupTime>
+                <ns2:submissionCloseDateTime>2017-04-04T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-14</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeOKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeOK>

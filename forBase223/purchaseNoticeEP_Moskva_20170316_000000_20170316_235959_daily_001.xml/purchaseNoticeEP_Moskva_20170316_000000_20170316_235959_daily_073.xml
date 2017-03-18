@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>0d6ea405-d10c-4931-9506-809777fd13bd</guid>
+        <createDateTime>2017-03-16T13:25:35</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2220fc00-0d0b-1ee7-82c6-56663aba96c2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>2220fc00-0d0b-1ee7-82c6-56663aba96c2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:24:20</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885276</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704897402</ns2:registrationNumber>
+                <ns2:name>Авторский надзор при техническом обслуживании и ремонте турбогенератора типа ТВВ-1000-4У3 и его вспомогательных систем энергоблока № 1 Ростовской АЭС в 2017 г.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ"</fullName>
+                        <shortName>АО "КОНЦЕРН РОСЭНЕРГОАТОМ"</shortName>
+                        <iko>57721632827772101001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>772101001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>109507, Г МОСКВА, УЛ ФЕРГАНСКАЯ, дом 25</legalAddress>
+                        <postalAddress>109507, г. Москва, ул. Ферганская, д.25
+</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>45290554000</okato>
+                        <okpo>08844275</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Филиал АО "Концерн Росэнергоатом" "Ростовская атомная станция"</fullName>
+                        <shortName>Ростовская АЭС</shortName>
+                        <iko>57721632827614343002</iko>
+                        <inn>7721632827</inn>
+                        <kpp>614343002</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>347388 г. Волгодонск-28 Ростовской обл.</legalAddress>
+                        <postalAddress>347388 г. Волгодонск-28 Ростовской обл.</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>60412000000</okato>
+                        <okpo>57494401</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>А.Б.</firstName>
+                    <middleName>-</middleName>
+                    <lastName>Горбунов</lastName>
+                    <phone>+7 (8639) 298722</phone>
+                    <fax>+7 (8639) 297757</fax>
+                    <email>zgir@rosnpp.org.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Филиал АО "Концерн Росэнергоатом" "Ростовская атомная станция"</fullName>
+                            <shortName>Ростовская АЭС</shortName>
+                            <iko>57721632827614343002</iko>
+                            <inn>7721632827</inn>
+                            <kpp>614343002</kpp>
+                            <ogrn>5087746119951</ogrn>
+                            <legalAddress>347388 г. Волгодонск-28 Ростовской обл.</legalAddress>
+                            <postalAddress>347388 г. Волгодонск-28 Ростовской обл.</postalAddress>
+                            <phone>7-495-6474189</phone>
+                            <fax>7-495-6474603</fax>
+                            <email>petrov-au@rosenergoatom.ru</email>
+                            <okato>60412000000</okato>
+                            <okpo>57494401</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:25:35</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>7a9888ea-fb0a-1ed7-82c5-937928dddf48</guid>
+                        <createDateTime>2017-03-16T09:40:36</createDateTime>
+                        <fileName>ИЗВЕЩЕНИЕ О ПРОВЕДЕНИИ ЗАКУПКИ.pdf</fileName>
+                        <description>ИЗВЕЩЕНИЕ О ПРОВЕДЕНИИ ЗАКУПКИ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106040</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ee7-82c6-486172700890</guid>
+                        <createDateTime>2017-03-16T10:21:04</createDateTime>
+                        <fileName>Сопр. письмо к дог. 161035.pdf</fileName>
+                        <description>Сопр. письмо к дог. 161035</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106041</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:25:35</ns2:modificationDate>
+                <ns2:saveUserId>48223</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>7a9888ea-fb0a-1ed7-8195-5b3a63dc59c5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Авторский надзор при техническом обслуживании и ремонте турбогенератора типа ТВВ-1000-4У3 и его вспомогательных систем энергоблока № 1 Ростовской АЭС в 2017 г.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>3001295.19</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Ростовская АЭС</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7a9888ea-fb0a-1ed7-8195-5bc6fd7bd9c5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.14.11.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию электродвигателей, генераторов, трансформаторов и распределительной и регулирующей аппаратуры для электричества</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.11.3</code>
+                                        <name>Производство электроэнергии атомными электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184588</planRegistrationNumber>
+                            <planGuid>400f977e-055d-496b-9b06-1fe1de4b483f</planGuid>
+                            <positionNumber>1024100403</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>5894229b-3e7b-0c70-e100-80000a7c1050</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

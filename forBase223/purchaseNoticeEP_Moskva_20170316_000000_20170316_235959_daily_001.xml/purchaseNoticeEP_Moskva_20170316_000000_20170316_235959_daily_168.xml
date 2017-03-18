@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9dd38280-b951-4130-b73d-4469b62d96cc</guid>
+        <createDateTime>2017-03-16T21:23:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6ef0cbdd-8d3d-42e4-aa92-c7f3914d2be2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>6ef0cbdd-8d3d-42e4-aa92-c7f3914d2be2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T21:16:42</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888507</ns2:urlOOS>
+                <ns2:registrationNumber>31704900122</ns2:registrationNumber>
+                <ns2:name>Оказание абонентских юридических услуг по разработке и экспертизе новых правовых механизмов в системе образования города Москвы</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ОБРАЗОВАТЕЛЬНОГО ПРАВА"</fullName>
+                        <shortName>ГАУ МЦОП</shortName>
+                        <iko>57719237820770301001</iko>
+                        <inn>7719237820</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1037739013256</ogrn>
+                        <legalAddress>123022, Г МОСКВА, УЛ ПРЕСНЕНСКИЙ ВАЛ, дом ДОМ 1</legalAddress>
+                        <postalAddress>123022, Москва Город, Пресненский Вал Улица, дом 1</postalAddress>
+                        <phone>7-499-2530071</phone>
+                        <email>mcop@edu.mos.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>58389043</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ОБРАЗОВАТЕЛЬНОГО ПРАВА"</fullName>
+                        <shortName>ГАУ МЦОП</shortName>
+                        <iko>57719237820770301001</iko>
+                        <inn>7719237820</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1037739013256</ogrn>
+                        <legalAddress>123022, Г МОСКВА, УЛ ПРЕСНЕНСКИЙ ВАЛ, дом ДОМ 1</legalAddress>
+                        <postalAddress>123022, Москва Город, Пресненский Вал Улица, дом 1</postalAddress>
+                        <phone>7-499-2530071</phone>
+                        <email>mcop@edu.mos.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>58389043</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Дмитрий</firstName>
+                    <middleName>Сергеевич</middleName>
+                    <lastName>Игнатов</lastName>
+                    <phone>+7 (499) 2530071</phone>
+                    <email>ignatovds1@edu.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ОБРАЗОВАТЕЛЬНОГО ПРАВА"</fullName>
+                            <shortName>ГАУ МЦОП</shortName>
+                            <iko>57719237820770301001</iko>
+                            <inn>7719237820</inn>
+                            <kpp>770301001</kpp>
+                            <ogrn>1037739013256</ogrn>
+                            <legalAddress>123022, Г МОСКВА, УЛ ПРЕСНЕНСКИЙ ВАЛ, дом ДОМ 1</legalAddress>
+                            <postalAddress>123022, Москва Город, Пресненский Вал Улица, дом 1</postalAddress>
+                            <phone>7-499-2530071</phone>
+                            <email>mcop@edu.mos.ru</email>
+                            <okato>45286575000</okato>
+                            <okpo>58389043</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T21:23:27</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>9d3d441f-5f00-48bb-b921-8c6e989b9048</guid>
+                        <createDateTime>2017-03-16T21:21:01</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121641</url>
+                    </document>
+                    <document>
+                        <guid>ce0f1cbe-9130-4da9-9aa4-f13979223480</guid>
+                        <createDateTime>2017-03-16T21:21:11</createDateTime>
+                        <fileName>Документация.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121642</url>
+                    </document>
+                    <document>
+                        <guid>3462e97d-954a-43dc-a992-c7c0739d3ddf</guid>
+                        <createDateTime>2017-03-16T21:21:20</createDateTime>
+                        <fileName>Протокол_цены.doc</fileName>
+                        <description>Протокол_цены</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121643</url>
+                    </document>
+                    <document>
+                        <guid>ce84ac39-8239-4a72-a905-37282fea653f</guid>
+                        <createDateTime>2017-03-16T21:21:31</createDateTime>
+                        <fileName>Протокол-решение п.64.doc</fileName>
+                        <description>Протокол-решение п.64</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121646</url>
+                    </document>
+                    <document>
+                        <guid>462184b0-f633-47d1-95f1-4ce2c17d2fcc</guid>
+                        <createDateTime>2017-03-16T21:21:45</createDateTime>
+                        <fileName>Договор_юр. усл. (п. 64).docx</fileName>
+                        <description>Договор_юр. усл. (п. 64)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121647</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T21:23:27</ns2:modificationDate>
+                <ns2:saveUserId>260817</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>b2c9c59e-03a3-4f5a-8d46-5eaebc7a5e20</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по разработке и экспертизе новых правовых механизмов в системе образования г. Москвы</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>240000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ул. Пресненский Вал, д. 1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>cff4d694-31d6-4606-8534-92347e7b138e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>69.10.19</code>
+                                        <name>Услуги юридические прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>69.10</code>
+                                        <name>Деятельность в области права</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>362</code>
+                                        <name>Месяц</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170222963</planRegistrationNumber>
+                            <planGuid>6284f0b4-b6aa-4d88-90fc-c543c61fcf10</planGuid>
+                            <positionNumber>64</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a8635b70-ff73-4269-a609-ce5e81870caf</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

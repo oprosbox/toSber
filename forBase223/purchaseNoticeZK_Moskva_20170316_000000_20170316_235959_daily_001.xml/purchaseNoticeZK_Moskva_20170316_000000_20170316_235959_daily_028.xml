@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d74d7381-72dd-4e09-a94b-7ac873275abf</guid>
+        <createDateTime>2017-03-16T09:56:11</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e2fb3e55-fc63-42a4-b13c-d4d3a888d6b0</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>e2fb3e55-fc63-42a4-b13c-d4d3a888d6b0</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:20:00</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882689</ns2:urlOOS>
+                <ns2:registrationNumber>31704895607</ns2:registrationNumber>
+                <ns2:name>№ 128-17 от 16 марта 2017г.
+ «Закупка перчаток и туалетного мыла для нужд Филиала ООО «БрянскЭлектро» в г.Брянск» </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                        <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                        <iko>57731480563773101001</iko>
+                        <inn>7731480563</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5147746160172</ogrn>
+                        <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                        <postalAddress>121596</postalAddress>
+                        <phone>8-4832-668040</phone>
+                        <email>balya.o@bryanskelectro.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>22346437</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                        <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                        <iko>57731480563773101001</iko>
+                        <inn>7731480563</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5147746160172</ogrn>
+                        <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                        <postalAddress>121596</postalAddress>
+                        <phone>8-4832-668040</phone>
+                        <email>balya.o@bryanskelectro.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>22346437</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Анна</firstName>
+                    <middleName>Юрьевна</middleName>
+                    <lastName>Швед</lastName>
+                    <phone>+7 (4832) 668040</phone>
+                    <email>surkova.u@bryanskelectro.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                            <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                            <iko>57731480563773101001</iko>
+                            <inn>7731480563</inn>
+                            <kpp>773101001</kpp>
+                            <ogrn>5147746160172</ogrn>
+                            <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                            <postalAddress>121596</postalAddress>
+                            <phone>8-4832-668040</phone>
+                            <email>balya.o@bryanskelectro.ru</email>
+                            <okato>45268569000</okato>
+                            <okpo>22346437</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:56:11</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-24</deliveryEndDateTime>
+                    <place>Заявки могут подаваться в любой момент с даты официального размещения в единой информационной системе одним из следующих способов:
+•	нарочно на бумажном носителе в конверте по адресу 241037, г.Брянск, пр-т Станке Димитрова, д.5в (каб. 210) в рабочее время:
+ПН – ЧТ: с 8:15 по 16:30 (перерыв с 11:45 до 12:45), 
+ПТ: с 8:15 по 15:30 (перерыв с 11:45 до 12:45).
+•	в электронном виде на e-mail: surkova.u@bryanskelectro.ru
+(размер одного файлового сообщения не должен превышать 7 Мб, возможна отправка нескольких сообщений).</place>
+                    <procedure>Заявки могут подаваться в любой момент с даты официального размещения в единой информационной системе одним из следующих способов:
+•	нарочно на бумажном носителе в конверте по адресу 241037, г.Брянск, пр-т Станке Димитрова, д.5в (каб. 210) в рабочее время:
+ПН – ЧТ: с 8:15 по 16:30 (перерыв с 11:45 до 12:45), 
+ПТ: с 8:15 по 15:30 (перерыв с 11:45 до 12:45).
+•	в электронном виде на e-mail: surkova.u@bryanskelectro.ru
+(размер одного файлового сообщения не должен превышать 7 Мб, возможна отправка нескольких сообщений).</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>dd1b47a2-aa85-4263-a5d7-c85de253ea8d</guid>
+                        <createDateTime>2017-03-16T09:55:30</createDateTime>
+                        <fileName>Приложение № 2 анкета участника.docx</fileName>
+                        <description>Приложение № 2 анкета участника</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094897</url>
+                    </document>
+                    <document>
+                        <guid>2bff4bc9-c543-4e66-99db-55edfbc75ce2</guid>
+                        <createDateTime>2017-03-16T09:55:17</createDateTime>
+                        <fileName>Закупочная документация ЗК № 128-17.docx</fileName>
+                        <description>Закупочная документация ЗК № 128-17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094881</url>
+                    </document>
+                    <document>
+                        <guid>addb791c-0363-4048-848c-ed1513aa835d</guid>
+                        <createDateTime>2017-03-16T09:55:35</createDateTime>
+                        <fileName>Приложение № 3 Проект договора.rar</fileName>
+                        <description>Приложение № 3 Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094905</url>
+                    </document>
+                    <document>
+                        <guid>4a5f09d2-59a8-4283-90df-a9d9cb9c78f4</guid>
+                        <createDateTime>2017-03-16T09:55:25</createDateTime>
+                        <fileName>Приложение № 1 форма предложения на поставку продукции.docx</fileName>
+                        <description>Приложение № 1 форма предложения на поставку продукции</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094890</url>
+                    </document>
+                    <document>
+                        <guid>b27d5075-3071-486a-8ff0-c4537243e5b4</guid>
+                        <createDateTime>2017-03-16T09:55:41</createDateTime>
+                        <fileName>Приложение № 4 Декларация СМП.docx</fileName>
+                        <description>Приложение № 4 Декларация СМП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094908</url>
+                    </document>
+                    <document>
+                        <guid>bbb0749d-e5ce-400e-a317-05d8308f6601</guid>
+                        <createDateTime>2017-03-16T09:55:45</createDateTime>
+                        <fileName>Приложение № 5 Техническое задание.doc</fileName>
+                        <description>Приложение № 5 Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094910</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:56:11</ns2:modificationDate>
+                <ns2:saveUserId>157151</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>77c464cc-e7ce-4137-b6ca-64dfa98bce8e</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Мыло и перчатки 2,3,4 кв.
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>412278.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Брянская   обл</region>
+                                <regionOkato>15000000000</regionOkato>
+                                <address>Брянская область</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>17b20456-d848-4e00-b7f4-e7af012d2161</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.41.31.110</code>
+                                        <name>Мыло туалетное твердое</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.41</code>
+                                        <name>Производство мыла и моющих, чистящих и полирующих средств</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>18000</qty>
+                                    <additionalInfo>Мыло туалетное 100г в индивидуальной обертке</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>8d65b1a3-6819-4965-8452-638ce21c5187</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>14.12.30.150</code>
+                                        <name>Рукавицы, перчатки производственные и профессиональные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>14.12.1</code>
+                                        <name>Производство спецодежды, кроме изготовленных по индивидуальному заказу</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>715</code>
+                                        <name>Пара (2 шт.)</name>
+                                    </okei>
+                                    <qty>600</qty>
+                                    <additionalInfo>Рукавицы комбинированные с брезентовым наладонником (ткань: двунитка аппрет пл. 235г/м2, наладонник: брезент, плотность 440г/кв.м, размер 2</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4b5403e4-5377-4a3c-8554-5d30ce669578</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>14.12.30.150</code>
+                                        <name>Рукавицы, перчатки производственные и профессиональные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>14.12.1</code>
+                                        <name>Производство спецодежды, кроме изготовленных по индивидуальному заказу</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>715</code>
+                                        <name>Пара (2 шт.)</name>
+                                    </okei>
+                                    <qty>15000</qty>
+                                    <additionalInfo>Перчатки х/б с ПВХ (хлопок 70%, полиэстер 30%, класс вязки 7-й, 4 нити, плотность 220 текс, размер 10)</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210012</planRegistrationNumber>
+                            <planGuid>c0559771-b14a-466f-904e-d79071ece12a</planGuid>
+                            <positionNumber>88</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c4d4f982-4485-4ac0-8059-fbfcc8b1abff</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-24T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>пр-т Станке Димитрова, д.5в (каб. 210)</ns2:quotationExaminationPlace>
+                <ns2:submissionCloseDateTime>2017-03-24T09:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

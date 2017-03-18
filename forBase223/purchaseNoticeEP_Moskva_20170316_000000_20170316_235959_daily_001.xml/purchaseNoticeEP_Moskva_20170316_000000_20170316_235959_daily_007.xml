@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d8108c38-5a61-4cfe-b5c7-bbea6c2e8b13</guid>
+        <createDateTime>2017-03-16T07:59:34</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>dbd6fb11-ab20-4d9e-a647-4a953d6681a2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>dbd6fb11-ab20-4d9e-a647-4a953d6681a2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T07:56:32</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882092</ns2:urlOOS>
+                <ns2:registrationNumber>31704894904</ns2:registrationNumber>
+                <ns2:name>«Выполнение электромонтажных работ по устройству временного электроснабжения в главном корпусе, БППГ и БЗА, ОУТ-4 в рамках реализации проекта "Строительство энергоблока ПГУ-800 МВт Пермской ГРЭС" (доп. соглашение №3 к договору от 14.12.2015 № 8-ПЕР/020-0545-15)"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</fullName>
+                        <shortName>АО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</shortName>
+                        <iko>57704784450770401001</iko>
+                        <inn>7704784450</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1117746460358</ogrn>
+                        <legalAddress>119435, Г МОСКВА, УЛ ПИРОГОВСКАЯ Б., дом 27, корпус СТР.1</legalAddress>
+                        <postalAddress>119435, Москва, Пироговская Б., дом 27, корпус стр.2</postalAddress>
+                        <phone>7 (495) 664-88-70</phone>
+                        <email>kaptur_sp@interrao.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>925164444</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</fullName>
+                        <shortName>АО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</shortName>
+                        <iko>57704784450770401001</iko>
+                        <inn>7704784450</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1117746460358</ogrn>
+                        <legalAddress>119435, Г МОСКВА, УЛ ПИРОГОВСКАЯ Б., дом 27, корпус СТР.1</legalAddress>
+                        <postalAddress>119435, Москва, Пироговская Б., дом 27, корпус стр.2</postalAddress>
+                        <phone>7 (495) 664-88-70</phone>
+                        <email>kaptur_sp@interrao.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>925164444</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Анатольевна</middleName>
+                    <lastName>Татаринова</lastName>
+                    <phone>+7 (34265) 93234</phone>
+                    <email>tatarinova_ea@interrao.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</fullName>
+                            <shortName>АО "ИНТЕР РАО-ЭЛЕКТРОГЕНЕРАЦИЯ"</shortName>
+                            <iko>57704784450770401001</iko>
+                            <inn>7704784450</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1117746460358</ogrn>
+                            <legalAddress>119435, Г МОСКВА, УЛ ПИРОГОВСКАЯ Б., дом 27, корпус СТР.1</legalAddress>
+                            <postalAddress>119435, Москва, Пироговская Б., дом 27, корпус стр.2</postalAddress>
+                            <phone>7 (495) 664-88-70</phone>
+                            <email>kaptur_sp@interrao.ru</email>
+                            <okato>45286590000</okato>
+                            <okpo>925164444</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T07:59:34</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>В соответствии с закупочной документацией</place>
+                    <procedure>В соответствии с закупочной документацией</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>cfeaf481-ccc7-4d66-9dcf-93b97437ffeb</guid>
+                        <createDateTime>2017-03-16T07:59:05</createDateTime>
+                        <fileName>Документация по ЕП № 720.17.00288.rar</fileName>
+                        <description>Документация по ЕП № 720.17.00288</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30090313</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T07:59:34</ns2:modificationDate>
+                <ns2:saveUserId>206905</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>75596e9e-0a6f-45ea-bfd6-eb29d230fb8c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение электромонтажных работ по устройству временного электроснабжения в главном корпусе, БППГ и БЗА, ОУТ-4 в рамках реализации проекта "Строительство энергоблока ПГУ-800 МВт Пермской ГРЭС" (доп. соглашение №3 к договору от 14.12.2015 № 8-ПЕР/020-0545-15)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2853858.01</initialSum>
+                            <deliveryPlace>
+                                <state>Приволжский федеральный округ</state>
+                                <region>Пермский край</region>
+                                <regionOkato>57000000000</regionOkato>
+                                <address>618740, г. Добрянка, Пермская ГРЭС</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>c3cfa3da-1fc2-4822-85de-2741989c0f46</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.21.10.290</code>
+                                        <name>Работы электромонтажные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>42.22.3</code>
+                                        <name>Строительство электростанций</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160189736</planRegistrationNumber>
+                            <planGuid>60957ac3-6f43-4cc2-a8c3-63e942f05fd8</planGuid>
+                            <positionNumber>1177</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b1ce4653-5873-4ebd-8864-72c2fa86b401</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

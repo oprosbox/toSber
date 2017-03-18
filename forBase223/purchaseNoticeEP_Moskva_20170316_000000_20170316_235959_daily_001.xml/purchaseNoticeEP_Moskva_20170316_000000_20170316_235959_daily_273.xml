@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>de4e30f6-50ff-4169-a6ed-25330189e014</guid>
+        <createDateTime>2017-03-16T19:15:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3955c6bd-fec0-41ee-b74c-0c3251ec8e62</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>3955c6bd-fec0-41ee-b74c-0c3251ec8e62</ns2:guid>
+                <ns2:createDateTime>2017-03-16T19:12:37</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888403</ns2:urlOOS>
+                <ns2:registrationNumber>31704900026</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по организации участия в мероприятии «Call Center World Forum • 2017»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКИЙ ЦЕНТР НОВЫХ ТЕХНОЛОГИЙ ТЕЛЕКОММУНИКАЦИЙ"</fullName>
+                        <shortName>АО "МЦ НТТ"</shortName>
+                        <iko>67704137364770401001</iko>
+                        <inn>7704137364</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1027739152418</ogrn>
+                        <legalAddress>119002, г МОСКВА, ул АРБАТ, дом 46, корпус СТР.1</legalAddress>
+                        <postalAddress>119002, г. Москва, ул. Арбат, д. 46, стр.1.</postalAddress>
+                        <phone>8-499-5501270</phone>
+                        <fax>8-499-5501210</fax>
+                        <email>apl@ntt.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>40481481</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКИЙ ЦЕНТР НОВЫХ ТЕХНОЛОГИЙ ТЕЛЕКОММУНИКАЦИЙ"</fullName>
+                        <shortName>АО "МЦ НТТ"</shortName>
+                        <iko>67704137364770401001</iko>
+                        <inn>7704137364</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1027739152418</ogrn>
+                        <legalAddress>119002, г МОСКВА, ул АРБАТ, дом 46, корпус СТР.1</legalAddress>
+                        <postalAddress>119002, г. Москва, ул. Арбат, д. 46, стр.1.</postalAddress>
+                        <phone>8-499-5501270</phone>
+                        <fax>8-499-5501210</fax>
+                        <email>apl@ntt.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>40481481</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (499) 5501329</phone>
+                    <email>e.lebedeva@rostelecom-cc.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКИЙ ЦЕНТР НОВЫХ ТЕХНОЛОГИЙ ТЕЛЕКОММУНИКАЦИЙ"</fullName>
+                            <shortName>АО "МЦ НТТ"</shortName>
+                            <iko>67704137364770401001</iko>
+                            <inn>7704137364</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1027739152418</ogrn>
+                            <legalAddress>119002, г МОСКВА, ул АРБАТ, дом 46, корпус СТР.1</legalAddress>
+                            <postalAddress>119002, г. Москва, ул. Арбат, д. 46, стр.1.</postalAddress>
+                            <phone>8-499-5501270</phone>
+                            <fax>8-499-5501210</fax>
+                            <email>apl@ntt.ru</email>
+                            <okato>45286552000</okato>
+                            <okpo>40481481</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:15:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>deeb5da2-d154-44d0-bb61-18c742b04075</guid>
+                        <createDateTime>2017-03-16T19:14:55</createDateTime>
+                        <fileName>Документация.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121149</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:15:37</ns2:modificationDate>
+                <ns2:saveUserId>191827</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>4fc44453-f33e-46c8-8a46-233690a39565</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по организации участия в мероприятии "Call Center World Forum 2017"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>199656.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>24e0dcb9-b617-498f-ad53-63e21e66855e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>77.39.19.129</code>
+                                        <name>Услуги по аренде и лизингу прочих материальных средств, не включенных в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>77.39.2</code>
+                                        <name>Аренда и лизинг прочих машин и оборудования, не включенных в другие группировки</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209024</planRegistrationNumber>
+                            <planGuid>27306d71-9a72-4eb4-bdcd-491eeff2615c</planGuid>
+                            <positionNumber>94</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>0150d6af-82af-4321-9c44-e774cc3f3156</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

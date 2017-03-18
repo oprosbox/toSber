@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>53e9f3c8-7304-4908-8a45-a2df2a611640</guid>
+        <createDateTime>2017-03-16T10:51:18</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58ca5a61-385a-24f8-e100-00000a388ca6</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>58ca5a61-385a-24f8-e100-00000a388ca6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:48:55</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883698</ns2:urlOOS>
+                <ns2:urlVSRZ>https://zakupki.gazprom.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704896114</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по предоставлению мест для проживания в общежитиях</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром энерго"</fullName>
+                        <shortName>ООО "Газпром энерго"</shortName>
+                        <iko>57736186950773601001</iko>
+                        <inn>7736186950</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027739841370</ogrn>
+                        <legalAddress>117939, Москва, Строителей, дом 8, корпус 1</legalAddress>
+                        <postalAddress>119526, Москва город, Вернадского проспект, дом 101, корпус 3</postalAddress>
+                        <phone>7-495-4284560</phone>
+                        <fax>7-495-4284560</fax>
+                        <email>info@adm.energo.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>18584757</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром энерго"</fullName>
+                        <shortName>ООО "Газпром энерго"</shortName>
+                        <iko>57736186950773601001</iko>
+                        <inn>7736186950</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027739841370</ogrn>
+                        <legalAddress>117939, Москва, Строителей, дом 8, корпус 1</legalAddress>
+                        <postalAddress>119526, Москва город, Вернадского проспект, дом 101, корпус 3</postalAddress>
+                        <phone>7-495-4284560</phone>
+                        <fax>7-495-4284560</fax>
+                        <email>info@adm.energo.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>18584757</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Татьяна</firstName>
+                    <middleName>Тимофеевна</middleName>
+                    <lastName>Хлебникова</lastName>
+                    <phone>+7 (495) 4284560</phone>
+                    <email>T.Khlebnikova@adm.energo.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Газпром энерго"</fullName>
+                            <shortName>ООО "Газпром энерго"</shortName>
+                            <iko>57736186950773601001</iko>
+                            <inn>7736186950</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1027739841370</ogrn>
+                            <legalAddress>117939, Москва, Строителей, дом 8, корпус 1</legalAddress>
+                            <postalAddress>119526, Москва город, Вернадского проспект, дом 101, корпус 3</postalAddress>
+                            <phone>7-495-4284560</phone>
+                            <fax>7-495-4284560</fax>
+                            <email>info@adm.energo.gazprom.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>18584757</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:51:18</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>58ca8992-3bfe-399d-e100-00000a388ca6</guid>
+                        <createDateTime>2017-03-16T10:48:55</createDateTime>
+                        <fileName>Извещение, документация о закупке (Оказание услуг по предоставлению мест для проживания в общежитиях).docx</fileName>
+                        <description>Извещение, документация о закупке (Оказание услуг по предоставлению мест для проживания в общежитиях).docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097879</url>
+                    </document>
+                    <document>
+                        <guid>58ca8993-3bfe-399d-e100-00000a388ca6</guid>
+                        <createDateTime>2017-03-16T10:48:55</createDateTime>
+                        <fileName>Форма 34-Извещение о проведении.doc</fileName>
+                        <description>Форма 34-Извещение о проведении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097880</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:51:18</ns2:modificationDate>
+                <ns2:saveUserId>200921</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58c98ee1-07b7-49f1-e100-00000a388ca5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по предоставлению мест для проживания в общежитиях</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>656882.11</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58ca8991-3bfe-399d-e100-00000a388ca6</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>74.90.1</code>
+                                        <name>Услуги профессиональные и технические вспомогательные и консультативные, прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>74.9</code>
+                                        <name>Деятельность профессиональная, научная и техническая прочая, не включенная в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170220691</planRegistrationNumber>
+                            <planGuid>58c94d0e-4a72-4627-e100-00000a388ca5</planGuid>
+                            <positionNumber>122</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58c97259-31bc-5ea3-e100-00000a388ca5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

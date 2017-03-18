@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>dea04b17-f369-4f93-9006-bbf8876d45b8</guid>
+        <createDateTime>2017-03-16T17:32:33</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>5ddfd58c-d5f7-4fcd-863f-a0519762e050</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>5ddfd58c-d5f7-4fcd-863f-a0519762e050</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:08:38</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885827</ns2:urlOOS>
+                <ns2:registrationNumber>31704899720</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по техническому обслуживанию оборудования системы вентиляции. (ЗК 052/223/17)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <lastName>Крестников Максим Александрович</lastName>
+                    <phone>+7 (495) 6842366</phone>
+                    <email>ea-miit@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                            <shortName>МГУПС (МИИТ)</shortName>
+                            <iko>87715027733771501001</iko>
+                            <inn>7715027733</inn>
+                            <kpp>771501001</kpp>
+                            <ogrn>1027739733922</ogrn>
+                            <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                            <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                            <phone>7-495-6842403</phone>
+                            <email>ea-miit@mail.ru</email>
+                            <okato>45280569000</okato>
+                            <okpo>01115863</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:32:33</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>www.zakupki.gov.ru</place>
+                    <procedure>Документация о закупке доступна для ознакомления до срока окончания подачи заявок в ЕИС - https://zakupki.gov.ru, без взимания платы. </procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>6403db71-d506-4caf-a390-beeb4e1c1059</guid>
+                        <createDateTime>2017-03-16T16:12:02</createDateTime>
+                        <fileName>Документация ЗК 052 223 17.docx</fileName>
+                        <description>Документация ЗК 052 223 17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115937</url>
+                    </document>
+                    <document>
+                        <guid>68df5b88-da01-44c5-99d2-1c18709ca258</guid>
+                        <createDateTime>2017-03-16T16:11:57</createDateTime>
+                        <fileName>ТЗ Договор ЗК 052 223 17(1).pdf</fileName>
+                        <description>ТЗ Договор ЗК 052 223 17(1)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115933</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:32:33</ns2:modificationDate>
+                <ns2:saveUserId>92356</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>9d36a7d2-de30-486c-91cc-39c30c6506c0</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по техническому обслуживанию оборудования системы вентиляции</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>494000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, ул. Новосущевская, д.24</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>25d25aaf-5a74-4952-9274-a2933030a86f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.19.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Техническое обслуживание оборудования системы вентиляции</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4854ed23-2b86-4eae-b281-5e4fa58ea09a</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.19.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Техническое обслуживание оборудования системы вентиляции</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224160</planRegistrationNumber>
+                            <planGuid>4ad5a9ef-0f3a-2a06-e053-47cdf5c3e0f9</planGuid>
+                            <positionNumber>24997</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4a98a478-df0a-15c5-e053-48cdf5c34af4</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-20T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>127994, г. Москва, ул. Образцова, дом 9, стр. 9, кор. 13, кабинет № 13105</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>В соответствии с документацией</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-20T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

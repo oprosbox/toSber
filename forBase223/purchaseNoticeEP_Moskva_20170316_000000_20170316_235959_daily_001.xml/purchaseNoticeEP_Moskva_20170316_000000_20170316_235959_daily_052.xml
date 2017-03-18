@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>545cfb23-1e3f-4f2d-a975-3523d99da662</guid>
+        <createDateTime>2017-03-16T11:58:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6b7d8c42-e1c7-49a8-8e46-56256381e4d2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>6b7d8c42-e1c7-49a8-8e46-56256381e4d2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T11:56:57</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5884446</ns2:urlOOS>
+                <ns2:registrationNumber>31704896745</ns2:registrationNumber>
+                <ns2:name>На право заключения  договора аренды недвижимого имущества</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РТКОММ.РУ"</fullName>
+                        <shortName>АО "РТКОММ.РУ"</shortName>
+                        <iko>67708126998770701001</iko>
+                        <inn>7708126998</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>1027739086100</ogrn>
+                        <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛ. 6, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>142784, Москва, п. Московский, Киевское ш., 22-й км, домовл. 6, стр. 1.</postalAddress>
+                        <phone>7-495-9887778</phone>
+                        <fax>7-495-988776</fax>
+                        <email>fz223_admin@rtcomm.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>52425789</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РТКОММ.РУ"</fullName>
+                        <shortName>АО "РТКОММ.РУ"</shortName>
+                        <iko>67708126998770701001</iko>
+                        <inn>7708126998</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>1027739086100</ogrn>
+                        <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛ. 6, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>142784, Москва, п. Московский, Киевское ш., 22-й км, домовл. 6, стр. 1.</postalAddress>
+                        <phone>7-495-9887778</phone>
+                        <fax>7-495-988776</fax>
+                        <email>fz223_admin@rtcomm.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>52425789</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Викторовна</middleName>
+                    <lastName>Фроликова</lastName>
+                    <phone>+7 (495) 9887778</phone>
+                    <email>oto@rtcomm.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РТКОММ.РУ"</fullName>
+                            <shortName>АО "РТКОММ.РУ"</shortName>
+                            <iko>67708126998770701001</iko>
+                            <inn>7708126998</inn>
+                            <kpp>775101001</kpp>
+                            <ogrn>1027739086100</ogrn>
+                            <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛ. 6, корпус СТРОЕНИЕ 1</legalAddress>
+                            <postalAddress>142784, Москва, п. Московский, Киевское ш., 22-й км, домовл. 6, стр. 1.</postalAddress>
+                            <phone>7-495-9887778</phone>
+                            <fax>7-495-988776</fax>
+                            <email>fz223_admin@rtcomm.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>52425789</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:58:49</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>5b500f55-ec76-4f49-8ea6-462612c8f7a0</guid>
+                        <createDateTime>2017-03-16T11:58:14</createDateTime>
+                        <fileName>ДОКУМЕНТАЦИЯ по ЕП.pdf</fileName>
+                        <description>ДОКУМЕНТАЦИЯ по ЕП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101650</url>
+                    </document>
+                    <document>
+                        <guid>7ef9d6cd-cc4c-4414-a387-d64c908a07be</guid>
+                        <createDateTime>2017-03-16T11:58:20</createDateTime>
+                        <fileName>Договор.pdf</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101654</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:58:49</ns2:modificationDate>
+                <ns2:saveUserId>179566</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5247b5f4-4bfc-41c4-bfd6-c2d679b97a3b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Услуги аренды нежилых помещений</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>3282615.27</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, ул. Сущевский вал, 26</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e4e70c2d-57cb-49aa-b23b-5250de66067a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>68.20.12.000</code>
+                                        <name>Услуги по сдаче в аренду (внаем) собственных или арендованных нежилых помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>68.20</code>
+                                        <name>Аренда и управление собственным или арендованным недвижимым имуществом</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>11</code>
+                                <name>Закупки, предметом которых является аренда и (или) приобретение в собственность объектов недвижимого имущества</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160197832</planRegistrationNumber>
+                            <planGuid>2670f0d8-2e86-4b95-9cf5-b7acba0be1dc</planGuid>
+                            <positionNumber>149</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4933a78a-39b1-44cb-9fb0-c4c467e0c58c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

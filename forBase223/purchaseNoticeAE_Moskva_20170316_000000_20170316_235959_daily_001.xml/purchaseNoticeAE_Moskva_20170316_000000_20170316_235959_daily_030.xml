@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>7cce5d03-2bea-4a38-8c97-df5164d23eca</guid>
+        <createDateTime>2017-03-16T13:25:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a4401921-1200-ad10-6e12-23c969959c96</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>a4401921-1200-ad10-6e12-23c969959c96</ns2:guid>
+                <ns2:createDateTime>2017-03-16T12:55:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885003</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286107</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704897403</ns2:registrationNumber>
+                <ns2:name>Поставка расходных материалов для нужд ГБУЗ «ДСП № 46 ДЗМ» </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 46 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДСП № 46 ДЗМ"</shortName>
+                        <iko>87720147289772001001</iko>
+                        <inn>7720147289</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1037739702880</ogrn>
+                        <legalAddress>111399, г МОСКВА, ул НОВОГИРЕЕВСКАЯ, дом 17</legalAddress>
+                        <postalAddress>11399, г. Москва, улица Новогиреевская, дом 17</postalAddress>
+                        <phone>8-495-3055893</phone>
+                        <email>info@dsp.46.mosgorzdrav.ru</email>
+                        <okato>45263583000</okato>
+                        <okpo>05022561</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 46 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДСП № 46 ДЗМ"</shortName>
+                        <iko>87720147289772001001</iko>
+                        <inn>7720147289</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1037739702880</ogrn>
+                        <legalAddress>111399, г МОСКВА, ул НОВОГИРЕЕВСКАЯ, дом 17</legalAddress>
+                        <postalAddress>11399, г. Москва, улица Новогиреевская, дом 17</postalAddress>
+                        <phone>8-495-3055893</phone>
+                        <email>info@dsp.46.mosgorzdrav.ru</email>
+                        <okato>45263583000</okato>
+                        <okpo>05022561</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юрий</firstName>
+                    <middleName>Васильевич</middleName>
+                    <lastName>Чуянов</lastName>
+                    <phone>+7 (495) 3055890</phone>
+                    <email>dsp46@zdrav.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 46 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУЗ "ДСП № 46 ДЗМ"</shortName>
+                            <iko>87720147289772001001</iko>
+                            <inn>7720147289</inn>
+                            <kpp>772001001</kpp>
+                            <ogrn>1037739702880</ogrn>
+                            <legalAddress>111399, г МОСКВА, ул НОВОГИРЕЕВСКАЯ, дом 17</legalAddress>
+                            <postalAddress>11399, г. Москва, улица Новогиреевская, дом 17</postalAddress>
+                            <phone>8-495-3055893</phone>
+                            <email>info@dsp.46.mosgorzdrav.ru</email>
+                            <okato>45263583000</okato>
+                            <okpo>05022561</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:25:48</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>2bf61da2-b6b2-745a-2af6-6fe2f38555fc</guid>
+                        <createDateTime>2017-03-16T12:23:33</createDateTime>
+                        <fileName>Аукционная_документация.doc</fileName>
+                        <description>Аукционная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104752</url>
+                    </document>
+                    <document>
+                        <guid>652fb50e-d46e-6371-66e8-7a2ed03d96d4</guid>
+                        <createDateTime>2017-03-16T12:48:01</createDateTime>
+                        <fileName>Приказ__протокол_НМЦ.pdf</fileName>
+                        <description>Приказ, протокол НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104753</url>
+                    </document>
+                    <document>
+                        <guid>1b86c882-9699-d06c-86d7-c3f64d377d4b</guid>
+                        <createDateTime>2017-03-16T12:18:29</createDateTime>
+                        <fileName>расчет_НМЦК.pdf</fileName>
+                        <description>Расчет НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30104754</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:25:48</ns2:modificationDate>
+                <ns2:saveUserId>145307</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>aba2e229-cc5c-5256-1f1b-12fa5139be79</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка расходных материалов для нужд ГБУЗ ""ДСП № 46 ДЗМ""</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>107237.36</initialSum>
+                            <deliveryPlace>
+                                <address>Москва, Новогиреевская, 17</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>c7b4404a-517e-04a6-f4d3-42da7e62a007</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>46.18.11.120</code>
+                                        <name>Услуги по оптовой торговле изделиями, применяемыми в медицинских целях, за вознаграждение или на договорной основе</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.18.12</code>
+                                        <name>Деятельность агентов, специализирующихся на оптовой торговле изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo> расходные материалы </additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170226192</planRegistrationNumber>
+                            <planGuid>16d4a55d-9c44-45c9-b35d-69ce7d9ecd2a</planGuid>
+                            <positionNumber>6</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d54daf32-4e44-4637-bb7d-6e1b289e0685</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-07T12:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-06T13:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

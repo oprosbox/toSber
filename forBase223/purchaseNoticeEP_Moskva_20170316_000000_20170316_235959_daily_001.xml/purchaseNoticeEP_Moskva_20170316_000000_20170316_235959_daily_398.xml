@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>f3945518-f252-4ecf-be46-4339a9f9204b</guid>
+        <createDateTime>2017-03-16T20:33:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7bbb5fdf-5d48-458f-8516-d0df9db3352b</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>7bbb5fdf-5d48-458f-8516-d0df9db3352b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T20:31:10</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888468</ns2:urlOOS>
+                <ns2:registrationNumber>31704900084</ns2:registrationNumber>
+                <ns2:name>Поставка тепловой энергии и теплоносителя.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</shortName>
+                        <iko>87735598855773501001</iko>
+                        <inn>7735598855</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746243905</ogrn>
+                        <legalAddress>124683, МОСКВА, ЗЕЛЕНОГРАД, корпус 1529</legalAddress>
+                        <postalAddress>124683, Зеленоград, корп. 1529 </postalAddress>
+                        <phone>7-499-7380209</phone>
+                        <email>gbukrukovo@mail.ru</email>
+                        <okato>45272580000</okato>
+                        <okpo>33655325</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</shortName>
+                        <iko>87735598855773501001</iko>
+                        <inn>7735598855</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746243905</ogrn>
+                        <legalAddress>124683, МОСКВА, ЗЕЛЕНОГРАД, корпус 1529</legalAddress>
+                        <postalAddress>124683, Зеленоград, корп. 1529 </postalAddress>
+                        <phone>7-499-7380209</phone>
+                        <email>gbukrukovo@mail.ru</email>
+                        <okato>45272580000</okato>
+                        <okpo>33655325</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Виктор</firstName>
+                    <middleName>Евгеньевич</middleName>
+                    <lastName>Виноградов</lastName>
+                    <phone>+7 (499) 7177510</phone>
+                    <email>gbykrukovo@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА КРЮКОВО"</shortName>
+                            <iko>87735598855773501001</iko>
+                            <inn>7735598855</inn>
+                            <kpp>773501001</kpp>
+                            <ogrn>5137746243905</ogrn>
+                            <legalAddress>124683, МОСКВА, ЗЕЛЕНОГРАД, корпус 1529</legalAddress>
+                            <postalAddress>124683, Зеленоград, корп. 1529 </postalAddress>
+                            <phone>7-499-7380209</phone>
+                            <email>gbukrukovo@mail.ru</email>
+                            <okato>45272580000</okato>
+                            <okpo>33655325</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T20:33:19</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>d4a6c45d-3fd7-47b3-a486-50fbce53e5d0</guid>
+                        <createDateTime>2017-03-16T20:33:02</createDateTime>
+                        <fileName>10.900209кТЭ-17.pdf</fileName>
+                        <description>10.900209кТЭ-17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121457</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T20:33:19</ns2:modificationDate>
+                <ns2:saveUserId>214695</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>164eb762-5631-45e0-b2f3-5d45490bfcc1</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка тепловой энергии и теплоносителя </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>242205.42</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>в соответствии с Контрактом.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a81de8a8-2a10-4c80-a803-511f633bb59c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>35.30.11.110</code>
+                                        <name>Энергия тепловая, отпущенная электростанциями</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.30</code>
+                                        <name>Производство, передача и распределение пара и горячей воды; кондиционирование воздуха</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160219040</planRegistrationNumber>
+                            <planGuid>906648db-7655-43e2-9ff8-cbd673a504df</planGuid>
+                            <positionNumber>42</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e58948c2-b88f-4998-a29f-45cf5eb9bda7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

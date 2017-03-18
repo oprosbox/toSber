@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1b62976e-573d-4cd9-ba53-070dabf48e9e</guid>
+        <createDateTime>2017-03-16T17:26:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2ab4bda2-216c-4745-96c6-885719d84217</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>2ab4bda2-216c-4745-96c6-885719d84217</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:23:47</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888009</ns2:urlOOS>
+                <ns2:registrationNumber>31704899686</ns2:registrationNumber>
+                <ns2:name>Выполнение работ по техническому обслуживанию подвесных кранов г/п до 5,0 т</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Федеральное автономное учреждение культуры и искусства "Студия военных художников имени М.Б.Грекова" Министерства обороны Российской Федерации</fullName>
+                        <shortName>ФАУ "Студия военных художников" Минобороны России</shortName>
+                        <iko>57702060331770201001</iko>
+                        <inn>7702060331</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1037739783135</ogrn>
+                        <legalAddress>129272, Москва, Советской Армии, дом 4</legalAddress>
+                        <postalAddress>129272, город Москва, улица Советской Армии, дом 4</postalAddress>
+                        <phone>7-495-6814069</phone>
+                        <fax>7-495-6885784</fax>
+                        <email>info@grekovstudio.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>07703710</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Федеральное автономное учреждение культуры и искусства "Студия военных художников имени М.Б.Грекова" Министерства обороны Российской Федерации</fullName>
+                        <shortName>ФАУ "Студия военных художников" Минобороны России</shortName>
+                        <iko>57702060331770201001</iko>
+                        <inn>7702060331</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1037739783135</ogrn>
+                        <legalAddress>129272, Москва, Советской Армии, дом 4</legalAddress>
+                        <postalAddress>129272, город Москва, улица Советской Армии, дом 4</postalAddress>
+                        <phone>7-495-6814069</phone>
+                        <fax>7-495-6885784</fax>
+                        <email>info@grekovstudio.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>07703710</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Татьяна</firstName>
+                    <middleName>Николаевна</middleName>
+                    <lastName>Шишкова</lastName>
+                    <phone>+8 (495) 6814069</phone>
+                    <email>gosplan@list.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Федеральное автономное учреждение культуры и искусства "Студия военных художников имени М.Б.Грекова" Министерства обороны Российской Федерации</fullName>
+                            <shortName>ФАУ "Студия военных художников" Минобороны России</shortName>
+                            <iko>57702060331770201001</iko>
+                            <inn>7702060331</inn>
+                            <kpp>770201001</kpp>
+                            <ogrn>1037739783135</ogrn>
+                            <legalAddress>129272, Москва, Советской Армии, дом 4</legalAddress>
+                            <postalAddress>129272, город Москва, улица Советской Армии, дом 4</postalAddress>
+                            <phone>7-495-6814069</phone>
+                            <fax>7-495-6885784</fax>
+                            <email>info@grekovstudio.ru</email>
+                            <okato>45286570000</okato>
+                            <okpo>07703710</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:26:48</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>Москва, ул. Советской Армии, 4</place>
+                    <procedure>на бумажном носителе</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>ede4ad21-3a48-481f-953d-0fa2e9693a2b</guid>
+                        <createDateTime>2017-03-16T17:26:26</createDateTime>
+                        <fileName>Приложение 1 к д 19_17К.xls</fileName>
+                        <description>Приложение 1 к д 19_17К</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119345</url>
+                    </document>
+                    <document>
+                        <guid>11a97060-0184-4a58-8cdb-91227618f542</guid>
+                        <createDateTime>2017-03-16T17:25:34</createDateTime>
+                        <fileName>Извещение_краны.doc</fileName>
+                        <description>Извещение_краны</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119303</url>
+                    </document>
+                    <document>
+                        <guid>a71f1e23-fe19-4497-bd2b-5f0c99ffa957</guid>
+                        <createDateTime>2017-03-16T17:25:26</createDateTime>
+                        <fileName>Документация_краны.doc</fileName>
+                        <description>Документация_краны</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119291</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:26:48</ns2:modificationDate>
+                <ns2:saveUserId>44446</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>aff3ebff-bd66-48a4-8651-971174baaaee</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по техническому обслуживанию подвесных кранов г/п до 5,0 т</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>144842.64</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>г. Королев, ул. Тихонравова, 29</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>6080ceff-82a2-4635-a3fa-62223dff79e0</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.15.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию подъемно-транспортного оборудования</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160194960</planRegistrationNumber>
+                            <planGuid>f1fc8ed6-5d7b-4b66-8dde-129a0531a237</planGuid>
+                            <positionNumber>35</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>64bcc9ea-9c70-43d3-80ef-f12c0f146d8d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

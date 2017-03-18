@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>6dbc96d0-2c80-4e5d-ac1f-a757780d5e06</guid>
+        <createDateTime>2017-03-16T16:01:14</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>37885ed1-2a31-4b6d-9ec0-ae4807db8f05</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>37885ed1-2a31-4b6d-9ec0-ae4807db8f05</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:46:20</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887027</ns2:urlOOS>
+                <ns2:registrationNumber>31704898905</ns2:registrationNumber>
+                <ns2:name>Информационно-технологическое сопровождение 1С для Смоленского филиала</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                        <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                        <iko>57701351634770101001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>8-499-2657679</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>76088820</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Смоленский филиал федерального бюджетного учреждения здравоохранения "Центр гигиены и эпидемиологии по железнодорожному транспорту"</fullName>
+                        <inn>7701351634</inn>
+                        <kpp>672902001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>214012 г. Смоленск Витебское шоссе д.13</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Смоленский филиал федерального бюджетного учреждения здравоохранения "Центр гигиены и эпидемиологии по железнодорожному транспорту"</fullName>
+                        <shortName>Смоленский ФБУЗ"Центр гигиены и эпидемиологии по железнодорожному транспорту"</shortName>
+                        <iko>57701351634672902001</iko>
+                        <inn>7701351634</inn>
+                        <kpp>672902001</kpp>
+                        <ogrn>1057701020816</ogrn>
+                        <legalAddress>214012 г. Смоленск Витебское шоссе д.13</legalAddress>
+                        <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                        <phone>7-4812-395112</phone>
+                        <email>fcrw@mail.ru</email>
+                        <okato>00000000000</okato>
+                        <okpo>76088820</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ирина</firstName>
+                    <middleName>Анатольевнаs</middleName>
+                    <lastName>Казакова</lastName>
+                    <phone>+7 (4812) 395144</phone>
+                    <fax>+7 (4812) 395112</fax>
+                    <email>smolfguz@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</fullName>
+                            <shortName>ФБУЗ "ЦЕНТР ГИГИЕНЫ И ЭПИДЕМИОЛОГИИ ПО ЖЕЛЕЗНОДОРОЖНОМУ ТРАНСПОРТУ"</shortName>
+                            <iko>57701351634770101001</iko>
+                            <inn>7701351634</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1057701020816</ogrn>
+                            <legalAddress>105066, Г МОСКВА, ПЕР БАСМАННЫЙ 1-Й, дом ДОМ 8, корпус СТРОЕНИЕ 2</legalAddress>
+                            <postalAddress>105066, Москва Город, Басманный 1-й Переулок, дом 8, строение 2</postalAddress>
+                            <phone>8-499-2657679</phone>
+                            <email>fcrw@mail.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>76088820</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:01:14</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>a8590367-cf75-4599-8201-46ad79025dc8</guid>
+                        <createDateTime>2017-03-16T16:00:54</createDateTime>
+                        <fileName>ИТС.doc</fileName>
+                        <description>ИТС</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115294</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:01:14</ns2:modificationDate>
+                <ns2:saveUserId>123274</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>31892a46-0a9c-4e63-8344-8d0c740285dd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Информационно-технологическое сопровождение 1С для Смоленского филиала</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>6546.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Смоленская   обл</region>
+                                <regionOkato>66000000000</regionOkato>
+                                <address>214012 г.Смоленск ул.Витебское шоссе,13</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>09758770-8b6f-4ed2-9ee1-348e2a465e41</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>63.11.13.000</code>
+                                        <name>Услуги по предоставлению программного обеспечения без его размещения на компьютерном оборудовании пользователя</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>63.11.1</code>
+                                        <name>Деятельность по созданию и использованию баз данных и информационных ресурсов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>true</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>dac4b84a-1fd8-45b4-aadc-ccab294c4dc9</guid>
+        <createDateTime>2017-03-16T09:56:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>c35eef09-2caf-447a-8d68-d55e7e658cdd</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>c35eef09-2caf-447a-8d68-d55e7e658cdd</ns2:guid>
+                <ns2:createDateTime>2017-02-27T15:25:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5804069</ns2:urlOOS>
+                <ns2:registrationNumber>31704895609</ns2:registrationNumber>
+                <ns2:name>Работы по техническому обслуживанию систем видеонаблюдения (ВН) и автоматической охранной сигнализации (АОС) на объектахМФТИ с 01.01.2017 г. по 31.01.2017 г.
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ФИЗИКО-ТЕХНИЧЕСКИЙ ИНСТИТУТ (ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ)"</fullName>
+                        <shortName>МФТИ</shortName>
+                        <iko>55008006211772701001</iko>
+                        <inn>5008006211</inn>
+                        <kpp>772701001</kpp>
+                        <ogrn>1027739386135</ogrn>
+                        <legalAddress>117303, Г МОСКВА, УЛ КЕРЧЕНСКАЯ, дом 1А, корпус 1</legalAddress>
+                        <postalAddress>141701, Московская Область, Долгопрудный Город, Институтский Переулок, дом 9</postalAddress>
+                        <phone>7-495-4084554</phone>
+                        <fax>7-495-4086869</fax>
+                        <email>info@mipt.ru</email>
+                        <okato>46416000000</okato>
+                        <okpo>02068901</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ФИЗИКО-ТЕХНИЧЕСКИЙ ИНСТИТУТ (ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ)"</fullName>
+                        <shortName>МФТИ</shortName>
+                        <iko>55008006211772701001</iko>
+                        <inn>5008006211</inn>
+                        <kpp>772701001</kpp>
+                        <ogrn>1027739386135</ogrn>
+                        <legalAddress>117303, Г МОСКВА, УЛ КЕРЧЕНСКАЯ, дом 1А, корпус 1</legalAddress>
+                        <postalAddress>141701, Московская Область, Долгопрудный Город, Институтский Переулок, дом 9</postalAddress>
+                        <phone>7-495-4084554</phone>
+                        <fax>7-495-4086869</fax>
+                        <email>info@mipt.ru</email>
+                        <okato>46416000000</okato>
+                        <okpo>02068901</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (495) 4088851</phone>
+                    <email>go_chs@mail.mipt.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ФИЗИКО-ТЕХНИЧЕСКИЙ ИНСТИТУТ (ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ)"</fullName>
+                            <shortName>МФТИ</shortName>
+                            <iko>55008006211772701001</iko>
+                            <inn>5008006211</inn>
+                            <kpp>772701001</kpp>
+                            <ogrn>1027739386135</ogrn>
+                            <legalAddress>117303, Г МОСКВА, УЛ КЕРЧЕНСКАЯ, дом 1А, корпус 1</legalAddress>
+                            <postalAddress>141701, Московская Область, Долгопрудный Город, Институтский Переулок, дом 9</postalAddress>
+                            <phone>7-495-4084554</phone>
+                            <fax>7-495-4086869</fax>
+                            <email>info@mipt.ru</email>
+                            <okato>46416000000</okato>
+                            <okpo>02068901</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:56:22</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>82ef3cc8-33c6-463b-bf1e-acdd0f1347ba</guid>
+                        <createDateTime>2017-03-16T09:55:31</createDateTime>
+                        <fileName>Извещение ЕП17-053.pdf</fileName>
+                        <description>Извещение ЕП17-053</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094898</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:56:22</ns2:modificationDate>
+                <ns2:saveUserId>216976</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>19a0bf9e-75b5-4518-8b12-c77595f57236</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Работы по техническому обслуживанию систем видеонаблюдения (ВН)  и автоматической охранной сигнализации (АОС) на объектах МФТИ  с 01.01.2017 г. по 31.01.2017 г.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>584645.20</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>Столовая г. Долгопрудный, ул. Первомайская, д. 7а, Спорт. Корпус г. Долгопрудный, Институтский пер.д.3, Поликлиника, профилакторий. г. Долгопрудный, Московское шоссе, дом 23, Бассейн г. Долгопрудный, Московское шоссе, д. 21, корп.1, Общежитие № 6 г.Долгопрудный, Московское шоссе,д.21 ,корп.6, Общежитие № 7 г.Долгопрудный ,ул.Первомайская,д.30, корпус 7, Общежитие № 8 г.Долгопрудный ,ул.Первомайская,д.30,корпус 8, Общежитие № 9 (периметр) г.Долгопрудный ул.Первомайская д.28А, Общежитие № 10 г.Долгопрудный ,ул.Первомайская,д.34/5, Общежитие № 11 г.Долгопрудный ,ул. Первомайская, д. 32, НОЦ г.Долгопрудный, Институтский пер.,д.9, Общежитие,  г.Жуковский ул.Гагарина,д.16,  Аудиторный корпус г.Жуковский ул.Гагарина,д.20, Учебный корпус г.Москва, Климентовский  пер. д.1, Спец.кафедра, г.Долгопрудный, Научный пер,д.7, Корпус прикладной математики г.Долгопрудный ул.Первомайская д.3, Корпус микроэлектроники г.Долгопрудный ,ул.Первомайская ,д.5, Лабораторный корпус г.Долгопрудный Институтский пер, д.9 стр.2, Главный корпус г.Долгопрудный, Институтский пер.,д.9 стр.3, Радиотехнический корпус г.Долгопрудный, Институтский пер.,д.9 стр.1, Общежитие № 1 г.Долгопрудный, ул.Первомайская д. 34/5 корпус1, Общежитие №2 г.Долгопрудный ул.Первомайская.д.32 корпус2, Общежитие №3 г.Долгопрудный ул.Первомайская.д.32 корпус3, Общежитие №4 г.Долгопрудный Московское шоссе.д.25 корпус4</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>fcccbb02-2cbf-40ea-baca-27a2e939920a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>81.10.10</code>
+                                        <name>Услуги по комплексному обслуживанию помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.19</code>
+                                        <name>Ремонт прочего оборудования</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218692</planRegistrationNumber>
+                            <planGuid>b318584f-f87c-4b24-9329-082b8394383b</planGuid>
+                            <positionNumber>157</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2af00f2d-ea6e-4379-9ffd-9cc8ad6ec1ef</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

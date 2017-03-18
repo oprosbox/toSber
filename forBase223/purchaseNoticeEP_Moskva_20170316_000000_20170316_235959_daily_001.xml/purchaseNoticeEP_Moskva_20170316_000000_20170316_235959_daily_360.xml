@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>5eac4d6b-82a1-476c-bc3a-45c2d3d77ade</guid>
+        <createDateTime>2017-03-16T18:29:11</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>41f5fae2-e45b-4cea-9fe5-73bd45e78ff7</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>41f5fae2-e45b-4cea-9fe5-73bd45e78ff7</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:18:49</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888294</ns2:urlOOS>
+                <ns2:registrationNumber>31704899932</ns2:registrationNumber>
+                <ns2:name>Поставка источников бесперебойного питания INELT Monolith 3000RT.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                        <shortName>ООО "ААТ"</shortName>
+                        <iko>57701324782770101001</iko>
+                        <inn>7701324782</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1037701007618</ogrn>
+                        <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                        <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                        <phone>7-495-7460110</phone>
+                        <fax>7-495-7460110</fax>
+                        <email>77010ic@host7.taxcom.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>13565784</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                        <shortName>ООО "ААТ"</shortName>
+                        <iko>57701324782770101001</iko>
+                        <inn>7701324782</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1037701007618</ogrn>
+                        <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                        <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                        <phone>7-495-7460110</phone>
+                        <fax>7-495-7460110</fax>
+                        <email>77010ic@host7.taxcom.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>13565784</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 7460110</phone>
+                    <email>tender@a-at.ru </email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Алмаз-Антей Телекоммуникации"</fullName>
+                            <shortName>ООО "ААТ"</shortName>
+                            <iko>57701324782770101001</iko>
+                            <inn>7701324782</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1037701007618</ogrn>
+                            <legalAddress>105082, Москва, Почтовая Б., дом 22, корпус стр.7</legalAddress>
+                            <postalAddress>105082, г. Москва, ул. Большая Почтовая, д. 55/59</postalAddress>
+                            <phone>7-495-7460110</phone>
+                            <fax>7-495-7460110</fax>
+                            <email>77010ic@host7.taxcom.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>13565784</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:29:11</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>cf3b0693-4ca0-4f33-93d5-6b0025d2c066</guid>
+                        <createDateTime>2017-03-16T18:25:29</createDateTime>
+                        <fileName>Izveschenie_o_zakupke_u_edinstvennogo_postavschika_067.pdf</fileName>
+                        <description>Izveschenie_o_zakupke_u_edinstvennogo_postavschika_067</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120719</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:29:11</ns2:modificationDate>
+                <ns2:saveUserId>34895</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>06d34ea6-af3e-45e2-a9c1-013b29aa30b1</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Части и комплектующие коммуникационного оборудования</subject>
+                            <currency>
+                                <code>USD</code>
+                                <digitalCode>840</digitalCode>
+                                <name>Доллар США</name>
+                            </currency>
+                            <initialSum>37396.56</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>105082, г. Москва, ул. Большая Почтовая, д. 55/59</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>df86b8ec-0899-49cb-8049-684fbf94ac51</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.30.30.000</code>
+                                        <name>Части и комплектующие коммуникационного оборудования</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.30.3</code>
+                                        <name>Производство запасных частей и комплектующих коммуникационного оборудования</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170222443</planRegistrationNumber>
+                            <planGuid>2fe596ac-ac6b-4c0a-886c-349fd2d6da3c</planGuid>
+                            <positionNumber>377</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e6182fe9-79df-48d9-90bd-500c5ce3d593</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

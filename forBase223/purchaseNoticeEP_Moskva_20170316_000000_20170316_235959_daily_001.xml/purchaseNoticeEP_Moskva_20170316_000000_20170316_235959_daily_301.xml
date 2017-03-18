@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>273ab27b-f0a6-4f8a-875d-3206e46d6cdd</guid>
+        <createDateTime>2017-03-16T13:31:41</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f57eb4ce-99e6-45c7-a502-48aab3ae4c1d</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>f57eb4ce-99e6-45c7-a502-48aab3ae4c1d</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:30:16</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885346</ns2:urlOOS>
+                <ns2:registrationNumber>31704897448</ns2:registrationNumber>
+                <ns2:name>Авторская переработка (адаптация) оригинального перевода произведения (пьесы) «Как жаль, что моя жена…» (далее - Произведение), автор пьесы Джон Форд</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Государственное бюджетное учреждение культуры города Москвы "Театр Романа Виктюка"</fullName>
+                        <shortName>ГБУК г. Москвы "Театр Романа Виктюка"</shortName>
+                        <iko>87718120924771801001</iko>
+                        <inn>7718120924</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1027739110410</ogrn>
+                        <legalAddress>107014, Москва, Стромынка, дом 6</legalAddress>
+                        <postalAddress>107014, г. Москва, Стромынка ул., д. 6</postalAddress>
+                        <phone>7-915-3224912</phone>
+                        <email>onia25@yandex.ru</email>
+                        <okato>45263591000</okato>
+                        <okpo>45351122</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Государственное бюджетное учреждение культуры города Москвы "Театр Романа Виктюка"</fullName>
+                        <shortName>ГБУК г. Москвы "Театр Романа Виктюка"</shortName>
+                        <iko>87718120924771801001</iko>
+                        <inn>7718120924</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1027739110410</ogrn>
+                        <legalAddress>107014, Москва, Стромынка, дом 6</legalAddress>
+                        <postalAddress>107014, г. Москва, Стромынка ул., д. 6</postalAddress>
+                        <phone>7-915-3224912</phone>
+                        <email>onia25@yandex.ru</email>
+                        <okato>45263591000</okato>
+                        <okpo>45351122</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (915) 3224912</phone>
+                    <email>onia25@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Государственное бюджетное учреждение культуры города Москвы "Театр Романа Виктюка"</fullName>
+                            <shortName>ГБУК г. Москвы "Театр Романа Виктюка"</shortName>
+                            <iko>87718120924771801001</iko>
+                            <inn>7718120924</inn>
+                            <kpp>771801001</kpp>
+                            <ogrn>1027739110410</ogrn>
+                            <legalAddress>107014, Москва, Стромынка, дом 6</legalAddress>
+                            <postalAddress>107014, г. Москва, Стромынка ул., д. 6</postalAddress>
+                            <phone>7-915-3224912</phone>
+                            <email>onia25@yandex.ru</email>
+                            <okato>45263591000</okato>
+                            <okpo>45351122</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:31:41</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>86d40b3b-7ff3-42d9-9e9d-07849e6afddd</guid>
+                        <createDateTime>2017-03-16T13:31:27</createDateTime>
+                        <fileName>Документация о закупке 223 Виктюк адаптация.docx</fileName>
+                        <description>Документация о закупке 223 Виктюк адаптация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30106425</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:31:41</ns2:modificationDate>
+                <ns2:saveUserId>187736</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>4cbff08b-1819-4c94-bfdd-54a601535be8</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Авторская переработка (адаптация) оригинального перевода произведения (пьесы) «Как жаль, что моя жена…» (далее - Произведение), автор пьесы Джон Форд</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>150000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Стромынка, дом 6</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>8391fb38-052a-48b5-8322-84ef243b73c9</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>90.03.11</code>
+                                        <name>Услуги, предоставляемые авторами (писателями, композиторами, скульпторами и др.) за исключением исполнителей артистов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>90.03</code>
+                                        <name>Деятельность в области художественного творчества</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210627</planRegistrationNumber>
+                            <planGuid>da8b7621-57fc-4820-a796-a4408dc8c81c</planGuid>
+                            <positionNumber>12</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>103b4ff4-99c7-4645-bd30-8f09b45627f7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

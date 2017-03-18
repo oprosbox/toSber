@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e59c10ee-5280-43d6-9af1-ca34f974e112</guid>
+        <createDateTime>2017-03-16T18:01:43</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fcbbda71-ece7-4f47-948c-f7d755b7442c</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>fcbbda71-ece7-4f47-948c-f7d755b7442c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:59:30</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888219</ns2:urlOOS>
+                <ns2:registrationNumber>31704899849</ns2:registrationNumber>
+                <ns2:name>Выбор организации, предоставляющей услуги по организации пропускного режима (МонАрх-Плаза)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СБЕРБАНК ФАКТОРИНГ"</fullName>
+                        <shortName>ООО "СБЕРБАНК ФАКТОРИНГ"</shortName>
+                        <iko>77802754982780201001</iko>
+                        <inn>7802754982</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1117847260794</ogrn>
+                        <legalAddress>125284, Г МОСКВА, ПР-КТ ЛЕНИНГРАДСКИЙ, дом 31А, корпус 1, офис (квартира) I</legalAddress>
+                        <postalAddress>125284, Москва Город, Ленинградский Проспект, дом 31А, строение 1, офис (квартира) I</postalAddress>
+                        <phone>7-495-2300517-352</phone>
+                        <email>AVKozyrev@sberbank-factoring.ru</email>
+                        <okato>40265561000</okato>
+                        <okpo>92009109</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СБЕРБАНК ФАКТОРИНГ"</fullName>
+                        <shortName>ООО "СБЕРБАНК ФАКТОРИНГ"</shortName>
+                        <iko>77802754982780201001</iko>
+                        <inn>7802754982</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1117847260794</ogrn>
+                        <legalAddress>125284, Г МОСКВА, ПР-КТ ЛЕНИНГРАДСКИЙ, дом 31А, корпус 1, офис (квартира) I</legalAddress>
+                        <postalAddress>125284, Москва Город, Ленинградский Проспект, дом 31А, строение 1, офис (квартира) I</postalAddress>
+                        <phone>7-495-2300517-352</phone>
+                        <email>AVKozyrev@sberbank-factoring.ru</email>
+                        <okato>40265561000</okato>
+                        <okpo>92009109</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 2300517</phone>
+                    <email>purchase@sberbank-factoring.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СБЕРБАНК ФАКТОРИНГ"</fullName>
+                            <shortName>ООО "СБЕРБАНК ФАКТОРИНГ"</shortName>
+                            <iko>77802754982780201001</iko>
+                            <inn>7802754982</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1117847260794</ogrn>
+                            <legalAddress>125284, Г МОСКВА, ПР-КТ ЛЕНИНГРАДСКИЙ, дом 31А, корпус 1, офис (квартира) I</legalAddress>
+                            <postalAddress>125284, Москва Город, Ленинградский Проспект, дом 31А, строение 1, офис (квартира) I</postalAddress>
+                            <phone>7-495-2300517-352</phone>
+                            <email>AVKozyrev@sberbank-factoring.ru</email>
+                            <okato>40265561000</okato>
+                            <okpo>92009109</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:01:43</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>74d80c36-9634-42dc-bb08-949e24c5551a</guid>
+                        <createDateTime>2017-03-16T18:01:23</createDateTime>
+                        <fileName>Договор- проект визитор 2017г.docx</fileName>
+                        <description>Договор- проект визитор 2017г</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120309</url>
+                    </document>
+                    <document>
+                        <guid>07ccce57-746f-469a-b9fb-0ccd7bc2588a</guid>
+                        <createDateTime>2017-03-16T18:00:49</createDateTime>
+                        <fileName>Извещение о закупке у ЕИ Визитор.pdf</fileName>
+                        <description>Извещение о закупке у ЕИ Визитор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120299</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:01:43</ns2:modificationDate>
+                <ns2:saveUserId>173925</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>5037db64-8d8f-4187-956f-0160ef74c88c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выбор организации, предоставляющей услуги по организации пропускного режима (МонАрх-Плаза)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>120000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>  125284, город Москва, Ленинградский проспект, дом 31А, строение 1, 29 этаж</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>d5bb97c0-1203-4d89-aa60-d0d2fc7979d8</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>80.1</code>
+                                        <name>Услуги частных охранных служб</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>80.1</code>
+                                        <name>Деятельность частных охранных служб</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160201317</planRegistrationNumber>
+                            <planGuid>9ccbeccd-7218-4e5b-b5a0-e7bd92a32c06</planGuid>
+                            <positionNumber>30</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>1c753009-0dce-4af7-81a6-72735de3a216</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

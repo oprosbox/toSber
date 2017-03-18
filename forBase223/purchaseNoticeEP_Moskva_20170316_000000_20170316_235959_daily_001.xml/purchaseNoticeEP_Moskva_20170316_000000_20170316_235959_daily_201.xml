@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1042ba86-1675-45c6-996b-85a958d21019</guid>
+        <createDateTime>2017-03-16T11:50:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>99934911-de04-47a9-9bc8-91e0cad023a2</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>99934911-de04-47a9-9bc8-91e0cad023a2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T11:41:14</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5884276</ns2:urlOOS>
+                <ns2:registrationNumber>31704896682</ns2:registrationNumber>
+                <ns2:name>Оказание услуг холодного водоснабжения и водоотведения для обособленного подразделения "Волгоградское" АО "ГУ ЖКХ" (Астраханская область, г. Астрахань)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                        <shortName>АО "ГУ ЖКХ"</shortName>
+                        <iko>55116000922511601001</iko>
+                        <inn>5116000922</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1095110000325</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                        <postalAddress>119021, дом 18, строение 3</postalAddress>
+                        <phone>7-499-7909111</phone>
+                        <email>ZaicevVV@GUZHKH.RU</email>
+                        <okato>47525000000</okato>
+                        <okpo>08267116</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Михаил</firstName>
+                    <middleName>Сергеевич</middleName>
+                    <lastName>Чиганаев</lastName>
+                    <phone>+7 (499) 7909111, доб.: 236</phone>
+                    <email>ChiganaevMS@GUZHKH.RU</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА"</fullName>
+                            <shortName>АО "ГУ ЖКХ"</shortName>
+                            <iko>55116000922511601001</iko>
+                            <inn>5116000922</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1095110000325</ogrn>
+                            <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом ДОМ 18, корпус СТРОЕНИЕ 3</legalAddress>
+                            <postalAddress>119021, дом 18, строение 3</postalAddress>
+                            <phone>7-499-7909111</phone>
+                            <email>ZaicevVV@GUZHKH.RU</email>
+                            <okato>47525000000</okato>
+                            <okpo>08267116</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T11:50:52</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>38</totalDocumentsCount>
+                    <document>
+                        <guid>705a3f84-8b7c-4ebc-878f-e7f6be0dd2ff</guid>
+                        <createDateTime>2017-03-16T11:44:29</createDateTime>
+                        <fileName>вг  31 Г.docx</fileName>
+                        <description>вг  31 Г</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100867</url>
+                    </document>
+                    <document>
+                        <guid>e2892081-78bc-4bcf-b01e-2e7ff86f1c76</guid>
+                        <createDateTime>2017-03-16T11:49:52</createDateTime>
+                        <fileName>Астрводоканал договор 7517 от 01.11.2016.pdf</fileName>
+                        <description>Астрводоканал договор 7517 от 01.11.2016</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101188</url>
+                    </document>
+                    <document>
+                        <guid>a0d8e9d2-6ea3-4cd9-be50-5c8f663f5a37</guid>
+                        <createDateTime>2017-03-16T11:50:35</createDateTime>
+                        <fileName>Расчет РНЦ.xlsx</fileName>
+                        <description>Расчет РНЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101253</url>
+                    </document>
+                    <document>
+                        <guid>c57eefc0-cc1e-4c40-bd89-d851936ad222</guid>
+                        <createDateTime>2017-03-16T11:44:33</createDateTime>
+                        <fileName>вг  31 Ж.docx</fileName>
+                        <description>вг  31 Ж</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100871</url>
+                    </document>
+                    <document>
+                        <guid>a26e6782-386e-4221-b560-87fbfc66bad8</guid>
+                        <createDateTime>2017-03-16T11:49:02</createDateTime>
+                        <fileName>155.pdf</fileName>
+                        <description>155</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101127</url>
+                    </document>
+                    <document>
+                        <guid>17ba9d1a-a6c5-4308-abdf-55927a67ece4</guid>
+                        <createDateTime>2017-03-16T11:44:36</createDateTime>
+                        <fileName>вг  31 И.docx</fileName>
+                        <description>вг  31 И</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100873</url>
+                    </document>
+                    <document>
+                        <guid>a6bb1781-3df7-4b24-beda-4d43c535dc24</guid>
+                        <createDateTime>2017-03-16T11:44:41</createDateTime>
+                        <fileName>вг  31 О.docx</fileName>
+                        <description>вг  31 О</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100877</url>
+                    </document>
+                    <document>
+                        <guid>823f151f-43b7-4515-be4e-6628ba31a564</guid>
+                        <createDateTime>2017-03-16T11:44:44</createDateTime>
+                        <fileName>вг  31 Р..docx</fileName>
+                        <description>вг  31 Р.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100878</url>
+                    </document>
+                    <document>
+                        <guid>9c1e7573-3e3f-4ac1-8f3f-7922606cee74</guid>
+                        <createDateTime>2017-03-16T11:46:47</createDateTime>
+                        <fileName>31 Ж.pdf</fileName>
+                        <description>31 Ж</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101007</url>
+                    </document>
+                    <document>
+                        <guid>fe3deca8-a1b1-4e9f-a4f7-33016f3c66e6</guid>
+                        <createDateTime>2017-03-16T11:45:18</createDateTime>
+                        <fileName>вг 32.docx</fileName>
+                        <description>вг 32</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100944</url>
+                    </document>
+                    <document>
+                        <guid>a559d28d-5684-4e05-a95a-23a1dcecc8ee</guid>
+                        <createDateTime>2017-03-16T11:49:07</createDateTime>
+                        <fileName>156.pdf</fileName>
+                        <description>156</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101138</url>
+                    </document>
+                    <document>
+                        <guid>9d255578-a350-4442-b432-198f44d03011</guid>
+                        <createDateTime>2017-03-16T11:49:11</createDateTime>
+                        <fileName>157.pdf</fileName>
+                        <description>157</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101140</url>
+                    </document>
+                    <document>
+                        <guid>ba88a988-d3a6-4db1-b122-91863469ee0d</guid>
+                        <createDateTime>2017-03-16T11:45:23</createDateTime>
+                        <fileName>вг 145.docx</fileName>
+                        <description>вг 145</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100951</url>
+                    </document>
+                    <document>
+                        <guid>e61c43ca-1887-40e9-b33a-22bf1645a080</guid>
+                        <createDateTime>2017-03-16T11:45:27</createDateTime>
+                        <fileName>вг 155.docx</fileName>
+                        <description>вг 155</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100952</url>
+                    </document>
+                    <document>
+                        <guid>62e00e31-e115-4b2c-bd29-c10baad2a23e</guid>
+                        <createDateTime>2017-03-16T11:45:32</createDateTime>
+                        <fileName>вг 156.docx</fileName>
+                        <description>вг 156</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100954</url>
+                    </document>
+                    <document>
+                        <guid>8c372802-8c01-4588-9ac6-9e0a34313caa</guid>
+                        <createDateTime>2017-03-16T11:49:16</createDateTime>
+                        <fileName>158.pdf</fileName>
+                        <description>158</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101148</url>
+                    </document>
+                    <document>
+                        <guid>7585e6d4-78a9-4de3-bdc7-bf37c3e69230</guid>
+                        <createDateTime>2017-03-16T11:45:35</createDateTime>
+                        <fileName>вг 157.docx</fileName>
+                        <description>вг 157</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100957</url>
+                    </document>
+                    <document>
+                        <guid>76c5badf-6be9-4f5f-b730-b55ceaba5b38</guid>
+                        <createDateTime>2017-03-16T11:47:00</createDateTime>
+                        <fileName>31 И.pdf</fileName>
+                        <description>31 И</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101024</url>
+                    </document>
+                    <document>
+                        <guid>75a5171f-9ac5-4df2-831e-f91aa0cc1684</guid>
+                        <createDateTime>2017-03-16T11:45:41</createDateTime>
+                        <fileName>вг 158.docx</fileName>
+                        <description>вг 158</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100960</url>
+                    </document>
+                    <document>
+                        <guid>2d73d5b5-a951-4197-bc5f-5e9ff9e2e4cd</guid>
+                        <createDateTime>2017-03-16T11:50:07</createDateTime>
+                        <fileName>Извещение рсо.doc</fileName>
+                        <description>Извещение рсо</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101219</url>
+                    </document>
+                    <document>
+                        <guid>6c505089-46fb-4805-9abe-89f9b722ab59</guid>
+                        <createDateTime>2017-03-16T11:44:50</createDateTime>
+                        <fileName>вг  31 Р.docx</fileName>
+                        <description>вг  31 Р</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100899</url>
+                    </document>
+                    <document>
+                        <guid>b551152d-6ace-4b7d-8761-12c7b7b779e8</guid>
+                        <createDateTime>2017-03-16T11:48:31</createDateTime>
+                        <fileName>31 Х.pdf</fileName>
+                        <description>31 Х</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101094</url>
+                    </document>
+                    <document>
+                        <guid>6eb204e8-490e-4325-af58-b92107562a31</guid>
+                        <createDateTime>2017-03-16T11:49:23</createDateTime>
+                        <fileName>159.pdf</fileName>
+                        <description>159</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101158</url>
+                    </document>
+                    <document>
+                        <guid>36415bbf-9c5e-4d32-ba1a-0e1e16d73e2d</guid>
+                        <createDateTime>2017-03-16T11:44:56</createDateTime>
+                        <fileName>вг  31 У.docx</fileName>
+                        <description>вг  31 У</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100903</url>
+                    </document>
+                    <document>
+                        <guid>465e9618-3e9c-466d-b71d-7a604c3e219f</guid>
+                        <createDateTime>2017-03-16T11:45:48</createDateTime>
+                        <fileName>вг 159.docx</fileName>
+                        <description>вг 159</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100969</url>
+                    </document>
+                    <document>
+                        <guid>98062d43-0ae1-426b-8394-018ca00f0f65</guid>
+                        <createDateTime>2017-03-16T11:49:29</createDateTime>
+                        <fileName>схема 31 Г ул.Керченская.pdf</fileName>
+                        <description>схема 31 Г ул.Керченская</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101162</url>
+                    </document>
+                    <document>
+                        <guid>c73996dd-5ecd-4d46-9fe7-096a310249ca</guid>
+                        <createDateTime>2017-03-16T11:47:05</createDateTime>
+                        <fileName>31 К.pdf</fileName>
+                        <description>31 К</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101034</url>
+                    </document>
+                    <document>
+                        <guid>14fb73c9-35ec-4415-be6a-80d0c36330e5</guid>
+                        <createDateTime>2017-03-16T11:45:01</createDateTime>
+                        <fileName>вг  31 Х.docx</fileName>
+                        <description>вг  31 Х</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100907</url>
+                    </document>
+                    <document>
+                        <guid>2a36356c-0f8a-4861-beb5-ceba64c826cf</guid>
+                        <createDateTime>2017-03-16T11:48:36</createDateTime>
+                        <fileName>31 Ч.pdf</fileName>
+                        <description>31 Ч</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101099</url>
+                    </document>
+                    <document>
+                        <guid>48fded77-5de9-4022-972f-354813db3aff</guid>
+                        <createDateTime>2017-03-16T11:47:09</createDateTime>
+                        <fileName>31 О.pdf</fileName>
+                        <description>31 О</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101038</url>
+                    </document>
+                    <document>
+                        <guid>5b3cb159-2e44-4bf1-a862-9c15718f8c78</guid>
+                        <createDateTime>2017-03-16T11:49:34</createDateTime>
+                        <fileName>схема 31 П Наб. р.Царев.pdf</fileName>
+                        <description>схема 31 П Наб. р.Царев</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101167</url>
+                    </document>
+                    <document>
+                        <guid>7ccec073-70aa-4e0f-81d1-eb25ea6e4f5c</guid>
+                        <createDateTime>2017-03-16T11:48:41</createDateTime>
+                        <fileName>32.pdf</fileName>
+                        <description>32</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101104</url>
+                    </document>
+                    <document>
+                        <guid>83dd4c1e-3fd8-4fe7-9bd5-073c9f4bd790</guid>
+                        <createDateTime>2017-03-16T11:47:15</createDateTime>
+                        <fileName>31 Р.pdf</fileName>
+                        <description>31 Р</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101043</url>
+                    </document>
+                    <document>
+                        <guid>99922681-73ab-435e-a7f3-891e3fe38fdf</guid>
+                        <createDateTime>2017-03-16T11:48:45</createDateTime>
+                        <fileName>145.pdf</fileName>
+                        <description>145</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101109</url>
+                    </document>
+                    <document>
+                        <guid>5e674cee-65f6-467f-883f-e127371c16c5</guid>
+                        <createDateTime>2017-03-16T11:45:07</createDateTime>
+                        <fileName>вг  31 Ч.docx</fileName>
+                        <description>вг  31 Ч</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100919</url>
+                    </document>
+                    <document>
+                        <guid>6a07d043-81f2-4cbc-bab3-d27f8aec4323</guid>
+                        <createDateTime>2017-03-16T11:47:20</createDateTime>
+                        <fileName>31 У.pdf</fileName>
+                        <description>31 У</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101049</url>
+                    </document>
+                    <document>
+                        <guid>ec79c4df-8d42-4f21-be56-66723aed236a</guid>
+                        <createDateTime>2017-03-16T11:49:44</createDateTime>
+                        <fileName>3  Техническое задание 2017.docx</fileName>
+                        <description>3  Техническое задание 2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30101178</url>
+                    </document>
+                    <document>
+                        <guid>3bb9b53c-e010-4fff-be8a-607bfc153643</guid>
+                        <createDateTime>2017-03-16T11:45:12</createDateTime>
+                        <fileName>вг 31 К.docx</fileName>
+                        <description>вг 31 К</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30100927</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T11:50:52</ns2:modificationDate>
+                <ns2:saveUserId>221696</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>d7f11384-7c5a-4518-9403-532710a7edc9</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг холодного водоснабжения и водоотведения для обособленного подразделения "Волгоградское" АО "ГУ ЖКХ" (Астраханская область, г. Астрахань)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>7094555.58</initialSum>
+                            <deliveryPlace>
+                                <state>Южный федеральный округ</state>
+                                <region>Астраханская   обл</region>
+                                <regionOkato>12000000000</regionOkato>
+                                <address>В соответствии с техническим заданием</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>166b108d-fccd-4ddb-8fd8-a4dd7a74fd0f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>36.00</code>
+                                        <name>Вода природная; услуги по очистке воды и водоснабжению</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>36.00</code>
+                                        <name>Забор, очистка и распределение воды</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>113</code>
+                                        <name>Кубический метр</name>
+                                    </okei>
+                                    <qty>210956</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>f0de357a-abef-4ac5-8502-e87f880a2a40</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>37.00</code>
+                                        <name>Услуги по водоотведению; шлам сточных вод</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>37.00</code>
+                                        <name>Сбор и обработка сточных вод</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>113</code>
+                                        <name>Кубический метр</name>
+                                    </okei>
+                                    <qty>127673.15</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>8</code>
+                                <name>Закупки услуг по водоснабжению, водоотведению, теплоснабжению и газоснабжению (за исключением услуг по реализации сжиженного газа), а также по подключению (присоединению) к сетям инженерно-технического обеспечения по регулируемым в соответствии с законодательством Российской Федерации ценам (тарифам)</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160197754</planRegistrationNumber>
+                            <planGuid>5e15102f-f315-4169-a029-0a4cfc79b56a</planGuid>
+                            <positionNumber>437</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>490ab35d-0e08-43d9-bcb2-a50f4b19c21c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

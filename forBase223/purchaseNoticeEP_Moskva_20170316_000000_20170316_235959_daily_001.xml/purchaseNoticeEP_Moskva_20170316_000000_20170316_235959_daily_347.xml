@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>36c5e94e-564c-4e6a-9342-2c4c62bf2a85</guid>
+        <createDateTime>2017-03-16T17:00:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58cae7eb-920f-4caf-e100-00000a388ca5</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>58cae7eb-920f-4caf-e100-00000a388ca5</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:58:15</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887798</ns2:urlOOS>
+                <ns2:urlVSRZ>https://zakupki.gazprom.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899488</ns2:registrationNumber>
+                <ns2:name>Трубопроводная арматура</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Соколова</lastName>
+                    <phone>+7 (499) 5802113</phone>
+                    <email>ESSokolova@komplekt.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                            <shortName>ООО "Газпром комплектация"</shortName>
+                            <iko>67740000044773601001</iko>
+                            <inn>7740000044</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1027700501113</ogrn>
+                            <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                            <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                            <phone>7-495-6315782</phone>
+                            <email>komplekt@komplekt.gazprom.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>05030632</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:00:48</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>58caa32b-937a-c703-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T16:58:15</createDateTime>
+                        <fileName>ДОКУМЕНТАЦИЯ.doc</fileName>
+                        <description>ДОКУМЕНТАЦИЯ.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118306</url>
+                    </document>
+                    <document>
+                        <guid>58caa32c-937a-c703-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T16:58:16</createDateTime>
+                        <fileName>Форма 34-Извещение о проведении.doc</fileName>
+                        <description>Форма 34-Извещение о проведении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118307</url>
+                    </document>
+                    <document>
+                        <guid>58caa32d-937a-c703-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T16:58:16</createDateTime>
+                        <fileName>Договор поставки оплата по факту.doc</fileName>
+                        <description>Договор поставки оплата по факту.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118308</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:00:48</ns2:modificationDate>
+                <ns2:saveUserId>206753</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58ca2c18-8083-1c4a-e100-00000a388ca5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Трубопроводная арматура</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2117288.16</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58caa32a-937a-c703-e100-00000a388ca5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.14</code>
+                                        <name>Краны и клапаны прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.14</code>
+                                        <name>Производство прочих кранов и клапанов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>65f8f22d-8916-44d2-86c6-876ac125ccf2</planGuid>
+                            <positionNumber>184</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58c7465e-a5ef-8d7c-e100-00000a388ca5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

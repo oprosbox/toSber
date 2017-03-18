@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>2318c90f-bc64-4653-95c6-d757186fe134</guid>
+        <createDateTime>2017-03-16T17:28:16</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fdd11e8c-4ebe-41e6-986b-c1840f211d7b</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>fdd11e8c-4ebe-41e6-986b-c1840f211d7b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:25:03</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888023</ns2:urlOOS>
+                <ns2:registrationNumber>31704899699</ns2:registrationNumber>
+                <ns2:name>Поставка продуктов питания для нужд ФГБОУ ВО «РЭУ им. Г.В. Плеханова»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                        <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                        <iko>87705043493770501001</iko>
+                        <inn>7705043493</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1037700012008</ogrn>
+                        <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                        <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                        <phone>7-499-2374114</phone>
+                        <email>eis@rea.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>02068686</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                        <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                        <iko>87705043493770501001</iko>
+                        <inn>7705043493</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1037700012008</ogrn>
+                        <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                        <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                        <phone>7-499-2374114</phone>
+                        <email>eis@rea.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>02068686</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9581746</phone>
+                    <email>monitoring@rea.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ ЭКОНОМИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ Г.В. ПЛЕХАНОВА"</fullName>
+                            <shortName>ФГБОУ ВО "РЭУ ИМ. Г.В. ПЛЕХАНОВА", РЭУ ИМ. Г.В. ПЛЕХАНОВА</shortName>
+                            <iko>87705043493770501001</iko>
+                            <inn>7705043493</inn>
+                            <kpp>770501001</kpp>
+                            <ogrn>1037700012008</ogrn>
+                            <legalAddress>117997, Г МОСКВА, ПЕР СТРЕМЯННЫЙ, дом ДОМ 36</legalAddress>
+                            <postalAddress>117997, город Москва, Стремянный переулок, дом 36</postalAddress>
+                            <phone>7-499-2374114</phone>
+                            <email>eis@rea.ru</email>
+                            <okato>45286560000</okato>
+                            <okpo>02068686</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:28:16</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>50458415-33db-4bce-8245-0b658c02726a</guid>
+                        <createDateTime>2017-03-16T17:26:35</createDateTime>
+                        <fileName>Договор.doc</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119348</url>
+                    </document>
+                    <document>
+                        <guid>5adc1e55-732a-4e96-ba57-930d523c343c</guid>
+                        <createDateTime>2017-03-16T17:26:40</createDateTime>
+                        <fileName>спецификация.xlsx</fileName>
+                        <description>спецификация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119351</url>
+                    </document>
+                    <document>
+                        <guid>ed99703e-527f-4a15-a904-b9a55bb8dd49</guid>
+                        <createDateTime>2017-03-16T17:26:44</createDateTime>
+                        <fileName>Извещение и Документация.doc</fileName>
+                        <description>Извещение и Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119352</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:28:16</ns2:modificationDate>
+                <ns2:saveUserId>165294</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>4849a592-f606-4531-ac00-655b8446c546</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка продуктов питания для нужд  ФГБОУ ВО «РЭУ им. Г.В. Плеханова» </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>495932.64</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, ул. Зацепа д. 43</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a6ef2369-b4c0-4856-900b-c9f49ef6874c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4800</qty>
+                                    <additionalInfo>СНИКЕРС 50,5г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>e1216756-e1cc-4d69-a88b-1a8383f84780</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1216</qty>
+                                    <additionalInfo>СНИКЕРС Супер 95г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>33978936-79c2-4450-950a-947df0a33b21</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.72.12.130</code>
+                                        <name>Вафли и облатки вафельные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1272</qty>
+                                    <additionalInfo>ТВИКС Экстра 82г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>9274763a-3c32-4287-bcbc-f0321e23ea8a</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1080</qty>
+                                    <additionalInfo>МИЛКИ ВЭЙ 26г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>c5121ed9-2066-4249-91d7-58301360c175</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.23.137</code>
+                                        <name>Драже с помадным корпусом</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>800</qty>
+                                    <additionalInfo>М&amp;М'S 45г шоколад
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2d38c649-13c4-4e7d-ae64-55d6051207f4</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.23.135</code>
+                                        <name>Драже с пралиновыми, марципановыми корпусами и корпусом из ядра ореха и зерновое</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>800</qty>
+                                    <additionalInfo>М&amp;М'S 45г с арахисом
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>49d31499-c5c4-498d-b29c-198c1f5a2ef2</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3200</qty>
+                                    <additionalInfo>БАУНТИ 55г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6cf540f8-db2c-4b8e-af2c-9cc8ac0eec2c</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>888</qty>
+                                    <additionalInfo>БАУНТИ Трио 82.5г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>271689f0-b9eb-4064-83a3-ecd90838ac7f</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.72.12.130</code>
+                                        <name>Вафли и облатки вафельные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3760</qty>
+                                    <additionalInfo>ТВИКС 55г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>389d9bdb-534d-4267-8520-76fc6b40da49</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1368</qty>
+                                    <additionalInfo>МАРС 50г
+</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>c746c2de-08ec-4c7f-a5e3-593d28733f7b</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>10.82.22.121</code>
+                                        <name>Изделия шоколадные с начинкой</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.38.2</code>
+                                        <name>Торговля оптовая прочими пищевыми продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>720</qty>
+                                    <additionalInfo>МАРС Мах 81г
+</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209814</planRegistrationNumber>
+                            <planGuid>5fca74db-2996-4a12-bba4-6b9bc0a9758f</planGuid>
+                            <positionNumber>674</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>280ee83d-0aa9-4088-9712-f967d3096135</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

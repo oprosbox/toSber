@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>ac07af2c-36d1-461b-80b3-e7360549b1b0</guid>
+        <createDateTime>2017-03-16T15:41:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>03f4cb02-519f-476a-a6fb-af3e78ff110f</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>03f4cb02-519f-476a-a6fb-af3e78ff110f</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:39:47</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886939</ns2:urlOOS>
+                <ns2:registrationNumber>31704898723</ns2:registrationNumber>
+                <ns2:name>закупка у единственного исполнителя на право заключения договора на оказание услуг по инспекционному контролю за сертифицированной электрической энергией для нужд ПАО «МРСК Центра» (филиал «Курскэнерго»). (B2B 258826)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Иван </firstName>
+                    <middleName>Николаевич</middleName>
+                    <lastName>Игонин </lastName>
+                    <phone>+7 (4712) 380933</phone>
+                    <email>igonin.in@mrsk-1.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                            <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                            <iko>56901067107771501001</iko>
+                            <inn>6901067107</inn>
+                            <kpp>997450001</kpp>
+                            <ogrn>1046900099498</ogrn>
+                            <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                            <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                            <phone>7-495-7479292-3304</phone>
+                            <email>Stolyarov.NV@mrsk-1.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>75720657</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:41:22</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>Предоставление в форме электронного документа в Единой информационной системе в сфере закупок Российской Федерации www.zakupki.gov.ru, копия публикации на официальном сайте ПАО «МРСК Центра» www.mrsk-1.ru в разделе «Закупки».</place>
+                    <procedure>Документация по закупке предоставляется без взимания платы в форме электронного документа, начиная с даты размещения закупки.
+
+</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>918641d0-a111-4e28-a2e7-69024f2b5fe8</guid>
+                        <createDateTime>2017-03-16T15:41:12</createDateTime>
+                        <fileName>258826.7z</fileName>
+                        <description>258826</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114237</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:41:22</ns2:modificationDate>
+                <ns2:saveUserId>100614</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>72d41bae-c2d0-4851-a3d9-3c9b71b07adc</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по инспекционному контролю за сертифицированной электрической энергией</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>472000.00</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>10051031-fe87-47bc-8f7c-49d1e8ebc34f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.20.19.120</code>
+                                        <name>Услуги по проведению сертификации продукции, услуг и организаций</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.20</code>
+                                        <name>Технические испытания, исследования, анализ и сертификация</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Курская   обл</region>
+                                        <regionOkato>38000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160190937</planRegistrationNumber>
+                            <planGuid>a9898519-2058-0251-0000-58c7fe6b6729</planGuid>
+                            <positionNumber>20144500</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a9898519-2058-0250-4500-000005666809</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

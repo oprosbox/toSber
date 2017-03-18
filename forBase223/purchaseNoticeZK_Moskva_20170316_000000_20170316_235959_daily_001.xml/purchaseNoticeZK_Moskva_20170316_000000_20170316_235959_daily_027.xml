@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>11c08a1e-5446-43db-a725-586415019307</guid>
+        <createDateTime>2017-03-16T08:09:12</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7bbb3bd6-8cf0-4c75-9438-367437b12c13</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>7bbb3bd6-8cf0-4c75-9438-367437b12c13</ns2:guid>
+                <ns2:createDateTime>2017-03-16T08:07:30</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882164</ns2:urlOOS>
+                <ns2:urlVSRZ>http://zakupki.gov.ru/223/</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704894945</ns2:registrationNumber>
+                <ns2:name>Аренда жилого помещения для нужд Азово-Черноморского филиала 
+ФБУ «Морспасслужба Росморречфлота»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА"</fullName>
+                        <shortName>ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                        <iko>87707274249770701001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>125993, г МОСКВА, ул ПЕТРОВКА, дом 3/6, корпус 2</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                        <phone>7-495-6261808</phone>
+                        <fax>7-495-6261809</fax>
+                        <email>info@morspas.com</email>
+                        <okato>45286585000</okato>
+                        <okpo>18685292</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:detachedOrg>
+                    <mainInfo>
+                        <fullName>Азово-Черноморский филиал Федерального бюджетного учреждения  "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА"</fullName>
+                        <inn>7707274249</inn>
+                        <kpp>231543001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                    </mainInfo>
+                </ns2:detachedOrg>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Азово-Черноморский филиал Федерального бюджетного учреждения  "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА"</fullName>
+                        <shortName>Азово-Черноморский филиал ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                        <iko>87707274249231543001</iko>
+                        <inn>7707274249</inn>
+                        <kpp>231543001</kpp>
+                        <ogrn>1027739737321</ogrn>
+                        <legalAddress>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7</legalAddress>
+                        <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                        <phone>7-495-6261808</phone>
+                        <fax>7-495-6261809</fax>
+                        <email>info@morspas.com</email>
+                        <okato>03420000000</okato>
+                        <okpo>18685292</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Мордовина</lastName>
+                    <phone>+7 (861) 7602920</phone>
+                    <email>mto_azh@morspas.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Азово-Черноморский филиал Федерального бюджетного учреждения  "МОРСКАЯ СПАСАТЕЛЬНАЯ СЛУЖБА РОСМОРРЕЧФЛОТА"</fullName>
+                            <shortName>Азово-Черноморский филиал ФБУ "МОРСПАССЛУЖБА РОСМОРРЕЧФЛОТА"</shortName>
+                            <iko>87707274249231543001</iko>
+                            <inn>7707274249</inn>
+                            <kpp>231543001</kpp>
+                            <ogrn>1027739737321</ogrn>
+                            <legalAddress>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7</legalAddress>
+                            <postalAddress>125993, Москва Город, Петровка Улица, дом 3/6, строение 2</postalAddress>
+                            <phone>7-495-6261808</phone>
+                            <fax>7-495-6261809</fax>
+                            <email>info@morspas.com</email>
+                            <okato>03420000000</okato>
+                            <okpo>18685292</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T08:09:12</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7, отдел материально-технического обеспечения</place>
+                    <procedure>По запросу любого участника закупки, оформленному и представленному в письменной форме (запрос также может быть направлен факсом, курьером, в электронном виде в форме отсканированной копии письма за подписью уполномоченного руководителя), заказчик предоставляет участнику закупки, от которого получен запрос, документацию запроса котировок на бумажном носителе (в электронном виде).
+Предоставление документации о проведении запроса котировок на бумажном носителе (в электронном виде) до размещения такой документации в единой информационной системе не допускается.
+Плата за предоставление заказчиком документации о закупке не взимается.
+Документация о закупке размещена в единой информационной системе по адресу: www.zakupki.gov.ru и доступна для ознакомления без взимания платы.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>2c11dcf8-8782-4be7-9020-7743de872ade</guid>
+                        <createDateTime>2017-03-14T13:05:41</createDateTime>
+                        <fileName>Аренда.docx</fileName>
+                        <description>Аренда.docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30090544</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T08:09:12</ns2:modificationDate>
+                <ns2:saveUserId>223173</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>18a4fc9e-b2b2-48de-8f8a-46f3b26dfc16</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Аренда жилого помещения для нужд Азово-Черноморского филиала ФБУ "Морспасслужба Росморречфлота"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>318600.00</initialSum>
+                            <deliveryPlace>
+                                <state>Южный федеральный округ</state>
+                                <region>Краснодарский край</region>
+                                <regionOkato>03000000000</regionOkato>
+                                <address>[03000000000] Краснодарский край</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>978862f1-bda4-4b4c-b427-78a5121a7b17</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>68.20.11</code>
+                                        <name>Услуги по сдаче в аренду (внаем) собственных или арендованных жилых помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>68.20</code>
+                                        <name>Аренда и управление собственным или арендованным недвижимым имуществом</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218271</planRegistrationNumber>
+                            <planGuid>67bd21b1-96a6-4ad2-9196-77da26a851e4</planGuid>
+                            <positionNumber>187</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>662beab6-423d-4892-bfcf-5883de6e4d4d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T10:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>353901, Краснодарский край, г. Новороссийск, ул. Портовая, 7, отдел материально-технического обеспечения</ns2:quotationExaminationPlace>
+                <ns2:submissionCloseDateTime>2017-03-22T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

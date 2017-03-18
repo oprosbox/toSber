@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>41fc55a2-2305-4fb0-8f7d-b0a74daf730b</guid>
+        <createDateTime>2017-03-16T22:27:28</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a04a1f98-6e71-42c6-8685-c454e6d8e31a</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>a04a1f98-6e71-42c6-8685-c454e6d8e31a</ns2:guid>
+                <ns2:createDateTime>2017-03-16T22:23:59</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888538</ns2:urlOOS>
+                <ns2:registrationNumber>31704900151</ns2:registrationNumber>
+                <ns2:name>Поставка реактивов </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ НАУКИ ИНСТИТУТ МОЛЕКУЛЯРНОЙ БИОЛОГИИ ИМ. В.А. ЭНГЕЛЬГАРДТА РОССИЙСКОЙ АКАДЕМИИ НАУК</fullName>
+                        <shortName>ИМБ РАН</shortName>
+                        <iko>87736055393773601001</iko>
+                        <inn>7736055393</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1037736018066</ogrn>
+                        <legalAddress>119991, г МОСКВА, ул ВАВИЛОВА, дом 32</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Вавилова, д. 32</postalAddress>
+                        <phone>7-499-1359925</phone>
+                        <email>rzotov@yandex.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>02699501</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ НАУКИ ИНСТИТУТ МОЛЕКУЛЯРНОЙ БИОЛОГИИ ИМ. В.А. ЭНГЕЛЬГАРДТА РОССИЙСКОЙ АКАДЕМИИ НАУК</fullName>
+                        <shortName>ИМБ РАН</shortName>
+                        <iko>87736055393773601001</iko>
+                        <inn>7736055393</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1037736018066</ogrn>
+                        <legalAddress>119991, г МОСКВА, ул ВАВИЛОВА, дом 32</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Вавилова, д. 32</postalAddress>
+                        <phone>7-499-1359925</phone>
+                        <email>rzotov@yandex.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>02699501</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (499) 1359925</phone>
+                    <email>eimbsnab@gmail.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ НАУКИ ИНСТИТУТ МОЛЕКУЛЯРНОЙ БИОЛОГИИ ИМ. В.А. ЭНГЕЛЬГАРДТА РОССИЙСКОЙ АКАДЕМИИ НАУК</fullName>
+                            <shortName>ИМБ РАН</shortName>
+                            <iko>87736055393773601001</iko>
+                            <inn>7736055393</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1037736018066</ogrn>
+                            <legalAddress>119991, г МОСКВА, ул ВАВИЛОВА, дом 32</legalAddress>
+                            <postalAddress>119991, г. Москва, ул. Вавилова, д. 32</postalAddress>
+                            <phone>7-499-1359925</phone>
+                            <email>rzotov@yandex.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>02699501</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T22:27:28</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>5c425214-d7a9-4b4e-ace6-a4e75fb87812</guid>
+                        <createDateTime>2017-03-16T22:26:14</createDateTime>
+                        <fileName>Документация 28.docx</fileName>
+                        <description>Документация 28</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121762</url>
+                    </document>
+                    <document>
+                        <guid>499353c5-f975-451a-8952-a476abc259ca</guid>
+                        <createDateTime>2017-03-16T22:26:41</createDateTime>
+                        <fileName>Извещение 28.doc</fileName>
+                        <description>Извещение 28</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121763</url>
+                    </document>
+                    <document>
+                        <guid>67d9ae74-2a56-4615-bfda-cdf4c0bbedcb</guid>
+                        <createDateTime>2017-03-16T22:26:53</createDateTime>
+                        <fileName>Проект договора на поставку реа_расх_2017.doc</fileName>
+                        <description>Проект договора на поставку реа_расх_2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121764</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T22:27:28</ns2:modificationDate>
+                <ns2:saveUserId>70467</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>7e3bdcac-4811-4e4e-9d5d-9421bb04dc97</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка реактивов </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>890282.15</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>119991, г. Москва, ул. Вавилова, д. 32.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>4ae6b400-5dd2-46ae-9e86-d053abae94dd</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59.5</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>37</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170223626</planRegistrationNumber>
+                            <planGuid>3a507ce8-224b-4566-911d-a22c467e4452</planGuid>
+                            <positionNumber>28</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>f4e69d23-7520-4b54-9aa0-a445afe80f3e</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

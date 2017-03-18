@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3cc4ad0b-8bcb-4ea8-a13d-a2c188022d60</guid>
+        <createDateTime>2017-03-16T12:29:51</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0addd011-6b0b-1ee7-82c5-57c5462f0bae</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>0addd011-6b0b-1ee7-82c5-57c5462f0bae</ns2:guid>
+                <ns2:createDateTime>2017-03-16T12:27:24</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5884730</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704896978</ns2:registrationNumber>
+                <ns2:name>Аренда недвижимого имущества для филиала АО «Гринатом» в г. Новоуральске. 
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                        <shortName>АО "ГРИНАТОМ"</shortName>
+                        <iko>77706729736770601001</iko>
+                        <inn>7706729736</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1097746819720</ogrn>
+                        <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                        <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>MYErmolaev@greenatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>64509942</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юрий</firstName>
+                    <middleName>Владимирович</middleName>
+                    <lastName>Шкуратюк</lastName>
+                    <phone>+8 (34370) 56846</phone>
+                    <fax>+8 (34370) 92042</fax>
+                    <email>YVShkuratyuk@greenatom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГРИНАТОМ"</fullName>
+                            <shortName>АО "ГРИНАТОМ"</shortName>
+                            <iko>77706729736770601001</iko>
+                            <inn>7706729736</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1097746819720</ogrn>
+                            <legalAddress>119017, Г МОСКВА, УЛ ОРДЫНКА Б., дом 24</legalAddress>
+                            <postalAddress>115230, г. Москва, 1-й Нагатинский проезд, д.10, строение 1</postalAddress>
+                            <phone>7-499-9494919</phone>
+                            <email>MYErmolaev@greenatom.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>64509942</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T12:29:51</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>2220fc00-0d0b-1ee7-82c5-38e8e21d803c</guid>
+                        <createDateTime>2017-03-16T09:20:21</createDateTime>
+                        <fileName>Проект договора.doc</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30103472</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c5-3fa3d820ca88</guid>
+                        <createDateTime>2017-03-16T09:21:51</createDateTime>
+                        <fileName>Протокол разногласий.docx</fileName>
+                        <description>Протокол разногласий</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30103468</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-8295-1cd1af021b8e</guid>
+                        <createDateTime>2017-03-14T11:25:17</createDateTime>
+                        <fileName>Извещение Аренда НИ до 31032017.doc</fileName>
+                        <description>Извещение Аренда НИ до 31032017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30103469</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c5-45db4d6b5c5f</guid>
+                        <createDateTime>2017-03-16T09:23:15</createDateTime>
+                        <fileName>Приложение № 1 к ПР.pdf</fileName>
+                        <description>Приложение № 1 к ПР</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30103470</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c5-4c27a743c650</guid>
+                        <createDateTime>2017-03-16T09:24:39</createDateTime>
+                        <fileName>Техническое задание.pdf</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30103471</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T12:29:51</ns2:modificationDate>
+                <ns2:saveUserId>14552</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>585cc03e-f6e5-4840-e100-80000a7c101b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Аренда недвижимого имущества для филиала АО «Гринатом» в г. Новоуральске. 
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1604744.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Свердловская обл.,г. Новоуральск, ул. Дзержинского, 2А, строение 15,Здание 192; Центральный проезд, 24, строение 2, Здание 205 (без учета помещений ГО); Центральный проезд, 8А, строение 21, Здание 181.
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>585cc085-f6e5-4840-e100-80000a7c101b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>68.20.12.000</code>
+                                        <name>Услуги по сдаче в аренду (внаем) собственных или арендованных нежилых помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>68.20.2</code>
+                                        <name>Аренда и управление собственным или арендованным нежилым недвижимым имуществом</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160182074</planRegistrationNumber>
+                            <planGuid>a22a2ab1-590a-1ed7-82af-f84cbcdd119a</planGuid>
+                            <positionNumber>980400364</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7a9888ea-fb0a-1ed6-bfe2-1684c78c9fe9</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

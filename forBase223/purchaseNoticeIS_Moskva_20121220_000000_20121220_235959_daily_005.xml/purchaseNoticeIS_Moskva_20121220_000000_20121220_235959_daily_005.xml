@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-2.0.6/purchase.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns4="http://zakupki.gov.ru/223fz/orderClauseList/1">
+    <header>
+        <guid>ea39b317-1bc9-45d1-a025-fade0cacf505</guid>
+        <createDateTime>2012-12-20T23:05:52.603+04:00</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>83cccd11-9e5b-407e-97a5-1b9f881f31ac</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>83cccd11-9e5b-407e-97a5-1b9f881f31ac</ns2:guid>
+                <ns2:createDateTime>2012-12-20T22:30:49.565+04:00</ns2:createDateTime>
+                <ns2:registrationNumber>31200078421</ns2:registrationNumber>
+                <ns2:name>на право заключения договора  на оказание услуг по организации и проведению праздничного фестиваля «Рождественский базар на территории Сада им.Баумана»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Государственное автономное учреждение культуры города Москвы "Сад культуры и отдыха им. Н. Э. Баумана"</fullName>
+                        <shortName>ГАУК г. Москвы "Сад КиО им. Н. Э. Баумана"</shortName>
+                        <inn>7701036840</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1027739060315</ogrn>
+                        <legalAddress>105064, Москва, Басманная С., дом 15</legalAddress>
+                        <postalAddress>105064, Москва, Басманная С., дом 15</postalAddress>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>6</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос ценовых предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Государственное автономное учреждение культуры города Москвы "Сад культуры и отдыха им. Н. Э. Баумана"</fullName>
+                        <shortName>ГАУК г. Москвы "Сад КиО им. Н. Э. Баумана"</shortName>
+                        <inn>7701036840</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1027739060315</ogrn>
+                        <legalAddress>105064, Москва, Басманная С., дом 15</legalAddress>
+                        <postalAddress>105064, Москва, Басманная С., дом 15</postalAddress>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Мурад </firstName>
+                    <middleName>Мухидович</middleName>
+                    <lastName>Кагерманов</lastName>
+                    <phone>7-499-2611305</phone>
+                    <fax>7-499-2651105</fax>
+                    <email>mmkagerman@gmail.com</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Государственное автономное учреждение культуры города Москвы "Сад культуры и отдыха им. Н. Э. Баумана"</fullName>
+                            <shortName>ГАУК г. Москвы "Сад КиО им. Н. Э. Баумана"</shortName>
+                            <inn>7701036840</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1027739060315</ogrn>
+                            <legalAddress>105064, Москва, Басманная С., дом 15</legalAddress>
+                            <postalAddress>105064, Москва, Басманная С., дом 15</postalAddress>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2012-12-20T23:05:52.576+04:00</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2012-12-20+04:00</deliveryStartDateTime>
+                    <deliveryEndDateTime>2012-12-27+04:00</deliveryEndDateTime>
+                    <place>105064, г.Москва, ул.Старая Басманная, д.15.</place>
+                    <procedure>Заявки, подготовленные в точном соответствии с требованиям Документации о проведении запроса ценовых предложений в письменной форме или в форме электронного документа подписанного электронной цифровой подписью, направляются Участниками процедуры закупки с «20» декабря 2012 года по «27» декабря 2012 года (по рабочим дням) с 11:00 до 17:00 (время московское) по адресу: Москва, ул. Старая Басманная, д.15, приёмная.</procedure>
+                    <url>www.zakupki.gov.ru</url>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:lots>
+                    <lot>
+                        <guid>db721271-1397-4d24-9d6f-ceadd10b1ca0</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <subject>Оказание услуг по организации и проведению праздничного фестиваля "Рождественский базар на территории Сада им.Баумана".</subject>
+                        <currency>
+                            <code>RUB</code>
+                            <digitalCode>810</digitalCode>
+                            <name>Российский рубль</name>
+                        </currency>
+                        <initialSum>1481926.6</initialSum>
+                        <deliveryPlace>105064, г.Москва, ул.Старая Басманная, д.15.</deliveryPlace>
+                        <lotItems>
+                            <lotItem>
+                                <ordinalNumber>1</ordinalNumber>
+                                <okdp>
+                                    <code>9249020</code>
+                                    <name>Услуги по организации развлечений прочие</name>
+                                </okdp>
+                                <okved>
+                                    <code>92.33</code>
+                                    <name>Деятельность ярмарок и парков с аттракционами</name>
+                                </okved>
+                            </lotItem>
+                        </lotItems>
+                    </lot>
+                </ns2:lots>
+                <ns2:attachements>
+                    <document>
+                        <createDateTime>2012-12-20T23:04:06.033+04:00</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306261</url>
+                    </document>
+                    <document>
+                        <createDateTime>2012-12-20T23:04:12.142+04:00</createDateTime>
+                        <fileName>Документация.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306262</url>
+                    </document>
+                    <document>
+                        <createDateTime>2012-12-20T23:04:20.199+04:00</createDateTime>
+                        <fileName>Смета.xlsx.xlsx</fileName>
+                        <description>Смета.xlsx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=306263</url>
+                    </document>
+                </ns2:attachements>
+                <ns2:nonelectronicPlaceInfo>
+                    <summarizingPlace>105064, г.Москва, ул.Старая Басманная, д.15.</summarizingPlace>
+                    <summarizingDateTime>2012-12-28T18:00:00.000+04:00</summarizingDateTime>
+                </ns2:nonelectronicPlaceInfo>
+                <ns2:examinationPlace>105064, г.Москва, ул.Старая Басманная, д.15.</ns2:examinationPlace>
+                <ns2:examinationDateTime>2012-12-28T17:00:00.000+04:00</ns2:examinationDateTime>
+                <ns2:submissionCloseDateTime>2012-12-27T17:00:00.000+04:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2012-12-20+04:00</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

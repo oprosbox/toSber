@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b7df59d9-7253-43fb-ab26-9468d4d7f845</guid>
+        <createDateTime>2017-03-16T18:26:24</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e9a01e6f-8cd7-4065-8bb7-353a3879be63</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>e9a01e6f-8cd7-4065-8bb7-353a3879be63</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:16:16</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888285</ns2:urlOOS>
+                <ns2:registrationNumber>31704899925</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по созданию оригинальных музыкальных произведений к новой постановке – драматическому спектаклю под рабочим названием «Капитан Фракасс» в соответствии с указаниями режиссера-постановщика спектакля Е.Б. Каменьковича и передача неисключительного права на использование этих произведений.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</fullName>
+                        <shortName>ГБУК Г.МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</shortName>
+                        <iko>87703002886773001001</iko>
+                        <inn>7703002886</inn>
+                        <kpp>773001001</kpp>
+                        <ogrn>1037739376509</ogrn>
+                        <legalAddress>121165, Г МОСКВА, ПР-КТ КУТУЗОВСКИЙ, дом 30/32</legalAddress>
+                        <postalAddress>121165, г. Москва, Кутузовский проспект, дом 30/32</postalAddress>
+                        <phone>7-495-6453310</phone>
+                        <fax>7-495-6453313</fax>
+                        <email>zakupki@fomenki.ru</email>
+                        <okato>45268554000</okato>
+                        <okpo>29022198</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</fullName>
+                        <shortName>ГБУК Г.МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</shortName>
+                        <iko>87703002886773001001</iko>
+                        <inn>7703002886</inn>
+                        <kpp>773001001</kpp>
+                        <ogrn>1037739376509</ogrn>
+                        <legalAddress>121165, Г МОСКВА, ПР-КТ КУТУЗОВСКИЙ, дом 30/32</legalAddress>
+                        <postalAddress>121165, г. Москва, Кутузовский проспект, дом 30/32</postalAddress>
+                        <phone>7-495-6453310</phone>
+                        <fax>7-495-6453313</fax>
+                        <email>zakupki@fomenki.ru</email>
+                        <okato>45268554000</okato>
+                        <okpo>29022198</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николай</firstName>
+                    <middleName>Владимирович</middleName>
+                    <lastName>Костомаров</lastName>
+                    <phone>+7 (495) 6453310</phone>
+                    <email>zakupki@fomenki.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</fullName>
+                            <shortName>ГБУК Г.МОСКВЫ "МОСКОВСКИЙ ТЕАТР "МАСТЕРСКАЯ П.Н. ФОМЕНКО"</shortName>
+                            <iko>87703002886773001001</iko>
+                            <inn>7703002886</inn>
+                            <kpp>773001001</kpp>
+                            <ogrn>1037739376509</ogrn>
+                            <legalAddress>121165, Г МОСКВА, ПР-КТ КУТУЗОВСКИЙ, дом 30/32</legalAddress>
+                            <postalAddress>121165, г. Москва, Кутузовский проспект, дом 30/32</postalAddress>
+                            <phone>7-495-6453310</phone>
+                            <fax>7-495-6453313</fax>
+                            <email>zakupki@fomenki.ru</email>
+                            <okato>45268554000</okato>
+                            <okpo>29022198</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:26:24</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-17</deliveryEndDateTime>
+                    <place>121151, г. Москва, Набережная Тараса Шевченко, дом 29</place>
+                    <procedure>Информация о закупке у единственного исполнителя доступна для ознакомления в  Единой информационной системе без взимания платы.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>9dc1b873-2c4e-4ed0-8049-5fc11f66cbd8</guid>
+                        <createDateTime>2017-03-16T18:22:39</createDateTime>
+                        <fileName>Протокол НМЦД.docx</fileName>
+                        <description>Протокол Начальной (максимальной) цены договора	</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120676</url>
+                    </document>
+                    <document>
+                        <guid>82d47190-3531-4838-a31d-4ccc0816e90d</guid>
+                        <createDateTime>2017-03-16T18:21:46</createDateTime>
+                        <fileName>Проект Договора.doc</fileName>
+                        <description>Проект Договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120662</url>
+                    </document>
+                    <document>
+                        <guid>f1e7c889-5f45-4876-97cc-e4438ff72286</guid>
+                        <createDateTime>2017-03-16T18:24:57</createDateTime>
+                        <fileName>Документация о закупке у единственного поставщика (исполнителя).doc</fileName>
+                        <description>Документация о закупке у единственного поставщика (исполнителя)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120697</url>
+                    </document>
+                    <document>
+                        <guid>7fc80728-4788-4014-bab0-5829e698d916</guid>
+                        <createDateTime>2017-03-16T18:22:56</createDateTime>
+                        <fileName>Отчет.docx</fileName>
+                        <description>Отчет о невозможности (или нецелесообразности) использования иных способов определения поставщика (подрядчика, исполнителя)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120682</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:26:24</ns2:modificationDate>
+                <ns2:saveUserId>67591</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>b893c537-b6f4-4fc8-989c-28dc2b416b6b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по созданию оригинальных музыкальных произведений к новой постановке – драматическому спектаклю под рабочим названием «Капитан Фракасс» в соответствии с указаниями режиссера-постановщика спектакля Е.Б. Каменьковича и передача неисключительного права на использование этих произведений.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>115000.00</initialSum>
+                            <orderPricing>В соответствии с разделом 7 Положения о закупках товаров, работ услуг для нужд Государственного бюджетного учреждения культуры города Москвы «Московский театр «Мастерская П.Н. Фоменко» на 2017 год  (Положение утверждено Приказом Департамента культуры города Москвы № 1046 от 26.12.2016 г.), формирование Начальной (максимальной) цены Договора осуществляется по п. 1.12 распоряжения от 16 мая 2014 г. № 242-рп «Об утверждении методических рекомендаций по применению методов определения начальной (максимальной) цены контракта, цены контракта, заключаемого с единственным поставщиком (подрядчиком, исполнителем), для обеспечения нужд города Москвы»  с использованием  иного метода. </orderPricing>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>121151, г. Москва, Набережная Тараса Шевченко, дом 29</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>c96503de-a309-4ba1-9edc-15b571f1db1c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>90.03.11.000</code>
+                                        <name>Услуги, предоставляемые авторами (писателями, композиторами, скульпторами и др.) за исключением исполнителей артистов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>90.02</code>
+                                        <name>Деятельность вспомогательная, связанная с исполнительскими искусствами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160219287</planRegistrationNumber>
+                            <planGuid>2c868358-693b-48be-a078-961aa683cefe</planGuid>
+                            <positionNumber>25</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7489d7ac-4069-422e-820d-f1832e872a3c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

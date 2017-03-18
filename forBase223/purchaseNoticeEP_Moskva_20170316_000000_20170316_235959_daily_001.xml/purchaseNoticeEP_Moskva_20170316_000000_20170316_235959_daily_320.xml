@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>732f4617-0123-41e9-adc0-dfc1c24b4930</guid>
+        <createDateTime>2017-03-16T15:20:33</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a097d051-c423-4ef9-9329-1e245c8bf0fe</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>a097d051-c423-4ef9-9329-1e245c8bf0fe</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:18:46</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886699</ns2:urlOOS>
+                <ns2:registrationNumber>31704898513</ns2:registrationNumber>
+                <ns2:name>Поставка канцтоваров</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>федеральное государственное бюджетное учреждение "Центральная научно-методическая ветеринарная лаборатория"</fullName>
+                        <shortName>ФГБУ ЦНМВЛ</shortName>
+                        <iko>87720148807772001001</iko>
+                        <inn>7720148807</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1037739492537</ogrn>
+                        <legalAddress>111622, Москва, Оранжерейная, дом 23</legalAddress>
+                        <postalAddress>111622, Москва, Оранжерейная, дом 23</postalAddress>
+                        <phone>7-495-7000137</phone>
+                        <fax>7-495-7000137</fax>
+                        <email>support@cnmvl.ru</email>
+                        <okato>45263573000</okato>
+                        <okpo>00669097</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>федеральное государственное бюджетное учреждение "Центральная научно-методическая ветеринарная лаборатория"</fullName>
+                        <shortName>ФГБУ ЦНМВЛ</shortName>
+                        <iko>87720148807772001001</iko>
+                        <inn>7720148807</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1037739492537</ogrn>
+                        <legalAddress>111622, Москва, Оранжерейная, дом 23</legalAddress>
+                        <postalAddress>111622, Москва, Оранжерейная, дом 23</postalAddress>
+                        <phone>7-495-7000137</phone>
+                        <fax>7-495-7000137</fax>
+                        <email>support@cnmvl.ru</email>
+                        <okato>45263573000</okato>
+                        <okpo>00669097</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Виктор</firstName>
+                    <middleName>Викторович</middleName>
+                    <lastName>Григораш</lastName>
+                    <phone>+7 (4872) 373926</phone>
+                    <email>tulavetlab@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>федеральное государственное бюджетное учреждение "Центральная научно-методическая ветеринарная лаборатория"</fullName>
+                            <shortName>ФГБУ ЦНМВЛ</shortName>
+                            <iko>87720148807772001001</iko>
+                            <inn>7720148807</inn>
+                            <kpp>772001001</kpp>
+                            <ogrn>1037739492537</ogrn>
+                            <legalAddress>111622, Москва, Оранжерейная, дом 23</legalAddress>
+                            <postalAddress>111622, Москва, Оранжерейная, дом 23</postalAddress>
+                            <phone>7-495-7000137</phone>
+                            <fax>7-495-7000137</fax>
+                            <email>support@cnmvl.ru</email>
+                            <okato>45263573000</okato>
+                            <okpo>00669097</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:20:33</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>87cd31e3-134c-4fad-bc95-f50a63a64ece</guid>
+                        <createDateTime>2017-03-16T15:20:17</createDateTime>
+                        <fileName>ДОГОВОР Канцтовары.docx</fileName>
+                        <description>ДОГОВОР Канцтовары</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30112979</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:20:33</ns2:modificationDate>
+                <ns2:saveUserId>217312</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>ef3f507a-f148-4178-9ca2-7a97eb8bbe57</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка канцтоваров</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>526410.50</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, ул. Оранжерейная, д. 23</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>39efa909-cd16-4be0-9c8a-6c1949c5c901</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>47.62.20.000</code>
+                                        <name>Услуги по розничной торговле писчебумажными и канцелярскими товарами в специализированных магазинах</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>47.62.2</code>
+                                        <name>Торговля розничная писчебумажными и канцелярскими товарами в специализированных магазинах</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210229</planRegistrationNumber>
+                            <planGuid>3eeee465-b2a7-4691-ac77-59118e8c86c9</planGuid>
+                            <positionNumber>17</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>db42871c-48c2-404a-8ffc-beef0a4ecc01</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

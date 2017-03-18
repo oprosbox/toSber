@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>ce63efa6-c36d-4952-8d88-aadaf1b5e118</guid>
+        <createDateTime>2017-03-16T13:57:09</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>301d30ee-bb12-4a5e-8e7d-a58bcb3c0f31</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>301d30ee-bb12-4a5e-8e7d-a58bcb3c0f31</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:55:25</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885675</ns2:urlOOS>
+                <ns2:registrationNumber>31704859515</ns2:registrationNumber>
+                <ns2:name>на право заключения договорана закупку дисков с антибиотиками для нужд ФБУН ЦНИИ Эпидемиологии Роспотребнадзора.
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Федеральное бюджетное учреждение науки "Центральный научно-исследовательский институт эпидемиологии" Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека</fullName>
+                        <shortName>ФБУН ЦНИИ Эпидемиологии Роспотребнадзора</shortName>
+                        <iko>87720024671772001001</iko>
+                        <inn>7720024671</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1027700046615</ogrn>
+                        <legalAddress>111123, Москва, Новогиреевская, дом 3А</legalAddress>
+                        <postalAddress>111123, г. Москва, Новогиреевская ул., дом 3а</postalAddress>
+                        <phone>7-495-9749646</phone>
+                        <fax>7-495-3055423</fax>
+                        <email>p14@pcr.ru</email>
+                        <okato>45263583000</okato>
+                        <okpo>01897593</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Федеральное бюджетное учреждение науки "Центральный научно-исследовательский институт эпидемиологии" Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека</fullName>
+                        <shortName>ФБУН ЦНИИ Эпидемиологии Роспотребнадзора</shortName>
+                        <iko>87720024671772001001</iko>
+                        <inn>7720024671</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1027700046615</ogrn>
+                        <legalAddress>111123, Москва, Новогиреевская, дом 3А</legalAddress>
+                        <postalAddress>111123, г. Москва, Новогиреевская ул., дом 3а</postalAddress>
+                        <phone>7-495-9749646</phone>
+                        <fax>7-495-3055423</fax>
+                        <email>p14@pcr.ru</email>
+                        <okato>45263583000</okato>
+                        <okpo>01897593</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Екатерина</firstName>
+                    <middleName>Александровна</middleName>
+                    <lastName>Цветкова</lastName>
+                    <phone>+7 (495) 9749646</phone>
+                    <email>tender@cmd.su</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Федеральное бюджетное учреждение науки "Центральный научно-исследовательский институт эпидемиологии" Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека</fullName>
+                            <shortName>ФБУН ЦНИИ Эпидемиологии Роспотребнадзора</shortName>
+                            <iko>87720024671772001001</iko>
+                            <inn>7720024671</inn>
+                            <kpp>772001001</kpp>
+                            <ogrn>1027700046615</ogrn>
+                            <legalAddress>111123, Москва, Новогиреевская, дом 3А</legalAddress>
+                            <postalAddress>111123, г. Москва, Новогиреевская ул., дом 3а</postalAddress>
+                            <phone>7-495-9749646</phone>
+                            <fax>7-495-3055423</fax>
+                            <email>p14@pcr.ru</email>
+                            <okato>45263583000</okato>
+                            <okpo>01897593</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:57:09</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-06</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>Согласно документации</place>
+                    <procedure>Согласно документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Продление срока подачи заявок, т.к. поступила одна заявка.</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>226e8621-342c-4b8d-8dfa-3d17dedd0e95</guid>
+                        <createDateTime>2017-03-06T10:35:08</createDateTime>
+                        <fileName>Проект договора.docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107828</url>
+                    </document>
+                    <document>
+                        <guid>5f697a88-7fb4-4c1c-b003-84eff2ee8ba6</guid>
+                        <createDateTime>2017-03-06T10:34:53</createDateTime>
+                        <fileName>форма по 223.doc</fileName>
+                        <description>форма по 223</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107829</url>
+                    </document>
+                    <document>
+                        <guid>29b47c4b-6518-4115-86fa-2a8bacfa7dd9</guid>
+                        <createDateTime>2017-03-06T10:35:02</createDateTime>
+                        <fileName>документация о запросе котировок.docx</fileName>
+                        <description>документация о запросе котировок</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107830</url>
+                    </document>
+                    <document>
+                        <guid>f5a25c54-2e18-42dd-a04f-721618b7fa29</guid>
+                        <createDateTime>2017-03-06T10:35:15</createDateTime>
+                        <fileName>Техническое задание.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107831</url>
+                    </document>
+                    <document>
+                        <guid>2e2e2b7e-f5d0-4f1e-9b01-aae72a9f80cc</guid>
+                        <createDateTime>2017-03-16T13:56:51</createDateTime>
+                        <fileName>документация о запросе котировок продление.docx</fileName>
+                        <description>документация о запросе котировок продление</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107951</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:57:09</ns2:modificationDate>
+                <ns2:saveUserId>57768</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>dfb8ce74-8ec1-4490-94c4-543982cd85eb</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>закупка дисков с антибиотиками</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>734256.70</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>111123, г. Москва, ул. Новогиреевская, д.3 А</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>9c7b8a85-97c0-47ba-bcb0-c31e9e68eb2a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.23.110</code>
+                                        <name>Реагенты диагностические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20.2</code>
+                                        <name>Производство материалов, применяемых в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>798</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224977</planRegistrationNumber>
+                            <planGuid>a062d8e9-c79b-4cf0-b924-5e870a102a59</planGuid>
+                            <positionNumber>53</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>f0887b8f-d269-4111-8cf4-9566d908cfaf</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-22T12:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>111123, г. Москва, ул. Новогиреевская, д. 3 А, кабинет 402</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>В составе документов</ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-21T15:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-06</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

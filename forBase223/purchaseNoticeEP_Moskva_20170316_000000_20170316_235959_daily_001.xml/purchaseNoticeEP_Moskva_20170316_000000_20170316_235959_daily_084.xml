@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e0a98541-f1fc-4c86-b148-70578da4b317</guid>
+        <createDateTime>2017-03-16T14:03:01</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>1a1b70e6-f35e-468f-a4f4-994540c5fb9e</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>1a1b70e6-f35e-468f-a4f4-994540c5fb9e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:57:30</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885697</ns2:urlOOS>
+                <ns2:registrationNumber>31704897745</ns2:registrationNumber>
+                <ns2:name>Ремонт блоков и агрегатов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКАЯ САМОЛЕТОСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ "МИГ"</fullName>
+                        <shortName>АО "РСК "МИГ"</shortName>
+                        <iko>67714733528771401001</iko>
+                        <inn>7714733528</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1087746371844</ogrn>
+                        <legalAddress>125284, Г МОСКВА, ПР БОТКИНСКИЙ 1-Й, дом 7</legalAddress>
+                        <postalAddress>125284, Москва, Боткинский 1-й, дом 7</postalAddress>
+                        <phone>7-499-7218100-7632</phone>
+                        <email>v.davydov@rsk-mig.ru</email>
+                        <okato>45277556000</okato>
+                        <okpo>42836853</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКАЯ САМОЛЕТОСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ "МИГ"</fullName>
+                        <shortName>АО "РСК "МИГ"</shortName>
+                        <iko>67714733528771401001</iko>
+                        <inn>7714733528</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1087746371844</ogrn>
+                        <legalAddress>125284, Г МОСКВА, ПР БОТКИНСКИЙ 1-Й, дом 7</legalAddress>
+                        <postalAddress>125284, Москва, Боткинский 1-й, дом 7</postalAddress>
+                        <phone>7-499-7218100-7632</phone>
+                        <email>v.davydov@rsk-mig.ru</email>
+                        <okato>45277556000</okato>
+                        <okpo>42836853</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Сергей</firstName>
+                    <middleName>Аркадьевич</middleName>
+                    <lastName>Закубанский </lastName>
+                    <phone>+7 (831) 2293424</phone>
+                    <email>info@sokolnn.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКАЯ САМОЛЕТОСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ "МИГ"</fullName>
+                            <shortName>АО "РСК "МИГ"</shortName>
+                            <iko>67714733528771401001</iko>
+                            <inn>7714733528</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1087746371844</ogrn>
+                            <legalAddress>125284, Г МОСКВА, ПР БОТКИНСКИЙ 1-Й, дом 7</legalAddress>
+                            <postalAddress>125284, Москва, Боткинский 1-й, дом 7</postalAddress>
+                            <phone>7-499-7218100-7632</phone>
+                            <email>v.davydov@rsk-mig.ru</email>
+                            <okato>45277556000</okato>
+                            <okpo>42836853</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:03:01</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <procedure>иная документация по закупке не предоставляется</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>0b24580e-764a-4f1b-83f9-4f894c6c24bb</guid>
+                        <createDateTime>2017-03-16T14:01:26</createDateTime>
+                        <fileName>514 арз 61 млн..docx</fileName>
+                        <description>514 арз 61 млн.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30108261</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:03:01</ns2:modificationDate>
+                <ns2:saveUserId>262788</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>6eb6bfaa-38dd-42ec-a5ca-62ce32d2b954</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Ремонт блоков и агрегатов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>61704762.96</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Тверская   обл</region>
+                                <regionOkato>28000000000</regionOkato>
+                                <address>г.Ржев-3</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bb08d137-df5a-4e6b-9eb6-b7f130b183ad</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.19.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.16</code>
+                                        <name>Ремонт и техническое обслуживание летательных аппаратов, включая космические</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209569</planRegistrationNumber>
+                            <planGuid>8dc55996-3e56-4b57-baab-daa4a7a39b4c</planGuid>
+                            <positionNumber>1689</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>f5038863-9ae9-4ef4-b516-31be8cd9697f</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

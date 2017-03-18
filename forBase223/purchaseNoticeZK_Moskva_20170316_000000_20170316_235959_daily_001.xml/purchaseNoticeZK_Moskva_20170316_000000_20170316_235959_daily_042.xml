@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>cd1d5ae2-63c9-4a31-920f-4d3eb3b59057</guid>
+        <createDateTime>2017-03-16T15:15:02</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2e0a485b-99e3-42cf-be87-e3639437d5d1</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>2e0a485b-99e3-42cf-be87-e3639437d5d1</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:02:24</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886491</ns2:urlOOS>
+                <ns2:registrationNumber>31704898456</ns2:registrationNumber>
+                <ns2:name>Поставка лекарственных препаратов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МЕЖБОЛЬНИЧНАЯ АПТЕКА"  УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГУП "МБА"</shortName>
+                        <iko>57729101120772901001</iko>
+                        <inn>7729101120</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>1027739846628</ogrn>
+                        <legalAddress>121471, г МОСКВА, ул РЯБИНОВАЯ, дом 43</legalAddress>
+                        <postalAddress>121471, Москва г, Рябиновая ул, д. 43</postalAddress>
+                        <phone>7-495-4473663</phone>
+                        <fax>7-495-4475969</fax>
+                        <email>zepkovskaya@mba-udp.ru</email>
+                        <okato>45268579000</okato>
+                        <okpo>01895507</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МЕЖБОЛЬНИЧНАЯ АПТЕКА"  УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГУП "МБА"</shortName>
+                        <iko>57729101120772901001</iko>
+                        <inn>7729101120</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>1027739846628</ogrn>
+                        <legalAddress>121471, г МОСКВА, ул РЯБИНОВАЯ, дом 43</legalAddress>
+                        <postalAddress>121471, Москва г, Рябиновая ул, д. 43</postalAddress>
+                        <phone>7-495-4473663</phone>
+                        <fax>7-495-4475969</fax>
+                        <email>zepkovskaya@mba-udp.ru</email>
+                        <okato>45268579000</okato>
+                        <okpo>01895507</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Людмила</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Цепковская</lastName>
+                    <phone>+7 (499) 7378881</phone>
+                    <email>zepkovskaya@mba-udp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "МЕЖБОЛЬНИЧНАЯ АПТЕКА"  УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГУП "МБА"</shortName>
+                            <iko>57729101120772901001</iko>
+                            <inn>7729101120</inn>
+                            <kpp>772901001</kpp>
+                            <ogrn>1027739846628</ogrn>
+                            <legalAddress>121471, г МОСКВА, ул РЯБИНОВАЯ, дом 43</legalAddress>
+                            <postalAddress>121471, Москва г, Рябиновая ул, д. 43</postalAddress>
+                            <phone>7-495-4473663</phone>
+                            <fax>7-495-4475969</fax>
+                            <email>zepkovskaya@mba-udp.ru</email>
+                            <okato>45268579000</okato>
+                            <okpo>01895507</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:15:02</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>121471, г. Москва, ул. Рябиновая, д. 43</place>
+                    <procedure>документация на бумажном носителе предоставляется в течение 2 (Двух) рабочих дней с момента получения письменного запроса от Участника</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>415b128b-92f2-40f8-a22a-700aa0f2777c</guid>
+                        <createDateTime>2017-03-16T15:10:05</createDateTime>
+                        <fileName>Обоснование_НМЦК_ЗК_16.xls</fileName>
+                        <description>Обоснование_НМЦК_ЗК_16</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30112461</url>
+                    </document>
+                    <document>
+                        <guid>8921d342-e61d-4f3e-8288-bf4d769e72f3</guid>
+                        <createDateTime>2017-03-16T15:10:12</createDateTime>
+                        <fileName>ЗК_16_документация.doc</fileName>
+                        <description>ЗК_16_документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30112477</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:15:02</ns2:modificationDate>
+                <ns2:saveUserId>149988</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>f342e5cc-ea89-4c72-bbe2-887ff3a443bc</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>поставка лекарственных препаратов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>451627.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>121471, г. Москва, ул. Рябиновая, д. 43</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>61f91ddb-8607-413e-ae46-eede5454d217</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.2</code>
+                                        <name>Препараты лекарственные и материалы, применяемые в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.2</code>
+                                        <name>Производство лекарственных препаратов и материалов, применяемых в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>1450</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160213824</planRegistrationNumber>
+                            <planGuid>79690ee1-d269-4c2a-8cc3-20dc97d6372a</planGuid>
+                            <positionNumber>221</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>5c02e218-63b8-4661-a57a-0db0cc40dd07</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-23T13:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>121471, г. Москва, ул. Рябиновая, д. 43</ns2:quotationExaminationPlace>
+                <ns2:quotationForm>Бумажный носитель, оформленный в соответствии с Приложением № 2, к настоящему запросу (подаётся в запечатанном конверте) или в форме электронного документа в соответствии Федеральным законом от «06» апреля 2011г. № 63-ФЗ «Об электронной подписи» (в случае подачи котировочной заявки в форме электронного документа по электронной почте участник размещения заказа направляет свою заявку в форме электронного документа подписанную неквалифицированной электронно-цифровой подписью средствами ЕИС). </ns2:quotationForm>
+                <ns2:submissionCloseDateTime>2017-03-22T17:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

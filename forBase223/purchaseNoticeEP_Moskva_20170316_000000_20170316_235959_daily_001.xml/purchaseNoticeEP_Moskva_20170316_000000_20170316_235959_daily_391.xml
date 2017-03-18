@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>75a68d94-dda0-4061-bc43-53a0cab9de3e</guid>
+        <createDateTime>2017-03-16T16:43:47</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2fb8be1f-bef2-4438-af94-e8875db10a17</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>2fb8be1f-bef2-4438-af94-e8875db10a17</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:33:17</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887549</ns2:urlOOS>
+                <ns2:registrationNumber>31704899316</ns2:registrationNumber>
+                <ns2:name>На поставку стендов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 52 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДГП № 52 ДЗМ"</shortName>
+                        <iko>87719082245771901001</iko>
+                        <inn>7719082245</inn>
+                        <kpp>771901001</kpp>
+                        <ogrn>1027739876504</ogrn>
+                        <legalAddress>105318, МОСКВА, ЗВЕРИНЕЦКАЯ, дом 15</legalAddress>
+                        <postalAddress>105318, г.Москва, Зверинецкая ул., д.15</postalAddress>
+                        <phone>7-499-7800093</phone>
+                        <fax>7-495-3650539</fax>
+                        <email>info@dgp52.mosgorzdrav.ru</email>
+                        <okato>45263588000</okato>
+                        <okpo>05018826</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 52 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДГП № 52 ДЗМ"</shortName>
+                        <iko>87719082245771901001</iko>
+                        <inn>7719082245</inn>
+                        <kpp>771901001</kpp>
+                        <ogrn>1027739876504</ogrn>
+                        <legalAddress>105318, МОСКВА, ЗВЕРИНЕЦКАЯ, дом 15</legalAddress>
+                        <postalAddress>105318, г.Москва, Зверинецкая ул., д.15</postalAddress>
+                        <phone>7-499-7800093</phone>
+                        <fax>7-495-3650539</fax>
+                        <email>info@dgp52.mosgorzdrav.ru</email>
+                        <okato>45263588000</okato>
+                        <okpo>05018826</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Евгений</firstName>
+                    <middleName>Пантелеймонович</middleName>
+                    <lastName>Омелянюк</lastName>
+                    <phone>+7 (495) 3650539</phone>
+                    <email>nata1841@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 52 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУЗ "ДГП № 52 ДЗМ"</shortName>
+                            <iko>87719082245771901001</iko>
+                            <inn>7719082245</inn>
+                            <kpp>771901001</kpp>
+                            <ogrn>1027739876504</ogrn>
+                            <legalAddress>105318, МОСКВА, ЗВЕРИНЕЦКАЯ, дом 15</legalAddress>
+                            <postalAddress>105318, г.Москва, Зверинецкая ул., д.15</postalAddress>
+                            <phone>7-499-7800093</phone>
+                            <fax>7-495-3650539</fax>
+                            <email>info@dgp52.mosgorzdrav.ru</email>
+                            <okato>45263588000</okato>
+                            <okpo>05018826</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:43:47</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>ул. Зверинецкая, д. 15</place>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>d31b8aae-6b8f-4cb4-99ac-70cd38e4bcf0</guid>
+                        <createDateTime>2017-03-16T16:43:27</createDateTime>
+                        <fileName>Договор стенды.docx</fileName>
+                        <description>Договор стенды</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117472</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:43:47</ns2:modificationDate>
+                <ns2:saveUserId>104129</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>44c13551-767c-4d84-952e-f00a42faa13d</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>На поставку стендов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>31720.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ул. Зверинецкая, д. 15</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>945acfb8-a70a-4ed3-82fe-76614e3c2b0e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.190</code>
+                                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>22.29</code>
+                                        <name>Производство прочих пластмассовых изделий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>26</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>true</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

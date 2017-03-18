@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9b6e125f-374b-4537-97da-fe075abfc466</guid>
+        <createDateTime>2017-03-16T15:31:05</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>82c318c4-a078-4fec-a5bb-103e7bc6a15e</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>82c318c4-a078-4fec-a5bb-103e7bc6a15e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:23:46</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886754</ns2:urlOOS>
+                <ns2:registrationNumber>31704898617</ns2:registrationNumber>
+                <ns2:name>Оказание преподавательских услуг по дисциплинам "Почвоведение" и "Ландшафтоведение" для студентов бакалавриата</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ МЕЖДУНАРОДНЫХ ОТНОШЕНИЙ (УНИВЕРСИТЕТ) МИНИСТЕРСТВА ИНОСТРАННЫХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                        <shortName>МГИМО МИД РОССИИ</shortName>
+                        <iko>87729134728772901001</iko>
+                        <inn>7729134728</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>1037739194217</ogrn>
+                        <legalAddress>119454, г МОСКВА, пр-кт ВЕРНАДСКОГО, дом 76</legalAddress>
+                        <postalAddress>119454, г. Москва, проспект Вернадского, 76 </postalAddress>
+                        <phone>7-495-4342492</phone>
+                        <email>Korunov@mgimo.ru</email>
+                        <okato>45268581000</okato>
+                        <okpo>04815041</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ МЕЖДУНАРОДНЫХ ОТНОШЕНИЙ (УНИВЕРСИТЕТ) МИНИСТЕРСТВА ИНОСТРАННЫХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                        <shortName>МГИМО МИД РОССИИ</shortName>
+                        <iko>87729134728772901001</iko>
+                        <inn>7729134728</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>1037739194217</ogrn>
+                        <legalAddress>119454, г МОСКВА, пр-кт ВЕРНАДСКОГО, дом 76</legalAddress>
+                        <postalAddress>119454, г. Москва, проспект Вернадского, 76 </postalAddress>
+                        <phone>7-495-4342492</phone>
+                        <email>Korunov@mgimo.ru</email>
+                        <okato>45268581000</okato>
+                        <okpo>04815041</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Константин </firstName>
+                    <middleName>Александрович </middleName>
+                    <lastName>Корунов </lastName>
+                    <phone>+7 (495) 2295454</phone>
+                    <email>Korunov@mgimo.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ МЕЖДУНАРОДНЫХ ОТНОШЕНИЙ (УНИВЕРСИТЕТ) МИНИСТЕРСТВА ИНОСТРАННЫХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+                            <shortName>МГИМО МИД РОССИИ</shortName>
+                            <iko>87729134728772901001</iko>
+                            <inn>7729134728</inn>
+                            <kpp>772901001</kpp>
+                            <ogrn>1037739194217</ogrn>
+                            <legalAddress>119454, г МОСКВА, пр-кт ВЕРНАДСКОГО, дом 76</legalAddress>
+                            <postalAddress>119454, г. Москва, проспект Вернадского, 76 </postalAddress>
+                            <phone>7-495-4342492</phone>
+                            <email>Korunov@mgimo.ru</email>
+                            <okato>45268581000</okato>
+                            <okpo>04815041</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:31:05</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>d8bb2ecc-9f7d-4cb3-ab88-df8d05d4769a</guid>
+                        <createDateTime>2017-03-16T15:27:54</createDateTime>
+                        <fileName>Договор.docx</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113427</url>
+                    </document>
+                    <document>
+                        <guid>1c39ac78-3f94-4546-a322-532fe74069d7</guid>
+                        <createDateTime>2017-03-16T15:28:08</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113444</url>
+                    </document>
+                    <document>
+                        <guid>9576adab-6c00-4e85-9169-3a09d0d9e735</guid>
+                        <createDateTime>2017-03-16T15:28:03</createDateTime>
+                        <fileName>Документация о закупке.docx</fileName>
+                        <description>Документация о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30113436</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:31:05</ns2:modificationDate>
+                <ns2:saveUserId>215839</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>26bb23e7-e76a-4b66-97ec-6646e542a79b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание преподавательских услуг по дисциплинам "Почвоведение" и "Ландшафтоведение" для студентов бакалавриата
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>111741.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>119454, Россия, г. Москва, пр-т Вернадского, д. 76</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>cf4de1a9-3e55-46e7-b654-e1cee362c064</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>85.22.12.000</code>
+                                        <name>Услуги в области высшего образования прочие - бакалавриат</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>85.22.1</code>
+                                        <name>Образование высшее - бакалавриат</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>356</code>
+                                        <name>Час</name>
+                                    </okei>
+                                    <qty>214.2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160193211</planRegistrationNumber>
+                            <planGuid>2a291242-79aa-488c-bcf9-20a2ea361cc6</planGuid>
+                            <positionNumber>380</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d143954e-8cf8-4898-ae82-0939e48cb07a</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

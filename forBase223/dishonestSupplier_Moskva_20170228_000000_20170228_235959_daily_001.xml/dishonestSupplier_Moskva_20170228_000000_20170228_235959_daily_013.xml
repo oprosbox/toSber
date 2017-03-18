@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:dishonestSupplier xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns17="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns18="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns4="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns5="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns6="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns7="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns8="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchase/1">
+    <header>
+        <guid>6b2f3e87-d925-4f08-b7f5-e5266cadd08a</guid>
+        <createDateTime>2017-02-28T16:37:34</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3365a6e6-0e84-4ca1-9225-408da6f66e7f</guid>
+            <ns2:dishonestSupplierData>
+                <ns2:guid>2d9cafb5-548b-482b-adc1-c5946c24ab94</ns2:guid>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНАЯ АНТИМОНОПОЛЬНАЯ СЛУЖБА</fullName>
+                        <shortName>ФЕДЕРАЛЬНАЯ АНТИМОНОПОЛЬНАЯ СЛУЖБА</shortName>
+                        <iko>57703516539770301001</iko>
+                        <inn>7703516539</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1047796269663</ogrn>
+                        <legalAddress>123995, Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, дом 11</legalAddress>
+                        <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+                        <phone>7-499-2526865</phone>
+                        <fax>7-499-2548300</fax>
+                        <email>delo@fas.gov.ru</email>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:registrationNumber>Р1702274</ns2:registrationNumber>
+                <ns2:createDateTime>2017-02-28T16:35:07</ns2:createDateTime>
+                <ns2:applicationNumber>.</ns2:applicationNumber>
+                <ns2:includeReasonInfo>Приказ ФАС России от 27.12.2017 № 234/17</ns2:includeReasonInfo>
+                <ns2:commonApplicationInfo>
+                    <ns2:includeReason>WD</ns2:includeReason>
+                    <ns2:includeReasonText>Уклонение победителя от заключения договора</ns2:includeReasonText>
+                    <ns2:controlAgency>
+                        <fullName>ФЕДЕРАЛЬНАЯ АНТИМОНОПОЛЬНАЯ СЛУЖБА</fullName>
+                        <shortName>ФЕДЕРАЛЬНАЯ АНТИМОНОПОЛЬНАЯ СЛУЖБА</shortName>
+                        <iko>57703516539770301001</iko>
+                        <inn>7703516539</inn>
+                        <kpp>770301001</kpp>
+                        <ogrn>1047796269663</ogrn>
+                        <legalAddress>123995, Г МОСКВА, УЛ САДОВАЯ-КУДРИНСКАЯ, дом 11</legalAddress>
+                        <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+                        <phone>7-499-2526865</phone>
+                        <fax>7-499-2548300</fax>
+                        <email>delo@fas.gov.ru</email>
+                    </ns2:controlAgency>
+                    <ns2:topSecret>false</ns2:topSecret>
+                    <ns2:supplier>
+                        <ns2:name>ООО "РЕСУРС"</ns2:name>
+                        <ns2:inn>3702708953</ns2:inn>
+                        <ns2:address>
+                            <country>
+                                <name>Российская Федерация</name>
+                                <digitalCode>643</digitalCode>
+                            </country>
+                            <area>г. Иваново</area>
+                            <house>15</house>
+                            <zip>153005</zip>
+                            <region>Ивановская область</region>
+                            <settlement>.</settlement>
+                            <street>Сарментовой ул.</street>
+                        </ns2:address>
+                    </ns2:supplier>
+                    <ns2:purchaseInfo>
+                        <purchaseNoticeNumber>31603743068</purchaseNoticeNumber>
+                        <name>31603743068</name>
+                        <ns2:documentRequisites>
+                            <ns2:documentNumber>№ 223ЭА 499</ns2:documentNumber>
+                            <ns2:documentName>Протокол</ns2:documentName>
+                            <ns2:documentDate>2016-07-29</ns2:documentDate>
+                        </ns2:documentRequisites>
+                    </ns2:purchaseInfo>
+                </ns2:commonApplicationInfo>
+                <ns2:includeDate>2017-02-28T16:37:34</ns2:includeDate>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>f38bde71-cb80-42e6-960b-e672f6423c9f</guid>
+                        <createDateTime>2017-02-28T16:36:55</createDateTime>
+                        <fileName>Приказ № 234-17.pdf</fileName>
+                        <description>Приказ № 234-17</description>
+                        <url>http://zakupki.gov.ru/223/dishonest/public/download/download.html?id=6580</url>
+                    </document>
+                </ns2:attachments>
+            </ns2:dishonestSupplierData>
+        </ns2:item>
+    </ns2:body>
+</ns2:dishonestSupplier>

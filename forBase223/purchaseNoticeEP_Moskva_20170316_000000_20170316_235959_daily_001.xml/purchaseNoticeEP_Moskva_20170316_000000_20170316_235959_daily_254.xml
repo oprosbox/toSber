@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>f83cdb2b-a045-48b1-96c4-f07bcaafe5fa</guid>
+        <createDateTime>2017-03-16T16:59:44</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3cd42e8d-d73f-4cc7-9748-18fa48fe67ac</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>3cd42e8d-d73f-4cc7-9748-18fa48fe67ac</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:53:04</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887752</ns2:urlOOS>
+                <ns2:registrationNumber>31704899473</ns2:registrationNumber>
+                <ns2:name>Расходные медицинские материалы для  КДЛ</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ГОРОДСКАЯ ПОЛИКЛИНИКА № 3 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ГП № 3 ДЗМ"</shortName>
+                        <iko>87710125487771001001</iko>
+                        <inn>7710125487</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037739028975</ogrn>
+                        <legalAddress>123001, г МОСКВА, пер ЕРМОЛАЕВСКИЙ, дом 22/26, корпус 1-2</legalAddress>
+                        <postalAddress>123001, Москва Город, Ермолаевский Переулок, дом 22/26, строение 1, офис (квартира) -</postalAddress>
+                        <phone>7-495-6501430</phone>
+                        <fax>7-495-6501431</fax>
+                        <email>info@gp3.mosgorzdrav.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>40129554</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ГОРОДСКАЯ ПОЛИКЛИНИКА № 3 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ГП № 3 ДЗМ"</shortName>
+                        <iko>87710125487771001001</iko>
+                        <inn>7710125487</inn>
+                        <kpp>771001001</kpp>
+                        <ogrn>1037739028975</ogrn>
+                        <legalAddress>123001, г МОСКВА, пер ЕРМОЛАЕВСКИЙ, дом 22/26, корпус 1-2</legalAddress>
+                        <postalAddress>123001, Москва Город, Ермолаевский Переулок, дом 22/26, строение 1, офис (квартира) -</postalAddress>
+                        <phone>7-495-6501430</phone>
+                        <fax>7-495-6501431</fax>
+                        <email>info@gp3.mosgorzdrav.ru</email>
+                        <okato>45286575000</okato>
+                        <okpo>40129554</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юрий</firstName>
+                    <middleName>Николаевич</middleName>
+                    <lastName>Н</lastName>
+                    <phone>+7 (495) 6500600, доб.: 138</phone>
+                    <email>ynn@gp3dzm.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ГОРОДСКАЯ ПОЛИКЛИНИКА № 3 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУЗ "ГП № 3 ДЗМ"</shortName>
+                            <iko>87710125487771001001</iko>
+                            <inn>7710125487</inn>
+                            <kpp>771001001</kpp>
+                            <ogrn>1037739028975</ogrn>
+                            <legalAddress>123001, г МОСКВА, пер ЕРМОЛАЕВСКИЙ, дом 22/26, корпус 1-2</legalAddress>
+                            <postalAddress>123001, Москва Город, Ермолаевский Переулок, дом 22/26, строение 1, офис (квартира) -</postalAddress>
+                            <phone>7-495-6501430</phone>
+                            <fax>7-495-6501431</fax>
+                            <email>info@gp3.mosgorzdrav.ru</email>
+                            <okato>45286575000</okato>
+                            <okpo>40129554</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:59:44</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>2f392a7e-77c2-451e-b833-95e5b90c8b5d</guid>
+                        <createDateTime>2017-03-16T16:59:25</createDateTime>
+                        <fileName>2017 - 011пд .compressed (1).pdf</fileName>
+                        <description>2017 - 011пд .compressed (1)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118372</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:59:44</ns2:modificationDate>
+                <ns2:saveUserId>146466</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>c3969ffa-98f0-4d36-bda1-377d1d76797b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Расходные медицинские материалы для  КДЛ</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>283000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>123001, г. Москва, Ермолаевский переулок, дом № 22/26</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>d99897e9-2dee-4956-b963-847933d61f76</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.23.110</code>
+                                        <name>Реагенты диагностические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>24</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160215334</planRegistrationNumber>
+                            <planGuid>ccd03f55-ebbd-4afc-a057-80dfa4858419</planGuid>
+                            <positionNumber>21</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>948d66f8-44ac-46de-a043-4a9b0b784693</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

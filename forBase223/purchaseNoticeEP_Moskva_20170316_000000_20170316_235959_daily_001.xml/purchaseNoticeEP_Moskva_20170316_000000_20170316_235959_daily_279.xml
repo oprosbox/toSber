@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1ecc2b23-c057-4d9d-8e58-666b947be183</guid>
+        <createDateTime>2017-03-16T10:43:01</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58c93e65-3b10-e40a-e100-00000a388ca6</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>58c93e65-3b10-e40a-e100-00000a388ca6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:39:24</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883582</ns2:urlOOS>
+                <ns2:urlVSRZ>https://zakupki.gazprom.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704896049</ns2:registrationNumber>
+                <ns2:name>Штампосварные соединительные детали</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Мира</firstName>
+                    <middleName>Олеговна</middleName>
+                    <lastName>Аграмова</lastName>
+                    <phone>+7 (499) 5802364</phone>
+                    <email>MAgramova@komplekt.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                            <shortName>ООО "Газпром комплектация"</shortName>
+                            <iko>67740000044773601001</iko>
+                            <inn>7740000044</inn>
+                            <kpp>773601001</kpp>
+                            <ogrn>1027700501113</ogrn>
+                            <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                            <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                            <phone>7-495-6315782</phone>
+                            <email>komplekt@komplekt.gazprom.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>05030632</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:43:01</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>58c708ba-d1a5-ab07-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T10:39:24</createDateTime>
+                        <fileName>ДОКУМЕНТАЦИЯ.doc</fileName>
+                        <description>ДОКУМЕНТАЦИЯ.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097414</url>
+                    </document>
+                    <document>
+                        <guid>58c708bb-d1a5-ab07-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T10:39:24</createDateTime>
+                        <fileName>Форма 34-Извещение о проведении.doc</fileName>
+                        <description>Форма 34-Извещение о проведении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097416</url>
+                    </document>
+                    <document>
+                        <guid>58c708bc-d1a5-ab07-e100-00000a388ca5</guid>
+                        <createDateTime>2017-03-16T10:39:25</createDateTime>
+                        <fileName>Договор поставки оплата по факту.doc</fileName>
+                        <description>Договор поставки оплата по факту.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30097417</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:43:01</ns2:modificationDate>
+                <ns2:saveUserId>206753</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>58c707c7-a593-390a-e100-00000a388ca6</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Штампосварные соединительные детали</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>206151548.36</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>58c70878-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70879-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087a-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087b-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087c-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087d-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087e-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7087f-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70880-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70881-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70882-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>30</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70883-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70884-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70885-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70886-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70887-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70888-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>17</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>15</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70889-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>18</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088a-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>19</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088b-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>20</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088c-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>21</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088d-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>22</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088e-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>23</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7088f-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>24</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>11</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70890-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>25</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70891-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>26</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70892-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>27</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70893-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>28</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70894-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>29</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70895-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>30</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70896-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>31</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70897-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>32</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70898-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>33</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c70899-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>34</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089a-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>35</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089b-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>36</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089c-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>37</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089d-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>38</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089e-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>39</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c7089f-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>40</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>12</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a0-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>41</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a1-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>42</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a2-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>43</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a3-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>44</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a4-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>45</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>11</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a5-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>46</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a6-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>47</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a7-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>48</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a8-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>49</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708a9-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>50</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708aa-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>51</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708ab-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>52</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708ac-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>53</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>6</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708ad-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>54</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708ae-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>55</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708af-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>56</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b0-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>57</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b1-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>58</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>9</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b2-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>59</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b3-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>60</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b4-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>61</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b5-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>62</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b6-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>63</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>13</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b7-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>64</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b8-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>65</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>58c708b9-d1a5-ab07-e100-00000a388ca5</guid>
+                                    <ordinalNumber>66</ordinalNumber>
+                                    <okpd2>
+                                        <code>24.20.4</code>
+                                        <name>Фитинги для труб стальные, кроме литых</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>24.20.3</code>
+                                        <name>Производство стальных фитингов для труб, кроме литых</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>8648ced6-ac36-4a87-929a-51ae89150e53</planGuid>
+                            <positionNumber>176</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58abf9c7-e62a-8b3e-e100-00000a388ca5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

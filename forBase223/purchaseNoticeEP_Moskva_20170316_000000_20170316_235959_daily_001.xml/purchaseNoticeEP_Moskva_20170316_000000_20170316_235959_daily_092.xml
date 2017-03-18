@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9b52b096-c97b-4491-a1be-9112628f4466</guid>
+        <createDateTime>2017-03-16T14:40:51</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>13b2b8cc-ce45-4b93-9679-d00c96cba1e6</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>13b2b8cc-ce45-4b93-9679-d00c96cba1e6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:35:57</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886140</ns2:urlOOS>
+                <ns2:registrationNumber>31704898087</ns2:registrationNumber>
+                <ns2:name>услуги электронного документооборота</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИПОТЕЧНЫЙ АГЕНТ "ФАБРИКА ИЦБ"</fullName>
+                        <shortName>ООО "ИА "ФАБРИКА ИЦБ"</shortName>
+                        <iko>67727290538770401001</iko>
+                        <inn>7727290538</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1167746438881</ogrn>
+                        <legalAddress>125009, Г МОСКВА, УЛ ВОЗДВИЖЕНКА, дом ДОМ 10, офис (квартира) ЭТАЖ 7</legalAddress>
+                        <postalAddress>125009, г. МОСКВА, ул. ВОЗДВИЖЕНКА, д. 10 
+</postalAddress>
+                        <phone>(495)7754740</phone>
+                        <email>fabrika@ahml.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>02354179</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИПОТЕЧНЫЙ АГЕНТ "ФАБРИКА ИЦБ"</fullName>
+                        <shortName>ООО "ИА "ФАБРИКА ИЦБ"</shortName>
+                        <iko>67727290538770401001</iko>
+                        <inn>7727290538</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1167746438881</ogrn>
+                        <legalAddress>125009, Г МОСКВА, УЛ ВОЗДВИЖЕНКА, дом ДОМ 10, офис (квартира) ЭТАЖ 7</legalAddress>
+                        <postalAddress>125009, г. МОСКВА, ул. ВОЗДВИЖЕНКА, д. 10 
+</postalAddress>
+                        <phone>(495)7754740</phone>
+                        <email>fabrika@ahml.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>02354179</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 7754540, доб.: 8723</phone>
+                    <email>torgi@ahml.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИПОТЕЧНЫЙ АГЕНТ "ФАБРИКА ИЦБ"</fullName>
+                            <shortName>ООО "ИА "ФАБРИКА ИЦБ"</shortName>
+                            <iko>67727290538770401001</iko>
+                            <inn>7727290538</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1167746438881</ogrn>
+                            <legalAddress>125009, Г МОСКВА, УЛ ВОЗДВИЖЕНКА, дом ДОМ 10, офис (квартира) ЭТАЖ 7</legalAddress>
+                            <postalAddress>125009, г. МОСКВА, ул. ВОЗДВИЖЕНКА, д. 10 
+</postalAddress>
+                            <phone>(495)7754740</phone>
+                            <email>fabrika@ahml.ru</email>
+                            <okato>45286552000</okato>
+                            <okpo>02354179</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:40:51</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2016-12-26</deliveryStartDateTime>
+                    <deliveryEndDateTime>2016-12-26</deliveryEndDateTime>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>c858565c-6947-43ae-9f6f-e6d5570368ba</guid>
+                        <createDateTime>2017-03-16T14:39:35</createDateTime>
+                        <fileName>Документация.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30110517</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:40:51</ns2:modificationDate>
+                <ns2:saveUserId>217510</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>6af97ba0-47a1-48f7-8e16-978ba7a30a39</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>услуги по присоединению к Условиям участия в Системе электронного документооборота ПАО Московская Биржа</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1155000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>5f668ce3-cb89-4645-9811-411428979352</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>64.19</code>
+                                        <name>Услуги по посредничеству в денежно-кредитной сфере прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>64</code>
+                                        <name>Деятельность по предоставлению финансовых услуг, кроме услуг по страхованию и пенсионному обеспечению</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160186933</planRegistrationNumber>
+                            <planGuid>ce3a1596-788c-4259-9c13-235456eb502c</planGuid>
+                            <positionNumber>17</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e29c99db-b727-4e32-8ead-c7d06ce47740</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

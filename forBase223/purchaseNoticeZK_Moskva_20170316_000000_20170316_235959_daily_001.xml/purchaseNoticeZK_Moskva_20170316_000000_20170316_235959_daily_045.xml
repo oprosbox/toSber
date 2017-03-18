@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeZK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>27f93741-df3c-4be1-b897-10c050ead63c</guid>
+        <createDateTime>2017-03-16T17:38:57</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3a6874cf-4fd3-4e35-8c14-22bdf76ab343</guid>
+            <ns2:purchaseNoticeZKData>
+                <ns2:guid>3a6874cf-4fd3-4e35-8c14-22bdf76ab343</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:04:15</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887864</ns2:urlOOS>
+                <ns2:registrationNumber>31704899756</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по техническому обслуживанию в 2017 году оборудования автоматики систем дымоудаления, вентиляции, насосов пожарного и рабочего водоснабжения, воздушных тепловых завес в учебных корпусах и подразделениях МГУПС (МИИТ) (№ ЗК 051/223/17)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3362</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                        <shortName>МГУПС (МИИТ)</shortName>
+                        <iko>87715027733771501001</iko>
+                        <inn>7715027733</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739733922</ogrn>
+                        <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                        <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                        <phone>7-495-6842403</phone>
+                        <email>ea-miit@mail.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01115863</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 6842366</phone>
+                    <email>ks-fedotov@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ПУТЕЙ СООБЩЕНИЯ ИМПЕРАТОРА НИКОЛАЯ II"</fullName>
+                            <shortName>МГУПС (МИИТ)</shortName>
+                            <iko>87715027733771501001</iko>
+                            <inn>7715027733</inn>
+                            <kpp>771501001</kpp>
+                            <ogrn>1027739733922</ogrn>
+                            <legalAddress>127994, г МОСКВА, ул ОБРАЗЦОВА, дом 9, корпус СТР.9</legalAddress>
+                            <postalAddress>127994, г. Москва, ул. Образцова, дом 9, строение 9</postalAddress>
+                            <phone>7-495-6842403</phone>
+                            <email>ea-miit@mail.ru</email>
+                            <okato>45280569000</okato>
+                            <okpo>01115863</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:38:57</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>Документация о закупке доступна для ознакомления до срока окончания подачи заявок в ЕИС - https://zakupki.gov.ru, без взимания платы.</place>
+                    <procedure>см.документацию</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>24f868d9-0ea7-4a48-8008-7e4b8059142d</guid>
+                        <createDateTime>2017-03-16T17:37:00</createDateTime>
+                        <fileName>Документация ЗК 051 223 17.docx</fileName>
+                        <description>Документация ЗК 051 223 17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119687</url>
+                    </document>
+                    <document>
+                        <guid>74db4f4e-35cb-4049-a23b-9789a87f1b06</guid>
+                        <createDateTime>2017-03-16T17:15:13</createDateTime>
+                        <fileName>ТЗ Договор НМЦ ЗК 051 223 17(1).pdf</fileName>
+                        <description>ТЗ Договор НМЦ ЗК 051 223 17(1)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119007</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:38:57</ns2:modificationDate>
+                <ns2:saveUserId>92753</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>f2f282df-4275-4524-b031-7e2f4477f309</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по техническому обслуживанию в 2017 году оборудования автоматики систем дымоудаления, вентиляции, насосов пожарного и рабочего водоснабжения, воздушных тепловых завес в учебных корпусах и подразделениях МГУПС (МИИТ)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>391000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>адреса согласно технического задания (файл выложен отдельно)</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>f99f495d-db4d-4b9f-ad02-13bf85e85e7c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.12.29.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию прочего оборудования специального назначения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.12</code>
+                                        <name>Ремонт машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Оказание услуг по техническому обслуживанию в 2017 году оборудования автоматики систем дымоудаления, вентиляции, насосов пожарного и рабочего водоснабжения, воздушных тепловых завес в учебных корпусах и подразделениях МГУПС (МИИТ)</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224160</planRegistrationNumber>
+                            <planGuid>4ad5a9ef-0f3a-2a06-e053-47cdf5c3e0f9</planGuid>
+                            <positionNumber>25004</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4aae86d8-4d10-0ba3-e053-48cdf5c31054</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:quotationExaminationTime>2017-03-20T11:00:00</ns2:quotationExaminationTime>
+                <ns2:quotationExaminationPlace>127994, г. Москва, ул. Образцова, дом 9, стр. 9, корп. 13, кабинет № 13105</ns2:quotationExaminationPlace>
+                <ns2:submissionCloseDateTime>2017-03-20T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeZKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeZK>

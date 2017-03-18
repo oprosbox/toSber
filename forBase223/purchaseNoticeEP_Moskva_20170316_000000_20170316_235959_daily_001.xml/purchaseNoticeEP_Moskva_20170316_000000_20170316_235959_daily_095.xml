@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>0268e79f-a16d-41bd-bd94-38616f40ed87</guid>
+        <createDateTime>2017-03-16T14:58:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>9d4659f9-4db7-4a46-9b5b-477325e57c3f</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>9d4659f9-4db7-4a46-9b5b-477325e57c3f</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:56:42</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886416</ns2:urlOOS>
+                <ns2:urlVSRZ>http://www.rzd.ru/</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898270</ns2:registrationNumber>
+                <ns2:name>Подача для нужд потребления через присоединенную тепловую сеть тепловой энергии</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ"</fullName>
+                        <shortName>ОАО "РЖД"</shortName>
+                        <iko>57708503727770801001</iko>
+                        <inn>7708503727</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1037739877295</ogrn>
+                        <legalAddress>107174, Г МОСКВА, УЛ БАСМАННАЯ НОВ., дом ДОМ 2</legalAddress>
+                        <postalAddress>107174, Москва Город, Басманная Нов. Улица, дом 2</postalAddress>
+                        <phone>7-499-2621002</phone>
+                        <fax>7-499-2629095</fax>
+                        <email>BelozerovOlVal@yandex.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>00083262</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ"</fullName>
+                        <shortName>ОАО "РЖД"</shortName>
+                        <iko>57708503727770801001</iko>
+                        <inn>7708503727</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1037739877295</ogrn>
+                        <legalAddress>107174, Г МОСКВА, УЛ БАСМАННАЯ НОВ., дом ДОМ 2</legalAddress>
+                        <postalAddress>107174, Москва Город, Басманная Нов. Улица, дом 2</postalAddress>
+                        <phone>7-499-2621002</phone>
+                        <fax>7-499-2629095</fax>
+                        <email>BelozerovOlVal@yandex.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>00083262</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (499) 2605182</phone>
+                    <email>bakanovma@center.rzd.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ"</fullName>
+                            <shortName>ОАО "РЖД"</shortName>
+                            <iko>57708503727770801001</iko>
+                            <inn>7708503727</inn>
+                            <kpp>770801001</kpp>
+                            <ogrn>1037739877295</ogrn>
+                            <legalAddress>107174, Г МОСКВА, УЛ БАСМАННАЯ НОВ., дом ДОМ 2</legalAddress>
+                            <postalAddress>107174, Москва Город, Басманная Нов. Улица, дом 2</postalAddress>
+                            <phone>7-499-2621002</phone>
+                            <fax>7-499-2629095</fax>
+                            <email>BelozerovOlVal@yandex.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>00083262</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:58:52</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>94e4db00-dc69-4427-bfe9-e9695851f14d</guid>
+                        <createDateTime>2017-03-16T14:56:42</createDateTime>
+                        <fileName>Закупка у единственного поставщика, исполнителя, подрядчика.pdf</fileName>
+                        <description>Закупка у единственного поставщика, исполнителя, подрядчика.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30111592</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:58:52</ns2:modificationDate>
+                <ns2:saveUserId>151196</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>465a5d17-5530-4da4-a02e-1412ba3dfbc4</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг коммунальных по теплоснабжению зданий, расположенных на ст.Верещагино</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2109995.06</initialSum>
+                            <deliveryPlace>
+                                <state>Приволжский федеральный округ</state>
+                                <region>Пермский край</region>
+                                <regionOkato>57000000000</regionOkato>
+                                <address>указано в пункте «Место поставки (субъект РФ)» извещения, формируемого функционалом ЕИС</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1e6c0bfa-5f0c-4350-8509-7da9ff6b00fe</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>35.30.11</code>
+                                        <name>Пар и горячая вода</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.30</code>
+                                        <name>Производство, передача и распределение пара и горячей воды; кондиционирование воздуха</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>233</code>
+                                        <name>Гигакалория</name>
+                                    </okei>
+                                    <qty>1008.68</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160196812</planRegistrationNumber>
+                            <planGuid>38bcb6e6-f2a2-4b86-bf1f-bd78b33966f3</planGuid>
+                            <positionNumber>3400</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b485e189-34ff-45a2-a913-8b9dfabb016b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

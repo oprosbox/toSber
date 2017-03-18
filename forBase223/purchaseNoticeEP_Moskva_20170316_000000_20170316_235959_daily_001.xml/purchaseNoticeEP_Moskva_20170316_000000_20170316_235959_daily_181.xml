@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>cd3a4dbf-527f-45aa-8999-b5c09d84b3dc</guid>
+        <createDateTime>2017-03-16T09:43:44</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6bc79f73-6d5c-4521-94e6-8016ad51ba77</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>6bc79f73-6d5c-4521-94e6-8016ad51ba77</ns2:guid>
+                <ns2:createDateTime>2017-03-16T09:40:46</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5882898</ns2:urlOOS>
+                <ns2:registrationNumber>31704895513</ns2:registrationNumber>
+                <ns2:name>Оказание услуг связи (Интернет - резервный канал)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНАЯ КОРПОРАЦИЯ ПО РАЗВИТИЮ МАЛОГО И СРЕДНЕГО ПРЕДПРИНИМАТЕЛЬСТВА"</fullName>
+                        <shortName>АО "КОРПОРАЦИЯ "МСП"</shortName>
+                        <iko>57750005919775001001</iko>
+                        <inn>7750005919</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1147711000040</ogrn>
+                        <legalAddress>109240, г МОСКВА, пл СЛАВЯНСКАЯ, дом ДОМ 4, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>109074, г. Москва, Cлавянская площадь, д. 4, стр. 1</postalAddress>
+                        <phone>7-495-6989800-389</phone>
+                        <email>Info@acgrf.ru</email>
+                        <okato>45286580000</okato>
+                        <okpo>17538241</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНАЯ КОРПОРАЦИЯ ПО РАЗВИТИЮ МАЛОГО И СРЕДНЕГО ПРЕДПРИНИМАТЕЛЬСТВА"</fullName>
+                        <shortName>АО "КОРПОРАЦИЯ "МСП"</shortName>
+                        <iko>57750005919775001001</iko>
+                        <inn>7750005919</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1147711000040</ogrn>
+                        <legalAddress>109240, г МОСКВА, пл СЛАВЯНСКАЯ, дом ДОМ 4, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>109074, г. Москва, Cлавянская площадь, д. 4, стр. 1</postalAddress>
+                        <phone>7-495-6989800-389</phone>
+                        <email>Info@acgrf.ru</email>
+                        <okato>45286580000</okato>
+                        <okpo>17538241</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Анастасия</firstName>
+                    <middleName>Владимировна</middleName>
+                    <lastName>Дмитриева</lastName>
+                    <phone>+7 (495) 6989800, доб.: 389</phone>
+                    <email>zakupki@corpmsp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНАЯ КОРПОРАЦИЯ ПО РАЗВИТИЮ МАЛОГО И СРЕДНЕГО ПРЕДПРИНИМАТЕЛЬСТВА"</fullName>
+                            <shortName>АО "КОРПОРАЦИЯ "МСП"</shortName>
+                            <iko>57750005919775001001</iko>
+                            <inn>7750005919</inn>
+                            <kpp>775001001</kpp>
+                            <ogrn>1147711000040</ogrn>
+                            <legalAddress>109240, г МОСКВА, пл СЛАВЯНСКАЯ, дом ДОМ 4, корпус СТРОЕНИЕ 1</legalAddress>
+                            <postalAddress>109074, г. Москва, Cлавянская площадь, д. 4, стр. 1</postalAddress>
+                            <phone>7-495-6989800-389</phone>
+                            <email>Info@acgrf.ru</email>
+                            <okato>45286580000</okato>
+                            <okpo>17538241</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T09:43:44</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>27a95c91-3dd3-4e27-a703-c31345cad447</guid>
+                        <createDateTime>2017-03-16T09:43:15</createDateTime>
+                        <fileName>Договор ЕП Мастертел.doc</fileName>
+                        <description>Договор ЕП Мастертел</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094228</url>
+                    </document>
+                    <document>
+                        <guid>4946140f-34f1-4516-aa10-67c9fb209e7a</guid>
+                        <createDateTime>2017-03-16T09:43:09</createDateTime>
+                        <fileName>Извещение о закупке у ЕП.docx</fileName>
+                        <description>Извещение о закупке у ЕП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30094218</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T09:43:44</ns2:modificationDate>
+                <ns2:saveUserId>180413</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>f2520e2d-d691-4d00-9b26-67bb3bae59ce</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг связи (Интернет - резервный канал)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>895856.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва, Славянская площадь, д.4, стр.1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>dc19807d-5718-418d-bc17-2e58edc2a869</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>61.10.11</code>
+                                        <name>Услуги фиксированной телефонной связи - предоставление доступа и телефонные соединения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>61.10</code>
+                                        <name>Деятельность в области связи на базе проводных технологий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218430</planRegistrationNumber>
+                            <planGuid>62527414-a631-4ea2-b605-8b4c5286622e</planGuid>
+                            <positionNumber>10</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b542ef86-4d36-486e-aaad-2201996211ee</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>

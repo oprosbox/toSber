@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c63b9716-21b4-415e-827f-cafe4e9689c9</guid>
+        <createDateTime>2017-03-16T10:09:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3b205761-9a27-8d51-0594-476fa0fc47ab</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>3b205761-9a27-8d51-0594-476fa0fc47ab</ns2:guid>
+                <ns2:createDateTime>2017-03-16T10:00:53</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5883132</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/281624</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704893425</ns2:registrationNumber>
+                <ns2:name>Открытый аукцион в электронной форме среди субъектов малого и среднего предпринимательства на право заключения договора на поставку оборудования для локальной системы оповещения для восполнения аварийного запаса АО "Мосводоканал" в 2017 году</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСВОДОКАНАЛ"</fullName>
+                        <shortName>АО "МОСВОДОКАНАЛ"</shortName>
+                        <iko>57701984274770101001</iko>
+                        <inn>7701984274</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1127747298250</ogrn>
+                        <legalAddress>105005, г МОСКВА, пер ПЛЕТЕШКОВСКИЙ, дом 2</legalAddress>
+                        <postalAddress>105005, г.Москва, Плетешковский пер., д.2</postalAddress>
+                        <phone>8-499-2639312</phone>
+                        <email>privalihina_ev@mosvodokanal.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>03324418</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСВОДОКАНАЛ"</fullName>
+                        <shortName>АО "МОСВОДОКАНАЛ"</shortName>
+                        <iko>57701984274770101001</iko>
+                        <inn>7701984274</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1127747298250</ogrn>
+                        <legalAddress>105005, г МОСКВА, пер ПЛЕТЕШКОВСКИЙ, дом 2</legalAddress>
+                        <postalAddress>105005, г.Москва, Плетешковский пер., д.2</postalAddress>
+                        <phone>8-499-2639312</phone>
+                        <email>privalihina_ev@mosvodokanal.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>03324418</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Светлана</firstName>
+                    <middleName>Васильевна</middleName>
+                    <lastName>Шестёркина</lastName>
+                    <phone>+7 (499) 2639316</phone>
+                    <email>shesterkina_sv@mosvodokanal.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСВОДОКАНАЛ"</fullName>
+                            <shortName>АО "МОСВОДОКАНАЛ"</shortName>
+                            <iko>57701984274770101001</iko>
+                            <inn>7701984274</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>1127747298250</ogrn>
+                            <legalAddress>105005, г МОСКВА, пер ПЛЕТЕШКОВСКИЙ, дом 2</legalAddress>
+                            <postalAddress>105005, г.Москва, Плетешковский пер., д.2</postalAddress>
+                            <phone>8-499-2639312</phone>
+                            <email>privalihina_ev@mosvodokanal.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>03324418</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T10:09:27</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-05</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Изложено в прилагаемой документации</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>7</totalDocumentsCount>
+                    <document>
+                        <guid>f1d3edd4-f096-87ec-2d60-4202961c8776</guid>
+                        <createDateTime>2017-03-15T15:16:24</createDateTime>
+                        <fileName>Извещение_о_проведении_аукциона[2].docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095221</url>
+                    </document>
+                    <document>
+                        <guid>2ec50411-2db2-63c0-a93e-0fed7d137e0d</guid>
+                        <createDateTime>2017-03-15T15:24:45</createDateTime>
+                        <fileName>3._Проект_договора__.doc</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095222</url>
+                    </document>
+                    <document>
+                        <guid>336b80d9-d4c6-02fb-215f-0306a949d383</guid>
+                        <createDateTime>2017-03-15T15:17:29</createDateTime>
+                        <fileName>ФОРМЫ[2].rtf</fileName>
+                        <description>Формы</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095223</url>
+                    </document>
+                    <document>
+                        <guid>9c8c9ab0-3fba-535c-8caa-5dfaee9c701b</guid>
+                        <createDateTime>2017-03-15T15:17:07</createDateTime>
+                        <fileName>Расчет_Н_М_ЦД[3].pdf</fileName>
+                        <description>Расчет Н(М)ЦД</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095224</url>
+                    </document>
+                    <document>
+                        <guid>bc917a8b-0008-4d73-852b-1d385467d982</guid>
+                        <createDateTime>2017-03-15T15:17:21</createDateTime>
+                        <fileName>Техническая_часть[3].pdf</fileName>
+                        <description>Техническая часть</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095225</url>
+                    </document>
+                    <document>
+                        <guid>b808e8da-ec8b-ec33-8bdf-e26dec0bed76</guid>
+                        <createDateTime>2017-03-15T15:16:54</createDateTime>
+                        <fileName>Проект_договора[3].pdf</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095227</url>
+                    </document>
+                    <document>
+                        <guid>d734e09b-d43f-1838-764a-42717022db81</guid>
+                        <createDateTime>2017-03-15T15:16:41</createDateTime>
+                        <fileName>Аукционная_документация[3].pdf</fileName>
+                        <description>Аукционная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30095230</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T10:09:27</ns2:modificationDate>
+                <ns2:saveUserId>87636</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>698a5fa6-1b4e-4339-86b7-185b64b7ee97</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка оборудования для локальной системы оповещения для восполнения аварийного запаса АО "Мосводоканал" в 2017 году</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>9800000.00</initialSum>
+                            <deliveryPlace>
+                                <address>согласно документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e5756c34-84cf-62cc-d907-2d01a3d9bd29</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.99</code>
+                                        <name>Оборудование специального назначения прочее, не включенное в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28</code>
+                                        <name>Производство машин и оборудования, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Оборудование для локальной системы оповещения</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210243</planRegistrationNumber>
+                            <planGuid>412d0bb5-ad19-4648-b52a-f8c71bf3bdb8</planGuid>
+                            <positionNumber>556</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d4d33153-a326-479f-8495-574a6edaf063</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-10T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-07T10:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-05T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-15</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

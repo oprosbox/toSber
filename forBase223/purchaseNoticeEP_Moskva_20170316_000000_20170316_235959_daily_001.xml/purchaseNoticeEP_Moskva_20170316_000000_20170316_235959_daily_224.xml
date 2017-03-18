@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b5e059fc-e3b6-4f74-b975-1a72a1854eb5</guid>
+        <createDateTime>2017-03-16T15:14:32</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0c9af56d-0ce6-4a83-96c8-5362424a9a38</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>0c9af56d-0ce6-4a83-96c8-5362424a9a38</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:12:47</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886638</ns2:urlOOS>
+                <ns2:registrationNumber>31704898451</ns2:registrationNumber>
+                <ns2:name>закупка у единственного  исполнителя на право заключения договора по выполнению услуг по проведению периодического медицинского осмотра  работников филиала ПАО «МРСК Центра»-«Белгородэнерго», рабочие места которых находятся в Борисовском РЭС. (B2B 258820)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Александр</firstName>
+                    <middleName>Владимирович</middleName>
+                    <lastName>Ковалев</lastName>
+                    <phone>+7 (4722) 588047</phone>
+                    <email>Kovalev.AV2@mrsk-1.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                            <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                            <iko>56901067107771501001</iko>
+                            <inn>6901067107</inn>
+                            <kpp>997450001</kpp>
+                            <ogrn>1046900099498</ogrn>
+                            <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                            <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                            <phone>7-495-7479292-3304</phone>
+                            <email>Stolyarov.NV@mrsk-1.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>75720657</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:14:32</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>Предоставление в форме электронного документа в Единой информационной системе в сфере закупок Российской Федерации www.zakupki.gov.ru, копия публикации на официальном сайте ПАО «МРСК Центра» www.mrsk-1.ru в разделе «Закупки».</place>
+                    <procedure>Документация по закупке предоставляется без взимания платы в форме электронного документа, начиная с даты размещения закупки.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>04c2d75b-86b4-46ce-811a-73fa9b6fea5b</guid>
+                        <createDateTime>2017-03-16T15:14:21</createDateTime>
+                        <fileName>258820.doc</fileName>
+                        <description>258820</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30112678</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:14:32</ns2:modificationDate>
+                <ns2:saveUserId>100614</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>dc728bd6-43bf-470d-92ab-4104ab7e6a8e</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Проведение медицинского осмотра сотрудников Борисовского РЭС</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>101274.00</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0765b56a-265f-4d7e-bda3-c9df3a1b5c9a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>86.21.10.110</code>
+                                        <name>Услуги консультативные, предоставляемые врачами общей врачебной практики</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>86.21</code>
+                                        <name>Общая врачебная практика</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Белгородская   обл</region>
+                                        <regionOkato>14000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160190937</planRegistrationNumber>
+                            <planGuid>a9898519-2058-0251-0000-58c7fe6b6729</planGuid>
+                            <positionNumber>20092500</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a9898519-2058-0250-2500-000005666386</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>
