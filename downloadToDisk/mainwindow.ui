@@ -1,24 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow" >
-  <property name="geometry" >
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>950</width>
+    <height>458</height>
    </rect>
   </property>
-  <property name="windowTitle" >
+  <property name="windowTitle">
    <string>MainWindow</string>
   </property>
-  <widget class="QMenuBar" name="menuBar" />
-  <widget class="QToolBar" name="mainToolBar" />
-  <widget class="QWidget" name="centralWidget" />
-  <widget class="QStatusBar" name="statusBar" />
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QWidget" name="widget" native="true">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>901</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <widget class="QPushButton" name="pushButton">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>75</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>download</string>
+     </property>
+    </widget>
+    <widget class="QWidget" name="widget_2" native="true">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>30</y>
+       <width>751</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>9</y>
+        <width>30</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>30</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>       с</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>221</x>
+        <y>9</y>
+        <width>27</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>     по</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm223fzTendBeg">
+      <property name="geometry">
+       <rect>
+        <x>114</x>
+        <y>9</y>
+        <width>81</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkTand223fz">
+      <property name="geometry">
+       <rect>
+        <x>9</x>
+        <y>10</y>
+        <width>59</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>223-ФЗ</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm223fzTendEnd">
+      <property name="geometry">
+       <rect>
+        <x>262</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>10</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>инн</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit">
+      <property name="geometry">
+       <rect>
+        <x>420</x>
+        <y>10</y>
+        <width>111</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>7707083893</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="dirTand223fz">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>40</y>
+        <width>471</width>
+        <height>20</height>
+       </rect>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_4">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>40</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>куда</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="btn223fzTendPath">
+      <property name="geometry">
+       <rect>
+        <x>540</x>
+        <y>40</y>
+        <width>25</width>
+        <height>19</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>...</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_16">
+      <property name="geometry">
+       <rect>
+        <x>620</x>
+        <y>40</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>обработано:</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTmTend223fz">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTmTend223fz_2">
+      <property name="geometry">
+       <rect>
+        <x>340</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="widget_3" native="true">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>110</y>
+       <width>751</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <widget class="QLabel" name="label_5">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>9</y>
+        <width>30</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>30</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>       с</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_6">
+      <property name="geometry">
+       <rect>
+        <x>221</x>
+        <y>9</y>
+        <width>27</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>     по</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm44fzTendBeg">
+      <property name="geometry">
+       <rect>
+        <x>115</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkTand44fz">
+      <property name="geometry">
+       <rect>
+        <x>9</x>
+        <y>10</y>
+        <width>59</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>44-ФЗ</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm44fzTendEnd">
+      <property name="geometry">
+       <rect>
+        <x>262</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_7">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>10</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>инн</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit_3">
+      <property name="geometry">
+       <rect>
+        <x>420</x>
+        <y>10</y>
+        <width>111</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>7707083893</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="dirTand44fz">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>40</y>
+        <width>471</width>
+        <height>20</height>
+       </rect>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_8">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>40</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>куда</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="btn44fzTendPath">
+      <property name="geometry">
+       <rect>
+        <x>540</x>
+        <y>40</y>
+        <width>25</width>
+        <height>19</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>...</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_18">
+      <property name="geometry">
+       <rect>
+        <x>620</x>
+        <y>40</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>обработано:</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTmTend44fz_2">
+      <property name="geometry">
+       <rect>
+        <x>340</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTmTend44fz">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <zorder>label_5</zorder>
+     <zorder>label_6</zorder>
+     <zorder>tm44fzTendBeg</zorder>
+     <zorder>chkTand44fz</zorder>
+     <zorder>tm44fzTendEnd</zorder>
+     <zorder>label_7</zorder>
+     <zorder>lineEdit_3</zorder>
+     <zorder>dirTand44fz</zorder>
+     <zorder>label_8</zorder>
+     <zorder>btn44fzTendPath</zorder>
+     <zorder>label_18</zorder>
+     <zorder>widget_6</zorder>
+     <zorder>btnTmTend44fz_2</zorder>
+     <zorder>btnTmTend44fz</zorder>
+    </widget>
+    <widget class="QWidget" name="widget_4" native="true">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>230</y>
+       <width>741</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <widget class="QLabel" name="label_9">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>9</y>
+        <width>30</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>30</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>       с</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_10">
+      <property name="geometry">
+       <rect>
+        <x>221</x>
+        <y>9</y>
+        <width>27</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>     по</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm223fzBeg">
+      <property name="geometry">
+       <rect>
+        <x>115</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkDis223fz">
+      <property name="geometry">
+       <rect>
+        <x>9</x>
+        <y>10</y>
+        <width>59</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>223-ФЗ</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm223fzEnd">
+      <property name="geometry">
+       <rect>
+        <x>262</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="dir223fz">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>40</y>
+        <width>471</width>
+        <height>20</height>
+       </rect>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_12">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>40</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>куда</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="btn223fzPath">
+      <property name="geometry">
+       <rect>
+        <x>540</x>
+        <y>40</y>
+        <width>25</width>
+        <height>19</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>...</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_19">
+      <property name="geometry">
+       <rect>
+        <x>620</x>
+        <y>40</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>обработано:</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTm223fz">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTm223fz_2">
+      <property name="geometry">
+       <rect>
+        <x>340</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QLabel" name="label_13">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>200</y>
+       <width>171</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>недобросовестные поставщики</string>
+     </property>
+    </widget>
+    <widget class="QWidget" name="widget_5" native="true">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>310</y>
+       <width>751</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <widget class="QLabel" name="label_14">
+      <property name="geometry">
+       <rect>
+        <x>74</x>
+        <y>9</y>
+        <width>30</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>30</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>       с</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_15">
+      <property name="geometry">
+       <rect>
+        <x>221</x>
+        <y>9</y>
+        <width>27</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>     по</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm44fzBeg">
+      <property name="geometry">
+       <rect>
+        <x>115</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkDis44fz">
+      <property name="geometry">
+       <rect>
+        <x>9</x>
+        <y>10</y>
+        <width>59</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>44-ФЗ</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="tm44fzEnd">
+      <property name="geometry">
+       <rect>
+        <x>262</x>
+        <y>9</y>
+        <width>80</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="dir44fz">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>40</y>
+        <width>471</width>
+        <height>20</height>
+       </rect>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_17">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>40</y>
+        <width>31</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>куда</string>
+      </property>
+     </widget>
+     <widget class="QToolButton" name="btn44fzPath">
+      <property name="geometry">
+       <rect>
+        <x>540</x>
+        <y>40</y>
+        <width>25</width>
+        <height>19</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>...</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_20">
+      <property name="geometry">
+       <rect>
+        <x>620</x>
+        <y>40</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>обработано:</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTm44fz">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btnTm44fz_2">
+      <property name="geometry">
+       <rect>
+        <x>340</x>
+        <y>7</y>
+        <width>21</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QLabel" name="label_11">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>10</y>
+       <width>51</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>тендеры</string>
+     </property>
+    </widget>
+    <zorder>pushButton</zorder>
+    <zorder>widget_2</zorder>
+    <zorder>widget_3</zorder>
+    <zorder>widget_4</zorder>
+    <zorder>label_13</zorder>
+    <zorder>widget_5</zorder>
+    <zorder>label_11</zorder>
+    <zorder>widget_6</zorder>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
  </widget>
- <layoutDefault spacing="6" margin="11" />
- <pixmapfunction></pixmapfunction>
+ <layoutdefault spacing="6" margin="11"/>
  <resources/>
  <connections/>
 </ui>

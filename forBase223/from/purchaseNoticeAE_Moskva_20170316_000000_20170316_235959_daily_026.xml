@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>86c30953-e416-4663-855b-240ebbf66785</guid>
+        <createDateTime>2017-03-16T16:46:38</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6447d46a-d883-3c1b-2a4c-9b3567276d7e</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>6447d46a-d883-3c1b-2a4c-9b3567276d7e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T15:45:13</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887002</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286089</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899344</ns2:registrationNumber>
+                <ns2:name>Аукцион в электронной форме на право заключения договора на поставку расходных материалов для 15 онкологического отделения ГКБ им. С.П. Боткина.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА ИМЕНИ С.П.БОТКИНА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ</fullName>
+                        <shortName>ГБУЗ ГКБ ИМ.С.П.БОТКИНА ДЗМ</shortName>
+                        <iko>87714082636771401001</iko>
+                        <inn>7714082636</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1037739085900</ogrn>
+                        <legalAddress>125284, МОСКВА, БОТКИНСКИЙ 2-Й, дом 5</legalAddress>
+                        <postalAddress>125284, г.Москва, 2-ой Боткинский пр-зд, д. 5</postalAddress>
+                        <phone>7-499-7288250</phone>
+                        <email>info@gkbb.mosgorzdrav.ru</email>
+                        <okato>45277556000</okato>
+                        <okpo>01933930</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА ИМЕНИ С.П.БОТКИНА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ</fullName>
+                        <shortName>ГБУЗ ГКБ ИМ.С.П.БОТКИНА ДЗМ</shortName>
+                        <iko>87714082636771401001</iko>
+                        <inn>7714082636</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>1037739085900</ogrn>
+                        <legalAddress>125284, МОСКВА, БОТКИНСКИЙ 2-Й, дом 5</legalAddress>
+                        <postalAddress>125284, г.Москва, 2-ой Боткинский пр-зд, д. 5</postalAddress>
+                        <phone>7-499-7288250</phone>
+                        <email>info@gkbb.mosgorzdrav.ru</email>
+                        <okato>45277556000</okato>
+                        <okpo>01933930</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Светлана</firstName>
+                    <middleName>Олеговна</middleName>
+                    <lastName>Костюк</lastName>
+                    <phone>+7 (499) 7626293</phone>
+                    <email>botkin_hospital_purchase@zdrav.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА ИМЕНИ С.П.БОТКИНА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ</fullName>
+                            <shortName>ГБУЗ ГКБ ИМ.С.П.БОТКИНА ДЗМ</shortName>
+                            <iko>87714082636771401001</iko>
+                            <inn>7714082636</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>1037739085900</ogrn>
+                            <legalAddress>125284, МОСКВА, БОТКИНСКИЙ 2-Й, дом 5</legalAddress>
+                            <postalAddress>125284, г.Москва, 2-ой Боткинский пр-зд, д. 5</postalAddress>
+                            <phone>7-499-7288250</phone>
+                            <email>info@gkbb.mosgorzdrav.ru</email>
+                            <okato>45277556000</okato>
+                            <okpo>01933930</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:46:38</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>f9f59d0e-377f-ef1b-8cb5-c913147d8dd8</guid>
+                        <createDateTime>2017-03-16T15:36:30</createDateTime>
+                        <fileName>Договор_223_ФЗ_товар_аукцион[1].docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114452</url>
+                    </document>
+                    <document>
+                        <guid>c944d36e-2909-734d-3521-0207bc8a3f26</guid>
+                        <createDateTime>2017-03-16T11:44:29</createDateTime>
+                        <fileName>55А_от_02.03.2017_расходка_Багателия.doc</fileName>
+                        <description>Приказ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114453</url>
+                    </document>
+                    <document>
+                        <guid>6c56d55d-c410-bb0b-0403-c36d872cf62f</guid>
+                        <createDateTime>2017-03-16T11:43:00</createDateTime>
+                        <fileName>ТЗ_на_сайт_готовый.doc</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114456</url>
+                    </document>
+                    <document>
+                        <guid>66711798-940f-136b-edae-121300f0e153</guid>
+                        <createDateTime>2017-03-16T15:12:41</createDateTime>
+                        <fileName>Аукционнная_документация_поставка.doc</fileName>
+                        <description>Аукционная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114457</url>
+                    </document>
+                    <document>
+                        <guid>64b845ea-5b66-6c0e-4991-af1bc2d5eac9</guid>
+                        <createDateTime>2017-03-16T11:43:17</createDateTime>
+                        <fileName>Протокол_согласования_начальной_цены.pdf</fileName>
+                        <description>Протокол</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114458</url>
+                    </document>
+                    <document>
+                        <guid>d5f2ced9-04d0-3d28-f3d0-4733a80e1531</guid>
+                        <createDateTime>2017-03-16T11:43:47</createDateTime>
+                        <fileName>расч_т_цены.doc</fileName>
+                        <description>Расчёт цены</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30114459</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:46:38</ns2:modificationDate>
+                <ns2:saveUserId>163795</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>9beac254-1585-6663-1901-d21776c7a784</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Аукцион в электронной форме на право заключения договора на поставку расходных материалов для 15 онкологического отделения ГКБ им. С.П. Боткина.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>453118.45</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с техническим заданием </address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>f81ba2e9-3b4c-6f26-ed83-0885c1161ff8</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>32.50.13.190</code>
+                                        <name>Инструменты и приспособления, применяемые в медицинских целях, прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>86.10</code>
+                                        <name>Деятельность больничных организаций</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>30</qty>
+                                    <additionalInfo>расходные материалы для 15 онкологического отделения ГКБ им. С.П. Боткина</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160158447</planRegistrationNumber>
+                            <planGuid>1d550b42-9ecf-4a1a-9e5d-229eb0dd40ef</planGuid>
+                            <positionNumber>219</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>19a22766-50ef-4a90-b343-78f7408bb02c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-10T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-07T23:59:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

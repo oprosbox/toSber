@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>572755ca-4761-4018-a455-feb879b3d416</guid>
+        <createDateTime>2017-03-16T14:54:25</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fb18a233-1cee-465e-9365-38e6a277a716</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>fb18a233-1cee-465e-9365-38e6a277a716</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:54:07</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886379</ns2:urlOOS>
+                <ns2:urlVSRZ>http://torgi223.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898229</ns2:registrationNumber>
+                <ns2:name>Работы по ремонту инженерных систем и оборудования прачечной (2 этап)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Геннадий</firstName>
+                    <middleName>Николаевич</middleName>
+                    <lastName>Капсулин</lastName>
+                    <phone>+7(499)905-93-90</phone>
+                    <email>glaz-za-glaz@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                            <iko>87713059497771301001</iko>
+                            <inn>7713059497</inn>
+                            <kpp>771301001</kpp>
+                            <ogrn>1027739714606</ogrn>
+                            <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                            <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                            <phone>7-495-4888747</phone>
+                            <email>glaz-za-glaz@yandex.ru</email>
+                            <okato>45277559000</okato>
+                            <okpo>05332385</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T14:54:25</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>Документация о закупке доступна для скачивания и ознакомления на официальном сайте единой информационной системы в сфере закупок по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru</place>
+                    <procedure>Документация о закупке доступна для скачивания и ознакомления на официальном сайте единой информационной системы в сфере закупок по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru. Заказчик вправе принять решение об отказе от проведения закупки не позднее 05 апреля 2017 года</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>cec5f558-f44b-4dc4-be6b-d9ef6109513b</guid>
+                        <createDateTime>2017-03-16T14:54:07</createDateTime>
+                        <fileName>АУКЦИОН прач 2.doc</fileName>
+                        <description>АУКЦИОН прач 2.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30111440</url>
+                    </document>
+                    <document>
+                        <guid>ec82c10c-155b-4884-85f3-dfaece277dbc</guid>
+                        <createDateTime>2017-03-16T14:54:07</createDateTime>
+                        <fileName>Прачечная 2 этап.xlsx</fileName>
+                        <description>Прачечная 2 этап.xlsx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30111439</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T14:54:25</ns2:modificationDate>
+                <ns2:saveUserId>67328</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>1835323d-881f-49e2-bdd6-faef7d54548f</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Работы по ремонту инженерных систем и оборудования прачечной</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2874206.24</initialSum>
+                            <deliveryPlace>
+                                <address>Место поставки товара: 127486, г. Москва, Бескудниковский б-р 59А, строение 1.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>8cb4f079-da28-46e3-abb7-dd976371111f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.22.12</code>
+                                        <name>Работы по монтажу систем отопления, вентиляции и кондиционирования воздуха</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.22</code>
+                                        <name>Производство санитарно-технических работ, монтаж отопительных систем и систем кондиционирования воздуха</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218529</planRegistrationNumber>
+                            <planGuid>1b6e7b8c-b276-14d6-9bbd-9acc8992fbb3</planGuid>
+                            <positionNumber>1838</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>0f9f38f4-5761-55fd-43b9-d0d12eaf9296</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП «Торги 223»</name>
+                    <url>http://www.torgi223.ru</url>
+                    <electronicPlaceId>145</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-10T09:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-07T07:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T07:00:00</ns2:submissionCloseDateTime>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

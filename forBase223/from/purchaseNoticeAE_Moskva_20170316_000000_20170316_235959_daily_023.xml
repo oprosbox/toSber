@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>6c687268-5d37-44b0-895d-99ada4f9949d</guid>
+        <createDateTime>2017-03-16T17:36:34</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2adf7730-b134-fc54-0bee-2536b79fc08f</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>2adf7730-b134-fc54-0bee-2536b79fc08f</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:35:08</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888095</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/280747</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704833500</ns2:registrationNumber>
+                <ns2:name>Поставка стоматологических расходных материалов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 133 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДГП № 133 ДЗМ"</shortName>
+                        <iko>87712047957774301001</iko>
+                        <inn>7712047957</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1037739121056</ogrn>
+                        <legalAddress>125445, Г МОСКВА, УЛ СМОЛЬНАЯ, дом 55</legalAddress>
+                        <postalAddress>125445, г. Москва, ул. Смольная, д.55</postalAddress>
+                        <phone>+74954563425</phone>
+                        <email>info@dgp133.ru</email>
+                        <okato>45277583000</okato>
+                        <okpo>29046840</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 133 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ДГП № 133 ДЗМ"</shortName>
+                        <iko>87712047957774301001</iko>
+                        <inn>7712047957</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1037739121056</ogrn>
+                        <legalAddress>125445, Г МОСКВА, УЛ СМОЛЬНАЯ, дом 55</legalAddress>
+                        <postalAddress>125445, г. Москва, ул. Смольная, д.55</postalAddress>
+                        <phone>+74954563425</phone>
+                        <email>info@dgp133.ru</email>
+                        <okato>45277583000</okato>
+                        <okpo>29046840</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Светлана</firstName>
+                    <middleName>Ильтезяревна</middleName>
+                    <lastName>Лазарева</lastName>
+                    <phone>+7 (495) 4562249</phone>
+                    <email>info@dgp133.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ДЕТСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА № 133 ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУЗ "ДГП № 133 ДЗМ"</shortName>
+                            <iko>87712047957774301001</iko>
+                            <inn>7712047957</inn>
+                            <kpp>774301001</kpp>
+                            <ogrn>1037739121056</ogrn>
+                            <legalAddress>125445, Г МОСКВА, УЛ СМОЛЬНАЯ, дом 55</legalAddress>
+                            <postalAddress>125445, г. Москва, ул. Смольная, д.55</postalAddress>
+                            <phone>+74954563425</phone>
+                            <email>info@dgp133.ru</email>
+                            <okato>45277583000</okato>
+                            <okpo>29046840</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:36:34</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-02-27</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-20</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>4</ns2:version>
+                <ns2:modificationDescription>Изложено в прилагаемой документации</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>9e9521b9-88e3-4c9d-fa54-88ef16f7606d</guid>
+                        <createDateTime>2017-03-16T17:29:42</createDateTime>
+                        <fileName>Техническое_задание__изм_.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119626</url>
+                    </document>
+                    <document>
+                        <guid>73139165-b392-51da-85e4-70d2840578ca</guid>
+                        <createDateTime>2017-02-27T17:38:47</createDateTime>
+                        <fileName>Протокол_согласования-1.pdf</fileName>
+                        <description>Протокол согласования</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119627</url>
+                    </document>
+                    <document>
+                        <guid>fc6b5080-8e5e-d98f-d13c-22217815ea9d</guid>
+                        <createDateTime>2017-02-27T17:38:00</createDateTime>
+                        <fileName>Приказ-1.pdf</fileName>
+                        <description>Приказ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119628</url>
+                    </document>
+                    <document>
+                        <guid>c2d34548-6e1c-ee3f-0e10-29e488ad8621</guid>
+                        <createDateTime>2017-02-27T17:38:25</createDateTime>
+                        <fileName>Расчет_НМЦ-1.pdf</fileName>
+                        <description>Расчет НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119630</url>
+                    </document>
+                    <document>
+                        <guid>7dbf7d99-9f29-d56a-c9c9-ae94f6706526</guid>
+                        <createDateTime>2017-02-27T17:39:14</createDateTime>
+                        <fileName>договор_товар_[4].doc</fileName>
+                        <description>Договор-проект</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119631</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:36:34</ns2:modificationDate>
+                <ns2:saveUserId>250423</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>765f903c-e973-2d6f-ac3e-66dc008c42da</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка стоматологических расходных материалов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>170115.43</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с аукционной документацией</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b5c65115-7f4e-af44-0f2b-985cbe17bc5a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>32.50.11.000</code>
+                                        <name>Инструменты и приспособления стоматологические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>32.50</code>
+                                        <name>Производство медицинских инструментов и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>4054</qty>
+                                    <additionalInfo>Поставка стоматологических расходных материалов</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210773</planRegistrationNumber>
+                            <planGuid>4952dee6-68e5-4f5c-9066-3d8c1691195c</planGuid>
+                            <positionNumber>1</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>03cbe2f4-7e9f-4bb1-98ed-c9279835da13</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-03-21T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-03-20T13:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-03-20T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-02-27</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

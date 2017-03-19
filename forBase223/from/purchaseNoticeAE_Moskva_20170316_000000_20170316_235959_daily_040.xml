@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>40bf1e70-80eb-4988-912e-43d3d43c537a</guid>
+        <createDateTime>2017-03-16T18:17:12</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d77029f3-dfad-a94e-a98b-76881fb0c993</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>d77029f3-dfad-a94e-a98b-76881fb0c993</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:10:06</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888266</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286354</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899900</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по поверке средств измерений в структурных подразделениях ГБУЗ «ЦЛО ДЗМ».</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ЦЕНТР ЛЕКАРСТВЕННОГО ОБЕСПЕЧЕНИЯ ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ЦЛО ДЗМ"</shortName>
+                        <iko>57720023269771501001</iko>
+                        <inn>7720023269</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027700400100</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул СТРЕЛЕЦКАЯ, дом 3</legalAddress>
+                        <postalAddress>127018, дом 3</postalAddress>
+                        <phone>7-495-9747922-2010</phone>
+                        <fax>7-495-9749279</fax>
+                        <email>MatveevaOV2@zdrav.mos.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01967313</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ЦЕНТР ЛЕКАРСТВЕННОГО ОБЕСПЕЧЕНИЯ ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУЗ "ЦЛО ДЗМ"</shortName>
+                        <iko>57720023269771501001</iko>
+                        <inn>7720023269</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027700400100</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул СТРЕЛЕЦКАЯ, дом 3</legalAddress>
+                        <postalAddress>127018, дом 3</postalAddress>
+                        <phone>7-495-9747922-2010</phone>
+                        <fax>7-495-9749279</fax>
+                        <email>MatveevaOV2@zdrav.mos.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>01967313</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Виталий</firstName>
+                    <middleName>Эдуардович</middleName>
+                    <lastName>Балыхин</lastName>
+                    <phone>+7 (495) 9747922</phone>
+                    <email>gbuz.tender@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ "ЦЕНТР ЛЕКАРСТВЕННОГО ОБЕСПЕЧЕНИЯ ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУЗ "ЦЛО ДЗМ"</shortName>
+                            <iko>57720023269771501001</iko>
+                            <inn>7720023269</inn>
+                            <kpp>771501001</kpp>
+                            <ogrn>1027700400100</ogrn>
+                            <legalAddress>127018, г МОСКВА, ул СТРЕЛЕЦКАЯ, дом 3</legalAddress>
+                            <postalAddress>127018, дом 3</postalAddress>
+                            <phone>7-495-9747922-2010</phone>
+                            <fax>7-495-9749279</fax>
+                            <email>MatveevaOV2@zdrav.mos.ru</email>
+                            <okato>45280569000</okato>
+                            <okpo>01967313</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:17:12</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>9d5b0604-c8ac-4ee7-3cdb-dd707bbe422d</guid>
+                        <createDateTime>2017-03-16T18:00:27</createDateTime>
+                        <fileName>Извещение[10].docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120500</url>
+                    </document>
+                    <document>
+                        <guid>46daa3e4-b074-e511-7354-858615d2374d</guid>
+                        <createDateTime>2017-03-16T18:02:12</createDateTime>
+                        <fileName>Форма_декларации_соответствия_ПП_РФ_от_29.12.2015____1457__Приложение___4_.doc</fileName>
+                        <description>Форма декларации соответствия ПП РФ от 29.12.2015 № 1457 (Приложение №4)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120501</url>
+                    </document>
+                    <document>
+                        <guid>395417d0-1ddd-ca84-8f72-9998074ae493</guid>
+                        <createDateTime>2017-03-16T18:01:53</createDateTime>
+                        <fileName>Протокол_согласования_и_таблица_расч_та_НМЦ.PDF</fileName>
+                        <description>Протокол согласования и таблица расчёта НМЦ (Приложение №3)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120502</url>
+                    </document>
+                    <document>
+                        <guid>0f28aad1-40da-d7e2-4fe1-0da9940cb316</guid>
+                        <createDateTime>2017-03-16T18:01:23</createDateTime>
+                        <fileName>Проект_Договора.doc</fileName>
+                        <description>Проект Договора (Приложение №2)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120503</url>
+                    </document>
+                    <document>
+                        <guid>0456709b-f1d6-d9e9-3811-275efe2b6c08</guid>
+                        <createDateTime>2017-03-16T18:00:43</createDateTime>
+                        <fileName>Аукционная_документация[5].docx</fileName>
+                        <description>Аукционная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120504</url>
+                    </document>
+                    <document>
+                        <guid>867d50e3-c6c2-934d-6512-6c42dbb38ffc</guid>
+                        <createDateTime>2017-03-16T18:01:05</createDateTime>
+                        <fileName>Техническое_задание.PDF</fileName>
+                        <description>Техническое задание (Приложение №1)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120505</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:17:12</ns2:modificationDate>
+                <ns2:saveUserId>175269</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>3f86a6b9-bc84-bf5d-67ff-3c34e543ffcc</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по поверке средств измерений в структурных подразделениях ГБУЗ «ЦЛО ДЗМ»</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1509600.03</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно техническому заданию и проекту договора.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7fd1ad7a-7c9c-f0d2-1742-f60a1e2cbbb6</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.12.40</code>
+                                        <name>Услуги в области технического регулирования, стандартизации, метрологии, аккредитации, каталогизации продукции</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.12.6</code>
+                                        <name>Деятельность в области технического регулирования, стандартизации, метрологии, аккредитации, каталогизации продукции</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>2990</qty>
+                                    <additionalInfo>Оказание услуг по поверке средств измерений </additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160190160</planRegistrationNumber>
+                            <planGuid>f326a3dc-2101-4521-a9cf-31504ed09a66</planGuid>
+                            <positionNumber>219</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d08a0f3c-a298-4d55-9b09-ea4b98ac1b9d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-07T11:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-06T09:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

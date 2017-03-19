@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>70ea45a6-9d54-43a1-b680-6988b66bd2da</guid>
+        <createDateTime>2017-03-16T15:18:50</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>dd4f6c1f-658f-5957-e230-803213a43ce4</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>dd4f6c1f-658f-5957-e230-803213a43ce4</ns2:guid>
+                <ns2:createDateTime>2017-03-16T14:50:15</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5886335</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286210</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898489</ns2:registrationNumber>
+                <ns2:name>Открытый аукцион в электронной форме на право заключения договора на поставку тентов 
+
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГОЛОВНОЕ ПРОИЗВОДСТВЕННО-ТЕХНИЧЕСКОЕ ПРЕДПРИЯТИЕ "ГРАНИТ"</fullName>
+                        <shortName>АО "ГПТП"ГРАНИТ"</shortName>
+                        <iko>67731263174773101001</iko>
+                        <inn>7731263174</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>1027731005323</ogrn>
+                        <legalAddress>121467, г МОСКВА, ул МОЛОДОГВАРДЕЙСКАЯ, дом 7</legalAddress>
+                        <postalAddress>121467, г.Москва, Молодогвардейская ул., д.7</postalAddress>
+                        <phone>7-499-1495746</phone>
+                        <fax>7-499-1495885</fax>
+                        <email>s.lobov2013@yandex.ru</email>
+                        <okato>45268562000</okato>
+                        <okpo>07521363</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГОЛОВНОЕ ПРОИЗВОДСТВЕННО-ТЕХНИЧЕСКОЕ ПРЕДПРИЯТИЕ "ГРАНИТ"</fullName>
+                        <shortName>АО "ГПТП"ГРАНИТ"</shortName>
+                        <iko>67731263174773101001</iko>
+                        <inn>7731263174</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>1027731005323</ogrn>
+                        <legalAddress>121467, г МОСКВА, ул МОЛОДОГВАРДЕЙСКАЯ, дом 7</legalAddress>
+                        <postalAddress>121467, г.Москва, Молодогвардейская ул., д.7</postalAddress>
+                        <phone>7-499-1495746</phone>
+                        <fax>7-499-1495885</fax>
+                        <email>s.lobov2013@yandex.ru</email>
+                        <okato>45268562000</okato>
+                        <okpo>07521363</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николай</firstName>
+                    <middleName>Викторович</middleName>
+                    <lastName>Чечет</lastName>
+                    <phone>+7 (499) 1495746</phone>
+                    <email>s.lobov2013@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГОЛОВНОЕ ПРОИЗВОДСТВЕННО-ТЕХНИЧЕСКОЕ ПРЕДПРИЯТИЕ "ГРАНИТ"</fullName>
+                            <shortName>АО "ГПТП"ГРАНИТ"</shortName>
+                            <iko>67731263174773101001</iko>
+                            <inn>7731263174</inn>
+                            <kpp>773101001</kpp>
+                            <ogrn>1027731005323</ogrn>
+                            <legalAddress>121467, г МОСКВА, ул МОЛОДОГВАРДЕЙСКАЯ, дом 7</legalAddress>
+                            <postalAddress>121467, г.Москва, Молодогвардейская ул., д.7</postalAddress>
+                            <phone>7-499-1495746</phone>
+                            <fax>7-499-1495885</fax>
+                            <email>s.lobov2013@yandex.ru</email>
+                            <okato>45268562000</okato>
+                            <okpo>07521363</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T15:18:50</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>ba4bd773-5491-c2a5-259d-64e80d84e84b</guid>
+                        <createDateTime>2017-03-16T14:40:41</createDateTime>
+                        <fileName>Док_А_тенты_03.17.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30111226</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T15:18:50</ns2:modificationDate>
+                <ns2:saveUserId>18105</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>80a2c51b-70ed-cee8-7402-c01aed145351</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка тентов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>7800000.00</initialSum>
+                            <deliveryPlace>
+                                <address>Молодогвардейская ул., д. 7, Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bec89985-d6ff-eaaa-0480-d3e392c85f35</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>13.92.22.140</code>
+                                        <name>Тенты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>13.92</code>
+                                        <name>Производство готовых текстильных изделий, кроме одежды</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>30</qty>
+                                    <additionalInfo>Тенты</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>1</code>
+                                <name>Закупки для обеспечения обороны страны и безопасности государства</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160217940</planRegistrationNumber>
+                            <planGuid>a939982f-6113-484f-9c67-77f3296d006f</planGuid>
+                            <positionNumber>124</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>24945998-0800-4dc5-a118-aab433408fa6</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-11T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-10T17:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>

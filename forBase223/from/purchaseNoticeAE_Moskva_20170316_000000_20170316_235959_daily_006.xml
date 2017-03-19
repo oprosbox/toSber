@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeAE xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>90612fdb-4ae7-44e1-be6a-d8db502249f3</guid>
+        <createDateTime>2017-03-16T13:48:58</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d25a7240-4908-4e84-a09a-ff48609a707b</guid>
+            <ns2:purchaseNoticeAEData>
+                <ns2:guid>d25a7240-4908-4e84-a09a-ff48609a707b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T13:47:29</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5885572</ns2:urlOOS>
+                <ns2:registrationNumber>31704851549</ns2:registrationNumber>
+                <ns2:name>Поставка сувенирной продукции</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖД ЛОГИСТИКА"</fullName>
+                        <shortName>АО "РЖД ЛОГИСТИКА"</shortName>
+                        <iko>67708730092770801001</iko>
+                        <inn>7708730092</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1107746946340</ogrn>
+                        <legalAddress>107078, Г МОСКВА, УЛ МАШИ ПОРЫВАЕВОЙ, дом ДОМ 34</legalAddress>
+                        <postalAddress>107078, Москва г, Маши Порываевой ул, дом 34</postalAddress>
+                        <phone>7-495-9886868</phone>
+                        <fax>7-495-7483232</fax>
+                        <email>SushchinskiyMV@rzdlog.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>68861216</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3361</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖД ЛОГИСТИКА"</fullName>
+                        <shortName>АО "РЖД ЛОГИСТИКА"</shortName>
+                        <iko>67708730092770801001</iko>
+                        <inn>7708730092</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1107746946340</ogrn>
+                        <legalAddress>107078, Г МОСКВА, УЛ МАШИ ПОРЫВАЕВОЙ, дом ДОМ 34</legalAddress>
+                        <postalAddress>107078, Москва г, Маши Порываевой ул, дом 34</postalAddress>
+                        <phone>7-495-9886868</phone>
+                        <fax>7-495-7483232</fax>
+                        <email>SushchinskiyMV@rzdlog.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>68861216</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9886868, доб.: 1081</phone>
+                    <email>SushchinskiyMV@rzdlog.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖД ЛОГИСТИКА"</fullName>
+                            <shortName>АО "РЖД ЛОГИСТИКА"</shortName>
+                            <iko>67708730092770801001</iko>
+                            <inn>7708730092</inn>
+                            <kpp>770801001</kpp>
+                            <ogrn>1107746946340</ogrn>
+                            <legalAddress>107078, Г МОСКВА, УЛ МАШИ ПОРЫВАЕВОЙ, дом ДОМ 34</legalAddress>
+                            <postalAddress>107078, Москва г, Маши Порываевой ул, дом 34</postalAddress>
+                            <phone>7-495-9886868</phone>
+                            <fax>7-495-7483232</fax>
+                            <email>SushchinskiyMV@rzdlog.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>68861216</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T13:48:58</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-02</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>В электронном виде</place>
+                    <procedure>В соответствии с условиями аукционной документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>Корректировка технических характеристик товара</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>e03547be-e44b-4a72-96aa-dcbb1c689b3c</guid>
+                        <createDateTime>2017-03-03T12:16:46</createDateTime>
+                        <fileName>Документация.Условия проведения закупки.docx</fileName>
+                        <description>Документация.Условия проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107344</url>
+                    </document>
+                    <document>
+                        <guid>3949c442-6d12-4f9d-84d3-86d0dcb664bd</guid>
+                        <createDateTime>2017-03-16T13:48:42</createDateTime>
+                        <fileName>Изменения от 15.03.2017.docx</fileName>
+                        <description>Изменения от 15.03.2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107446</url>
+                    </document>
+                    <document>
+                        <guid>74e58f47-d349-4463-b412-a289ee07d58d</guid>
+                        <createDateTime>2017-03-16T13:48:31</createDateTime>
+                        <fileName>Документация.Условия проведения закупки.docx</fileName>
+                        <description>Документация.Условия проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107430</url>
+                    </document>
+                    <document>
+                        <guid>cf1f7805-7a43-42af-bbf0-f5f94ee2c967</guid>
+                        <createDateTime>2017-03-03T12:16:41</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107342</url>
+                    </document>
+                    <document>
+                        <guid>60944f83-cca2-47bd-9a9c-d18ad0b51735</guid>
+                        <createDateTime>2017-03-16T13:48:37</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107439</url>
+                    </document>
+                    <document>
+                        <guid>41dfab1b-6a9d-4d8d-96a4-2e432f86ed3f</guid>
+                        <createDateTime>2017-03-02T16:06:22</createDateTime>
+                        <fileName>Документация_порядок организации проведения закупки.docx</fileName>
+                        <description>Документация_порядок организации проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30107343</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T13:48:58</ns2:modificationDate>
+                <ns2:saveUserId>63927</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>53eb88cb-594e-49bd-bac3-cea5617d1c6f</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка сувенирной продукции</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1590000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>107078, г. Москва, ул. Маши Порываевой д.34, блок 1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>01ac9dfe-a358-42d4-8e78-74aff4984c56</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>23.13</code>
+                                        <name>Стекло полое</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>23.13</code>
+                                        <name>Производство полых стеклянных изделий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210217</planRegistrationNumber>
+                            <planGuid>521695a7-5c6a-442d-92b2-8d64fee0de26</planGuid>
+                            <positionNumber>689</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7677d2d1-b89c-446f-af8c-10e7eb866e50</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:electronicPlaceInfo>
+                    <name>Электронная торгово-закупочная площадка ОАО "РЖД"</name>
+                    <url>http://etzp.rzd.ru</url>
+                    <electronicPlaceId>112</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:auctionTime>2017-04-13T10:00:00</ns2:auctionTime>
+                <ns2:applExamPeriodTime>2017-04-10T00:00:00</ns2:applExamPeriodTime>
+                <ns2:submissionCloseDateTime>2017-04-06T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-02</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeAEData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeAE>
