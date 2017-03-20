@@ -9,6 +9,7 @@
 #define CLOADFILES 1
 #define CLOADCURRFILE 2
 #define CLOADCURRDIR 3
+#define CLOADLIST 4
 
 struct SFilterStr
 {
@@ -31,6 +32,8 @@ public:
   void disconnectServ(void);//отключаем ftp
   void cd(QString cdFromNull);//переходим по указанной директории
   void readFiles(QString dirToSave);//читаем все файлы из неё и сохраняем на жесткий диск.
+  void readFilesPosledov(QString dirToSave);
+  void readList(QStringList listFiles);
   void readDirectories(void);//читаем список всех директорий из текущего положения
   void readCurrFiles(void);//читаем список всех файлов
   void save(void);//сохраняем уже полученые файлы на жесткий диск
@@ -42,6 +45,7 @@ signals:
   void sendError(QString);//невозможно создать файл
   void endOperations(QStringList);
   void finished(QStringList);
+  void finishedList(QStringList,QStringList);
 protected:
 QFtp *ftpLiders;
 QList<QFile*> openedFiles;
@@ -49,6 +53,10 @@ QString dirSave;
 int toLoad;
 QStringList urlFiles;
 int idCurr;
+QStringList::iterator it;
+QFile *fileList;
+QStringList FileListErrors;
+QStringList listFiles;
 };
 
 #endif // FTPCLIENT_H

@@ -48,7 +48,7 @@ public:
   void createFtp(SInputFtp);
 public slots:
   void download();
-  void nextLoad(QStringList getPath);
+  void nextLoad(QStringList getPath,QStringList errors);
 protected:
 WLoadZip *fromZip;
 WFtpClient *client;

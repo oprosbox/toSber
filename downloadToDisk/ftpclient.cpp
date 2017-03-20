@@ -28,10 +28,12 @@ void WFtpClient::connectServ(QString serv,QString login,QString passv)
 //----------------------------------окончание комманды--------------------------------------------------------
 void WFtpClient::commFinish(int id,bool)
 {
- if(id==idCurr){emit endOperations(urlFiles);
-                }
+ if(id==idCurr){switch(toLoad)
+                 {case CLOADCURRFILE:{ emit endOperations(urlFiles);break;}
+                   case CLOADLIST:{readList(urlFiles);}
+                  }
+               }
 }
-
 //------------------------------переходим по указанной директории------------------------------------------------------
 void WFtpClient::cd(QString cdFromNull)
 {
@@ -54,7 +56,7 @@ void WFtpClient::doneURLInfo(QUrlInfo urlInfo)
                           {urlFiles.push_back(urlInfo.name());}
                                 break;}
 
-     case CLOADCURRFILE:{ if (urlInfo.isFile() && urlInfo.isReadable())
+     case CLOADCURRFILE:case CLOADLIST:{ if (urlInfo.isFile() && urlInfo.isReadable())
                              {urlFiles.push_back(urlInfo.name());}
                               break;}
 
@@ -63,38 +65,41 @@ void WFtpClient::doneURLInfo(QUrlInfo urlInfo)
                         if (!file->open(QIODevice::WriteOnly)) {
                         emit sendError(dirSave+"/"+urlInfo.name());
                         return;}
-                        if(filter(urlInfo.name()))ftpLiders->get(dirSave+"/"+urlInfo.name(), file);
+                        if(filter(urlInfo.name()))ftpLiders->get(urlInfo.name(), file);
                         openedFiles.push_back(file);}}
     }
 }
+//--------------------------------------------------------------------------------------------------------------
+void WFtpClient::readList(QStringList lstFiles)
+{ listFiles=lstFiles;
+  toLoad=CLOADLIST;
+  it=listFiles.begin();
+  fileList = new QFile(dirSave+"/"+*it);
+  if(filter(*it))ftpLiders->get(*it, fileList);
+}
+
 //-------------------------------------------слот получает соединение-------------------------------------------
 void WFtpClient::ftpConnected(bool hasError)
 {
-   if(hasError)
-   {
-      QString error;
-      switch(ftpLiders->error())
-      {
-         case QFtp::HostNotFound:
-         {
-            error = "не удалось обнаружить адрес";
-            break;
-         }
-         default:
-         {
-            error = ftpLiders->errorString().replace("\n", " ");
-            break;
-         }
-    }}
    switch (toLoad)
      {case CLOADFILES:{QStringList filename;
                        for (int i = 0; i < (int)openedFiles.size(); ++i)
                        {filename.push_back(openedFiles.at(i)->fileName());
                         delete openedFiles[i];
                         }
-                        emit finished(filename);}
+                        emit finished(filename);
+                        break;}
+      case CLOADLIST:{ delete fileList;
+                        do{++it;}
+                        while((it!=listFiles.end())&&(!filter(*it)));
+                        if(hasError){FileListErrors.push_back( ftpLiders->errorString().replace("\n", " "));}
+                                else{FileListErrors.push_back("");}
+                         if(it!=listFiles.end()){}else{emit finishedList(listFiles,FileListErrors);
+                                                  return;}
+                          fileList = new QFile(dirSave+"/"+*it);
+                         if(filter(*it))ftpLiders->get(*it, fileList);
+                       }
      }
-
 }
 //------------------------------сохраняем уже полученые файлы на жесткий диск------------------------------------------------
 void WFtpClient::save(void)
@@ -124,4 +129,11 @@ void WFtpClient::readCurrFiles(void)
  toLoad=CLOADCURRFILE;
  urlFiles.clear();
  idCurr=ftpLiders->list();
+}
+
+void  WFtpClient::readFilesPosledov(QString dirToSave)
+{
+    toLoad=CLOADLIST;
+    urlFiles.clear();
+    idCurr=ftpLiders->list();
 }

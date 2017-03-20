@@ -74,7 +74,7 @@ void WLoadFtp::createFtp(SInputFtp inputFtp)
   pathTempDownl=inputFtp.pathTemp;
   client->setStFilter(inputFtp.stFilt);
   fromZip->createLZ(inputFtp.pathTemp,inputFtp.pathTo,inputFtp.tegPathFind,inputFtp.val);
-  connect(client,SIGNAL(finished(QStringList)),this,SLOT(nextLoad(QStringList)));
+  connect(client,SIGNAL(finishedList(QStringList,QStringList)),this,SLOT(nextLoad(QStringList,QStringList)));
 }
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
@@ -83,8 +83,9 @@ it=urlListDirs.begin();
 client->readFiles(*it);
 }
 
-void  WLoadFtp::nextLoad(QStringList listGet)
-{ fromZip->startUnpack(listGet);
+void  WLoadFtp::nextLoad(QStringList listGet,QStringList errors)
+{
+  fromZip->startUnpack(listGet);
   for(int i=0;i<countToExit;i++)
   client->cd("../");
   client->cd(*it);

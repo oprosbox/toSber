@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'loadsave.h'
 **
-** Created by: The Qt Meta Object Compiler version 67 (Qt 5.7.0)
+** Created by: The Qt Meta Object Compiler version 67 (Qt 5.7.1)
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
@@ -12,7 +12,7 @@
 #if !defined(Q_MOC_OUTPUT_REVISION)
 #error "The header file 'loadsave.h' doesn't include <QObject>."
 #elif Q_MOC_OUTPUT_REVISION != 67
-#error "This file was generated using the moc from 5.7.0. It"
+#error "This file was generated using the moc from 5.7.1. It"
 #error "cannot be used with the include files from this version of Qt."
 #error "(The moc has changed too much.)"
 #endif
@@ -137,8 +137,8 @@ void ftpload::WLoadZip::allObjectsStop(int _t1)
     QMetaObject::activate(this, &staticMetaObject, 0, _a);
 }
 struct qt_meta_stringdata_ftpload__WLoadFtp_t {
-    QByteArrayData data[5];
-    char stringdata0[45];
+    QByteArrayData data[6];
+    char stringdata0[52];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -151,11 +151,12 @@ QT_MOC_LITERAL(0, 0, 17), // "ftpload::WLoadFtp"
 QT_MOC_LITERAL(1, 18, 8), // "download"
 QT_MOC_LITERAL(2, 27, 0), // ""
 QT_MOC_LITERAL(3, 28, 8), // "nextLoad"
-QT_MOC_LITERAL(4, 37, 7) // "getPath"
+QT_MOC_LITERAL(4, 37, 7), // "getPath"
+QT_MOC_LITERAL(5, 45, 6) // "errors"
 
     },
     "ftpload::WLoadFtp\0download\0\0nextLoad\0"
-    "getPath"
+    "getPath\0errors"
 };
 #undef QT_MOC_LITERAL
 
@@ -174,11 +175,11 @@ static const uint qt_meta_data_ftpload__WLoadFtp[] = {
 
  // slots: name, argc, parameters, tag, flags
        1,    0,   24,    2, 0x0a /* Public */,
-       3,    1,   25,    2, 0x0a /* Public */,
+       3,    2,   25,    2, 0x0a /* Public */,
 
  // slots: parameters
     QMetaType::Void,
-    QMetaType::Void, QMetaType::QStringList,    4,
+    QMetaType::Void, QMetaType::QStringList, QMetaType::QStringList,    4,    5,
 
        0        // eod
 };
@@ -190,7 +191,7 @@ void ftpload::WLoadFtp::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
         Q_UNUSED(_t)
         switch (_id) {
         case 0: _t->download(); break;
-        case 1: _t->nextLoad((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 1: _t->nextLoad((*reinterpret_cast< QStringList(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         default: ;
         }
     }
