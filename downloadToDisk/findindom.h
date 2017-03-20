@@ -50,6 +50,7 @@ class WFindThr:public QThread
 class WFind:public QObject
 {Q_OBJECT
   public:
+  int id;
   void createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val);
   void destroyObj();
   void startThreads();
@@ -57,11 +58,12 @@ class WFind:public QObject
 public slots:
   void getSignalStop(int);
 signals:
-  void allThreadsStop();
+  void allThreadsStop(int);
 protected:
   QList<WFindThr*> listThr;
   int threadsWork;
   int countThr;
+  bool flgStart;
 };
 
 }

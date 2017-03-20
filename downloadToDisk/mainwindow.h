@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QFileDialog>
 #include <QCalendarWidget>
+#include "loadsave.h"
 
 namespace Ui {
 class MainWindow;
@@ -36,7 +37,8 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
-
+public slots:
+  void getFunct(QStringList);
 protected:
     WMainInterf *w223fzTendPath;
     WMainInterf *w44fzTendPath;
