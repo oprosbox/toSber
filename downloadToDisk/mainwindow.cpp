@@ -1,7 +1,10 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "findindom.h"
+#include <QDebug>
+#include <QTextStream>
 
+WFtpClient *ftpclnt;
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -30,6 +33,11 @@ MainWindow::MainWindow(QWidget *parent) :
     w223fzPath=new WMainInterf();
     w44fzPath=new WMainInterf();
 
+//    ftpclnt=new WFtpClient;
+//    ftpclnt->connectServ("ftp.zakupki.gov.ru","fz223free","fz223free");
+//    ftpclnt->cd("out/published");
+//    connect(ftpclnt,SIGNAL(endOperations(QStringList)),this,SLOT(getFunct(QStringList)));
+//    ftpclnt->readDirectories();
 
     connect(ui->btn223fzTendPath,SIGNAL(clicked()), w223fzTendPath,SLOT(getPath()));
     connect(w223fzTendPath,SIGNAL(setPath(QString)), ui->dirTand223fz,SLOT(setText(QString)));
@@ -79,6 +87,19 @@ MainWindow::MainWindow(QWidget *parent) :
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+void MainWindow::getFunct(QStringList list)
+{   /*QFile *file = new QFile("F:/programsQt/toSber/downloadToDisk/debug/regions.txt");
+    file->open(QIODevice::WriteOnly);
+    QTextStream stream(file);
+    for(auto u=list.begin();u!=list.end();u++)
+      {
+       stream<<*u<<"\n";
+      }
+
+      file->close();
+  int i=0;*/
 }
 
 void WMainInterf::getPath(void)

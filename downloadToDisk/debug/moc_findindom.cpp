@@ -1,0 +1,241 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'findindom.h'
+**
+** Created by: The Qt Meta Object Compiler version 67 (Qt 5.7.0)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "../findindom.h"
+#include <QtCore/qbytearray.h>
+#include <QtCore/qmetatype.h>
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'findindom.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 67
+#error "This file was generated using the moc from 5.7.0. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+struct qt_meta_stringdata_ndom__WFindThr_t {
+    QByteArrayData data[3];
+    char stringdata0[27];
+};
+#define QT_MOC_LITERAL(idx, ofs, len) \
+    Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
+    qptrdiff(offsetof(qt_meta_stringdata_ndom__WFindThr_t, stringdata0) + ofs \
+        - idx * sizeof(QByteArrayData)) \
+    )
+static const qt_meta_stringdata_ndom__WFindThr_t qt_meta_stringdata_ndom__WFindThr = {
+    {
+QT_MOC_LITERAL(0, 0, 14), // "ndom::WFindThr"
+QT_MOC_LITERAL(1, 15, 10), // "threadStop"
+QT_MOC_LITERAL(2, 26, 0) // ""
+
+    },
+    "ndom::WFindThr\0threadStop\0"
+};
+#undef QT_MOC_LITERAL
+
+static const uint qt_meta_data_ndom__WFindThr[] = {
+
+ // content:
+       7,       // revision
+       0,       // classname
+       0,    0, // classinfo
+       1,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       1,       // signalCount
+
+ // signals: name, argc, parameters, tag, flags
+       1,    1,   19,    2, 0x06 /* Public */,
+
+ // signals: parameters
+    QMetaType::Void, QMetaType::Int,    2,
+
+       0        // eod
+};
+
+void ndom::WFindThr::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        WFindThr *_t = static_cast<WFindThr *>(_o);
+        Q_UNUSED(_t)
+        switch (_id) {
+        case 0: _t->threadStop((*reinterpret_cast< int(*)>(_a[1]))); break;
+        default: ;
+        }
+    } else if (_c == QMetaObject::IndexOfMethod) {
+        int *result = reinterpret_cast<int *>(_a[0]);
+        void **func = reinterpret_cast<void **>(_a[1]);
+        {
+            typedef void (WFindThr::*_t)(int );
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThr::threadStop)) {
+                *result = 0;
+                return;
+            }
+        }
+    }
+}
+
+const QMetaObject ndom::WFindThr::staticMetaObject = {
+    { &QThread::staticMetaObject, qt_meta_stringdata_ndom__WFindThr.data,
+      qt_meta_data_ndom__WFindThr,  qt_static_metacall, Q_NULLPTR, Q_NULLPTR}
+};
+
+
+const QMetaObject *ndom::WFindThr::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->dynamicMetaObject() : &staticMetaObject;
+}
+
+void *ndom::WFindThr::qt_metacast(const char *_clname)
+{
+    if (!_clname) return Q_NULLPTR;
+    if (!strcmp(_clname, qt_meta_stringdata_ndom__WFindThr.stringdata0))
+        return static_cast<void*>(const_cast< WFindThr*>(this));
+    return QThread::qt_metacast(_clname);
+}
+
+int ndom::WFindThr::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QThread::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 1)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 1;
+    } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
+        if (_id < 1)
+            *reinterpret_cast<int*>(_a[0]) = -1;
+        _id -= 1;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void ndom::WFindThr::threadStop(int _t1)
+{
+    void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 0, _a);
+}
+struct qt_meta_stringdata_ndom__WFind_t {
+    QByteArrayData data[4];
+    char stringdata0[42];
+};
+#define QT_MOC_LITERAL(idx, ofs, len) \
+    Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
+    qptrdiff(offsetof(qt_meta_stringdata_ndom__WFind_t, stringdata0) + ofs \
+        - idx * sizeof(QByteArrayData)) \
+    )
+static const qt_meta_stringdata_ndom__WFind_t qt_meta_stringdata_ndom__WFind = {
+    {
+QT_MOC_LITERAL(0, 0, 11), // "ndom::WFind"
+QT_MOC_LITERAL(1, 12, 14), // "allThreadsStop"
+QT_MOC_LITERAL(2, 27, 0), // ""
+QT_MOC_LITERAL(3, 28, 13) // "getSignalStop"
+
+    },
+    "ndom::WFind\0allThreadsStop\0\0getSignalStop"
+};
+#undef QT_MOC_LITERAL
+
+static const uint qt_meta_data_ndom__WFind[] = {
+
+ // content:
+       7,       // revision
+       0,       // classname
+       0,    0, // classinfo
+       2,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       1,       // signalCount
+
+ // signals: name, argc, parameters, tag, flags
+       1,    1,   24,    2, 0x06 /* Public */,
+
+ // slots: name, argc, parameters, tag, flags
+       3,    1,   27,    2, 0x0a /* Public */,
+
+ // signals: parameters
+    QMetaType::Void, QMetaType::Int,    2,
+
+ // slots: parameters
+    QMetaType::Void, QMetaType::Int,    2,
+
+       0        // eod
+};
+
+void ndom::WFind::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        WFind *_t = static_cast<WFind *>(_o);
+        Q_UNUSED(_t)
+        switch (_id) {
+        case 0: _t->allThreadsStop((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 1: _t->getSignalStop((*reinterpret_cast< int(*)>(_a[1]))); break;
+        default: ;
+        }
+    } else if (_c == QMetaObject::IndexOfMethod) {
+        int *result = reinterpret_cast<int *>(_a[0]);
+        void **func = reinterpret_cast<void **>(_a[1]);
+        {
+            typedef void (WFind::*_t)(int );
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFind::allThreadsStop)) {
+                *result = 0;
+                return;
+            }
+        }
+    }
+}
+
+const QMetaObject ndom::WFind::staticMetaObject = {
+    { &QObject::staticMetaObject, qt_meta_stringdata_ndom__WFind.data,
+      qt_meta_data_ndom__WFind,  qt_static_metacall, Q_NULLPTR, Q_NULLPTR}
+};
+
+
+const QMetaObject *ndom::WFind::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->dynamicMetaObject() : &staticMetaObject;
+}
+
+void *ndom::WFind::qt_metacast(const char *_clname)
+{
+    if (!_clname) return Q_NULLPTR;
+    if (!strcmp(_clname, qt_meta_stringdata_ndom__WFind.stringdata0))
+        return static_cast<void*>(const_cast< WFind*>(this));
+    return QObject::qt_metacast(_clname);
+}
+
+int ndom::WFind::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QObject::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 2)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 2;
+    } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
+        if (_id < 2)
+            *reinterpret_cast<int*>(_a[0]) = -1;
+        _id -= 2;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void ndom::WFind::allThreadsStop(int _t1)
+{
+    void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 0, _a);
+}
+QT_END_MOC_NAMESPACE

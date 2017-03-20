@@ -5,7 +5,9 @@
 #-------------------------------------------------
 
 QT       += core gui
-QT       +=xml
+QT       += xml
+QT       += network
+
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -26,9 +28,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    findindom.cpp
+    findindom.cpp \
+    ftpclient.cpp \
+    fzunpack.cpp \
+    loadsave.cpp \
+    qftp/qftp.cpp \
+    qftp/qurlinfo.cpp
 
 HEADERS  += mainwindow.h \
-    findindom.h
+    findindom.h \
+    ftpclient.h \
+    fzunpack.h \
+    loadsave.h \
+    qftp/qftp.h \
+    qftp/qurlinfo.h
 
 FORMS    += mainwindow.ui

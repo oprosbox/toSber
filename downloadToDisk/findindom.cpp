@@ -194,13 +194,13 @@ void WFind::stopThreads()
       listThr.at(i)->terminate();
     }
     countThr=0;
-    emit allThreadsStop();
+    emit allThreadsStop(id);
 }
 //----------------------------------------------------------------------------------------------
-void WFind::getSignalStop(int id)
+void WFind::getSignalStop(int idn)
 {
 --countThr;
-    if(countThr==0){emit allThreadsStop();}
+    if(countThr==0){emit allThreadsStop(id);}
 }
 
 }
