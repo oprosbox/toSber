@@ -23,7 +23,7 @@ class WFindInDom
 {
 public:
     WFindInDom();
-    int findInDir(QString dirFrom, QString pathTo, int ndomDel);
+    int findInDir(QString dirFrom, QString pathTo,QStringList &listFilesFind,int ndomDel);
     bool findInFile(QString path,QList<SListVal> &val);
     bool findInFile(QString path,QStringList &val);
     bool findInFile(QString path);
@@ -45,6 +45,7 @@ class WFindThr:public QThread
   void run();
  signals:
   void threadStop(int);
+  void findFiles(QStringList);
 };
 
 class WFind:public QObject
@@ -57,8 +58,10 @@ class WFind:public QObject
   void stopThreads();
 public slots:
   void getSignalStop(int);
+  void allThreadsFormLists(QStringList list){emit allThreadsLists(list);}
 signals:
   void allThreadsStop(int);
+  void allThreadsLists(QStringList);
 protected:
   QList<WFindThr*> listThr;
   int threadsWork;

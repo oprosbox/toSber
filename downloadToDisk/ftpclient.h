@@ -13,7 +13,8 @@
 
 struct SFilterStr
 {
-int i;
+QDateTime dateBegin;
+QDateTime dateEnd;
 };
 
 class WFtpFilter
@@ -32,7 +33,7 @@ public:
   void disconnectServ(void);//отключаем ftp
   void cd(QString cdFromNull);//переходим по указанной директории
   void readFiles(QString dirToSave);//читаем все файлы из неё и сохраняем на жесткий диск.
-  void readFilesPosledov(QString dirToSave);
+  int readFilesPosledov(QString dirToSave);
   void readList(QStringList listFiles);
   void readDirectories(void);//читаем список всех директорий из текущего положения
   void readCurrFiles(void);//читаем список всех файлов
@@ -57,6 +58,7 @@ QStringList::iterator it;
 QFile *fileList;
 QStringList FileListErrors;
 QStringList listFiles;
+QStringList listFilesAdd;
 };
 
 #endif // FTPCLIENT_H

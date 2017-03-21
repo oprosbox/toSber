@@ -917,7 +917,8 @@ debug/mainwindow.o: mainwindow.cpp mainwindow.h \
 		C:/Qt/5.7/mingw53_32/include/QtWidgets/QToolButton \
 		C:/Qt/5.7/mingw53_32/include/QtWidgets/qtoolbutton.h \
 		C:/Qt/5.7/mingw53_32/include/QtWidgets/QWidget \
-		C:/Qt/5.7/mingw53_32/include/QtCore/QDebug
+		C:/Qt/5.7/mingw53_32/include/QtCore/QDebug \
+		C:/Qt/5.7/mingw53_32/include/QtCore/QTextStream
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o debug\mainwindow.o mainwindow.cpp
 
 debug/findindom.o: findindom.cpp findindom.h \
@@ -1099,7 +1100,7 @@ debug/ftpclient.o: ftpclient.cpp ftpclient.h \
 		C:/Qt/5.7/mingw53_32/include/QtGui/qtouchdevice.h \
 		C:/Qt/5.7/mingw53_32/include/QtGui/qguiapplication.h \
 		C:/Qt/5.7/mingw53_32/include/QtGui/qinputmethod.h \
-		C:/Qt/5.7/mingw53_32/include/QtCore/QtGlobal
+		C:/Qt/5.7/mingw53_32/include/QtCore/QDateTime
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o debug\ftpclient.o ftpclient.cpp
 
 debug/fzunpack.o: fzunpack.cpp fzunpack.h \

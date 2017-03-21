@@ -40,6 +40,8 @@ bool WFindInDom::findInFile(QString path,QList<SListVal> &value)
     }
     value.push_back(listVal);
     }
+
+
          return true;
 }
 
@@ -108,17 +110,17 @@ void WFindInDom::setFindAttr(QStringList tegs,QString val)
 }
 
 //----последовательно перебирает возможные значения-----------------------------------------
-int WFindInDom::findInDir(QString pathFrom, QString pathTo, int ndomDel)
+int WFindInDom::findInDir(QString pathFrom, QString pathTo,QStringList &listFilesFind,int ndomDel)
 { QDir dirFrom, dirTo;
   int ret=0;
-    if(!dirTo.cd(pathTo)){}
+    if(dirTo.exists(pathTo)){}
                  else{dirTo.mkdir(pathTo);
-                      if(dirTo.cd(pathTo)){}else return -1;}
+                      if(dirTo.exists(pathTo)){}else return -1;}
     dirFrom.cd(pathFrom);
 
-    QStringList listDir = dirFrom.entryList(QDir::Files);
+     listFilesFind = dirFrom.entryList(QDir::Files);
 
-    for (auto i=listDir.begin();i!=listDir.end();i++)
+    for (auto i=listFilesFind.begin();i!=listFilesFind.end();i++)
     {
      if(!findInFile(pathFrom+"/"+*i)){}
            else{QFile::copy(pathFrom+"/"+*i,pathTo+"/"+*i);++ret;}
@@ -131,9 +133,11 @@ int WFindInDom::findInDir(QString pathFrom, QString pathTo, int ndomDel)
 //----------------------------------------------------------------------------------------------
 void WFindThr::run()
 {
+  QStringList listFilesFind;
   for(auto i=listDirFrom.begin();i!=listDirFrom.end();i++)
-  {
-    findInDom->findInDir(*i,pathTo,ndom::CNODELDIR);
+  { listFilesFind.clear();
+    findInDom->findInDir(*i,pathTo,listFilesFind,ndom::CNODELDIR);
+    emit findFiles(listFilesFind);
   }
 
   emit threadStop(id);
@@ -163,6 +167,7 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
                   thrStart->listDirFrom.push_back(*it);}
    listThr.push_back(thrStart);
    connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
+   connect(thrStart,SIGNAL(findFiles(QStringList)),this,SIGNAL(allThreadsFormLists(QStringList)));
  }
 }
 //----------------------------------------------------------------------------------------------

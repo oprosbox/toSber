@@ -2,16 +2,27 @@
 
 #include <QDir>
 #include <QApplication>
-#include <QtGlobal>
+#include <QDateTime>
 
 WFtpClient::WFtpClient()
 {
-
+fileList = new QFile();
 }
 
 bool WFtpFilter::filter(QString url)
 {
+  int indUrl;
+  indUrl=url.indexOf(QRegExp("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}"),0);
+  QString dateStrBeg;
+  QString dateStrEnd;
+  dateStrBeg.insert(0,url.data()+indUrl,15);
+  dateStrEnd.insert(0,url.data()+indUrl+16,15);
+  QDateTime dateBegin,dateEnd;
+  dateBegin=QDateTime::fromString(dateStrBeg,"yyyyMMdd_HHmmss");
+  dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd_HHmmss");
 
+  if((stFilter.dateBegin<=dateBegin)&&(stFilter.dateEnd>=dateEnd))
+    {return true;}
 return false;
 }
 
@@ -74,8 +85,23 @@ void WFtpClient::readList(QStringList lstFiles)
 { listFiles=lstFiles;
   toLoad=CLOADLIST;
   it=listFiles.begin();
-  fileList = new QFile(dirSave+"/"+*it);
-  if(filter(*it))ftpLiders->get(*it, fileList);
+  listFilesAdd.clear();
+  FileListErrors.clear();
+  do{++it;}
+  while((it!=listFiles.end())&&(!filter(*it)));
+  if(it!=listFiles.end()){}else{toLoad=-1;
+                                emit finishedList(listFilesAdd,FileListErrors);
+                           return;}
+  fileList->setFileName(dirSave+"/"+*it);
+  QString name=*it;
+  if (!fileList->open(QIODevice::WriteOnly)) {
+  emit sendError(dirSave+"/"+*it);
+  return;}
+
+  listFilesAdd.push_back(*it);
+
+  ftpLiders->get(*it, fileList);
+
 }
 
 //-------------------------------------------слот получает соединение-------------------------------------------
@@ -89,15 +115,20 @@ void WFtpClient::ftpConnected(bool hasError)
                         }
                         emit finished(filename);
                         break;}
-      case CLOADLIST:{ delete fileList;
+      case CLOADLIST:{ fileList->close();
                         do{++it;}
                         while((it!=listFiles.end())&&(!filter(*it)));
                         if(hasError){FileListErrors.push_back( ftpLiders->errorString().replace("\n", " "));}
-                                else{FileListErrors.push_back("");}
-                         if(it!=listFiles.end()){}else{emit finishedList(listFiles,FileListErrors);
-                                                  return;}
-                          fileList = new QFile(dirSave+"/"+*it);
-                         if(filter(*it))ftpLiders->get(*it, fileList);
+                                else{FileListErrors.push_back("good");}
+                         if(it!=listFiles.end()){}else{toLoad=-1;
+                                                       emit finishedList(listFilesAdd,FileListErrors);
+                                                       return;}
+                          fileList->setFileName(dirSave+"/"+*it);
+                          if (!fileList->open(QIODevice::WriteOnly)) {
+                          emit sendError(dirSave+"/"+*it);
+                          return;}
+                          listFilesAdd.push_back(*it);
+                         ftpLiders->get(*it, fileList);
                        }
      }
 }
@@ -131,9 +162,14 @@ void WFtpClient::readCurrFiles(void)
  idCurr=ftpLiders->list();
 }
 
-void  WFtpClient::readFilesPosledov(QString dirToSave)
-{
+int  WFtpClient::readFilesPosledov(QString dirToSave)
+{    QDir  dirTo;
+       if(dirTo.exists(dirToSave)){}
+                    else{dirTo.mkdir(dirToSave);
+                         if(dirTo.exists(dirToSave)){}else return -1;}
     toLoad=CLOADLIST;
     urlFiles.clear();
+    dirSave=dirToSave;
     idCurr=ftpLiders->list();
+
 }

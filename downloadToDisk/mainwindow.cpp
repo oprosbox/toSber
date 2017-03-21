@@ -5,6 +5,7 @@
 #include <QTextStream>
 
 WFtpClient *ftpclnt;
+ftpload::WLoadFtp *loadFtp;
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -33,11 +34,32 @@ MainWindow::MainWindow(QWidget *parent) :
     w223fzPath=new WMainInterf();
     w44fzPath=new WMainInterf();
 
-//    ftpclnt=new WFtpClient;
-//    ftpclnt->connectServ("ftp.zakupki.gov.ru","fz223free","fz223free");
-//    ftpclnt->cd("out/published");
-//    connect(ftpclnt,SIGNAL(endOperations(QStringList)),this,SLOT(getFunct(QStringList)));
-//    ftpclnt->readDirectories();
+    loadFtp=new ftpload::WLoadFtp;
+    ftpload::SInputFtp input;
+    input.url="ftp.zakupki.gov.ru";
+    input.login="fz223free";
+    input.password="fz223free";
+    input.countToExitDirUrl=2;
+    input.stFilt.dateBegin=QDateTime::fromString("2017-03-15","yyyy-MM-dd");
+    input.stFilt.dateEnd=QDateTime::fromString("2017-03-17","yyyy-MM-dd");
+    input.pathTo="F:/programsQt/toSber/ftpLoad/sort";
+    input.pathTemp="F:/programsQt/toSber/ftpLoad/unpack";
+    input.tegPathFind.push_back("customers");
+    input.val="7707072637";
+    input.urlPath="out/published/Moskva";
+    input.urlList.push_back("purchaseNoticeEP/daily");
+    input.urlList.push_back("purchaseNoticeOK/daily");
+    input.urlList.push_back("purchaseNoticeOA/daily");
+
+    loadFtp->createFtp(input);
+    connect(ui->pushButton,SIGNAL(clicked()),loadFtp,SLOT(download()));
+
+    //ftpclnt=new WFtpClient;
+    //ftpclnt->connectServ("ftp.zakupki.gov.ru","fz223free","fz223free");
+    //ftpclnt->cd("out/published");
+    //ftpclnt->cd("..");
+    //connect(ftpclnt,SIGNAL(endOperations(QStringList)),this,SLOT(getFunct(QStringList)));
+    //ftpclnt->readDirectories();
 
     connect(ui->btn223fzTendPath,SIGNAL(clicked()), w223fzTendPath,SLOT(getPath()));
     connect(w223fzTendPath,SIGNAL(setPath(QString)), ui->dirTand223fz,SLOT(setText(QString)));

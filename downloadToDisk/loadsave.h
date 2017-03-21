@@ -7,7 +7,7 @@
 
 
 namespace ftpload{
-
+//-----------------------------------------------------------------------------------------------
 class WLoadZip:public QObject,protected WPackUnpack7z
 { Q_OBJECT
 public:
@@ -18,8 +18,10 @@ public:
   void fromDirToEnd(QStringList strList);//обрабатывает существующие директории
 public slots:
   void  delObjThreads(int id);
+  void  formListFiles(QStringList);
 signals:
  void allObjectsStop(int);
+ void signAddFiles(QStringList);
 protected:
   QString tempDir;
   QString pathToEnd;
@@ -27,10 +29,14 @@ protected:
   QString valFind;
   QList<ndom::WFind*> listThread;
   int countObj;
+  int countId;
 };
-
+//--------------------------------------------------------------------------------------------------
 struct SInputFtp
-{
+{ QString url;
+  QString login;
+  QString password;
+  QString urlPath;
  QStringList urlList;
  QString pathTemp;
  QString pathTo;
@@ -39,13 +45,13 @@ struct SInputFtp
  SFilterStr stFilt;
  int countToExitDirUrl;
 };
-
+//---------------------------------------------------------------------------------------------------
 class WLoadFtp:public QObject
 {Q_OBJECT
 public:
   WLoadFtp();
   ~WLoadFtp();
-  void createFtp(SInputFtp);
+  void createFtp(SInputFtp inpFtp);
 public slots:
   void download();
   void nextLoad(QStringList getPath,QStringList errors);
@@ -57,17 +63,7 @@ QStringList::iterator it;
 QString pathTempDownl;
 int countToExit;
 };
-
-
-
-
-
-
-
-
-
-
-
+//--------------------------------------------------------------------------------------------------
 }
 
 #endif // LOADSAVE_H
