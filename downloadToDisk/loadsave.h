@@ -13,7 +13,7 @@ class WLoadZip:public QObject,protected WPackUnpack7z
 public:
   int id;
   WLoadZip();
-  void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val);
+  void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,bool flgClear);
   void startUnpack(QStringList listPathZip);//добавляет на обработку список zip и формирует в папке pathTo конечный список
   void fromDirToEnd(QStringList strList);//обрабатывает существующие директории
 public slots:
@@ -28,23 +28,26 @@ protected:
   QStringList tegFind;
   QString valFind;
   QList<ndom::WFind*> listThread;
+  QStringList listZip;
   int countObj;
   int countId;
+  bool flgClearAll;
 };
 //-------------------------------------------------------------------------------------------------
 class WLoadZipThread:public QThread
 {
  public:
+  ~WLoadZipThread(){terminate();delete LoadZip;}
   WLoadZip *LoadZip;
   QStringList listPathZip;
  void run(){LoadZip->startUnpack(listPathZip);}
 };
 //--------------------------------------------------------------------------------------------------
 struct SInputFtp
-{ QString url;
-  QString login;
-  QString password;
-  QString urlPath;
+{QString url;
+ QString login;
+ QString password;
+ QString urlPath;
  QStringList urlList;
  QString pathTemp;
  QString pathTo;
@@ -52,6 +55,7 @@ struct SInputFtp
  QString val;
  SFilterStr stFilt;
  int countToExitDirUrl;
+ bool flgDellArh;
 };
 //---------------------------------------------------------------------------------------------------
 class WLoadFtp:public QObject
@@ -60,16 +64,24 @@ public:
   WLoadFtp();
   ~WLoadFtp();
   int createFtp(SInputFtp inpFtp);
+  int id;
 public slots:
   void download();
   void nextLoad(QStringList getPath,QStringList errors);
+  void getProcessFiles(QStringList procFiles){sProcessFiles(procFiles);}
+  void delObjectThatStop(int id);
+signals:
+  void sProcessFiles(QStringList);
+  void getDownloadFiles(QStringList files,QStringList errors);
+  void allFilesDownload(int);
+  void allFilesProcess(int);
 protected:
-WLoadZip *fromZip;
+QList<WLoadZipThread*> fromZip;
 WFtpClient *client;
-QStringList urlListDirs;
 QStringList::iterator it;
-QString pathTempDownl;
-int countToExit;
+SInputFtp params;
+int countId;
+bool flgDownloadsAll;
 };
 //--------------------------------------------------------------------------------------------------
 }

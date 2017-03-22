@@ -16,11 +16,15 @@ void WPackUnpack7z::destroyObj(void)
 
 }
 
-void WPackUnpack7z::unpackZip(QString pathZip,QString dirOut)
+void WPackUnpack7z::unpackZip(QString pathZip,QString dirOut,int id,bool delArh)
 {
   QStringList comm;
-  comm.push_back("/C "+path7z+" x -aoa "+pathZip+" "+"-o"+dirOut+" >> "+dirLog+"\\f7ZipLog.txt");
+  QString indStr;
+  indStr.sprintf("%i",id);
+  comm.push_back("/C "+path7z+" x -aoa "+pathZip+" "+"-o"+dirOut+" >> "+dirLog+"\\f7ZipLog_"+indStr+".txt");
   QProcess::execute("cmd.exe",comm);
+  if(delArh)
+     { QFile(pathZip).remove(); }
 }
 
 void WPackUnpack7z::packToZip(QString pathZip,QStringList files)

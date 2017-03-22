@@ -12,7 +12,7 @@ public:
   ~WPackUnpack7z(){destroyObj();}
   bool initObj(QString pathTo7z,QString logDir);
   void destroyObj(void);
-  void unpackZip(QString pathZip,QString dirOut);//распасовка zip архива
+  void unpackZip(QString pathZip,QString dirOut,int id=0,bool delArh=false);//распасовка zip архива
   void packToZip(QString pathZip,QStringList files);//добавление файлов в zip архив
   void command(QString comm);//исполнение 7z комманды;
 protected:

@@ -9,13 +9,17 @@ WLoadZip::WLoadZip()
 countObj=0;
 }
 //------------------------------------------------------------------------------------------------
-void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val)
+void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,bool flgClear)
 {
   tempDir=dirUnpack;
   pathToEnd=pathTo;
   tegFind=tegPathFind;
   valFind=val;
   countId=0;
+  id=idNew;
+  flgClearAll=flgClear;
+  QString idStr;
+  idStr.sprintf("%i",id);
   initObj(QApplication::applicationDirPath()+"/7-Zip/7z.exe",dirUnpack);
 }
 //------------------------------------------------------------------------------------------------
@@ -29,8 +33,7 @@ for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
   {
     dirUnpackTo=*it;
     dirUnpackTo.replace(dirUnpackTo.lastIndexOf(".zip"),4,"");
-   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad+"\\"+dirUnpackTo);
-   QThread::usleep(50000);
+   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad+"\\"+dirUnpackTo,id,flgClearAll);
    listDir.push_back(tempDir+"/"+dirUnpackTo);
   }
 
@@ -50,67 +53,89 @@ void WLoadZip::fromDirToEnd(QStringList strListFrom)//обрабатывает �
   domObj->id=countId;++countId;
   connect(domObj,SIGNAL(allThreadsStop(int)),this,SLOT(delObjThreads(int)));
   connect(domObj,SIGNAL(allThreadsLists(QStringList)),this,SLOT(formListFiles(QStringList)));
-  domObj->createObj(strListFrom,pathToEnd, tegFind, valFind);
+  domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);
   domObj->startThreads();
   listThread.push_back(domObj);
 }
 //--------------------------------------------------------------------------------------------------
-void  WLoadZip::delObjThreads(int ids)
+void  WLoadZip::delObjThreads(int idLocal)
 {
 --countObj;
   if(countObj<1)
     {for(auto it=listThread.begin();it!=listThread.end();it++)
         {
-         if((*it)->id==ids){listThread.erase(it);break;}
+         if((*it)->id==idLocal){listThread.erase(it);break;}
         }
-      emit allObjectsStop(id);}
+      emit allObjectsStop(id);
+       }
 }
 //--------------------------------------------------------------------------------------------------
 WLoadFtp::WLoadFtp()
 {
-  fromZip=new WLoadZip;
   client=new WFtpClient;
 }
 //--------------------------------------------------------------------------------------------------
 WLoadFtp::~WLoadFtp()
 {
   delete client;
-  delete fromZip;
+  for(auto i=fromZip.begin();i!=fromZip.end();i++)
+  delete *i;
 
 }
 //------------------------------------------------------------------------------------------------
 int WLoadFtp::createFtp(SInputFtp inputFtp)
 {
-  urlListDirs=inputFtp.urlList;
-  pathTempDownl=inputFtp.pathTemp;
-  client->setStFilter(inputFtp.stFilt);
-  fromZip->createLZ(inputFtp.pathTemp,inputFtp.pathTo,inputFtp.tegPathFind,inputFtp.val);
+  params=inputFtp;
+  client->setStFilter(params.stFilt);
+  countId=0;
   connect(client,SIGNAL(finishedList(QStringList,QStringList)),this,SLOT(nextLoad(QStringList,QStringList)));
-  countToExit=inputFtp.countToExitDirUrl;
-  int conn=client->connectServ(inputFtp.url,inputFtp.login,inputFtp.password);
-  if(conn!=-1)client->cd(inputFtp.urlPath);
+  int conn=client->connectServ(params.url,params.login,params.password);
+  if(conn!=-1)client->cd(params.urlPath);
   return conn;
 }
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
-{
-it=urlListDirs.begin();
+{flgDownloadsAll=false;
+it=params.urlList.begin();
 client->cd(*it);
-client->readFilesPosledov(pathTempDownl);
+client->readFilesPosledov(params.pathTemp);
 }
 //------------------------------------------------------------------------------------------------
 void  WLoadFtp::nextLoad(QStringList listGet,QStringList errors)
 {
-  fromZip->startUnpack(listGet);
-  for(int i=0;i<countToExit;i++)
+  emit getDownloadFiles(listGet,errors);
+  WLoadZipThread *zip=new WLoadZipThread;
+  zip->LoadZip=new WLoadZip;
+  zip->LoadZip->createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
+  ++countId;
+  connect(zip->LoadZip,SIGNAL(signAddFiles(QStringList)),this,SLOT(getProcessFiles(QStringList)));
+  connect(zip->LoadZip,SIGNAL(allObjectsStop(int)),this,SLOT(delObjectThatStop(int)));
+  zip->listPathZip=listGet;
+  fromZip.push_back(zip);
+  zip->start();
+
+  for(int i=0;i<params.countToExitDirUrl;i++)
   {client->cd("..");}
    ++it;
 
- if(it!=urlListDirs.end()){
-                           client->cd(*it);
-                           client->readFilesPosledov(pathTempDownl);}
+ if(it!=params.urlList.end())
+   {client->cd(*it);
+    client->readFilesPosledov(params.pathTemp);}
+ else{emit allFilesDownload(id);
+      flgDownloadsAll=true;}
 
 }
-
+//---------------------------------------------------------------------------------------------------
+void WLoadFtp::delObjectThatStop(int idLocal)
+{
+  for(auto i=fromZip.begin();i!=fromZip.end();i++)
+  {if((*i)->LoadZip->id==idLocal)
+        {delete *i;
+         fromZip.erase(i);
+         break;}
+  }
+  if((flgDownloadsAll)&&(fromZip.size()==0))
+    {emit allFilesProcess(id);}
+}
 
 }

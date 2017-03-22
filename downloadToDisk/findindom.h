@@ -17,8 +17,6 @@ namespace ndom{
    QStringList value;
  };
 
-extern bool controlNode(const QDomNode &controls,QStringList &list,int i);
-
 class WFindInDom
 {
 public:
@@ -42,6 +40,7 @@ class WFindThr:public QThread
   WFindInDom *findInDom;
   QStringList listDirFrom;
   QString pathTo;
+  int clearAll;
   void run();
  signals:
   void threadStop(int);
@@ -52,7 +51,7 @@ class WFind:public QObject
 {Q_OBJECT
   public:
   int id;
-  void createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val);
+  void createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val,bool flgClearAll=false);
   void destroyObj();
   void startThreads();
   void stopThreads();
@@ -67,6 +66,7 @@ protected:
   int threadsWork;
   int countThr;
   bool flgStart;
+
 };
 
 }

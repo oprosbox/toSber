@@ -6,6 +6,37 @@
 
 namespace ndom{
 
+  //рекурсивная функция проверяет путь вложения list, элемент с которого начинается проверка на вложение считается последним в списке list
+static bool controlNode(const QDomNode &controls,QStringList &list,int i)
+  { --i;
+    if(i==-1)return true;
+    QString name=controls.nodeName();
+    name.indexOf(':');
+    name.remove(0,name.indexOf(':')+1);
+    if(name==list.at(i)){
+        return controlNode(controls.parentNode(),list,i);}
+    else{return false;}
+  }
+
+
+
+static bool removePath(const QString &path)
+  {
+      bool result = true;
+      QFileInfo info(path);
+      if (info.isDir()) {
+          QDir dir(path);
+          foreach (const QString &entry, dir.entryList(QDir::AllDirs | QDir::Files | QDir::Hidden | QDir::NoDotAndDotDot)) {
+              result &= removePath(dir.absoluteFilePath(entry));
+          }
+          if (!info.dir().rmdir(info.fileName()))
+              return false;
+      } else {
+          result = QFile::remove(path);
+      }
+      return result;
+  }
+
 
 WFindInDom::WFindInDom()
 {
@@ -45,17 +76,6 @@ bool WFindInDom::findInFile(QString path,QList<SListVal> &value)
          return true;
 }
 
-//рекурсивная функция проверяет путь вложения list, элемент с которого начинается проверка на вложение считается последним в списке list
-bool controlNode(const QDomNode &controls,QStringList &list,int i)
-{ --i;
-  if(i==-1)return true;
-  QString name=controls.nodeName();
-  name.indexOf(':');
-  name.remove(0,name.indexOf(':')+1);
-  if(name==list.at(i)){
-      return controlNode(controls.parentNode(),list,i);}
-  else{return false;}
-}
 //----------------------------------------------------------------------------------------------
 bool WFindInDom::findInFile(QString path,QStringList &listVal)
 {
@@ -127,7 +147,7 @@ int WFindInDom::findInDir(QString pathFrom, QString pathTo,QStringList &listFile
     }
 
     if(ndom::CDELDIR==ndomDel)
-    {dirTo.rmdir(pathFrom);}
+    {removePath(pathFrom);}
     return ret;
 }
 //----------------------------------------------------------------------------------------------
@@ -136,29 +156,32 @@ void WFindThr::run()
   QStringList listFilesFind;
   for(auto i=listDirFrom.begin();i!=listDirFrom.end();i++)
   { listFilesFind.clear();
-    findInDom->findInDir(*i,pathTo,listFilesFind,ndom::CNODELDIR);
+    findInDom->findInDir(*i,pathTo,listFilesFind,clearAll);
     emit findFiles(listFilesFind);
   }
   emit threadStop(id);
 }
 //----------------------------------------------------------------------------------------------
-void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val)
+void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val,bool flgClearAll)
 {
- threadsWork=QThread::idealThreadCount();
+ int maxThreadsWork=QThread::idealThreadCount();
 
- if(threadsWork!=1){--threadsWork;}
+ if(maxThreadsWork!=1){--maxThreadsWork;}
  WFindThr* thrStart;
  int sz,szBeg;
- sz=(int)(listDirFrom.size()/threadsWork);
- szBeg=listDirFrom.size()-sz*(threadsWork-1);
+ sz=(int)(listDirFrom.size()/maxThreadsWork);
+ szBeg=listDirFrom.size()-sz*(maxThreadsWork-1);
  QStringList::iterator it;
- for(int i=0;i<threadsWork;i++)
- {
+ for(int i=0;i<maxThreadsWork;i++)
+ {if(i==0){if(szBeg==0){threadsWork=0;
+                        emit allThreadsStop(id);
+                        break;}}
    thrStart=new WFindThr;
    thrStart->findInDom=new WFindInDom;
    thrStart->findInDom->setFindAttr(teg,val);
    thrStart->pathTo=dirTo;
    thrStart->id=i;
+   if(flgClearAll){thrStart->clearAll=ndom::CDELDIR;}else{thrStart->clearAll=ndom::CNODELDIR;}
    if(i==0){for(it=listDirFrom.begin();it!=listDirFrom.begin()+szBeg;it++)
                 thrStart->listDirFrom.push_back(*it);
            }
@@ -166,7 +189,9 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
                   thrStart->listDirFrom.push_back(*it);}
    listThr.push_back(thrStart);
    connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
-   connect(thrStart,SIGNAL(findFiles(QStringList)),this,SIGNAL(allThreadsFormLists(QStringList)));
+   connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
+  if(sz==0){threadsWork=1;break;}
+  ++threadsWork;
  }
 }
 //----------------------------------------------------------------------------------------------

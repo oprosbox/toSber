@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeEP xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>b2008204-d8e4-49f8-81ea-5e142bde3c4e</guid>
+        <createDateTime>2017-03-17T15:08:40</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7aaffb9f-e774-4bad-8fa7-49781ece938b</guid>
+            <ns2:purchaseNoticeEPData>
+                <ns2:guid>7aaffb9f-e774-4bad-8fa7-49781ece938b</ns2:guid>
+                <ns2:createDateTime>2017-03-17T15:04:48</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5893702</ns2:urlOOS>
+                <ns2:registrationNumber>31704904222</ns2:registrationNumber>
+                <ns2:name>АК-762 Аренда нежилых помещений </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                        <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                        <iko>57706061801770601001</iko>
+                        <inn>7706061801</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1027700049486</ogrn>
+                        <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                        <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                        <phone>7-495-9508451</phone>
+                        <email>transneft@ak.transneft.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>00044463</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3363</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика (исполнителя, подрядчика)</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                        <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                        <iko>57706061801770601001</iko>
+                        <inn>7706061801</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1027700049486</ogrn>
+                        <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                        <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                        <phone>7-495-9508451</phone>
+                        <email>transneft@ak.transneft.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>00044463</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9508483</phone>
+                    <email>MakashovaNV@ ak.transneft.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ТРАНСНЕФТЬ"</fullName>
+                            <shortName>ПАО "ТРАНСНЕФТЬ"</shortName>
+                            <iko>57706061801770601001</iko>
+                            <inn>7706061801</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1027700049486</ogrn>
+                            <legalAddress>119180, Г МОСКВА, УЛ ПОЛЯНКА Б., дом 57</legalAddress>
+                            <postalAddress>119180, г.Москва, ул.Большая Полянка, д.57</postalAddress>
+                            <phone>7-495-9508451</phone>
+                            <email>transneft@ak.transneft.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>00044463</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-17T15:08:40</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>9a60bcd5-54df-4974-87fd-8260ba79ffee</guid>
+                        <createDateTime>2017-03-17T15:07:33</createDateTime>
+                        <fileName>Извещение о закупке.doc.doc</fileName>
+                        <description>Извещение о закупке.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30148412</url>
+                    </document>
+                    <document>
+                        <guid>2c0cb4e1-cc01-4047-9698-3fbe534a3d8b</guid>
+                        <createDateTime>2017-03-17T15:07:37</createDateTime>
+                        <fileName>Проект договора.docx.docx</fileName>
+                        <description>Проект договора.docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30148415</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-17T15:08:40</ns2:modificationDate>
+                <ns2:saveUserId>10044</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>374d224b-a146-4672-ad4a-03b9be5895dd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Аренда нежилых помещений</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>10141500.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>f470fc1e-5ad1-4333-9c3d-991fe9f70754</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>68.20</code>
+                                        <name>Услуги по сдаче в аренду (внаем) собственного или арендованного недвижимого имущества</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>68.20</code>
+                                        <name>Аренда и управление собственным или арендованным недвижимым имуществом</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>055</code>
+                                        <name>Квадратный метр</name>
+                                    </okei>
+                                    <qty>222.2</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>11</code>
+                                <name>Закупки, предметом которых является аренда и (или) приобретение в собственность объектов недвижимого имущества</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160196312</planRegistrationNumber>
+                            <planGuid>a7034a95-8acb-48cc-962f-fc4b6c24ff7b</planGuid>
+                            <positionNumber>272</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b0997da5-85df-4265-b9d2-0fc106dca351</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeEPData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeEP>
