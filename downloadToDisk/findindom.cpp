@@ -139,7 +139,6 @@ void WFindThr::run()
     findInDom->findInDir(*i,pathTo,listFilesFind,ndom::CNODELDIR);
     emit findFiles(listFilesFind);
   }
-
   emit threadStop(id);
 }
 //----------------------------------------------------------------------------------------------

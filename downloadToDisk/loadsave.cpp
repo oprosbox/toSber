@@ -1,4 +1,5 @@
 #include "loadsave.h"
+#include <QApplication>
 
 namespace ftpload{
 
@@ -15,22 +16,24 @@ void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFin
   tegFind=tegPathFind;
   valFind=val;
   countId=0;
+  initObj(QApplication::applicationDirPath()+"/7-Zip/7z.exe",dirUnpack);
 }
 //------------------------------------------------------------------------------------------------
 void WLoadZip::startUnpack(QStringList listPathZip)//добавляет на обработку только список zip
 {
 QString dirFromLoad=tempDir;
 dirFromLoad.replace("/","\\");
+QString dirUnpackTo;
+QStringList listDir;
 for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
   {
-   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad);
+    dirUnpackTo=*it;
+    dirUnpackTo.replace(dirUnpackTo.lastIndexOf(".zip"),4,"");
+   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad+"\\"+dirUnpackTo);
+   QThread::usleep(50000);
+   listDir.push_back(tempDir+"/"+dirUnpackTo);
   }
 
-QDir dirFrom;
-dirFrom.cd(tempDir);
-QStringList listDir = dirFrom.entryList(QDir::Dirs);
-listDir.removeAll("..");
-listDir.removeAll(".");
 fromDirToEnd(listDir);
 }
 //-------------------------------------------------------------------------------------------------
@@ -76,7 +79,7 @@ WLoadFtp::~WLoadFtp()
 
 }
 //------------------------------------------------------------------------------------------------
-void WLoadFtp::createFtp(SInputFtp inputFtp)
+int WLoadFtp::createFtp(SInputFtp inputFtp)
 {
   urlListDirs=inputFtp.urlList;
   pathTempDownl=inputFtp.pathTemp;
@@ -84,8 +87,9 @@ void WLoadFtp::createFtp(SInputFtp inputFtp)
   fromZip->createLZ(inputFtp.pathTemp,inputFtp.pathTo,inputFtp.tegPathFind,inputFtp.val);
   connect(client,SIGNAL(finishedList(QStringList,QStringList)),this,SLOT(nextLoad(QStringList,QStringList)));
   countToExit=inputFtp.countToExitDirUrl;
-  client->connectServ(inputFtp.url,inputFtp.login,inputFtp.password);
-  client->cd(inputFtp.urlPath);
+  int conn=client->connectServ(inputFtp.url,inputFtp.login,inputFtp.password);
+  if(conn!=-1)client->cd(inputFtp.urlPath);
+  return conn;
 }
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()

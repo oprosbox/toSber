@@ -29,7 +29,7 @@ class WFtpClient:public QObject,protected WFtpFilter
 public:  
   WFtpClient();
   void setStFilter(SFilterStr toFilter){stFilter=toFilter;}
-  void connectServ(QString serv,QString login,QString passv);//коннектится к ftp источнику
+  int connectServ(QString serv,QString login,QString passv);//коннектится к ftp источнику
   void disconnectServ(void);//отключаем ftp
   void cd(QString cdFromNull);//переходим по указанной директории
   void readFiles(QString dirToSave);//читаем все файлы из неё и сохраняем на жесткий диск.

@@ -10,7 +10,7 @@ class WPackUnpack7z
 public:
   WPackUnpack7z(){}
   ~WPackUnpack7z(){destroyObj();}
-  bool initObj(QString pathTo7z="");
+  bool initObj(QString pathTo7z,QString logDir);
   void destroyObj(void);
   void unpackZip(QString pathZip,QString dirOut);//распасовка zip архива
   void packToZip(QString pathZip,QStringList files);//добавление файлов в zip архив
@@ -18,6 +18,7 @@ public:
 protected:
   QString path7z;
   QProcess proc;
+  QString dirLog;
 };
 
 

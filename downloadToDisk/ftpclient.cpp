@@ -16,10 +16,10 @@ bool WFtpFilter::filter(QString url)
   QString dateStrBeg;
   QString dateStrEnd;
   dateStrBeg.insert(0,url.data()+indUrl,15);
-  dateStrEnd.insert(0,url.data()+indUrl+16,15);
+  dateStrEnd.insert(0,url.data()+indUrl+16,8);
   QDateTime dateBegin,dateEnd;
   dateBegin=QDateTime::fromString(dateStrBeg,"yyyyMMdd_HHmmss");
-  dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd_HHmmss");
+  dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd");
 
   if((stFilter.dateBegin<=dateBegin)&&(stFilter.dateEnd>=dateEnd))
     {return true;}
@@ -27,14 +27,15 @@ return false;
 }
 
 //-------------------------------коннектится к ftp источнику------------------------------------------------
-void WFtpClient::connectServ(QString serv,QString login,QString passv)
+int WFtpClient::connectServ(QString serv,QString login,QString passv)
 {
   ftpLiders = new QFtp(this);
   connect(ftpLiders, SIGNAL(commandFinished(int,bool)), this, SLOT(commFinish(int,bool)));
   connect(ftpLiders, SIGNAL(listInfo(QUrlInfo)), this, SLOT(doneURLInfo(QUrlInfo)));
   connect(ftpLiders, SIGNAL(done(bool)), this, SLOT(ftpConnected(bool)));
-  ftpLiders->connectToHost(serv);
-  ftpLiders->login(login,passv);
+  int conn=ftpLiders->connectToHost(serv);
+  if(conn!=-1)conn=ftpLiders->login(login,passv);
+  return conn;
 }
 //----------------------------------окончание комманды--------------------------------------------------------
 void WFtpClient::commFinish(int id,bool)
@@ -65,11 +66,11 @@ void WFtpClient::doneURLInfo(QUrlInfo urlInfo)
   switch (toLoad)
     {case CLOADCURRDIR:{if(urlInfo.isDir())
                           {urlFiles.push_back(urlInfo.name());}
-                                break;}
+                        break;}
 
      case CLOADCURRFILE:case CLOADLIST:{ if (urlInfo.isFile() && urlInfo.isReadable())
-                             {urlFiles.push_back(urlInfo.name());}
-                              break;}
+                                             {urlFiles.push_back(urlInfo.name());}
+                                          break;}
 
      case CLOADFILES:{if (urlInfo.isFile() && urlInfo.isReadable()) {
                         QFile *file = new QFile(dirSave+"/"+urlInfo.name());

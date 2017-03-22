@@ -31,6 +31,14 @@ protected:
   int countObj;
   int countId;
 };
+//-------------------------------------------------------------------------------------------------
+class WLoadZipThread:public QThread
+{
+ public:
+  WLoadZip *LoadZip;
+  QStringList listPathZip;
+ void run(){LoadZip->startUnpack(listPathZip);}
+};
 //--------------------------------------------------------------------------------------------------
 struct SInputFtp
 { QString url;
@@ -51,7 +59,7 @@ class WLoadFtp:public QObject
 public:
   WLoadFtp();
   ~WLoadFtp();
-  void createFtp(SInputFtp inpFtp);
+  int createFtp(SInputFtp inpFtp);
 public slots:
   void download();
   void nextLoad(QStringList getPath,QStringList errors);

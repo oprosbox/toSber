@@ -44,8 +44,10 @@ MainWindow::MainWindow(QWidget *parent) :
     input.stFilt.dateEnd=QDateTime::fromString("2017-03-17","yyyy-MM-dd");
     input.pathTo="F:/programsQt/toSber/ftpLoad/sort";
     input.pathTemp="F:/programsQt/toSber/ftpLoad/unpack";
-    input.tegPathFind.push_back("customers");
-    input.val="7707072637";
+    input.tegPathFind.push_back("customer");
+    input.tegPathFind.push_back("mainInfo");
+    input.tegPathFind.push_back("inn");
+    input.val="7706061801";
     input.urlPath="out/published/Moskva";
     input.urlList.push_back("purchaseNoticeEP/daily");
     input.urlList.push_back("purchaseNoticeOK/daily");
