@@ -3,9 +3,12 @@
 #include "findindom.h"
 #include <QDebug>
 #include <QTextStream>
+#include <interface.h>
 
 WFtpClient *ftpclnt;
 ftpload::WLoadFtp *loadFtp;
+
+wui::QWidgetRegion *widReg;
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -34,26 +37,31 @@ MainWindow::MainWindow(QWidget *parent) :
     w223fzPath=new WMainInterf();
     w44fzPath=new WMainInterf();
 
-    loadFtp=new ftpload::WLoadFtp;
-    ftpload::SInputFtp input;
-    input.url="ftp.zakupki.gov.ru";
-    input.login="fz223free";
-    input.password="fz223free";
-    input.countToExitDirUrl=2;
-    input.stFilt.dateBegin=QDateTime::fromString("2017-03-15","yyyy-MM-dd");
-    input.stFilt.dateEnd=QDateTime::fromString("2017-03-17","yyyy-MM-dd");
-    input.pathTo="F:/programsQt/toSber/ftpLoad/sort";
-    input.pathTemp="F:/programsQt/toSber/ftpLoad/unpack";
-    input.tegPathFind.push_back("customer");
-    input.tegPathFind.push_back("mainInfo");
-    input.tegPathFind.push_back("inn");
-    input.val="7706061801";
-    input.urlPath="out/published/Moskva";
-    input.urlList.push_back("purchaseNoticeEP/daily");
-    input.urlList.push_back("purchaseNoticeOK/daily");
-    input.urlList.push_back("purchaseNoticeOA/daily");
+//    loadFtp=new ftpload::WLoadFtp;
+//    ftpload::SInputFtp input;
+//    input.url="ftp.zakupki.gov.ru";
+//    input.login="fz223free";
+//    input.password="fz223free";
+//    input.countToExitDirUrl=2;
+//    input.stFilt.dateBegin=QDateTime::fromString("2017-03-15","yyyy-MM-dd");
+//    input.stFilt.dateEnd=QDateTime::fromString("2017-03-17","yyyy-MM-dd");
+//    input.pathTo="F:/programsQt/toSber/ftpLoad/sort";
+//    input.pathTemp="F:/programsQt/toSber/ftpLoad/unpack";
+//    input.tegPathFind.push_back("customer");
+//    input.tegPathFind.push_back("mainInfo");
+//    input.tegPathFind.push_back("inn");
+//    input.val="7706061801";
+//    input.urlPath="out/published/Moskva";
+//    input.urlList.push_back("purchaseNoticeEP/daily");
+//    input.urlList.push_back("purchaseNoticeOK/daily");
+//    input.urlList.push_back("purchaseNoticeOA/daily");
 
-    loadFtp->createFtp(input);
+    //loadFtp->createFtp(input);
+
+    //ftpload::W223fz obj;
+    //QStringList regions;
+    //obj.getRegions(regions);
+
     connect(ui->pushButton,SIGNAL(clicked()),loadFtp,SLOT(download()));
 
     //ftpclnt=new WFtpClient;

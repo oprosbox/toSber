@@ -7,8 +7,10 @@ INPUT(
 ./debug\loadsave.o
 ./debug\qftp.o
 ./debug\qurlinfo.o
+./debug\interface.o
 ./debug\moc_mainwindow.o
 ./debug\moc_findindom.o
 ./debug\moc_ftpclient.o
 ./debug\moc_loadsave.o
+./debug\moc_interface.o
 );

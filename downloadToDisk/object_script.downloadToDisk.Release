@@ -7,8 +7,10 @@ INPUT(
 ./release\loadsave.o
 ./release\qftp.o
 ./release\qurlinfo.o
+./release\interface.o
 ./release\moc_mainwindow.o
 ./release\moc_findindom.o
 ./release\moc_ftpclient.o
 ./release\moc_loadsave.o
+./release\moc_interface.o
 );

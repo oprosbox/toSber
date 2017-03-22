@@ -1,5 +1,6 @@
 #include "loadsave.h"
 #include <QApplication>
+#include <QTextStream>
 
 namespace ftpload{
 
@@ -9,7 +10,7 @@ WLoadZip::WLoadZip()
 countObj=0;
 }
 //------------------------------------------------------------------------------------------------
-void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,bool flgClear)
+void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,int flgClear)
 {
   tempDir=dirUnpack;
   pathToEnd=pathTo;
@@ -37,7 +38,8 @@ for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
    listDir.push_back(tempDir+"/"+dirUnpackTo);
   }
 
-fromDirToEnd(listDir);
+if(flgClearAll<CDELARHNOPROCESS)fromDirToEnd(listDir);
+else{emit allObjectsStop(id);}
 }
 //-------------------------------------------------------------------------------------------------
 void  WLoadZip::formListFiles(QStringList listFiles)
@@ -137,5 +139,72 @@ void WLoadFtp::delObjectThatStop(int idLocal)
   if((flgDownloadsAll)&&(fromZip.size()==0))
     {emit allFilesProcess(id);}
 }
+//--------------------------------------------------------------------------------------------------------------------
+void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
+{
+  ftp223fz=new  WLoadFtp;
 
+    inpFtp.url="ftp.zakupki.gov.ru";
+    inpFtp.login="fz223free";
+    inpFtp.password="fz223free";
+    inpFtp.countToExitDirUrl=3;
+    inpFtp.stFilt.dateBegin=tmBegin;
+    inpFtp.stFilt.dateEnd=tmEnd;
+    inpFtp.pathTo=dirToReport;
+    inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Notif";
+    inpFtp.tegPathFind.push_back("customer");
+    inpFtp.tegPathFind.push_back("mainInfo");
+    inpFtp.tegPathFind.push_back("inn");
+    inpFtp.val=inn;
+    inpFtp.urlPath="out/published";
+    for(auto i=regions.begin();i!=regions.end();i++)
+    {
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeEP/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeOK/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeOA/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeIS/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE94/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseNoticeZK/daily");
+    }
+     inpFtp.flgDellArh=CDELDIRANDARH;
+
+     ftp223fz->createFtp(inpFtp);
+}
+//--------------------------------------------------------------------------------------------------------------------
+void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd)
+{
+    ftp223fz=new  WLoadFtp;
+
+      inpFtp.url="ftp.zakupki.gov.ru";
+      inpFtp.login="fz223free";
+      inpFtp.password="fz223free";
+      inpFtp.countToExitDirUrl=3;
+      inpFtp.stFilt.dateBegin=tmBegin;
+      inpFtp.stFilt.dateEnd=tmEnd;
+      inpFtp.pathTo=dirToReport;
+      inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Dish";
+      inpFtp.urlPath="out/published";
+      for(auto i=regions.begin();i!=regions.end();i++)
+      {
+        inpFtp.urlList.push_back(*i+"/dishonestSupplier/daily");
+      }
+       inpFtp.flgDellArh=CDELARHNOPROCESS;
+
+       ftp223fz->createFtp(inpFtp);
+}
+//--------------------------------------------------------------------------------------------------------------------
+int W223fz::getRegions(QStringList &regions)
+{
+    QFile *file=new QFile(QApplication::applicationDirPath()+"/regions223FZ.txt");
+     if (!file->open(QIODevice::ReadOnly)) {return (-1);}
+regions.clear();
+     QTextStream ts(file); // из файла
+while(!ts.atEnd())
+    regions << ts.readLine();
+
+delete file;
+return 1;
+}
+//--------------------------------------------------------------------------------------------------------------------
 }

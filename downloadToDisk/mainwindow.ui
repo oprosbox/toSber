@@ -26,8 +26,8 @@
     <widget class="QPushButton" name="pushButton">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>10</y>
+       <x>20</x>
+       <y>30</y>
        <width>75</width>
        <height>23</height>
       </rect>
@@ -184,19 +184,6 @@
        <string>...</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label_16">
-      <property name="geometry">
-       <rect>
-        <x>620</x>
-        <y>40</y>
-        <width>91</width>
-        <height>16</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>обработано:</string>
-      </property>
-     </widget>
      <widget class="QPushButton" name="btnTmTend223fz">
       <property name="geometry">
        <rect>
@@ -221,6 +208,19 @@
       </property>
       <property name="text">
        <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="geometry">
+       <rect>
+        <x>580</x>
+        <y>10</y>
+        <width>75</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>регионы</string>
       </property>
      </widget>
     </widget>
@@ -372,19 +372,6 @@
        <string>...</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label_18">
-      <property name="geometry">
-       <rect>
-        <x>620</x>
-        <y>40</y>
-        <width>91</width>
-        <height>16</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>обработано:</string>
-      </property>
-     </widget>
      <widget class="QPushButton" name="btnTmTend44fz_2">
       <property name="geometry">
        <rect>
@@ -411,27 +398,13 @@
        <string/>
       </property>
      </widget>
-     <zorder>label_5</zorder>
-     <zorder>label_6</zorder>
-     <zorder>tm44fzTendBeg</zorder>
-     <zorder>chkTand44fz</zorder>
-     <zorder>tm44fzTendEnd</zorder>
-     <zorder>label_7</zorder>
-     <zorder>lineEdit_3</zorder>
-     <zorder>dirTand44fz</zorder>
-     <zorder>label_8</zorder>
-     <zorder>btn44fzTendPath</zorder>
-     <zorder>label_18</zorder>
-     <zorder>widget_6</zorder>
-     <zorder>btnTmTend44fz_2</zorder>
-     <zorder>btnTmTend44fz</zorder>
     </widget>
     <widget class="QWidget" name="widget_4" native="true">
      <property name="geometry">
       <rect>
        <x>120</x>
        <y>230</y>
-       <width>741</width>
+       <width>751</width>
        <height>71</height>
       </rect>
      </property>
@@ -548,19 +521,6 @@
        <string>...</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label_19">
-      <property name="geometry">
-       <rect>
-        <x>620</x>
-        <y>40</y>
-        <width>91</width>
-        <height>16</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>обработано:</string>
-      </property>
-     </widget>
      <widget class="QPushButton" name="btnTm223fz">
       <property name="geometry">
        <rect>
@@ -585,6 +545,19 @@
       </property>
       <property name="text">
        <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="geometry">
+       <rect>
+        <x>580</x>
+        <y>10</y>
+        <width>75</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>регионы</string>
       </property>
      </widget>
     </widget>
@@ -723,19 +696,6 @@
        <string>...</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label_20">
-      <property name="geometry">
-       <rect>
-        <x>620</x>
-        <y>40</y>
-        <width>91</width>
-        <height>16</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>обработано:</string>
-      </property>
-     </widget>
      <widget class="QPushButton" name="btnTm44fz">
       <property name="geometry">
        <rect>
@@ -776,14 +736,6 @@
       <string>тендеры</string>
      </property>
     </widget>
-    <zorder>pushButton</zorder>
-    <zorder>widget_2</zorder>
-    <zorder>widget_3</zorder>
-    <zorder>widget_4</zorder>
-    <zorder>label_13</zorder>
-    <zorder>widget_5</zorder>
-    <zorder>label_11</zorder>
-    <zorder>widget_6</zorder>
    </widget>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>

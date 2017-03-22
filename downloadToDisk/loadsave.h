@@ -7,13 +7,17 @@
 
 
 namespace ftpload{
+
+const int CNODELDIRANDARH=0;
+const int CDELDIRANDARH=1;
+const int CDELARHNOPROCESS=2;
 //-----------------------------------------------------------------------------------------------
 class WLoadZip:public QObject,protected WPackUnpack7z
 { Q_OBJECT
 public:
   int id;
   WLoadZip();
-  void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,bool flgClear);
+  void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,int flgClear);
   void startUnpack(QStringList listPathZip);//добавляет на обработку список zip и формирует в папке pathTo конечный список
   void fromDirToEnd(QStringList strList);//обрабатывает существующие директории
 public slots:
@@ -31,7 +35,7 @@ protected:
   QStringList listZip;
   int countObj;
   int countId;
-  bool flgClearAll;
+  int flgClearAll;
 };
 //-------------------------------------------------------------------------------------------------
 class WLoadZipThread:public QThread
@@ -55,7 +59,7 @@ struct SInputFtp
  QString val;
  SFilterStr stFilt;
  int countToExitDirUrl;
- bool flgDellArh;
+ int flgDellArh;
 };
 //---------------------------------------------------------------------------------------------------
 class WLoadFtp:public QObject
@@ -84,6 +88,18 @@ int countId;
 bool flgDownloadsAll;
 };
 //--------------------------------------------------------------------------------------------------
+
+class W223fz
+{
+  public:
+    void create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
+    void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
+    int getRegions(QStringList &regions);
+    WLoadFtp *ftp223fz;
+protected:
+    SInputFtp inpFtp;
+};
+
 }
 
 #endif // LOADSAVE_H

@@ -33,7 +33,8 @@ SOURCES += main.cpp\
     fzunpack.cpp \
     loadsave.cpp \
     qftp/qftp.cpp \
-    qftp/qurlinfo.cpp
+    qftp/qurlinfo.cpp \
+    interface.cpp
 
 HEADERS  += mainwindow.h \
     findindom.h \
@@ -41,6 +42,7 @@ HEADERS  += mainwindow.h \
     fzunpack.h \
     loadsave.h \
     qftp/qftp.h \
-    qftp/qurlinfo.h
+    qftp/qurlinfo.h \
+    interface.h
 
 FORMS    += mainwindow.ui
