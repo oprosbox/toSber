@@ -38,7 +38,8 @@ for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
    listDir.push_back(tempDir+"/"+dirUnpackTo);
   }
 
-if(flgClearAll<CDELARHNOPROCESS)fromDirToEnd(listDir);
+if(flgClearAll<CDELARHNOPROCESS)
+    fromDirToEnd(listDir);
 else{emit allObjectsStop(id);}
 }
 //-------------------------------------------------------------------------------------------------
@@ -152,7 +153,7 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
     inpFtp.stFilt.dateEnd=tmEnd;
     inpFtp.pathTo=dirToReport;
     inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Notif";
-    inpFtp.tegPathFind.push_back("customer");
+    //inpFtp.tegPathFind.push_back("customer");
     inpFtp.tegPathFind.push_back("mainInfo");
     inpFtp.tegPathFind.push_back("inn");
     inpFtp.val=inn;

@@ -168,7 +168,7 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
 
  if(maxThreadsWork!=1){--maxThreadsWork;}
  WFindThr* thrStart;
- int sz,szBeg;
+ int sz,szBeg;threadsWork=0;
  sz=(int)(listDirFrom.size()/maxThreadsWork);
  szBeg=listDirFrom.size()-sz*(maxThreadsWork-1);
  QStringList::iterator it;
