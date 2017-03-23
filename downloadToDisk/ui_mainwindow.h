@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created by: Qt User Interface Compiler version 5.7.1
+** Created by: Qt User Interface Compiler version 5.7.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -45,7 +45,7 @@ public:
     QToolButton *btn223fzTendPath;
     QPushButton *btnTmTend223fz;
     QPushButton *btnTmTend223fz_2;
-    QPushButton *pushButton_2;
+    QPushButton *btn223fzNotifRegions;
     QWidget *widget_3;
     QLabel *label_5;
     QLabel *label_6;
@@ -70,7 +70,7 @@ public:
     QToolButton *btn223fzPath;
     QPushButton *btnTm223fz;
     QPushButton *btnTm223fz_2;
-    QPushButton *pushButton_3;
+    QPushButton *btn223fzDishonRegions;
     QLabel *label_13;
     QWidget *widget_5;
     QLabel *label_14;
@@ -113,6 +113,7 @@ public:
         tm223fzTendBeg->setObjectName(QStringLiteral("tm223fzTendBeg"));
         tm223fzTendBeg->setGeometry(QRect(114, 9, 81, 20));
         tm223fzTendBeg->setMinimumSize(QSize(80, 0));
+        tm223fzTendBeg->setDateTime(QDateTime(QDate(2017, 3, 13), QTime(0, 0, 0)));
         chkTand223fz = new QCheckBox(widget_2);
         chkTand223fz->setObjectName(QStringLiteral("chkTand223fz"));
         chkTand223fz->setGeometry(QRect(9, 10, 59, 17));
@@ -120,6 +121,7 @@ public:
         tm223fzTendEnd->setObjectName(QStringLiteral("tm223fzTendEnd"));
         tm223fzTendEnd->setGeometry(QRect(262, 9, 80, 20));
         tm223fzTendEnd->setMinimumSize(QSize(80, 0));
+        tm223fzTendEnd->setDateTime(QDateTime(QDate(2017, 1, 17), QTime(0, 0, 0)));
         label = new QLabel(widget_2);
         label->setObjectName(QStringLiteral("label"));
         label->setGeometry(QRect(390, 10, 31, 21));
@@ -141,9 +143,9 @@ public:
         btnTmTend223fz_2 = new QPushButton(widget_2);
         btnTmTend223fz_2->setObjectName(QStringLiteral("btnTmTend223fz_2"));
         btnTmTend223fz_2->setGeometry(QRect(340, 7, 21, 23));
-        pushButton_2 = new QPushButton(widget_2);
-        pushButton_2->setObjectName(QStringLiteral("pushButton_2"));
-        pushButton_2->setGeometry(QRect(580, 10, 75, 23));
+        btn223fzNotifRegions = new QPushButton(widget_2);
+        btn223fzNotifRegions->setObjectName(QStringLiteral("btn223fzNotifRegions"));
+        btn223fzNotifRegions->setGeometry(QRect(580, 10, 75, 23));
         widget_3 = new QWidget(widget);
         widget_3->setObjectName(QStringLiteral("widget_3"));
         widget_3->setGeometry(QRect(120, 110, 751, 71));
@@ -158,6 +160,7 @@ public:
         tm44fzTendBeg->setObjectName(QStringLiteral("tm44fzTendBeg"));
         tm44fzTendBeg->setGeometry(QRect(115, 9, 80, 20));
         tm44fzTendBeg->setMinimumSize(QSize(80, 0));
+        tm44fzTendBeg->setDateTime(QDateTime(QDate(2017, 3, 13), QTime(0, 0, 0)));
         chkTand44fz = new QCheckBox(widget_3);
         chkTand44fz->setObjectName(QStringLiteral("chkTand44fz"));
         chkTand44fz->setGeometry(QRect(9, 10, 59, 17));
@@ -200,6 +203,7 @@ public:
         tm223fzBeg->setObjectName(QStringLiteral("tm223fzBeg"));
         tm223fzBeg->setGeometry(QRect(115, 9, 80, 20));
         tm223fzBeg->setMinimumSize(QSize(80, 0));
+        tm223fzBeg->setDateTime(QDateTime(QDate(2017, 3, 13), QTime(0, 0, 0)));
         chkDis223fz = new QCheckBox(widget_4);
         chkDis223fz->setObjectName(QStringLiteral("chkDis223fz"));
         chkDis223fz->setGeometry(QRect(9, 10, 59, 17));
@@ -207,6 +211,7 @@ public:
         tm223fzEnd->setObjectName(QStringLiteral("tm223fzEnd"));
         tm223fzEnd->setGeometry(QRect(262, 9, 80, 20));
         tm223fzEnd->setMinimumSize(QSize(80, 0));
+        tm223fzEnd->setDateTime(QDateTime(QDate(2017, 3, 17), QTime(0, 0, 0)));
         dir223fz = new QLineEdit(widget_4);
         dir223fz->setObjectName(QStringLiteral("dir223fz"));
         dir223fz->setGeometry(QRect(60, 40, 471, 20));
@@ -222,9 +227,9 @@ public:
         btnTm223fz_2 = new QPushButton(widget_4);
         btnTm223fz_2->setObjectName(QStringLiteral("btnTm223fz_2"));
         btnTm223fz_2->setGeometry(QRect(340, 7, 21, 23));
-        pushButton_3 = new QPushButton(widget_4);
-        pushButton_3->setObjectName(QStringLiteral("pushButton_3"));
-        pushButton_3->setGeometry(QRect(580, 10, 75, 23));
+        btn223fzDishonRegions = new QPushButton(widget_4);
+        btn223fzDishonRegions->setObjectName(QStringLiteral("btn223fzDishonRegions"));
+        btn223fzDishonRegions->setGeometry(QRect(580, 10, 75, 23));
         label_13 = new QLabel(widget);
         label_13->setObjectName(QStringLiteral("label_13"));
         label_13->setGeometry(QRect(120, 200, 171, 16));
@@ -279,44 +284,44 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "MainWindow", Q_NULLPTR));
-        pushButton->setText(QApplication::translate("MainWindow", "download", Q_NULLPTR));
-        label_2->setText(QApplication::translate("MainWindow", "       \321\201", Q_NULLPTR));
-        label_3->setText(QApplication::translate("MainWindow", "     \320\277\320\276", Q_NULLPTR));
-        chkTand223fz->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", Q_NULLPTR));
-        label->setText(QApplication::translate("MainWindow", "\320\270\320\275\320\275", Q_NULLPTR));
-        lineEdit->setText(QApplication::translate("MainWindow", "7707083893", Q_NULLPTR));
-        label_4->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", Q_NULLPTR));
-        btn223fzTendPath->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "MainWindow", 0));
+        pushButton->setText(QApplication::translate("MainWindow", "download", 0));
+        label_2->setText(QApplication::translate("MainWindow", "       \321\201", 0));
+        label_3->setText(QApplication::translate("MainWindow", "     \320\277\320\276", 0));
+        chkTand223fz->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", 0));
+        label->setText(QApplication::translate("MainWindow", "\320\270\320\275\320\275", 0));
+        lineEdit->setText(QApplication::translate("MainWindow", "7707083893", 0));
+        label_4->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", 0));
+        btn223fzTendPath->setText(QApplication::translate("MainWindow", "...", 0));
         btnTmTend223fz->setText(QString());
         btnTmTend223fz_2->setText(QString());
-        pushButton_2->setText(QApplication::translate("MainWindow", "\321\200\320\265\320\263\320\270\320\276\320\275\321\213", Q_NULLPTR));
-        label_5->setText(QApplication::translate("MainWindow", "       \321\201", Q_NULLPTR));
-        label_6->setText(QApplication::translate("MainWindow", "     \320\277\320\276", Q_NULLPTR));
-        chkTand44fz->setText(QApplication::translate("MainWindow", "44-\320\244\320\227", Q_NULLPTR));
-        label_7->setText(QApplication::translate("MainWindow", "\320\270\320\275\320\275", Q_NULLPTR));
-        lineEdit_3->setText(QApplication::translate("MainWindow", "7707083893", Q_NULLPTR));
-        label_8->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", Q_NULLPTR));
-        btn44fzTendPath->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        btn223fzNotifRegions->setText(QApplication::translate("MainWindow", "\321\200\320\265\320\263\320\270\320\276\320\275\321\213", 0));
+        label_5->setText(QApplication::translate("MainWindow", "       \321\201", 0));
+        label_6->setText(QApplication::translate("MainWindow", "     \320\277\320\276", 0));
+        chkTand44fz->setText(QApplication::translate("MainWindow", "44-\320\244\320\227", 0));
+        label_7->setText(QApplication::translate("MainWindow", "\320\270\320\275\320\275", 0));
+        lineEdit_3->setText(QApplication::translate("MainWindow", "7707083893", 0));
+        label_8->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", 0));
+        btn44fzTendPath->setText(QApplication::translate("MainWindow", "...", 0));
         btnTmTend44fz_2->setText(QString());
         btnTmTend44fz->setText(QString());
-        label_9->setText(QApplication::translate("MainWindow", "       \321\201", Q_NULLPTR));
-        label_10->setText(QApplication::translate("MainWindow", "     \320\277\320\276", Q_NULLPTR));
-        chkDis223fz->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", Q_NULLPTR));
-        label_12->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", Q_NULLPTR));
-        btn223fzPath->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        label_9->setText(QApplication::translate("MainWindow", "       \321\201", 0));
+        label_10->setText(QApplication::translate("MainWindow", "     \320\277\320\276", 0));
+        chkDis223fz->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", 0));
+        label_12->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", 0));
+        btn223fzPath->setText(QApplication::translate("MainWindow", "...", 0));
         btnTm223fz->setText(QString());
         btnTm223fz_2->setText(QString());
-        pushButton_3->setText(QApplication::translate("MainWindow", "\321\200\320\265\320\263\320\270\320\276\320\275\321\213", Q_NULLPTR));
-        label_13->setText(QApplication::translate("MainWindow", "\320\275\320\265\320\264\320\276\320\261\321\200\320\276\321\201\320\276\320\262\320\265\321\201\321\202\320\275\321\213\320\265 \320\277\320\276\321\201\321\202\320\260\320\262\321\211\320\270\320\272\320\270", Q_NULLPTR));
-        label_14->setText(QApplication::translate("MainWindow", "       \321\201", Q_NULLPTR));
-        label_15->setText(QApplication::translate("MainWindow", "     \320\277\320\276", Q_NULLPTR));
-        chkDis44fz->setText(QApplication::translate("MainWindow", "44-\320\244\320\227", Q_NULLPTR));
-        label_17->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", Q_NULLPTR));
-        btn44fzPath->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        btn223fzDishonRegions->setText(QApplication::translate("MainWindow", "\321\200\320\265\320\263\320\270\320\276\320\275\321\213", 0));
+        label_13->setText(QApplication::translate("MainWindow", "\320\275\320\265\320\264\320\276\320\261\321\200\320\276\321\201\320\276\320\262\320\265\321\201\321\202\320\275\321\213\320\265 \320\277\320\276\321\201\321\202\320\260\320\262\321\211\320\270\320\272\320\270", 0));
+        label_14->setText(QApplication::translate("MainWindow", "       \321\201", 0));
+        label_15->setText(QApplication::translate("MainWindow", "     \320\277\320\276", 0));
+        chkDis44fz->setText(QApplication::translate("MainWindow", "44-\320\244\320\227", 0));
+        label_17->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", 0));
+        btn44fzPath->setText(QApplication::translate("MainWindow", "...", 0));
         btnTm44fz->setText(QString());
         btnTm44fz_2->setText(QString());
-        label_11->setText(QApplication::translate("MainWindow", "\321\202\320\265\320\275\320\264\320\265\321\200\321\213", Q_NULLPTR));
+        label_11->setText(QApplication::translate("MainWindow", "\321\202\320\265\320\275\320\264\320\265\321\200\321\213", 0));
     } // retranslateUi
 
 };

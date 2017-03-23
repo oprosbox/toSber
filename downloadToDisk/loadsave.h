@@ -20,6 +20,7 @@ public:
   void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,int flgClear);
   void startUnpack(QStringList listPathZip);//добавляет на обработку список zip и формирует в папке pathTo конечный список
   void fromDirToEnd(QStringList strList);//обрабатывает существующие директории
+  void setUnpack(QStringList listPathZip);
 public slots:
   void  delObjThreads(int id);
   void  formListFiles(QStringList);

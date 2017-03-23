@@ -2,33 +2,14 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QFileDialog>
-#include <QCalendarWidget>
-#include "loadsave.h"
+#include "interface.h"
 
 namespace Ui {
 class MainWindow;
-}
-class WMainInterf : public QObject
-{
-    Q_OBJECT
-public:
-    WMainInterf();
 
-public slots:
- void getPath(void);
- void getDateBeg();
- void getDateEnd();
- void closeDateBeg(QDate);
- void closeDateEnd(QDate);
-signals:
-  void setPath(QString path);
-  void setDateBeg(QDate);
-  void setDateEnd(QDate);
-protected:
-  QCalendarWidget *dialogBeg;
-  QCalendarWidget *dialogEnd;
-};
+}
+
+
 
 class MainWindow : public QMainWindow
 {
@@ -40,12 +21,13 @@ public:
 public slots:
   void getFunct(QStringList);
 protected:
-    WMainInterf *w223fzTendPath;
-    WMainInterf *w44fzTendPath;
-    WMainInterf *w223fzPath;
-    WMainInterf *w44fzPath;
+    wui::WMainInterf *w223fzTendPath;
+    wui::WMainInterf *w44fzTendPath;
+    wui::WMainInterf *w223fzPath;
+    wui::WMainInterf *w44fzPath;
 private:
     Ui::MainWindow *ui;
+    wui::WUI *headUi;
 };
 
 #endif // MAINWINDOW_H

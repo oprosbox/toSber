@@ -1,14 +1,13 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "findindom.h"
-#include <QDebug>
-#include <QTextStream>
-#include <interface.h>
 
-WFtpClient *ftpclnt;
-ftpload::WLoadFtp *loadFtp;
 
-wui::QWidgetRegion *widReg;
+//WFtpClient *ftpclnt;
+//ftpload::WLoadFtp *loadFtp;
+
+//wui::QWidgetRegion *widReg;
+
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -32,10 +31,25 @@ MainWindow::MainWindow(QWidget *parent) :
 //    findObj->createObj(listFrom,"G:/toSber/forBase223/to",listNameTeg,"7715038478");
 //    findObj->startThreads();
 
-    w223fzTendPath=new WMainInterf();
-    w44fzTendPath=new WMainInterf();
-    w223fzPath=new WMainInterf();
-    w44fzPath=new WMainInterf();
+    w223fzTendPath=new wui::WMainInterf();
+    w44fzTendPath=new wui::WMainInterf();
+    w223fzPath=new wui::WMainInterf();
+    w44fzPath=new wui::WMainInterf();
+
+    headUi=new wui::WUI;
+    headUi->btn223fzDish=ui->btn223fzDishonRegions;
+    headUi->btn223fzNotif=ui->btn223fzNotifRegions;
+    headUi->btnDownloadStart=ui->pushButton;
+    headUi->chk223fzNotif=ui->chkTand223fz;
+    headUi->chk223fzDishon=ui->chkDis223fz;
+    headUi->edt223fzNotif=ui->dirTand223fz;
+    headUi->edt223fzDishon=ui->dir223fz;
+    headUi->tm223fzNotifBeg=ui->tm223fzTendBeg;
+    headUi->tm223fzNotifEnd=ui->tm223fzTendEnd;
+    headUi->tm223fzDishonBeg=ui->tm223fzBeg;
+    headUi->tm223fzDishonEnd=ui->tm223fzEnd;
+    headUi->edt223fzInn=ui->lineEdit;
+    headUi->createInterf();
 
 //    loadFtp=new ftpload::WLoadFtp;
 //    ftpload::SInputFtp input;
@@ -62,7 +76,7 @@ MainWindow::MainWindow(QWidget *parent) :
     //QStringList regions;
     //obj.getRegions(regions);
 
-    connect(ui->pushButton,SIGNAL(clicked()),loadFtp,SLOT(download()));
+    //connect(ui->pushButton,SIGNAL(clicked()),loadFtp,SLOT(download()));
 
     //ftpclnt=new WFtpClient;
     //ftpclnt->connectServ("ftp.zakupki.gov.ru","fz223free","fz223free");
@@ -134,48 +148,4 @@ void MainWindow::getFunct(QStringList list)
   int i=0;*/
 }
 
-void WMainInterf::getPath(void)
-{
-  QFileDialog dialog;
-  QString path;
-  path=dialog.getExistingDirectory(0,"",QApplication::applicationDirPath());//0,"",QApplication::applicationDirPath(),"");
-  if (path=="")return;
-  emit setPath(path);
-}
 
-void WMainInterf::getDateEnd()
-{
-
-  dialogEnd=new QCalendarWidget();
-  dialogEnd->setSelectedDate(QDate::currentDate());
-  connect(dialogEnd,SIGNAL(activated(QDate)),this,SLOT(closeDateEnd(QDate)));
-  dialogEnd->show();
-}
-
-void WMainInterf::closeDateBeg(QDate date)
-{
-
-emit setDateBeg(date);
-     delete dialogBeg;
-
-}
-
-void WMainInterf::getDateBeg()
-{
-
-   dialogBeg=new QCalendarWidget();
-   dialogBeg->setSelectedDate(QDate::currentDate());
-   connect(dialogBeg,SIGNAL(activated(QDate)),this,SLOT(closeDateBeg(QDate)));
-   dialogBeg->show();
-}
-
-void WMainInterf::closeDateEnd(QDate date)
-{
-
-emit setDateEnd(date);
-      delete dialogEnd;
-}
-
- WMainInterf::WMainInterf()
- {
-  }
