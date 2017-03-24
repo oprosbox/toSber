@@ -291,6 +291,7 @@ public:
         chkTand223fz->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", 0));
         label->setText(QApplication::translate("MainWindow", "\320\270\320\275\320\275", 0));
         lineEdit->setText(QApplication::translate("MainWindow", "7707083893", 0));
+        dirTand223fz->setText(QApplication::translate("MainWindow", "F:/programsQt/toSber/downloadToDisk/debug/temp", 0));
         label_4->setText(QApplication::translate("MainWindow", "\320\272\321\203\320\264\320\260", 0));
         btn223fzTendPath->setText(QApplication::translate("MainWindow", "...", 0));
         btnTmTend223fz->setText(QString());

@@ -36,6 +36,12 @@ MainWindow::MainWindow(QWidget *parent) :
     w223fzPath=new wui::WMainInterf();
     w44fzPath=new wui::WMainInterf();
 
+  // WNetworkFtp ftp;
+  // ftp.createFtp("ftp://fz223free:fz223free@ftp.zakupki.gov.ru/out/published/Moskva/purchaseNoticeZK/daily");
+  // ftp.getFile("purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip",QApplication::applicationDirPath()+"/"+"purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip");
+  //  int i=0;
+  //purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip
+
     headUi=new wui::WUI;
     headUi->btn223fzDish=ui->btn223fzDishonRegions;
     headUi->btn223fzNotif=ui->btn223fzNotifRegions;
