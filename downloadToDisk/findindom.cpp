@@ -7,7 +7,7 @@
 namespace ndom{
 
   //рекурсивная функция проверяет путь вложения list, элемент с которого начинается проверка на вложение считается последним в списке list
-static bool controlNode(const QDomNode &controls,QStringList &list,int i)
+bool controlNode(const QDomNode &controls,QStringList &list,int i)
   { --i;
     if(i==-1)return true;
     QString name=controls.nodeName();
@@ -20,7 +20,7 @@ static bool controlNode(const QDomNode &controls,QStringList &list,int i)
 
 
 
-static bool removePath(const QString &path)
+bool removePath(const QString &path)
   {
       bool result = true;
       QFileInfo info(path);
@@ -212,7 +212,7 @@ void WFind::startThreads()
 countThr=threadsWork;
 for(int i=0;i<threadsWork;i++)
 {
-  listThr.at(i)->start();
+  listThr.at(i)->run();
 }
 }
 //----------------------------------------------------------------------------------------------

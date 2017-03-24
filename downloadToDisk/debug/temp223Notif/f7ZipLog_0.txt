@@ -1,0 +1,503 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170102_000000_20170102_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170102_000000_20170102_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170103_000000_20170103_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170103_000000_20170103_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3007 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170109_000000_20170109_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170109_000000_20170109_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3007
+
+Everything is Ok
+
+Size:       11515
+Compressed: 3007
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2958 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170111_000000_20170111_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170111_000000_20170111_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2958
+
+Everything is Ok
+
+Size:       11400
+Compressed: 2958
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3035 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170111_000000_20170111_235959_daily_002.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170111_000000_20170111_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 3035
+
+Everything is Ok
+
+Size:       11527
+Compressed: 3035
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2945 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170112_000000_20170112_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170112_000000_20170112_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2945
+
+Everything is Ok
+
+Size:       11504
+Compressed: 2945
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3033 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170112_000000_20170112_235959_daily_002.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170112_000000_20170112_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 3033
+
+Everything is Ok
+
+Size:       12425
+Compressed: 3033
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2918 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170116_000000_20170116_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170116_000000_20170116_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2918
+
+Everything is Ok
+
+Size:       11521
+Compressed: 2918
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5638 bytes (6 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170117_000000_20170117_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170117_000000_20170117_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5638
+
+Everything is Ok
+
+Files: 2
+Size:       22309
+Compressed: 5638
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3046 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170120_000000_20170120_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170120_000000_20170120_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3046
+
+Everything is Ok
+
+Size:       12425
+Compressed: 3046
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3170 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170123_000000_20170123_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170123_000000_20170123_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3170
+
+Everything is Ok
+
+Size:       12523
+Compressed: 3170
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9249 bytes (10 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170124_000000_20170124_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170124_000000_20170124_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9249
+
+Everything is Ok
+
+Files: 3
+Size:       36463
+Compressed: 9249
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170125_000000_20170125_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170125_000000_20170125_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3166 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170126_000000_20170126_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170126_000000_20170126_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3166
+
+Everything is Ok
+
+Size:       12431
+Compressed: 3166
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2913 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170130_000000_20170130_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170130_000000_20170130_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2913
+
+Everything is Ok
+
+Size:       11963
+Compressed: 2913
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6080 bytes (6 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170131_000000_20170131_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170131_000000_20170131_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6080
+
+Everything is Ok
+
+Files: 2
+Size:       24043
+Compressed: 6080
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4509 bytes (5 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170201_000000_20170201_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170201_000000_20170201_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4509
+
+Everything is Ok
+
+Size:       28623
+Compressed: 4509
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6244 bytes (7 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170203_000000_20170203_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170203_000000_20170203_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6244
+
+Everything is Ok
+
+Files: 2
+Size:       24502
+Compressed: 6244
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3106 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170207_000000_20170207_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170207_000000_20170207_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3106
+
+Everything is Ok
+
+Size:       12092
+Compressed: 3106
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3101 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170210_000000_20170210_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170210_000000_20170210_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3101
+
+Everything is Ok
+
+Size:       11943
+Compressed: 3101
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6312 bytes (7 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170210_000000_20170210_235959_daily_002.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170210_000000_20170210_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 6312
+
+Everything is Ok
+
+Files: 2
+Size:       23995
+Compressed: 6312
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3134 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170215_000000_20170215_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170215_000000_20170215_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3134
+
+Everything is Ok
+
+Size:       12212
+Compressed: 3134
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7345 bytes (8 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170216_000000_20170216_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170216_000000_20170216_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7345
+
+Everything is Ok
+
+Files: 2
+Size:       37321
+Compressed: 7345
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3169 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170228_000000_20170228_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170228_000000_20170228_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3169
+
+Everything is Ok
+
+Size:       12152
+Compressed: 3169
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3073 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170306_000000_20170306_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170306_000000_20170306_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3073
+
+Everything is Ok
+
+Size:       12609
+Compressed: 3073
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3230 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170309_000000_20170309_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170309_000000_20170309_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3230
+
+Everything is Ok
+
+Size:       12916
+Compressed: 3230
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3070 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170310_000000_20170310_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170310_000000_20170310_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3070
+
+Everything is Ok
+
+Size:       12628
+Compressed: 3070
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2950 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170314_000000_20170314_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170314_000000_20170314_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2950
+
+Everything is Ok
+
+Size:       12240
+Compressed: 2950
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3190 bytes (4 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3190
+
+Everything is Ok
+
+Size:       12321
+Compressed: 3190
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18307 bytes (18 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18307
+
+Everything is Ok
+
+Files: 6
+Size:       73944
+Compressed: 18307
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3035 bytes (3 KiB)
+
+Extracting archive: F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = F:\programsQt\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3035
+
+Everything is Ok
+
+Size:       11610
+Compressed: 3035

@@ -24,6 +24,23 @@ void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFin
   initObj(QApplication::applicationDirPath()+"/7-Zip/7z.exe",dirUnpack);
 }
 //------------------------------------------------------------------------------------------------
+void WLoadZip::startUnpackFind(QStringList listPathZip)//добавляет на обработку только список zip
+{
+QString dirFromLoad=tempDir;
+dirFromLoad.replace("/","\\");
+QString dirUnpackTo;
+QStringList listDir;
+for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
+  {
+   dirUnpackTo=*it;
+   dirUnpackTo.replace(dirUnpackTo.lastIndexOf(".zip"),4,"");
+   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad+"\\"+dirUnpackTo,id,flgClearAll);
+   listDir.push_back(tempDir+"/"+dirUnpackTo);
+  }
+
+fromDirToEnd(listDir);
+}
+
 void WLoadZip::startUnpack(QStringList listPathZip)//добавляет на обработку только список zip
 {
 QString dirFromLoad=tempDir;
@@ -32,16 +49,20 @@ QString dirUnpackTo;
 QStringList listDir;
 for(auto it=listPathZip.begin();it!=listPathZip.end();it++)
   {
-    dirUnpackTo=*it;
-    dirUnpackTo.replace(dirUnpackTo.lastIndexOf(".zip"),4,"");
-   unpackZip(dirFromLoad+"\\"+*it,dirFromLoad+"\\"+dirUnpackTo,id,flgClearAll);
+   unpackZip(dirFromLoad+"\\"+*it,pathToEnd,id,flgClearAll);
    listDir.push_back(tempDir+"/"+dirUnpackTo);
   }
-
-if(flgClearAll<CDELARHNOPROCESS)
-    fromDirToEnd(listDir);
-else{emit allObjectsStop(id);}
+emit allObjectsStop(id);
 }
+
+//------------------------------------------------------------------------------------------------
+void WLoadZip::startUnpackWork(QStringList listPathZip)//добавляет на обработку только список zip
+{
+ if(CDELARHNOPROCESS==flgClearAll)
+     {startUnpack(listPathZip);}
+              else{startUnpackFind(listPathZip);}
+}
+
 //-------------------------------------------------------------------------------------------------
 void  WLoadZip::formListFiles(QStringList listFiles)
 {
@@ -75,7 +96,7 @@ void  WLoadZip::delObjThreads(int idLocal)
 //--------------------------------------------------------------------------------------------------
 WLoadFtp::WLoadFtp()
 {
-  client=new WFtpClient;
+  client=new WNetFtpClient;
 }
 //--------------------------------------------------------------------------------------------------
 WLoadFtp::~WLoadFtp()
@@ -89,24 +110,27 @@ WLoadFtp::~WLoadFtp()
 int WLoadFtp::createFtp(SInputFtp inputFtp)
 {
   params=inputFtp;
-  client->setStFilter(params.stFilt);
+
+  client->ftpFiles.setStFilter(params.stFilt);
+
   countId=0;
-  connect(client,SIGNAL(finishedList(QStringList,QStringList)),this,SLOT(nextLoad(QStringList,QStringList)));
-  int conn=client->connectServ(params.url,params.login,params.password);
-  if(conn!=-1)client->cd(params.urlPath);
-  return conn;
+  connect(client,SIGNAL(downStop(int,int,QStringList)),this,SLOT(nextLoad(int,int,QStringList)));
+ // int conn=client->connectServ(params.url,params.login,params.password);
+  client->createFtp(params.url,params.login,params.password,params.urlPath,params.pathTemp);
+ // if(conn!=-1)client->cd(params.urlPath);
+  return 0;
 }
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
 {flgDownloadsAll=false;
 it=params.urlList.begin();
 client->cd(*it);
-client->readFilesPosledov(params.pathTemp);
+client->getList();
 }
 //------------------------------------------------------------------------------------------------
-void  WLoadFtp::nextLoad(QStringList listGet,QStringList errors)
+void  WLoadFtp::nextLoad(int id,int err,QStringList listGet)
 {
-  emit getDownloadFiles(listGet,errors);
+  emit getDownloadFiles(err,listGet);
   WLoadZipThread *zip=new WLoadZipThread;
   zip->LoadZip=new WLoadZip;
   zip->LoadZip->createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
@@ -123,8 +147,8 @@ void  WLoadFtp::nextLoad(QStringList listGet,QStringList errors)
 
  if(it!=params.urlList.end())
    {client->cd(*it);
-    client->readFilesPosledov(params.pathTemp);}
- else{emit allFilesDownload(id);
+    client->getList();}
+  else{emit allFilesDownload(id);
       flgDownloadsAll=true;}
 
 }
