@@ -43,12 +43,12 @@ protected:
 };
 //-------------------------------------------------------------------------------------------------
 class WLoadZipThread:public QThread
-{
+{Q_OBJECT
  public:
-  ~WLoadZipThread(){terminate();delete LoadZip;}
-  WLoadZip *LoadZip;
+ WLoadZipThread(){ LoadZip.moveToThread(this);}
+  WLoadZip LoadZip;
   QStringList listPathZip;
- void run(){LoadZip->startUnpackWork(listPathZip);}
+ void run(){LoadZip.startUnpackWork(listPathZip);}
 };
 //--------------------------------------------------------------------------------------------------
 struct SInputFtp
@@ -75,7 +75,8 @@ public:
   int id;
 public slots:
   void download();
-  void nextLoad(int,int,QStringList files);
+  void endLoad(void);
+  void nextUnpack(int,QStringList files);
   void getProcessFiles(QStringList procFiles){sProcessFiles(procFiles);}
   void delObjectThatStop(int id);
 signals:

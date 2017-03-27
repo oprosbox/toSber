@@ -9,56 +9,96 @@
 #include <QEventLoop>
 #include <QNetworkReply>
 #include <QThread>
+#include <QTimer>
+#include <list>
+#include <algorithm>
+#include <iterator>
 
 #define CLOADFILES 1
 #define CLOADCURRFILE 2
 #define CLOADCURRDIR 3
 #define CLOADLIST 4
 
+class WNetworkFtp;
+
 struct SFilterStr
 {
 QDateTime dateBegin;
 QDateTime dateEnd;
 };
-
+//-----------------------------------------------------------------------------------------------
 class WFtpFilter
 {public:
  bool filter(QString urlFileName);
 protected:
   SFilterStr stFilter;
 };
+//------------------------------------------------------------------------------------------------
+struct SDownloads
+{
+  QNetworkReply *reply;
+  QString path;
+};
+//---------------------------------------------------------------------------------------------------
+class PDel
+{public:
+    PDel(QNetworkReply *reply){downl=reply;}
+ bool operator ()(SDownloads &man1)
+{if(downl->objectName()==man1.reply->objectName())
+     {return true;}
+ return false ;
+ }
+ protected:
+    QNetworkReply * downl;
+};
 
+class WTimerControl:public QThread
+{
+public:
+    WNetworkFtp* ftp;
+    bool flagWork;
+    bool flagControl;
+    int countRefresh;
+    int countPrev;
+    void run();
+
+};
+
+//---------------------------------------------------------------------------------------------------
 class WNetworkFtp:public QObject
 {Q_OBJECT
 public:
-  void createFtp(QString url);
-
-  int getFile(QString urlFile, QString out);
-  int getFiles(QStringList urlFileIn, QString outDir,QStringList &urlFileOut);
-  QNetworkAccessManager  manager;
-  QEventLoop    loop;
+    WNetworkFtp();
+    ~WNetworkFtp();
+  void createFtp(QString out);
+  int getFile(SDownloads &urlFile);
+  int getFiles(void);
+  void start(QStringList &urlToGet);
+  void abortAll();
   public slots:
   void finishRequest(QNetworkReply *in);
+  void errors(QNetworkReply::NetworkError);
+  void downloadProgress(qint64 recv,qint64 total);
+  void finished(QNetworkReply* reply);
+  void functTimer(void);
+  void startNext();
+signals:
+ void emit10Obj(int err,QStringList listGet);
+ void allDownloads();
+ void errorEmit();
+ //void downlProgress(QString,qint64,qint64);
 protected:
   QNetworkReply * reply;
-  QString urlBegin;
+  QString outDir;
+  QNetworkAccessManager  *manager;
+  QEventLoop    *loop;
+  QStringList urlToGetLocal;
+  std::list<SDownloads> listDownloads;
+  QStringList currNames;
+  QTimer *timer;
+  WTimerControl control;
+  int countErr;
 };
-//--------------------------------------------------------------------------------------------------
-class WNetworkFtpThread:public QThread
-{ Q_OBJECT
-public:
-  WNetworkFtpThread(){ftp.manager.moveToThread(this);
-                      ftp.loop.moveToThread(this);}
-  int id;
-  WNetworkFtp ftp;
-  QStringList urlToGet;
-  QString dirSave;
-  void run();
- public slots:
- signals:
-  void allStoped(int id,int err,QStringList listGet);
-};
-
 //----------------------------------------------------------------------------------------------------
 class WFtpClient:public QObject,protected WFtpFilter
 {Q_OBJECT
@@ -80,12 +120,14 @@ public slots:
   void doneURLInfo(QUrlInfo urlInfo);//слот получает список всех файлов
   void ftpConnected(int id,bool hasError);//проверка на ошибки ftp;
   void commFinish(int id,bool hasBed);//окончание комманды
+
 signals:
-  void sendError(QString);//невозможно создать файл
-  void sFiles(QStringList);
+  void sendError(int,QString);//невозможно создать файл
+  void sFiles(int err,QStringList);
   void finished(QStringList);
   void finishedList(QStringList,QStringList);
   void errorTo();
+
 protected:
 //QFtp *ftpLiders;
 QList<QFile*> openedFiles;
@@ -112,17 +154,54 @@ public:
   void destroyFtp(void);
   void getList(void);
   void cd(QString path);
+  void getList(QStringList dirList,int count);
   WFtpClient ftpFiles;
-  WNetworkFtpThread *ftpGet;
+  WNetworkFtp *ftpGet;
 public slots:
   void start(QStringList);
-  void downloadStop(int id, int err,QStringList list){emit downStop(id,err,list);}
+  void getListFrom(int err,QStringList);
+  void downloadStop( int err,QStringList list){emit downStop(err,list);}
+  void downloadTen(int err,QStringList list){emit downlTen(err,list);}
+  void startLoad(void){start(toNetList);}
+  void getError(int error,QString errorText);
+  void downloadProgress(QString,qint64,qint64);
+   void endDownloads(){emit endDownload();}
 signals:
-   void downStop(int, int,QStringList);
+   void downStop(int,QStringList);
+   void downlTen(int,QStringList);
+   void endFormList(void);
+   void endDownload(void);
 protected:
   QString toNet;
+  QString tempCd;
+  QStringList toNetList;
   QString dirForSave;
-
+  QStringList::iterator itDirList;
+  QStringList dirListBig;
+  int countBack;
 };
 
+
+////--------------------------------------------------------------------------------------------------
+//class WNetworkFtpThread:public QObject//:public QThread
+//{ Q_OBJECT
+//public:
+//  WNetworkFtpThread(){ftp=new WNetworkFtp;
+//                      //ftp->moveToThread(this);
+//                      //ftp->manager->moveToThread(this);
+//                      //ftp->loop->moveToThread(this);
+//                      //ftp->setParent(this);
+//                      }
+//  int id;
+//  WNetworkFtp *ftp;
+//  QStringList urlToGet;
+//  //QString dirSave;
+
+// public slots:
+
+// signals:
+//  //void emit10Obj(int id,int err,QStringList listGet);
+//  void allStoped(int err,QStringList listGet);
+
+//};
 #endif // FTPCLIENT_H

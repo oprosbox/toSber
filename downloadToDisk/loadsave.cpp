@@ -88,7 +88,9 @@ void  WLoadZip::delObjThreads(int idLocal)
   if(countObj<1)
     {for(auto it=listThread.begin();it!=listThread.end();it++)
         {
-         if((*it)->id==idLocal){listThread.erase(it);break;}
+         if((*it)->id==idLocal){(*it)->deleteLater();
+                                listThread.erase(it);
+                                break;}
         }
       emit allObjectsStop(id);
        }
@@ -114,50 +116,44 @@ int WLoadFtp::createFtp(SInputFtp inputFtp)
   client->ftpFiles.setStFilter(params.stFilt);
 
   countId=0;
-  connect(client,SIGNAL(downStop(int,int,QStringList)),this,SLOT(nextLoad(int,int,QStringList)));
- // int conn=client->connectServ(params.url,params.login,params.password);
+  connect(client,SIGNAL(endDownload()),this,SLOT(endLoad()));
+  connect(client,SIGNAL(downlTen(int,QStringList)),this,SLOT(nextUnpack(int,QStringList)));
   client->createFtp(params.url,params.login,params.password,params.urlPath,params.pathTemp);
- // if(conn!=-1)client->cd(params.urlPath);
+
   return 0;
 }
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
 {flgDownloadsAll=false;
-it=params.urlList.begin();
-client->cd(*it);
-client->getList();
+client->getList(params.urlList,params.countToExitDirUrl);
 }
-//------------------------------------------------------------------------------------------------
-void  WLoadFtp::nextLoad(int id,int err,QStringList listGet)
+
+void WLoadFtp::nextUnpack(int err,QStringList listGet)
 {
-  emit getDownloadFiles(err,listGet);
-  WLoadZipThread *zip=new WLoadZipThread;
-  zip->LoadZip=new WLoadZip;
-  zip->LoadZip->createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
-  ++countId;
-  connect(zip->LoadZip,SIGNAL(signAddFiles(QStringList)),this,SLOT(getProcessFiles(QStringList)));
-  connect(zip->LoadZip,SIGNAL(allObjectsStop(int)),this,SLOT(delObjectThatStop(int)));
-  zip->listPathZip=listGet;
-  fromZip.push_back(zip);
-  zip->start();
+    emit getDownloadFiles(err,listGet);
+    WLoadZipThread *zip=new WLoadZipThread;
 
-  for(int i=0;i<params.countToExitDirUrl;i++)
-  {client->cd("..");}
-   ++it;
+    zip->LoadZip.createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
+    ++countId;
+    connect(&zip->LoadZip,SIGNAL(signAddFiles(QStringList)),this,SLOT(getProcessFiles(QStringList)));
+    connect(&zip->LoadZip,SIGNAL(allObjectsStop(int)),this,SLOT(delObjectThatStop(int)));
+    zip->listPathZip=listGet;
+    fromZip.push_back(zip);
+    zip->start();
+}
 
- if(it!=params.urlList.end())
-   {client->cd(*it);
-    client->getList();}
-  else{emit allFilesDownload(id);
-      flgDownloadsAll=true;}
+//------------------------------------------------------------------------------------------------
+void  WLoadFtp::endLoad(void)
+{
+     emit allFilesDownload(id);
 
 }
 //---------------------------------------------------------------------------------------------------
 void WLoadFtp::delObjectThatStop(int idLocal)
 {
   for(auto i=fromZip.begin();i!=fromZip.end();i++)
-  {if((*i)->LoadZip->id==idLocal)
-        {delete *i;
+  {if((*i)->LoadZip.id==idLocal)
+        {(*i)->deleteLater();
          fromZip.erase(i);
          break;}
   }

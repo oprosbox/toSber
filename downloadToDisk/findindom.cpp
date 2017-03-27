@@ -160,6 +160,8 @@ void WFindThr::run()
     emit findFiles(listFilesFind);
   }
   emit threadStop(id);
+  delete findInDom;
+  this->deleteLater();
 }
 //----------------------------------------------------------------------------------------------
 void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val,bool flgClearAll)
@@ -200,7 +202,7 @@ void WFind::destroyObj()
     for(int i=0;i<threadsWork;i++)
     {
      delete listThr.at(i)->findInDom;
-     delete listThr.at(i);
+      listThr.at(i)->deleteLater();
     }
    threadsWork=0;
    countThr=0;
@@ -212,7 +214,7 @@ void WFind::startThreads()
 countThr=threadsWork;
 for(int i=0;i<threadsWork;i++)
 {
-  listThr.at(i)->run();
+  listThr.at(i)->start();
 }
 }
 //----------------------------------------------------------------------------------------------

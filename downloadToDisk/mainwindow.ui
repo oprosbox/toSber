@@ -178,7 +178,7 @@
        </rect>
       </property>
       <property name="text">
-       <string>F:/programsQt/toSber/downloadToDisk/debug/temp</string>
+       <string>G:/toSber/downloadToDisk/debug/new</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_4">
