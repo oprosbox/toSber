@@ -174,7 +174,7 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
     inpFtp.pathTo=dirToReport;
     inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Notif";
     //inpFtp.tegPathFind.push_back("customer");
-    inpFtp.tegPathFind.push_back("mainInfo");
+    //inpFtp.tegPathFind.push_back("mainInfo");
     inpFtp.tegPathFind.push_back("inn");
     inpFtp.val=inn;
     inpFtp.urlPath="out/published";
