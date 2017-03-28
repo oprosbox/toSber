@@ -229,7 +229,7 @@ int ftpload::WLoadZipThread::qt_metacall(QMetaObject::Call _c, int _id, void **_
 }
 struct qt_meta_stringdata_ftpload__WLoadFtp_t {
     QByteArrayData data[15];
-    char stringdata0[168];
+    char stringdata0[164];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -239,23 +239,23 @@ struct qt_meta_stringdata_ftpload__WLoadFtp_t {
 static const qt_meta_stringdata_ftpload__WLoadFtp_t qt_meta_stringdata_ftpload__WLoadFtp = {
     {
 QT_MOC_LITERAL(0, 0, 17), // "ftpload::WLoadFtp"
-QT_MOC_LITERAL(1, 18, 13), // "sProcessFiles"
-QT_MOC_LITERAL(2, 32, 0), // ""
-QT_MOC_LITERAL(3, 33, 16), // "getDownloadFiles"
-QT_MOC_LITERAL(4, 50, 3), // "err"
-QT_MOC_LITERAL(5, 54, 5), // "files"
-QT_MOC_LITERAL(6, 60, 16), // "allFilesDownload"
-QT_MOC_LITERAL(7, 77, 15), // "allFilesProcess"
-QT_MOC_LITERAL(8, 93, 8), // "download"
-QT_MOC_LITERAL(9, 102, 7), // "endLoad"
-QT_MOC_LITERAL(10, 110, 10), // "nextUnpack"
-QT_MOC_LITERAL(11, 121, 15), // "getProcessFiles"
-QT_MOC_LITERAL(12, 137, 9), // "procFiles"
-QT_MOC_LITERAL(13, 147, 17), // "delObjectThatStop"
-QT_MOC_LITERAL(14, 165, 2) // "id"
+QT_MOC_LITERAL(1, 18, 9), // "sGetFiles"
+QT_MOC_LITERAL(2, 28, 0), // ""
+QT_MOC_LITERAL(3, 29, 16), // "getDownloadFiles"
+QT_MOC_LITERAL(4, 46, 3), // "err"
+QT_MOC_LITERAL(5, 50, 5), // "files"
+QT_MOC_LITERAL(6, 56, 16), // "allFilesDownload"
+QT_MOC_LITERAL(7, 73, 15), // "allFilesProcess"
+QT_MOC_LITERAL(8, 89, 8), // "download"
+QT_MOC_LITERAL(9, 98, 7), // "endLoad"
+QT_MOC_LITERAL(10, 106, 10), // "nextUnpack"
+QT_MOC_LITERAL(11, 117, 15), // "getProcessFiles"
+QT_MOC_LITERAL(12, 133, 9), // "procFiles"
+QT_MOC_LITERAL(13, 143, 17), // "delObjectThatStop"
+QT_MOC_LITERAL(14, 161, 2) // "id"
 
     },
-    "ftpload::WLoadFtp\0sProcessFiles\0\0"
+    "ftpload::WLoadFtp\0sGetFiles\0\0"
     "getDownloadFiles\0err\0files\0allFilesDownload\0"
     "allFilesProcess\0download\0endLoad\0"
     "nextUnpack\0getProcessFiles\0procFiles\0"
@@ -311,7 +311,7 @@ void ftpload::WLoadFtp::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
         WLoadFtp *_t = static_cast<WLoadFtp *>(_o);
         Q_UNUSED(_t)
         switch (_id) {
-        case 0: _t->sProcessFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 0: _t->sGetFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
         case 1: _t->getDownloadFiles((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         case 2: _t->allFilesDownload((*reinterpret_cast< int(*)>(_a[1]))); break;
         case 3: _t->allFilesProcess((*reinterpret_cast< int(*)>(_a[1]))); break;
@@ -327,7 +327,7 @@ void ftpload::WLoadFtp::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
         void **func = reinterpret_cast<void **>(_a[1]);
         {
             typedef void (WLoadFtp::*_t)(QStringList );
-            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WLoadFtp::sProcessFiles)) {
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WLoadFtp::sGetFiles)) {
                 *result = 0;
                 return;
             }
@@ -393,7 +393,7 @@ int ftpload::WLoadFtp::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
 }
 
 // SIGNAL 0
-void ftpload::WLoadFtp::sProcessFiles(QStringList _t1)
+void ftpload::WLoadFtp::sGetFiles(QStringList _t1)
 {
     void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
     QMetaObject::activate(this, &staticMetaObject, 0, _a);

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeOK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>57c1e8a2-2319-4996-98a1-7b0fd274de7e</guid>
+        <createDateTime>2017-03-15T11:40:38</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>823c8268-0eb5-4689-a651-6cd8d17de7a8</guid>
+            <ns2:purchaseNoticeOKData>
+                <ns2:guid>823c8268-0eb5-4689-a651-6cd8d17de7a8</ns2:guid>
+                <ns2:createDateTime>2017-03-15T11:26:19</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5876985</ns2:urlOOS>
+                <ns2:registrationNumber>31704890768</ns2:registrationNumber>
+                <ns2:name>Поставка аудиторных моноблоков для лекционных аудиторий.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ ГРАЖДАНСКОЙ АВИАЦИИ" (МГТУ ГА)</fullName>
+                        <shortName>МГТУ ГА</shortName>
+                        <iko>87712029250774301001</iko>
+                        <inn>7712029250</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1027700116950</ogrn>
+                        <legalAddress>125993, Г МОСКВА, Б-Р КРОНШТАДТСКИЙ, дом ДОМ 20</legalAddress>
+                        <postalAddress>125993, Москва Город, Кронштадтский Бульвар, дом 20</postalAddress>
+                        <phone>7-499-4590701</phone>
+                        <fax>7-499-4590701</fax>
+                        <email>e.russakova@mstuca.aero</email>
+                        <okato>45277571000</okato>
+                        <okpo>01132212</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3359</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ ГРАЖДАНСКОЙ АВИАЦИИ" (МГТУ ГА)</fullName>
+                        <shortName>МГТУ ГА</shortName>
+                        <iko>87712029250774301001</iko>
+                        <inn>7712029250</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1027700116950</ogrn>
+                        <legalAddress>125993, Г МОСКВА, Б-Р КРОНШТАДТСКИЙ, дом ДОМ 20</legalAddress>
+                        <postalAddress>125993, Москва Город, Кронштадтский Бульвар, дом 20</postalAddress>
+                        <phone>7-499-4590701</phone>
+                        <fax>7-499-4590701</fax>
+                        <email>e.russakova@mstuca.aero</email>
+                        <okato>45277571000</okato>
+                        <okpo>01132212</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Татьяна</firstName>
+                    <middleName>Ивановна</middleName>
+                    <lastName>Алимова</lastName>
+                    <phone>+7 (499) 4590738</phone>
+                    <email>zakupki@mstuca.aero</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ ГРАЖДАНСКОЙ АВИАЦИИ" (МГТУ ГА)</fullName>
+                            <shortName>МГТУ ГА</shortName>
+                            <iko>87712029250774301001</iko>
+                            <inn>7712029250</inn>
+                            <kpp>774301001</kpp>
+                            <ogrn>1027700116950</ogrn>
+                            <legalAddress>125993, Г МОСКВА, Б-Р КРОНШТАДТСКИЙ, дом ДОМ 20</legalAddress>
+                            <postalAddress>125993, Москва Город, Кронштадтский Бульвар, дом 20</postalAddress>
+                            <phone>7-499-4590701</phone>
+                            <fax>7-499-4590701</fax>
+                            <email>e.russakova@mstuca.aero</email>
+                            <okato>45277571000</okato>
+                            <okpo>01132212</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-15T11:40:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-05</deliveryEndDateTime>
+                    <place>Конкурсная документация размещается в единой информационной системе (на официальном сайте) в электронном виде и доступна для любого заинтересованного лица без взимания платы.
+125993, г. Москва, Кронштадтский бульвар 20, каб. 404-Ц - адрес получения документации на бумажном носителе.</place>
+                    <procedure>Конкурсная документация предоставляется ежедневно (кроме субботы, воскресенья и праздничных дней, обеденного перерыва) в рабочие дни с 09:30 до 16:00, в пятницу с 09:30 до 15:00, в предпраздничные дни с 09:30 до 12:00. Обед с 12:30  до 13:30. (время московское).</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>1f5a7d46-4dba-44ad-9bb9-5733f3856173</guid>
+                        <createDateTime>2017-03-15T11:36:27</createDateTime>
+                        <fileName>Конкурсная документация.docx</fileName>
+                        <description>Конкурсная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30066977</url>
+                    </document>
+                    <document>
+                        <guid>91493f27-b8a7-4f1b-a1ea-35628df4c0ca</guid>
+                        <createDateTime>2017-03-15T11:36:17</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30066965</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-15T11:40:37</ns2:modificationDate>
+                <ns2:saveUserId>76839</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>53069f12-5ddc-4eef-b12f-850a648a6796</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка аудиторных моноблоков для лекционных аудиторий</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1600000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г. Москва,  Кронштадтский бульвар, дом 20, лекционные аудитории 19Р, 21Р.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b2b9d1ea-2afa-4f05-a1e5-eb436494c544</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>31.01.11.150</code>
+                                        <name>Мебель для сидения, преимущественно с металлическим каркасом</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>31.01</code>
+                                        <name>Производство мебели для офисов и предприятий торговли</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170228429</planRegistrationNumber>
+                            <planGuid>bb492472-e68d-420f-889e-b6f220400303</planGuid>
+                            <positionNumber>27</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4cf78659-10d2-4fda-932b-56fcad5f6440</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:examinationPlace> 125993, г. Москва, Кронштадтский бульвар, д. 20, каб. 409Г.</ns2:examinationPlace>
+                <ns2:examinationDateTime>2017-04-06T10:00:00</ns2:examinationDateTime>
+                <ns2:envelopeOpeningPlace>125993, г. Москва, Кронштадтский бульвар, д. 20, каб. 409Г.</ns2:envelopeOpeningPlace>
+                <ns2:envelopeOpeningTime>2017-04-05T10:00:00</ns2:envelopeOpeningTime>
+                <ns2:summingupPlace>125993, г. Москва, Кронштадтский бульвар, д. 20, каб. 409Г.</ns2:summingupPlace>
+                <ns2:summingupTime>2017-04-07T10:00:00</ns2:summingupTime>
+                <ns2:submissionCloseDateTime>2017-04-05T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-15</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeOKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeOK>

@@ -14,4 +14,5 @@ INPUT(
 ./debug\moc_ftpclient.o
 ./debug\moc_loadsave.o
 ./debug\moc_interface.o
+./debug\moc_tobase.o
 );

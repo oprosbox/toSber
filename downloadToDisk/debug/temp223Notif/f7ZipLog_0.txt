@@ -1,0 +1,1836 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 30242 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 30242
+
+Everything is Ok
+
+Files: 8
+Size:       137184
+Compressed: 30242
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 161474 bytes (158 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 161474
+
+Everything is Ok
+
+Files: 43
+Size:       762619
+Compressed: 161474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18337 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeAE94_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18337
+
+Everything is Ok
+
+Files: 5
+Size:       81535
+Compressed: 18337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 212389 bytes (208 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeZK_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 212389
+
+Everything is Ok
+
+Files: 59
+Size:       884670
+Compressed: 212389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273014 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseNoticeEP_Moskva_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1273014
+
+Everything is Ok
+
+Files: 409
+Size:       5326437
+Compressed: 1273014

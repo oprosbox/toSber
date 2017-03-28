@@ -19,8 +19,8 @@
 
 QT_BEGIN_MOC_NAMESPACE
 struct qt_meta_stringdata_ndom__WFindThr_t {
-    QByteArrayData data[4];
-    char stringdata0[37];
+    QByteArrayData data[6];
+    char stringdata0[57];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -32,10 +32,13 @@ static const qt_meta_stringdata_ndom__WFindThr_t qt_meta_stringdata_ndom__WFindT
 QT_MOC_LITERAL(0, 0, 14), // "ndom::WFindThr"
 QT_MOC_LITERAL(1, 15, 10), // "threadStop"
 QT_MOC_LITERAL(2, 26, 0), // ""
-QT_MOC_LITERAL(3, 27, 9) // "findFiles"
+QT_MOC_LITERAL(3, 27, 9), // "sAllFiles"
+QT_MOC_LITERAL(4, 37, 9), // "findFiles"
+QT_MOC_LITERAL(5, 47, 9) // "stopedThr"
 
     },
-    "ndom::WFindThr\0threadStop\0\0findFiles"
+    "ndom::WFindThr\0threadStop\0\0sAllFiles\0"
+    "findFiles\0stopedThr"
 };
 #undef QT_MOC_LITERAL
 
@@ -45,20 +48,28 @@ static const uint qt_meta_data_ndom__WFindThr[] = {
        7,       // revision
        0,       // classname
        0,    0, // classinfo
-       2,   14, // methods
+       4,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
-       2,       // signalCount
+       3,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
-       1,    1,   24,    2, 0x06 /* Public */,
-       3,    1,   27,    2, 0x06 /* Public */,
+       1,    1,   34,    2, 0x06 /* Public */,
+       3,    1,   37,    2, 0x06 /* Public */,
+       4,    1,   40,    2, 0x06 /* Public */,
+
+ // slots: name, argc, parameters, tag, flags
+       5,    0,   43,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::Int,    2,
     QMetaType::Void, QMetaType::QStringList,    2,
+    QMetaType::Void, QMetaType::QStringList,    2,
+
+ // slots: parameters
+    QMetaType::Void,
 
        0        // eod
 };
@@ -70,7 +81,9 @@ void ndom::WFindThr::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _
         Q_UNUSED(_t)
         switch (_id) {
         case 0: _t->threadStop((*reinterpret_cast< int(*)>(_a[1]))); break;
-        case 1: _t->findFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 1: _t->sAllFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 2: _t->findFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 3: _t->stopedThr(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -85,8 +98,15 @@ void ndom::WFindThr::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _
         }
         {
             typedef void (WFindThr::*_t)(QStringList );
-            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThr::findFiles)) {
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThr::sAllFiles)) {
                 *result = 1;
+                return;
+            }
+        }
+        {
+            typedef void (WFindThr::*_t)(QStringList );
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThr::findFiles)) {
+                *result = 2;
                 return;
             }
         }
@@ -118,13 +138,13 @@ int ndom::WFindThr::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 2)
+        if (_id < 4)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 2;
+        _id -= 4;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 2)
+        if (_id < 4)
             *reinterpret_cast<int*>(_a[0]) = -1;
-        _id -= 2;
+        _id -= 4;
     }
     return _id;
 }
@@ -137,10 +157,17 @@ void ndom::WFindThr::threadStop(int _t1)
 }
 
 // SIGNAL 1
-void ndom::WFindThr::findFiles(QStringList _t1)
+void ndom::WFindThr::sAllFiles(QStringList _t1)
 {
     void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
     QMetaObject::activate(this, &staticMetaObject, 1, _a);
+}
+
+// SIGNAL 2
+void ndom::WFindThr::findFiles(QStringList _t1)
+{
+    void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 2, _a);
 }
 struct qt_meta_stringdata_ndom__WFindThrExp_t {
     QByteArrayData data[4];
@@ -156,10 +183,10 @@ static const qt_meta_stringdata_ndom__WFindThrExp_t qt_meta_stringdata_ndom__WFi
 QT_MOC_LITERAL(0, 0, 17), // "ndom::WFindThrExp"
 QT_MOC_LITERAL(1, 18, 10), // "threadStop"
 QT_MOC_LITERAL(2, 29, 0), // ""
-QT_MOC_LITERAL(3, 30, 9) // "findFiles"
+QT_MOC_LITERAL(3, 30, 9) // "stopedThr"
 
     },
-    "ndom::WFindThrExp\0threadStop\0\0findFiles"
+    "ndom::WFindThrExp\0threadStop\0\0stopedThr"
 };
 #undef QT_MOC_LITERAL
 
@@ -174,15 +201,19 @@ static const uint qt_meta_data_ndom__WFindThrExp[] = {
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
-       2,       // signalCount
+       1,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
        1,    1,   24,    2, 0x06 /* Public */,
-       3,    1,   27,    2, 0x06 /* Public */,
+
+ // slots: name, argc, parameters, tag, flags
+       3,    0,   27,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::Int,    2,
-    QMetaType::Void, QMetaType::QStringList,    2,
+
+ // slots: parameters
+    QMetaType::Void,
 
        0        // eod
 };
@@ -194,7 +225,7 @@ void ndom::WFindThrExp::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
         Q_UNUSED(_t)
         switch (_id) {
         case 0: _t->threadStop((*reinterpret_cast< int(*)>(_a[1]))); break;
-        case 1: _t->findFiles((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 1: _t->stopedThr(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -204,13 +235,6 @@ void ndom::WFindThrExp::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
             typedef void (WFindThrExp::*_t)(int );
             if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThrExp::threadStop)) {
                 *result = 0;
-                return;
-            }
-        }
-        {
-            typedef void (WFindThrExp::*_t)(QStringList );
-            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFindThrExp::findFiles)) {
-                *result = 1;
                 return;
             }
         }
@@ -258,13 +282,6 @@ void ndom::WFindThrExp::threadStop(int _t1)
 {
     void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
     QMetaObject::activate(this, &staticMetaObject, 0, _a);
-}
-
-// SIGNAL 1
-void ndom::WFindThrExp::findFiles(QStringList _t1)
-{
-    void *_a[] = { Q_NULLPTR, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
-    QMetaObject::activate(this, &staticMetaObject, 1, _a);
 }
 struct qt_meta_stringdata_ndom__WFind_t {
     QByteArrayData data[7];

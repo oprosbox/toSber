@@ -42,6 +42,8 @@ class WToBASE:public WOpenBase
 public:
     WToBASE();
     void prepare();
+    bool start(QString url,QString database,QString login, QString pass);
+    void stop();
     bool createTable223Notif();
     bool insertToBase223Notif(SNotif &notif);
     bool createTable223Dishon();
@@ -50,12 +52,12 @@ public:
     bool selectDishon(int inn,QStringList &dishon);
 protected:
  QSqlTableModel toViewTable;
- QSqlQuery queryNotif;
- QSqlQuery queryDishon;
- QSqlQuery queryNotifData;
- QSqlQuery queryDishonData;
- QSqlQuery queryNotifSelectData;
- QSqlQuery queryDishonSelectData;
+ QSqlQuery *queryNotif;
+ QSqlQuery *queryDishon;
+ QSqlQuery *queryNotifData;
+ QSqlQuery *queryDishonData;
+ QSqlQuery *queryNotifSelectData;
+ QSqlQuery *queryDishonSelectData;
 };
 
 class WBaseWR:public QObject,protected WToBASE

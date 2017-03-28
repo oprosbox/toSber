@@ -179,8 +179,8 @@ void WLoadFtp::delObjectThatStop(int idLocal)
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-  ftp223fz=new  WLoadFtp;
 
+    QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="fz223free";
     inpFtp.password="fz223free";
@@ -211,8 +211,8 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd)
 {
-    ftp223fz=new  WLoadFtp;
 
+      QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToDishon(QStringList)));
       inpFtp.url="ftp.zakupki.gov.ru";
       inpFtp.login="fz223free";
       inpFtp.password="fz223free";
@@ -243,5 +243,17 @@ while(!ts.atEnd())
 delete file;
 return 1;
 }
-//--------------------------------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------------------------------
+W223fz::W223fz()
+{
+   BD=new WBaseWR;
+   ftp223fz=new  WLoadFtp;
+
+}
+//---------------------------------------------------------------------------------------------------------------------
+ W223fz::~W223fz()
+ {
+  delete BD;
+ }
+//----------------------------------------------------------------------------------------------------------------------
 }

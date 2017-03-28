@@ -122,7 +122,7 @@ bool WFindInDom::findInFile(QString path,QStringList &listVal)
          return true;
 }
 //----------------------------------------------------------------------------------------------
-bool WFindInDom::findInFile(QString path)
+bool WFindInDom::findInFileAdd(QString path,QStringList &fileFind)
 {
 QDomDocument doc;
 
@@ -140,12 +140,13 @@ for(int i=0;i<controls.length();i++)
    if(!flgIt){}
    else{ //сравниваем с заданным значением тега
          QString val=controls.at(i).toElement().text();
-        if(val==valFind)return true;}
+        if(val==valFind)
+        {fileFind.push_back(doc.toString());return true;}}
 }
      return false;
 }
-
- bool WFindInDom::findInFileExp(QString path)
+//--------------------------------------------------------------------------------------------------
+ bool WFindInDom::findInFileExpAdd(QString path,QStringList &fileFind)
  {
      QDomDocument doc;
 
@@ -163,7 +164,7 @@ for(int i=0;i<controls.length();i++)
         if(!flgIt){}
         else{ //сравниваем с заданным значением тега
               QString val=controls.at(i).toElement().text();
-             if(val==valFind)return true;}
+             if(val==valFind){fileFind.push_back(doc.toString());return true;}}
      }
           return false;
  }
@@ -181,19 +182,20 @@ void WFindInDom::setFindAttr(QList<QRegExp> tegs,QString val)
     valFind=val;
 }
 //----последовательно перебирает возможные значения-----------------------------------------
-int WFindInDom::findInDir(QString pathFrom, QString pathTo,QStringList &listFilesFind,int ndomDel)
+int WFindInDom::findInDir(QString pathFrom, QString pathTo,QStringList &listAllFind,QStringList &fileFind,int ndomDel)
 { QDir dirFrom, dirTo;
+    //QStringList fileFind;
   int ret=0;
     if(dirTo.exists(pathTo)){}
                  else{dirTo.mkdir(pathTo);
                       if(dirTo.exists(pathTo)){}else return -1;}
     dirFrom.cd(pathFrom);
 
-     listFilesFind = dirFrom.entryList(QDir::Files);
+     listAllFind = dirFrom.entryList(QDir::Files);
 
-    for (auto i=listFilesFind.begin();i!=listFilesFind.end();i++)
+    for (auto i=listAllFind.begin();i!=listAllFind.end();i++)
     {
-     if(!findInFile(pathFrom+"/"+*i)){}
+     if(!findInFileAdd(pathFrom+"/"+*i,fileFind)){}
            else{QFile::copy(pathFrom+"/"+*i,pathTo+"/"+*i);++ret;}
     }
 
@@ -202,7 +204,7 @@ int WFindInDom::findInDir(QString pathFrom, QString pathTo,QStringList &listFile
     return ret;
 }
 //-------------последовательно перебирает и ищет через exp фильтр----------------------------------------------------
-int WFindInDom::findInDirExp(QString pathFrom, QString pathTo,QStringList &listFilesFind,int ndomDel)
+int WFindInDom::findInDirExp(QString pathFrom, QString pathTo,QStringList &listAllFind,QStringList &fileFind,int ndomDel)
 {
     QDir dirFrom, dirTo;
       int ret=0;
@@ -211,11 +213,11 @@ int WFindInDom::findInDirExp(QString pathFrom, QString pathTo,QStringList &listF
                           if(dirTo.exists(pathTo)){}else return -1;}
         dirFrom.cd(pathFrom);
 
-         listFilesFind = dirFrom.entryList(QDir::Files);
+         listAllFind = dirFrom.entryList(QDir::Files);
 
-        for (auto i=listFilesFind.begin();i!=listFilesFind.end();i++)
+        for (auto i=listAllFind.begin();i!=listAllFind.end();i++)
         {
-         if(!findInFileExp(pathFrom+"/"+*i)){}
+         if(!findInFileExpAdd(pathFrom+"/"+*i,fileFind)){}
                else{QFile::copy(pathFrom+"/"+*i,pathTo+"/"+*i);++ret;}
         }
 
@@ -226,26 +228,26 @@ int WFindInDom::findInDirExp(QString pathFrom, QString pathTo,QStringList &listF
 //----------------------------------------------------------------------------------------------
 void WFindThr::run()
 {
-  QStringList listFilesFind;
+  QStringList allFiles;
+  QStringList listFind;
   for(auto i=listDirFrom.begin();i!=listDirFrom.end();i++)
   { listFilesFind.clear();
-    findInDom->findInDir(*i,pathTo,listFilesFind,clearAll);
-    emit findFiles(listFilesFind);
+    findInDom->findInDir(*i,pathTo,allFiles,listFind,clearAll);
+ listFilesFind<<listFind;
   }
-  emit threadStop(id);
   delete findInDom;
   this->deleteLater();
 }
 //----------------------------------------------------------------------------------------------
 void WFindThrExp::run()
 {
-  QStringList listFilesFind;
+    QStringList allFiles;
+    QStringList listFind;
   for(auto i=listDirFrom.begin();i!=listDirFrom.end();i++)
   { listFilesFind.clear();
-    findInDom->findInDirExp(*i,pathTo,listFilesFind,clearAll);
-    emit findFiles(listFilesFind);
+    findInDom->findInDirExp(*i,pathTo,allFiles,listFind,clearAll);
+  listFilesFind<<listFind;
   }
-  emit threadStop(id);
   delete findInDom;
   this->deleteLater();
 }
@@ -278,7 +280,8 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
    listThr.push_back(thrStart);
    connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
    connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
-  if(sz==0){threadsWork=1;break;}
+  // thrStart->moveToThread(this);
+   if(sz==0){threadsWork=1;break;}
   ++threadsWork;
  }
 }
@@ -311,10 +314,15 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QList<QRegExp> teg,Q
    listThrExp.push_back(thrStart);
    connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
    connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
-  if(sz==0){threadsWork=1;break;}
+  //this->moveToThread(thrStart);
+   if(sz==0){threadsWork=1;break;}
   ++threadsWork;
  }
 }
+
+ void WFind::allThreadsFormLists(QStringList list)
+ {emit allThreadsLists(list);}
+
 //----------------------------------------------------------------------------------------------
 void WFind::destroyObj()
 {   stopThreads();

@@ -36,6 +36,9 @@ MainWindow::MainWindow(QWidget *parent) :
     w223fzPath=new wui::WMainInterf();
     w44fzPath=new wui::WMainInterf();
 
+    WToBASE BD;
+    //bool flg=BD.start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
+    //BD.createTable223Dishon();
   // WNetworkFtp ftp;
   // ftp.createFtp("ftp://fz223free:fz223free@ftp.zakupki.gov.ru/out/published/Moskva/purchaseNoticeZK/daily");
   // ftp.getFile("purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip",QApplication::applicationDirPath()+"/"+"purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip");

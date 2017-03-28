@@ -4,6 +4,7 @@
 #include "ftpclient.h"
 #include "fzunpack.h"
 #include "findindom.h"
+#include "tobase.h"
 
 
 namespace ftpload{
@@ -80,16 +81,15 @@ public slots:
   void download();
   void endLoad(void);
   void nextUnpack(int,QStringList files);
-  void getProcessFiles(QStringList procFiles){sProcessFiles(procFiles);}
+  void getProcessFiles(QStringList procFiles){emit sGetFiles(procFiles);}
   void delObjectThatStop(int id);
 signals:
-  void sProcessFiles(QStringList);
+  void sGetFiles(QStringList);
   void getDownloadFiles(int err,QStringList files);
   void allFilesDownload(int);
   void allFilesProcess(int);
 protected:
 QList<WLoadZipThread*> fromZip;
-//WFtpClient *client;
 WNetFtpClient *client;
 QStringList::iterator it;
 SInputFtp params;
@@ -101,12 +101,15 @@ bool flgDownloadsAll;
 class W223fz
 {
   public:
+    W223fz();
+    ~W223fz();
     void create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
     void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
     int getRegions(QStringList &regions);
     WLoadFtp *ftp223fz;
 protected:
     SInputFtp inpFtp;
+    WBaseWR *BD;
 };
 
 }
