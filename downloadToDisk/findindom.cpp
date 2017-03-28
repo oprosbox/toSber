@@ -80,6 +80,23 @@ bool WFindInDom::findInFile(QString path,QList<SListVal> &value)
     }
          return true;
 }
+//----------------------------------------------------------------------------------------------
+bool WFindInDom::findInText(QString &xmlText,QStringList teg,QStringList &valOut)
+{QDomDocument doc;
+  valOut.clear();
+  doc.setContent(xmlText);
+  QDomNodeList controls = doc.elementsByTagName(teg.back());
+  bool flgIt;
+  for(int i=0;i<controls.length();i++)
+  {  //ищем необходимое вложение
+      flgIt=controlNode(controls.at(i),teg,teg.size());
+     if(!flgIt){}
+     else{ //добавляет значения в список
+           valOut.push_back(controls.at(i).toElement().text());
+           }
+  }
+       return true;
+}
 
 //----------------------------------------------------------------------------------------------
 bool WFindInDom::findInFile(QString path,QStringList &listVal)

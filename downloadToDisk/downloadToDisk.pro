@@ -7,6 +7,7 @@
 QT       += core gui
 QT       += xml
 QT       += network
+QT       += sql
 
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
@@ -34,7 +35,8 @@ SOURCES += main.cpp\
     loadsave.cpp \
     qftp/qftp.cpp \
     qftp/qurlinfo.cpp \
-    interface.cpp
+    interface.cpp \
+    tobase.cpp
 
 HEADERS  += mainwindow.h \
     findindom.h \
@@ -43,6 +45,7 @@ HEADERS  += mainwindow.h \
     loadsave.h \
     qftp/qftp.h \
     qftp/qurlinfo.h \
-    interface.h
+    interface.h \
+    tobase.h
 
 FORMS    += mainwindow.ui
