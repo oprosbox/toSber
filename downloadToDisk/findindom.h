@@ -25,6 +25,7 @@ public:
     bool findInFile(QString path,QList<SListVal> &val);
     bool findInFile(QString path,QStringList &val);
     bool findInFile(QString path);
+static  bool findInText(QString &xmlText,QStringList teg,QStringList &valOut);
     void setFindAttr(QStringList teg,QString val);
     void setFindAttr(QList<QStringList> tegs);
 protected:

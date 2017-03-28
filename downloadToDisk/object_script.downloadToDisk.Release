@@ -8,6 +8,7 @@ INPUT(
 ./release\qftp.o
 ./release\qurlinfo.o
 ./release\interface.o
+./release\tobase.o
 ./release\moc_mainwindow.o
 ./release\moc_findindom.o
 ./release\moc_ftpclient.o
