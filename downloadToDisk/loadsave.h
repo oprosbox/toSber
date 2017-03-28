@@ -18,6 +18,7 @@ public:
   int id;
   WLoadZip();
   void createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFind, QString val,int idNew,int flgClear);
+  void createLZ(QString dirUnpack,QString pathTo, QList<QRegExp> tegPathFind, QString val,int idNew,int flgClear);
   void startUnpackWork(QStringList listPathZip);
   void startUnpackFind(QStringList listPathZip);//добавляет на обработку список zip и формирует в папке pathTo конечный список
   void startUnpack(QStringList listPathZip);//добавляет на обработку список zip и формирует в папке pathTo конечный список
@@ -34,6 +35,7 @@ protected:
   QString tempDir;
   QString pathToEnd;
   QStringList tegFind;
+  QList<QRegExp> tegFindExp;
   QString valFind;
   QList<ndom::WFind*> listThread;
   QStringList listZip;
@@ -60,6 +62,7 @@ struct SInputFtp
  QString pathTemp;
  QString pathTo;
  QStringList tegPathFind;
+ QList<QRegExp> tegExpPathFind;
  QString val;
  SFilterStr stFilt;
  int countToExitDirUrl;

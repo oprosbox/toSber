@@ -23,6 +23,20 @@ void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QStringList tegPathFin
   idStr.sprintf("%i",id);
   initObj(QApplication::applicationDirPath()+"/7-Zip/7z.exe",dirUnpack);
 }
+
+void WLoadZip::createLZ(QString dirUnpack,QString pathTo, QList<QRegExp> tegPathFind, QString val,int idNew,int flgClear)
+{
+      tempDir=dirUnpack;
+      pathToEnd=pathTo;
+      tegFindExp=tegPathFind;
+      valFind=val;
+      countId=0;
+      id=idNew;
+      flgClearAll=flgClear;
+      QString idStr;
+      idStr.sprintf("%i",id);
+      initObj(QApplication::applicationDirPath()+"/7-Zip/7z.exe",dirUnpack);
+}
 //------------------------------------------------------------------------------------------------
 void WLoadZip::startUnpackFind(QStringList listPathZip)//добавляет на обработку только список zip
 {
@@ -77,7 +91,8 @@ void WLoadZip::fromDirToEnd(QStringList strListFrom)//обрабатывает �
   domObj->id=countId;++countId;
   connect(domObj,SIGNAL(allThreadsStop(int)),this,SLOT(delObjThreads(int)));
   connect(domObj,SIGNAL(allThreadsLists(QStringList)),this,SLOT(formListFiles(QStringList)));
-  domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);
+  if(tegFind.size()>0)domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);
+  else domObj->createObj(strListFrom,pathToEnd, tegFindExp, valFind,flgClearAll);
   domObj->startThreads();
   listThread.push_back(domObj);
 }
@@ -133,7 +148,8 @@ void WLoadFtp::nextUnpack(int err,QStringList listGet)
     emit getDownloadFiles(err,listGet);
     WLoadZipThread *zip=new WLoadZipThread;
 
-    zip->LoadZip.createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
+    if(params.tegPathFind.size()>0)zip->LoadZip.createLZ(params.pathTemp,params.pathTo,params.tegPathFind,params.val,countId,true);
+       else{zip->LoadZip.createLZ(params.pathTemp,params.pathTo,params.tegExpPathFind,params.val,countId,true);}
     ++countId;
     connect(&zip->LoadZip,SIGNAL(signAddFiles(QStringList)),this,SLOT(getProcessFiles(QStringList)));
     connect(&zip->LoadZip,SIGNAL(allObjectsStop(int)),this,SLOT(delObjectThatStop(int)));
