@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c110aa9c-f874-48fb-b369-dfcf046deb68</guid>
+        <createDateTime>2017-03-16T16:46:20</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>022066af-2f4d-4241-9b29-6126680746c1</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>022066af-2f4d-4241-9b29-6126680746c1</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:40:27</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887611</ns2:urlOOS>
+                <ns2:urlVSRZ>http://trade.lot-online.ru/tender/details.html?tenderId=4218002</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899339</ns2:registrationNumber>
+                <ns2:name>Закупка программного обеспечения (коробочные версии)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей управленческое консультирование"</fullName>
+                        <shortName>ООО "Алмаз-Антей управленческое консультирование"</shortName>
+                        <iko>67731569275773101001</iko>
+                        <inn>7731569275</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5077746930674</ogrn>
+                        <legalAddress>121471, Москва, Верейская, дом 41</legalAddress>
+                        <postalAddress>000000, Москва город, Верейская улица, дом 41</postalAddress>
+                        <phone>7-499-9401112</phone>
+                        <fax>7-499-9401112</fax>
+                        <email>info@almazantey.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>81413480</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>71045</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Lot-online: Открытый запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Алмаз-Антей управленческое консультирование"</fullName>
+                        <shortName>ООО "Алмаз-Антей управленческое консультирование"</shortName>
+                        <iko>67731569275773101001</iko>
+                        <inn>7731569275</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5077746930674</ogrn>
+                        <legalAddress>121471, Москва, Верейская, дом 41</legalAddress>
+                        <postalAddress>000000, Москва город, Верейская улица, дом 41</postalAddress>
+                        <phone>7-499-9401112</phone>
+                        <fax>7-499-9401112</fax>
+                        <email>info@almazantey.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>81413480</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>7 499 940 11 12</phone>
+                    <email>info@almazantey.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Общество с ограниченной ответственностью "Алмаз-Антей управленческое консультирование"</fullName>
+                            <shortName>ООО "Алмаз-Антей управленческое консультирование"</shortName>
+                            <iko>67731569275773101001</iko>
+                            <inn>7731569275</inn>
+                            <kpp>773101001</kpp>
+                            <ogrn>5077746930674</ogrn>
+                            <legalAddress>121471, Москва, Верейская, дом 41</legalAddress>
+                            <postalAddress>000000, Москва город, Верейская улица, дом 41</postalAddress>
+                            <phone>7-499-9401112</phone>
+                            <fax>7-499-9401112</fax>
+                            <email>info@almazantey.ru</email>
+                            <okato>45268569000</okato>
+                            <okpo>81413480</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:46:20</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-31</deliveryEndDateTime>
+                    <place>http://trade.lot-online.ru/tender/details.html?tenderId=4218002</place>
+                    <procedure>Специальные условия для предоставления документации отсутствуют</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>8</totalDocumentsCount>
+                    <document>
+                        <guid>06879ad4-5d27-491c-9e07-f99145c93a05</guid>
+                        <createDateTime>2017-03-16T16:40:27</createDateTime>
+                        <fileName>Гарантийное письмо.doc</fileName>
+                        <description>Гарантийное письмо.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117330</url>
+                    </document>
+                    <document>
+                        <guid>a0bf67fd-9e01-4654-9ce5-cbfd62ae3229</guid>
+                        <createDateTime>2017-03-16T16:40:27</createDateTime>
+                        <fileName>Проект договора_MS.doc</fileName>
+                        <description>Проект договора_MS.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117331</url>
+                    </document>
+                    <document>
+                        <guid>427d5a34-0be6-4616-a07d-08adbd1de0b3</guid>
+                        <createDateTime>2017-03-16T16:40:27</createDateTime>
+                        <fileName>ТЗ программное обеспечение.pdf</fileName>
+                        <description>ТЗ программное обеспечение.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117332</url>
+                    </document>
+                    <document>
+                        <guid>4ce1bf8f-f6bf-470c-bd6d-37fb2c87ade2</guid>
+                        <createDateTime>2017-03-16T16:40:27</createDateTime>
+                        <fileName>Форма заявки.doc</fileName>
+                        <description>Форма заявки.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117333</url>
+                    </document>
+                    <document>
+                        <guid>a2e65c2b-704d-4ca6-86ee-58bfb8884e71</guid>
+                        <createDateTime>2017-03-16T16:40:28</createDateTime>
+                        <fileName>Гарантийное письмо.doc</fileName>
+                        <description>Гарантийное письмо.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117335</url>
+                    </document>
+                    <document>
+                        <guid>1fcaa36f-7b99-4742-afe5-176535269a4b</guid>
+                        <createDateTime>2017-03-16T16:40:28</createDateTime>
+                        <fileName>Проект договора_MS.doc</fileName>
+                        <description>Проект договора_MS.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117336</url>
+                    </document>
+                    <document>
+                        <guid>3bd17710-d59e-4972-9e9b-94c5143c1052</guid>
+                        <createDateTime>2017-03-16T16:40:28</createDateTime>
+                        <fileName>ТЗ программное обеспечение.pdf</fileName>
+                        <description>ТЗ программное обеспечение.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117337</url>
+                    </document>
+                    <document>
+                        <guid>82ab4fa8-5f7c-48a6-b887-6ad3bdd0f2c1</guid>
+                        <createDateTime>2017-03-16T16:40:28</createDateTime>
+                        <fileName>Форма заявки.doc</fileName>
+                        <description>Форма заявки.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117338</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:46:20</ns2:modificationDate>
+                <ns2:saveUserId>181802</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП Lot-online</name>
+                    <url>http://lot-online.ru/</url>
+                    <electronicPlaceId>110</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>http://lot-online.ru/</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-05T15:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-05T15:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-31T15:00:00</ns2:submissionCloseDateTime>
+                <ns2:lots>
+                    <lot>
+                        <guid>1523f028-eaf6-4cd2-a6e0-06d2f4174e79</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Закупка программного обеспечения (коробочные версии)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>525000.00</initialSum>
+                            <deliveryPlace>
+                                <address>Россия, г. Москва, проспект Мира, д. 125, корпус 3</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>01337460-1c8f-4569-9902-80474a9392ff</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>58.29</code>
+                                        <name>Услуги по изданию прочего программного обеспечения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>58.29</code>
+                                        <name>Издание прочих программных продуктов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>15</qty>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>c267d1b7-a2bd-4b69-baf0-729a6b80d2dc</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>58.29</code>
+                                        <name>Услуги по изданию прочего программного обеспечения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>58.29</code>
+                                        <name>Издание прочих программных продуктов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>15</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170230629</planRegistrationNumber>
+                            <planGuid>3249623a-8549-429f-ac32-af84e533e625</planGuid>
+                            <positionNumber>2</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>efa5b193-4c01-43c5-9585-40ce7d0a0d3b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

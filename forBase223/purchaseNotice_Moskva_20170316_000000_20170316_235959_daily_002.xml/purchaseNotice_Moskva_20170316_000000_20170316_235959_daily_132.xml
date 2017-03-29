@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d53790bf-a81b-4c8b-8624-b23fdebdf707</guid>
+        <createDateTime>2017-03-16T18:35:56</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0d5efdde-50a3-4b34-9c22-4c83577763da</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>0d5efdde-50a3-4b34-9c22-4c83577763da</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:32:27</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888329</ns2:urlOOS>
+                <ns2:registrationNumber>31704899961</ns2:registrationNumber>
+                <ns2:name>Поставка расходных запасных частей/ Supply of expendable parts</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "А-ТЕХНИКС"</fullName>
+                        <shortName>ООО "А-ТЕХНИКС"</shortName>
+                        <iko>57729485719772901001</iko>
+                        <inn>7729485719</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>5157746146212</ogrn>
+                        <legalAddress>119027, Г МОСКВА, ТЕР ВНУКОВО АЭРОПОРТ, дом ДОМ 1, корпус СТРОЕНИЕ 19</legalAddress>
+                        <postalAddress>119027, Москва, территория Внуково аэропорт, дом 1 строение 19</postalAddress>
+                        <phone>7-915-2577537</phone>
+                        <email>korobovich@atechnics.ru</email>
+                        <okato>45268552000</okato>
+                        <okpo>52591571</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>165507</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок с ограниченным участием по фз-223</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "А-ТЕХНИКС"</fullName>
+                        <shortName>ООО "А-ТЕХНИКС"</shortName>
+                        <iko>57729485719772901001</iko>
+                        <inn>7729485719</inn>
+                        <kpp>772901001</kpp>
+                        <ogrn>5157746146212</ogrn>
+                        <legalAddress>119027, Г МОСКВА, ТЕР ВНУКОВО АЭРОПОРТ, дом ДОМ 1, корпус СТРОЕНИЕ 19</legalAddress>
+                        <postalAddress>119027, Москва, территория Внуково аэропорт, дом 1 строение 19</postalAddress>
+                        <phone>7-915-2577537</phone>
+                        <email>korobovich@atechnics.ru</email>
+                        <okato>45268552000</okato>
+                        <okpo>52591571</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Александр</firstName>
+                    <middleName>Александрович</middleName>
+                    <lastName>Федоров</lastName>
+                    <phone>+8 (977) 4357935</phone>
+                    <email>materialsupport@atechnics.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "А-ТЕХНИКС"</fullName>
+                            <shortName>ООО "А-ТЕХНИКС"</shortName>
+                            <iko>57729485719772901001</iko>
+                            <inn>7729485719</inn>
+                            <kpp>772901001</kpp>
+                            <ogrn>5157746146212</ogrn>
+                            <legalAddress>119027, Г МОСКВА, ТЕР ВНУКОВО АЭРОПОРТ, дом ДОМ 1, корпус СТРОЕНИЕ 19</legalAddress>
+                            <postalAddress>119027, Москва, территория Внуково аэропорт, дом 1 строение 19</postalAddress>
+                            <phone>7-915-2577537</phone>
+                            <email>korobovich@atechnics.ru</email>
+                            <okato>45268552000</okato>
+                            <okpo>52591571</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:35:56</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place> https://www.teclot.com</place>
+                    <procedure>в соответствии с требованиями указанным в закупочной документации, размещенной на ЭТП https://www.teclot.com</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>16c24f15-92c0-4a43-beb4-47895ff8dfc8</guid>
+                        <createDateTime>2017-03-16T18:35:45</createDateTime>
+                        <fileName>Документация поставка расходных запасных частей.docx</fileName>
+                        <description>Документация поставка расходных запасных частей</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120834</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:35:56</ns2:modificationDate>
+                <ns2:saveUserId>260729</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Teclot.com</name>
+                    <url>www.Teclot.com</url>
+                    <electronicPlaceId>428</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>119027, г. Москва, территория Внуково аэропорт дом 1 строение 19</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-24T14:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-24T16:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T18:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>e23fef60-008b-45ee-9a39-8d15e26863b1</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка расходных запасных частей/ Supply of expendable parts</subject>
+                            <currency>
+                                <code>USD</code>
+                                <digitalCode>840</digitalCode>
+                                <name>Доллар США</name>
+                            </currency>
+                            <initialSum>15000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>119027, г. Москва, территория Внуково аэропорт дом 1 строение 19</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>ed4b04f5-c16e-4c73-91cd-4f955ae84f8e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>30.30.50.110</code>
+                                        <name>Комплектующие (запасные части) летательных аппаратов, не имеющие самостоятельных группировок</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>30.30</code>
+                                        <name>Производство летательных аппаратов, включая космические, и соответствующего оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>9</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160219187</planRegistrationNumber>
+                            <planGuid>bd04d2cd-8d92-46a8-8bb8-139ca75289ce</planGuid>
+                            <positionNumber>47</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7371cd37-f9a4-42fa-9aa4-6e698d4330b7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

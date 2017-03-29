@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d3f505b0-85d9-4cdf-9d55-3dea2be2c702</guid>
+        <createDateTime>2017-03-16T17:48:55</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a9898519-6170-0004-0000-58caa3c255d4</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a9898519-6170-0004-0000-58caa3c255d4</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:40:04</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888125</ns2:urlOOS>
+                <ns2:urlVSRZ>http://www.b2b-oak.ru/market/transportno-ekspeditsionnoe-obsluzhivanie-iz-frantsii-aviatsionnym/tender-796170/</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899790</ns2:registrationNumber>
+                <ns2:name>Транспортно-экспедиционное обслуживание из Франции авиационным транспортом (796170)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ОАК-ЗАКУПКИ"</fullName>
+                        <shortName>ООО "ОАК-ЗАКУПКИ"</shortName>
+                        <iko>67714922571771401001</iko>
+                        <inn>7714922571</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>5137746152363</ogrn>
+                        <legalAddress>125284, МОСКВА, ПОЛИКАРПОВА, дом 27, корпус 3</legalAddress>
+                        <postalAddress>125284 Москва ул. Поликарпова д.27 стр.3</postalAddress>
+                        <phone>7-495-9266296</phone>
+                        <email>Y_Ushakov@uac-gp.ru</email>
+                        <okato>45277598000</okato>
+                        <okpo>23346617</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>79986</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос цен в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ОАК-ЗАКУПКИ"</fullName>
+                        <shortName>ООО "ОАК-ЗАКУПКИ"</shortName>
+                        <iko>67714922571771401001</iko>
+                        <inn>7714922571</inn>
+                        <kpp>771401001</kpp>
+                        <ogrn>5137746152363</ogrn>
+                        <legalAddress>125284, МОСКВА, ПОЛИКАРПОВА, дом 27, корпус 3</legalAddress>
+                        <postalAddress>125284 Москва ул. Поликарпова д.27 стр.3</postalAddress>
+                        <phone>7-495-9266296</phone>
+                        <email>Y_Ushakov@uac-gp.ru</email>
+                        <okato>45277598000</okato>
+                        <okpo>23346617</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена </firstName>
+                    <middleName>Михайловна </middleName>
+                    <lastName>Котова </lastName>
+                    <phone>+7 (495) 9266296</phone>
+                    <email>E_Kotova@uac-gp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ОАК-ЗАКУПКИ"</fullName>
+                            <shortName>ООО "ОАК-ЗАКУПКИ"</shortName>
+                            <iko>67714922571771401001</iko>
+                            <inn>7714922571</inn>
+                            <kpp>771401001</kpp>
+                            <ogrn>5137746152363</ogrn>
+                            <legalAddress>125284, МОСКВА, ПОЛИКАРПОВА, дом 27, корпус 3</legalAddress>
+                            <postalAddress>125284 Москва ул. Поликарпова д.27 стр.3</postalAddress>
+                            <phone>7-495-9266296</phone>
+                            <email>Y_Ushakov@uac-gp.ru</email>
+                            <okato>45277598000</okato>
+                            <okpo>23346617</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:48:55</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>ЭТП группы B2B-Center</place>
+                    <procedure>Документация по закупке предоставляется без взимания платы в форме электронного документа на сайте ЭТП группы B2B-Center</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>a9898519-6170-0004-0000-58caa3c255d4</guid>
+                        <createDateTime>2017-03-16T17:36:35</createDateTime>
+                        <fileName>Документация по закупке_Запрос  Цен_500.doc</fileName>
+                        <description>Документация по закупке_Запрос  Цен_500.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119767</url>
+                    </document>
+                    <document>
+                        <guid>a9898519-6170-0004-0001-58caa3c255d4</guid>
+                        <createDateTime>2017-03-16T17:36:39</createDateTime>
+                        <fileName>Приложение №1 Тарифная Сетка.xlsx</fileName>
+                        <description>Приложение №1 Тарифная Сетка.xlsx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119768</url>
+                    </document>
+                    <document>
+                        <guid>a9898519-6170-0004-0002-58caa3c255d4</guid>
+                        <createDateTime>2017-03-16T17:36:39</createDateTime>
+                        <fileName>Приложение №4 Критерии оценки (Авиа).docx</fileName>
+                        <description>Приложение №4 Критерии оценки (Авиа).docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119769</url>
+                    </document>
+                    <document>
+                        <guid>a9898519-6170-0004-0003-58caa3c255d4</guid>
+                        <createDateTime>2017-03-16T17:36:40</createDateTime>
+                        <fileName>Приложение №5 Начальные максимальные цены.xlsx</fileName>
+                        <description>Приложение №5 Начальные максимальные цены.xlsx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119770</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:48:55</ns2:modificationDate>
+                <ns2:saveUserId>191986</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Система электронных торгов B2B-Center</name>
+                    <url>http://b2b-center.ru</url>
+                    <electronicPlaceId>107</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>125284, Россия, г. Москва, ул. Поликарпова, д. 27, стр. 3</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-30T15:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-30T15:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T15:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>a9898519-6170-0004-0001-58caa3c26bcd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Транспортно-экспедиционное обслуживание из Франции авиационным транспортом</subject>
+                            <currency>
+                                <code>EUR</code>
+                                <digitalCode>978</digitalCode>
+                                <name>Евро</name>
+                            </currency>
+                            <initialSum>200000.00</initialSum>
+                            <deliveryPlace>
+                                <address>125284, Россия, г. Москва, ул. Поликарпова, д. 27, стр. 3</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a9898519-0000-0004-0102-000000796170</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>51.21.1</code>
+                                        <name>Услуги по перевозке грузов воздушным транспортом</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>51.21</code>
+                                        <name>Деятельность грузового воздушного транспорта</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160200177</planRegistrationNumber>
+                            <planGuid>0c058adc-f8e1-4e1f-a24f-47b857fd9146</planGuid>
+                            <positionNumber>137</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>fc5a5aaa-c8a4-4af1-9499-288396e988c9</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

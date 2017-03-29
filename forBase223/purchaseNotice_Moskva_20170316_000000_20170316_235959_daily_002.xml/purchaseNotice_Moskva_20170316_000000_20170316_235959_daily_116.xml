@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>a120c48a-83bd-4b6c-8ae3-25ed10d9d07f</guid>
+        <createDateTime>2017-03-16T17:44:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>643aca4c-bcb9-4e6c-a8d3-4eb8498b5cf9</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>643aca4c-bcb9-4e6c-a8d3-4eb8498b5cf9</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:39:35</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888123</ns2:urlOOS>
+                <ns2:registrationNumber>31704899777</ns2:registrationNumber>
+                <ns2:name>Предоставление услуг по изготовлению и пошиву форменной одежды для кабинных экипажей, поставка форменной одежды для летных экипажей, а также предоставление услуг по хранению форменной одежды.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "АВИАКОМПАНИЯ "ПОБЕДА"</fullName>
+                        <shortName>ООО "АВИАКОМПАНИЯ "ПОБЕДА"</shortName>
+                        <iko>69705001313770501001</iko>
+                        <inn>9705001313</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>5147746103380</ogrn>
+                        <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАДЕН 4, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 4, строение 1</postalAddress>
+                        <phone>7-499-4271101</phone>
+                        <fax>7-499-4271102</fax>
+                        <email>it@pobeda.aero</email>
+                        <okato>45000000000</okato>
+                        <okpo>35902928</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>91477</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "АВИАКОМПАНИЯ "ПОБЕДА"</fullName>
+                        <shortName>ООО "АВИАКОМПАНИЯ "ПОБЕДА"</shortName>
+                        <iko>69705001313770501001</iko>
+                        <inn>9705001313</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>5147746103380</ogrn>
+                        <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАДЕН 4, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 4, строение 1</postalAddress>
+                        <phone>7-499-4271101</phone>
+                        <fax>7-499-4271102</fax>
+                        <email>it@pobeda.aero</email>
+                        <okato>45000000000</okato>
+                        <okpo>35902928</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Александра </firstName>
+                    <middleName>Андреевна</middleName>
+                    <lastName>Соловей </lastName>
+                    <phone>+7 (499) 4271101</phone>
+                    <email>alexandra.solovey@pobeda.aero</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "АВИАКОМПАНИЯ "ПОБЕДА"</fullName>
+                            <shortName>ООО "АВИАКОМПАНИЯ "ПОБЕДА"</shortName>
+                            <iko>69705001313770501001</iko>
+                            <inn>9705001313</inn>
+                            <kpp>775101001</kpp>
+                            <ogrn>5147746103380</ogrn>
+                            <legalAddress>142784, Г МОСКВА, КМ КИЕВСКОЕ ШОССЕ 22-Й (П МОСКОВСКИЙ), дом ДОМОВЛАДЕН 4, корпус СТРОЕНИЕ 1</legalAddress>
+                            <postalAddress>108811, Москва Город, Киевское шоссе 22-й (п Московский) Километр, дом 4, строение 1</postalAddress>
+                            <phone>7-499-4271101</phone>
+                            <fax>7-499-4271102</fax>
+                            <email>it@pobeda.aero</email>
+                            <okato>45000000000</okato>
+                            <okpo>35902928</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:44:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-07</deliveryEndDateTime>
+                    <place>Документация о закупке находится в открытом доступе на официальном сайте в сети Интернет для размещения информации о размещении заказов на поставки товаров, выполнение работ, оказание услуг. http://zakupki.gov.ru</place>
+                    <procedure>Документация о закупке находится в открытом доступе на официальном сайте в сети Интернет для размещения информации о размещении заказов на поставки товаров, выполнение работ, оказание услуг. http://zakupki.gov.ru</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>98ffd899-00dd-4287-ab47-9537f108424a</guid>
+                        <createDateTime>2017-03-16T17:44:24</createDateTime>
+                        <fileName>тендер по форменной одежде 2017 с критериями оценки.pdf</fileName>
+                        <description>тендер по форменной одежде 2017 с критериями оценки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119898</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:44:37</ns2:modificationDate>
+                <ns2:saveUserId>159790</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>108811, г. Москва, п. Московский, Киевское ш., 22-й км, домовладение 4, стр.1 </ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-07T09:30:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-13T16:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>108811, г. Москва, п. Московский, Киевское ш., 22-й км, домовладение 4, стр.1</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-07T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>4e688226-c3fa-45e0-b809-b6ee29c5a63c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Предоставление услуг по изготовлению и пошиву форменной одежды для кабинных экипажей, поставка форменной одежды для летных экипажей, а также предоставление услуг по хранению форменной одежды.</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>45000000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>По адресу склада исполнителя в г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>6f450bad-44cb-4a7d-a95a-473f0c6d863c</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>14</code>
+                                        <name>Одежда</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>14</code>
+                                        <name>Производство одежды</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170222056</planRegistrationNumber>
+                            <planGuid>edefc11b-cb35-49b6-bfed-d46e37621fe9</planGuid>
+                            <positionNumber>45</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>460497ae-649b-4a92-8cb5-e1523a993fb0</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

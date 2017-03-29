@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3e26c6da-eb85-4171-bbdf-63238dae5650</guid>
+        <createDateTime>2017-03-16T16:43:59</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0f063d7e-ca91-4e04-94ba-e7731d2d43a3</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>0f063d7e-ca91-4e04-94ba-e7731d2d43a3</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:36:03</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887578</ns2:urlOOS>
+                <ns2:registrationNumber>31704899320</ns2:registrationNumber>
+                <ns2:name>Устройство перемычки котлована здания Зарамагской ГЭС-1 с противофильтрационным элементом, выполненным методом буросекущих свай. Бурение, установка армокаркасов и бетонирование свай» для нужд АО «ЧиркейГЭСстрой, 
+лот №1-Перемычка-ЗарГЭС-ЧГЭС-2017.
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ЧИРКЕЙГЭССТРОЙ"</fullName>
+                        <shortName>АО "ЧИРКЕЙГЭССТРОЙ"</shortName>
+                        <iko>60533001760053301001</iko>
+                        <inn>0533001760</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1020501741523</ogrn>
+                        <legalAddress>117393, г МОСКВА, ул АРХИТЕКТОРА ВЛАСОВА, дом 51</legalAddress>
+                        <postalAddress>367020 Республика Дагестан, г.Махачкала, ул. Магомедтагирова, пер.Автомобилиствов, 7 А</postalAddress>
+                        <phone>7-8722-646869</phone>
+                        <fax>7-8772-518261</fax>
+                        <email>chges@chges.ru</email>
+                        <okato>82253555000</okato>
+                        <okpo>00117133</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>60398</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>открытый запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ЧИРКЕЙГЭССТРОЙ"</fullName>
+                        <shortName>АО "ЧИРКЕЙГЭССТРОЙ"</shortName>
+                        <iko>60533001760053301001</iko>
+                        <inn>0533001760</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1020501741523</ogrn>
+                        <legalAddress>117393, г МОСКВА, ул АРХИТЕКТОРА ВЛАСОВА, дом 51</legalAddress>
+                        <postalAddress>367020 Республика Дагестан, г.Махачкала, ул. Магомедтагирова, пер.Автомобилиствов, 7 А</postalAddress>
+                        <phone>7-8722-646869</phone>
+                        <fax>7-8772-518261</fax>
+                        <email>chges@chges.ru</email>
+                        <okato>82253555000</okato>
+                        <okpo>00117133</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Мирзабег</firstName>
+                    <middleName>Саидбегович</middleName>
+                    <lastName>Абдулаев</lastName>
+                    <phone>+8 (8722) 518261</phone>
+                    <email>zakupki646869@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ЧИРКЕЙГЭССТРОЙ"</fullName>
+                            <shortName>АО "ЧИРКЕЙГЭССТРОЙ"</shortName>
+                            <iko>60533001760053301001</iko>
+                            <inn>0533001760</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1020501741523</ogrn>
+                            <legalAddress>117393, г МОСКВА, ул АРХИТЕКТОРА ВЛАСОВА, дом 51</legalAddress>
+                            <postalAddress>367020 Республика Дагестан, г.Махачкала, ул. Магомедтагирова, пер.Автомобилиствов, 7 А</postalAddress>
+                            <phone>7-8722-646869</phone>
+                            <fax>7-8772-518261</fax>
+                            <email>chges@chges.ru</email>
+                            <okato>82253555000</okato>
+                            <okpo>00117133</okpo>
+                        </mainInfo>
+                    </organization>
+                    <additionalContactInfo>Лот загружается повторно, так как загрузка от 14 марта 2017 за №31704885084 участникам не видна.</additionalContactInfo>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:43:59</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-14</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>на сайтах  www.zakupki.gov.ru,  по адресу: Республика Дагестан, г. Махачкала, ул. Магомедтагирова, пер. Автомобилистов, 7А, АО «ЧиркейГЭСстрой», второй этаж, кабинет 03
+</place>
+                    <procedure>1. Документация о закупке размещена на сайте в информационно-телекоммуникационной сети «Интернет» www.zakupki.gov.ru  (далее – «Официальный сайт»). Заинтересованные лица самостоятельно скачивают документацию.  Дополнительно может быть предоставлена любому лицу по его письменному запросу в следующем порядке (п. 2). Организатор запроса цен не берет на себя никаких обязательств перед Участниками, которые не получат Закупочную документацию в вышеуказанном порядке.
+
+2. Документация также будет представлена любому поставщику по его запросу в следующем порядке: запрос составляется на фирменном бланке, на имя контактного лица, указанного в данном извещении. 
+В запросе необходимо указать:
+а)  наименование организации;
+б) ФИО Руководителя организации (полностью);
+в) «Просим Вас направить документацию по открытому запросу предложений Лот№ 1 -ХХХХХ-ЗарамагГЭС-ЧГЭС-2017.
+г) юридический и почтовый адреса организации;
+д) ФИО, электронный адрес и телефон контактного лица организации. 
+Запрос должен быть подписан руководителем организации, отсканирован и отправлен контактному лицу по электронному адресу zakupki646869@yandex.ru. Документация по запросу предложений будет направлена по электронной почте на указанный электронный адрес поставщика.
+</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>0ee42599-17a8-4b8a-8f35-e7d3cb622c92</guid>
+                        <createDateTime>2017-03-16T16:42:45</createDateTime>
+                        <fileName>003 Приложение №3 ТТ 1-Перемычка.docx</fileName>
+                        <description>003 Приложение №3 ТТ 1-Перемычка</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117456</url>
+                    </document>
+                    <document>
+                        <guid>8e032d34-302c-4c9b-9520-09564a752749</guid>
+                        <createDateTime>2017-03-16T16:42:53</createDateTime>
+                        <fileName>004 Приложение №4 проект договора на работы изменный.rar</fileName>
+                        <description>004 Приложение №4 проект договора на работы изменный</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117458</url>
+                    </document>
+                    <document>
+                        <guid>bf1d8440-00a9-4a82-8854-9fa4c6f3ec97</guid>
+                        <createDateTime>2017-03-16T16:42:34</createDateTime>
+                        <fileName>001 Приложение №1 Извещение о закупке 1-Перемычка ОЗП.docx</fileName>
+                        <description>001 Приложение №1 Извещение о закупке 1-Перемычка ОЗП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117448</url>
+                    </document>
+                    <document>
+                        <guid>66c3c50a-1325-4bb5-8dbc-4ccf9ff118a2</guid>
+                        <createDateTime>2017-03-16T16:42:39</createDateTime>
+                        <fileName>002 Приложение №2 Зак док 1-Перемычка-Зар ОЗП.doc</fileName>
+                        <description>002 Приложение №2 Зак док 1-Перемычка-Зар ОЗП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117451</url>
+                    </document>
+                    <document>
+                        <guid>00ce767d-aae3-4e51-8faf-fa66c4478930</guid>
+                        <createDateTime>2017-03-16T16:43:05</createDateTime>
+                        <fileName>Чертежи 1-Перемычка.7z</fileName>
+                        <description>Чертежи 1-Перемычка</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117467</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:43:59</ns2:modificationDate>
+                <ns2:saveUserId>202809</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:submissionCloseDateTime>2017-03-23T16:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-14</ns2:publicationPlannedDate>
+                <ns2:templateVersion>1</ns2:templateVersion>
+                <ns2:templateStructure>
+                    <ns2:level>
+                        <ns2:tabLevel>NOTICE</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Общая информация</tabName>
+                            <fixedName>MAIN</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о состоянии извещения</sectionName>
+                                <fixedName>MAIN_STATUS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Сведения о заказчике</sectionName>
+                                <fixedName>MAIN_CUSTOMER</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Общие сведения о закупке</sectionName>
+                                <fixedName>MAIN_PURCHASE</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>4</sectionOrdinal>
+                                <sectionName>Контактная информация</sectionName>
+                                <fixedName>MAIN_CONTACTS</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>Порядок размещения закупки</tabName>
+                            <fixedName>COMMISSION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Размещение извещения</sectionName>
+                                <fixedName>COMMISSION_PUBLISH</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>3</tabOrdinal>
+                            <tabName>Список лотов</tabName>
+                            <fixedName>LOTS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о лотах</sectionName>
+                                <fixedName>LOTS_INFO</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>6</tabOrdinal>
+                            <tabName>Документация</tabName>
+                            <fixedName>DOCS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Предоставление документации</sectionName>
+                                <fixedName>DOCS_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Файлы документации</sectionName>
+                                <fixedName>DOCS_FILES</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>4</tabOrdinal>
+                            <tabName>Сведения о лоте</tabName>
+                            <fixedName>LOT_INFORMATION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация о лоте</sectionName>
+                                <fixedName>LOT_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT_CUSTOMER</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>5</tabOrdinal>
+                            <tabName>Сведения по заказчику</tabName>
+                            <fixedName>LOT_CUSTOMER</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация по Заказчику</sectionName>
+                                <fixedName>LOT_CUSTOMER_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_CUSTOMER_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_CUSTOMER_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                </ns2:templateStructure>
+                <ns2:extendFields>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>envelopeOpeningPlace</integrCode>
+                            <description>Место вскрытия конвертов</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>по адресу: Республика Дагестан, г. Махачкала, ул. Магомедтагирова, пер. Автомобилистов, 7А, АО «ЧиркейГЭСстрой», второй этаж, кабинет 03</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>envelopeOpeningTime</integrCode>
+                            <description>Дата и время вскрытия конвертов</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-03-23T16:30:00</dateTime>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>procedurePlace</integrCode>
+                            <description>Место рассмотрения заявок</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>по адресу: Республика Дагестан, г. Махачкала, ул. Магомедтагирова, пер. Автомобилистов, 7А, АО «ЧиркейГЭСстрой», второй этаж, кабинет 03</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>procedureDate</integrCode>
+                            <description>Дата и время рассмотрения заявок</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-03-24T16:30:00</dateTime>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>summingupPlace</integrCode>
+                            <description>Место подведения итогов</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>по адресу: Республика Дагестан, г. Махачкала, ул. Магомедтагирова, пер. Автомобилистов, 7А, АО «ЧиркейГЭСстрой», второй этаж, кабинет 03</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>summingupTime</integrCode>
+                            <description>Дата и время подведения итогов</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-03-24T16:30:00</dateTime>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>COMMISSION</tabName>
+                            <sectionOrdinal>1</sectionOrdinal>
+                            <sectionName>COMISSION_SEC_Размещение извещения</sectionName>
+                        </position>
+                    </noticeExtendField>
+                </ns2:extendFields>
+                <ns2:lots>
+                    <lot>
+                        <guid>1948f513-9cac-412e-b294-fbaeade53c05</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>«Устройство перемычки котлована здания Зарамагской ГЭС-1 с противофильтрационным элементом, выполненным методом буросекущих свай. Бурение, установка армокаркасов и бетонирование свай» для нужд АО «ЧиркейГЭСстрой», лот №1-Перемычка-ЗарГЭС-ЧГЭС-2017.
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>430992370.96</initialSum>
+                            <deliveryPlace>
+                                <state>Северо-Кавказский федеральный округ</state>
+                                <region>Северная Осетия - Алания   Респ </region>
+                                <regionOkato>90000000000</regionOkato>
+                                <address>РСО-Алания, Алагирский р-н, п. Мизур,Зарамагская ГЭС-1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7d4cc386-c969-484e-acba-1e7108c39e18</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>41.20.2</code>
+                                        <name>Здания нежилые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>42.91.2</code>
+                                        <name>Строительство гидротехнических сооружений</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Лот публикуется повторно, т.к. публикация от 14 марта за №31704885084 участникам не видна.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170230344</planRegistrationNumber>
+                            <planGuid>36e668fb-1ce7-427a-978b-5e0d3d371ddc</planGuid>
+                            <positionNumber>39</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>074d5a08-5be1-4bcc-a9e1-da5dba8fb795</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

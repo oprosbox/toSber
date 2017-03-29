@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>062c3abd-fed2-4938-9980-0af9913795e6</guid>
+        <createDateTime>2017-03-16T18:24:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>39fc6f4b-4939-4cd1-b0ee-2f0fc5a930a6</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>39fc6f4b-4939-4cd1-b0ee-2f0fc5a930a6</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:14:55</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888281</ns2:urlOOS>
+                <ns2:urlVSRZ>tender.otc.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704882860</ns2:registrationNumber>
+                <ns2:name>Поставка топлива по картам</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>111679</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Анна</firstName>
+                    <middleName>Вячеславовна</middleName>
+                    <lastName>Ильченко</lastName>
+                    <phone>+7 (391) 2481834</phone>
+                    <email>ilchenkoav@rzdstroy.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                            <shortName>АО "РЖДСТРОЙ"</shortName>
+                            <iko>67708587205770901001</iko>
+                            <inn>7708587205</inn>
+                            <kpp>770901001</kpp>
+                            <ogrn>1067746082546</ogrn>
+                            <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                            <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                            <phone>7-499-2603432-1247</phone>
+                            <email>BoroninAV@rzdstroy.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>93287520</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:24:19</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-13</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>Электронная торговая площадка</place>
+                    <procedure>В электронной форме</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Внесение изменений</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>7cc90b75-f8de-440a-ae08-d19a3317f890</guid>
+                        <createDateTime>2017-03-16T18:11:51</createDateTime>
+                        <fileName>Котировочная документация.Условия проведения закупки 1-Т (1 часть).docx</fileName>
+                        <description>Котировочная документация.Условия проведения закупки 1-Т (1 часть).docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120592</url>
+                    </document>
+                    <document>
+                        <guid>83ecc018-25cc-4b8a-a275-9a677a3725d0</guid>
+                        <createDateTime>2017-03-16T18:11:51</createDateTime>
+                        <fileName>Изменения от 16.03.2017.doc</fileName>
+                        <description>Изменения от 16.03.2017.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120593</url>
+                    </document>
+                    <document>
+                        <guid>4c1ef78b-47b0-4559-ad0d-95b5d058e1b9</guid>
+                        <createDateTime>2017-03-16T18:11:51</createDateTime>
+                        <fileName>Котировочная документация. Порядок организации проведения закупки.docx</fileName>
+                        <description>Котировочная документация. Порядок организации проведения закупки.docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120594</url>
+                    </document>
+                    <document>
+                        <guid>7cbf57b2-e3d1-491f-bc96-0b0e48c19d4f</guid>
+                        <createDateTime>2017-03-16T18:11:51</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120591</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:24:19</ns2:modificationDate>
+                <ns2:saveUserId>260451</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>OTC-tender</name>
+                    <url>tender.otc.ru</url>
+                    <electronicPlaceId>106</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>660058, г. Красноярск, ул. Ломоносова, дом 40.</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-27T10:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-27T12:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>53aca488-3407-49cb-8322-d29ac484b2f4</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка топлива по картам</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>17998817.73</initialSum>
+                            <deliveryPlace>
+                                <state>Сибирский федеральный округ</state>
+                                <region>Красноярский край</region>
+                                <regionOkato>04000000000</regionOkato>
+                                <address>Красноярский край</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>973449c8-f0c3-4c66-9ed6-cb221089f80e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>19.20.21.100</code>
+                                        <name>Бензин автомобильный</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>19.20</code>
+                                        <name>Производство нефтепродуктов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210428</planRegistrationNumber>
+                            <planGuid>7a3019e8-39bb-449d-8584-fa2ac8fd6d7a</planGuid>
+                            <positionNumber>1017</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a768af9d-5d61-483e-b14c-4c6074837eaa</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

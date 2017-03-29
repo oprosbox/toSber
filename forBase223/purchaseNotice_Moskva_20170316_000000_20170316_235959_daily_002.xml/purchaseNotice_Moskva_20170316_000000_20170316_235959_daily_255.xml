@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>450a1943-bd1f-43df-a186-f33ef1bf18e0</guid>
+        <createDateTime>2017-03-16T21:37:57</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>c6adadec-3049-8604-8179-0eeb8c22b426</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>c6adadec-3049-8604-8179-0eeb8c22b426</ns2:guid>
+                <ns2:createDateTime>2017-03-16T21:35:11</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888515</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286322</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704900126</ns2:registrationNumber>
+                <ns2:name>Аукцион в электронной форме среди субъектов малого предпринимательства, социально ориентированных некоммерческих организаций на право заключения договора на поставку материалов для выполнения работ по ремонту жилого фонда района Силино</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                        <iko>57735597700773501001</iko>
+                        <inn>7735597700</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746069820</ogrn>
+                        <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                        <postalAddress>124460, корпус 1123</postalAddress>
+                        <phone>7-499-7317778</phone>
+                        <fax>7-499-7317778</fax>
+                        <email>gbu.silino@mail.ru</email>
+                        <okato>45272572000</okato>
+                        <okpo>20533885</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>151383</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                        <iko>57735597700773501001</iko>
+                        <inn>7735597700</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746069820</ogrn>
+                        <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                        <postalAddress>124460, корпус 1123</postalAddress>
+                        <phone>7-499-7317778</phone>
+                        <fax>7-499-7317778</fax>
+                        <email>gbu.silino@mail.ru</email>
+                        <okato>45272572000</okato>
+                        <okpo>20533885</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Алексей</firstName>
+                    <middleName>Юрьевич</middleName>
+                    <lastName>Галустов</lastName>
+                    <phone>+7 (499) 7317778</phone>
+                    <email>gbu.silino@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                            <iko>57735597700773501001</iko>
+                            <inn>7735597700</inn>
+                            <kpp>773501001</kpp>
+                            <ogrn>5137746069820</ogrn>
+                            <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                            <postalAddress>124460, корпус 1123</postalAddress>
+                            <phone>7-499-7317778</phone>
+                            <fax>7-499-7317778</fax>
+                            <email>gbu.silino@mail.ru</email>
+                            <okato>45272572000</okato>
+                            <okpo>20533885</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T21:37:57</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>12</totalDocumentsCount>
+                    <document>
+                        <guid>c5d7b486-ed36-ce18-e36c-fd20d8db15b2</guid>
+                        <createDateTime>2017-03-16T19:11:24</createDateTime>
+                        <fileName>Извещение[Uaxbi3GymQ4].doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121664</url>
+                    </document>
+                    <document>
+                        <guid>117fb217-8cf6-8508-3db5-814777ba8d06</guid>
+                        <createDateTime>2017-03-16T21:26:25</createDateTime>
+                        <fileName>Определение_НМЦ[2].pdf</fileName>
+                        <description>Определение НМЦ (pdf)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121665</url>
+                    </document>
+                    <document>
+                        <guid>e32d82f9-06f2-fb79-3dfe-e71c7619d9b9</guid>
+                        <createDateTime>2017-03-16T19:24:54</createDateTime>
+                        <fileName>Протокол_плитка.pdf</fileName>
+                        <description>Протокол НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121666</url>
+                    </document>
+                    <document>
+                        <guid>d20cbddd-4272-a3f2-8fa2-225009baf99b</guid>
+                        <createDateTime>2017-03-16T21:10:23</createDateTime>
+                        <fileName>Документация[BzTU50P0rqI].doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121667</url>
+                    </document>
+                    <document>
+                        <guid>4e9aebd4-97a9-98f5-c94b-5ad983e250e2</guid>
+                        <createDateTime>2017-03-16T19:21:54</createDateTime>
+                        <fileName>Обоснование_НМЦ[1].pdf</fileName>
+                        <description>Обоснование НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121668</url>
+                    </document>
+                    <document>
+                        <guid>63d88510-bd68-5736-55b7-b9ea2ad05879</guid>
+                        <createDateTime>2017-03-16T19:12:09</createDateTime>
+                        <fileName>Приказ_плитка.pdf</fileName>
+                        <description>Приказ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121669</url>
+                    </document>
+                    <document>
+                        <guid>64c1fd68-8fb8-ddb1-e7ea-12112a630759</guid>
+                        <createDateTime>2017-03-16T19:14:13</createDateTime>
+                        <fileName>Ф2_плитка.pdf</fileName>
+                        <description>Форма 2 (pdf)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121670</url>
+                    </document>
+                    <document>
+                        <guid>932d39ff-1b71-93af-ffc0-8b0b28865f0d</guid>
+                        <createDateTime>2017-03-16T21:23:19</createDateTime>
+                        <fileName>Определение_НМЦК[3].xls</fileName>
+                        <description>Определение НМЦ (excel)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121659</url>
+                    </document>
+                    <document>
+                        <guid>817991ca-0718-83c8-b51c-9e328a87a99d</guid>
+                        <createDateTime>2017-03-16T21:32:10</createDateTime>
+                        <fileName>Проект_договора_с_приложениями[7].rar</fileName>
+                        <description>Проект договора с приложениями</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121660</url>
+                    </document>
+                    <document>
+                        <guid>3c108f67-95c2-f3bc-1587-91b526eb7baf</guid>
+                        <createDateTime>2017-03-16T19:13:39</createDateTime>
+                        <fileName>Форма_2-Д.doc</fileName>
+                        <description>Форма 2 (word)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121661</url>
+                    </document>
+                    <document>
+                        <guid>58617da8-2353-0b98-c3b5-0a765277e7e1</guid>
+                        <createDateTime>2017-03-16T19:24:29</createDateTime>
+                        <fileName>Техническое_задание[2].pdf</fileName>
+                        <description>Техническое задание (pdf)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121662</url>
+                    </document>
+                    <document>
+                        <guid>f0182295-1484-2350-dbb9-f40274f5455a</guid>
+                        <createDateTime>2017-03-16T19:23:31</createDateTime>
+                        <fileName>ТЗ_плитка.doc</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121663</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T21:37:57</ns2:modificationDate>
+                <ns2:saveUserId>222218</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, г. Зеленоград, корп. 1137</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-06T15:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-10T15:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>aec98b1f-5d13-a22b-8e78-a9d594761cda</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка материалов для выполнения работ по текущему ремонту жилого фонда района Силино</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>591300.00</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с техническим заданием.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>73663abd-767a-8709-d75f-a010c4ea6197</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>23.99.12.110</code>
+                                        <name>Материалы рулонные кровельные и гидроизоляционные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>23.99</code>
+                                        <name>Производство прочей неметаллической минеральной продукции, не включенной в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>60</qty>
+                                    <additionalInfo>Гидростеклоизол ТКП</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4f7f0436-fe65-0378-91db-d2ba6b86d7c1</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>23.64.10.110</code>
+                                        <name>Смеси строительные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>23.64</code>
+                                        <name>Производство сухих бетонных смесей</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>166</code>
+                                        <name>Килограмм</name>
+                                    </okei>
+                                    <qty>5750</qty>
+                                    <additionalInfo>Клей плиточный</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>0a682fa6-37e5-2192-fc97-289cab528c5a</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>23.31.10.122</code>
+                                        <name>Плитки керамические для полов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>23.31</code>
+                                        <name>Производство керамических плит и плиток</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>055</code>
+                                        <name>Квадратный метр</name>
+                                    </okei>
+                                    <qty>850</qty>
+                                    <additionalInfo>Плитка напольная</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160200964</planRegistrationNumber>
+                            <planGuid>4b03e681-9cf1-4844-9ca9-60a73296cbe6</planGuid>
+                            <positionNumber>34</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>6123c748-ad87-48eb-a642-17e2a3e39359</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

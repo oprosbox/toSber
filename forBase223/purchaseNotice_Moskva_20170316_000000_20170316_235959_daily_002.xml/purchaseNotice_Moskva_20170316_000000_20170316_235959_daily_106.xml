@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c133761b-32a4-4a82-a9b5-e4e6d76dbdcf</guid>
+        <createDateTime>2017-03-16T17:37:03</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>fcaf0d2b-f2e1-4614-bf4d-45ee0f166a8f</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>fcaf0d2b-f2e1-4614-bf4d-45ee0f166a8f</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:26:14</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888040</ns2:urlOOS>
+                <ns2:urlVSRZ>http://torgi223.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899750</ns2:registrationNumber>
+                <ns2:name>Поставка нитей хирургических стерильных, синтетических, рассасывающихся с атравматическими иглами</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>116776</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николай</firstName>
+                    <middleName>Петрович</middleName>
+                    <lastName>Соболев</lastName>
+                    <phone>+7 (499) 905-81-49</phone>
+                    <email>glaz-za-glaz@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                            <iko>87713059497771301001</iko>
+                            <inn>7713059497</inn>
+                            <kpp>771301001</kpp>
+                            <ogrn>1027739714606</ogrn>
+                            <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                            <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                            <phone>7-495-4888747</phone>
+                            <email>glaz-za-glaz@yandex.ru</email>
+                            <okato>45277559000</okato>
+                            <okpo>05332385</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:37:03</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>Документация о закупке доступна для скачивания и ознакомления в единой информационной системе по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru</place>
+                    <procedure>Документация о закупке доступна для скачивания и ознакомления в единой информационной системе по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>e81454d9-d8ad-4a2a-8a52-191aded6af5c</guid>
+                        <createDateTime>2017-03-16T17:26:14</createDateTime>
+                        <fileName>ЗК шовн.docx</fileName>
+                        <description>ЗК шовн.docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119336</url>
+                    </document>
+                    <document>
+                        <guid>9f6dd848-a77a-485e-a6cb-d615908ed56b</guid>
+                        <createDateTime>2017-03-16T17:26:14</createDateTime>
+                        <fileName>Расчет НМЦ шовник.xlsx</fileName>
+                        <description>Расчет НМЦ шовник.xlsx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119337</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:37:03</ns2:modificationDate>
+                <ns2:saveUserId>67328</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП «Торги 223»</name>
+                    <url>http://www.torgi223.ru</url>
+                    <electronicPlaceId>145</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г.Москва, Бескудниковский бульвар, дом 59А, каб 21-23</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-22T07:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-22T07:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-21T07:00:00</ns2:submissionCloseDateTime>
+                <ns2:lots>
+                    <lot>
+                        <guid>3d489d66-63b8-4a93-9c69-3b083aef3c05</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка нитей хирургических стерильных, синтетических, рассасывающихся с атравматическими иглами</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2393550.00</initialSum>
+                            <deliveryPlace>
+                                <address>г.Москва, Бескудниковский бульвар, дом 59А, центральный склад</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>8c6ea927-19a7-4195-a6c3-7fc42eb08f11</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.2</code>
+                                        <name>Препараты лекарственные прочие и материалы, применяемые в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>50</qty>
+                                    <additionalInfo>Нити хирургические стерильные, синтетические, рассасывающиеся с атравматическими иглами Викрил (10/0)</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4f8645f1-8a63-429a-a1f8-4656dfd4e1cf</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.2</code>
+                                        <name>Препараты лекарственные прочие и материалы, применяемые в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>30</qty>
+                                    <additionalInfo>Нити хирургические стерильные, синтетические, рассасывающиеся с атравматическими иглами Викрил (6/0)</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2c37f40e-3b7a-4d46-ba31-5b4b47904382</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.2</code>
+                                        <name>Препараты лекарственные прочие и материалы, применяемые в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>30</qty>
+                                    <additionalInfo>Нити хирургические стерильные, синтетические, рассасывающиеся с атравматическими иглами  Викрил (7/0)</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>06a6cd56-6ea6-433b-883d-d9dbf9070f30</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.2</code>
+                                        <name>Препараты лекарственные прочие и материалы, применяемые в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>100</qty>
+                                    <additionalInfo>Нити хирургические стерильные, синтетические, рассасывающиеся с атравматическими иглами  Викрил (8/0)</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218529</planRegistrationNumber>
+                            <planGuid>1b6e7b8c-b276-14d6-9bbd-9acc8992fbb3</planGuid>
+                            <positionNumber>1834</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2958522a-d733-4bd2-d762-36ebbcdd2db7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

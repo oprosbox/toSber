@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>fa7ecf25-5664-44fb-9d34-c850ede45a19</guid>
+        <createDateTime>2017-03-16T16:07:00</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>798253d8-21ff-40c9-bb25-88fe0acc3e15</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>798253d8-21ff-40c9-bb25-88fe0acc3e15</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:06:09</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887265</ns2:urlOOS>
+                <ns2:registrationNumber>31704882695</ns2:registrationNumber>
+                <ns2:name>№94-17 от 13 марта 2017 года 
+только для Субъектов малого и среднего предпринимательства
+«Выполнение строительно-монтажных работ для подключения потребителей по программе технологического присоединения Филиала ООО «БрянскЭлектро» в г.Брянск»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                        <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                        <iko>57731480563773101001</iko>
+                        <inn>7731480563</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5147746160172</ogrn>
+                        <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                        <postalAddress>121596</postalAddress>
+                        <phone>8-4832-668040</phone>
+                        <email>balya.o@bryanskelectro.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>22346437</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>103604</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                        <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                        <iko>57731480563773101001</iko>
+                        <inn>7731480563</inn>
+                        <kpp>773101001</kpp>
+                        <ogrn>5147746160172</ogrn>
+                        <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                        <postalAddress>121596</postalAddress>
+                        <phone>8-4832-668040</phone>
+                        <email>balya.o@bryanskelectro.ru</email>
+                        <okato>45268569000</okato>
+                        <okpo>22346437</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Анна</firstName>
+                    <middleName>Юрьевна</middleName>
+                    <lastName>Швед</lastName>
+                    <phone>+7 (4832) 668040</phone>
+                    <email>surkova.u@bryanskelectro.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "БРЯНСКЭЛЕКТРО"</fullName>
+                            <shortName>ООО "БРЯНСКЭЛЕКТРО"</shortName>
+                            <iko>57731480563773101001</iko>
+                            <inn>7731480563</inn>
+                            <kpp>773101001</kpp>
+                            <ogrn>5147746160172</ogrn>
+                            <legalAddress>121596, г МОСКВА, ул ГОРБУНОВА, дом 2, корпус 3, офис (квартира) 9; ПОМ. II; КОМ 52</legalAddress>
+                            <postalAddress>121596</postalAddress>
+                            <phone>8-4832-668040</phone>
+                            <email>balya.o@bryanskelectro.ru</email>
+                            <okato>45268569000</okato>
+                            <okpo>22346437</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:07:00</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-13</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>Заявки могут подаваться в любой момент с даты официального размещения в единой информационной системе нарочно на бумажном носителе в конверте по адресу 241037, г.Брянск, пр-т Станке Димитрова, д.5в (каб. 210) в рабочее время:
+ПН – ЧТ: с 8:15 по 16:30 (перерыв с 11:45 до 12:45), 
+ПТ: с 8:15 по 15:30 (перерыв с 11:45 до 12:45).</place>
+                    <procedure>Заявки могут подаваться в любой момент с даты официального размещения в единой информационной системе нарочно на бумажном носителе в конверте по адресу 241037, г.Брянск, пр-т Станке Димитрова, д.5в (каб. 210) в рабочее время:ПН – ЧТ: с 8:15 по 16:30 (перерыв с 11:45 до 12:45), 
+ПТ: с 8:15 по 15:30 (перерыв с 11:45 до 12:45)..</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>Замена файла "изменения"</ns2:modificationDescription>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>12</totalDocumentsCount>
+                    <document>
+                        <guid>fd941e86-4f82-4c94-8ffd-30e6333e1f50</guid>
+                        <createDateTime>2017-03-13T17:05:38</createDateTime>
+                        <fileName>Приложение № 8 Список объектов.xlsx</fileName>
+                        <description>Приложение № 8 Список объектов</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115584</url>
+                    </document>
+                    <document>
+                        <guid>57622f84-0acf-4db1-9417-67cd92eb50bb</guid>
+                        <createDateTime>2017-03-16T16:03:31</createDateTime>
+                        <fileName>Приложение № 4 Проектная документация.rar</fileName>
+                        <description>Приложение № 4 Проектная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115574</url>
+                    </document>
+                    <document>
+                        <guid>f6846166-27a7-4954-bfe8-560e271ca401</guid>
+                        <createDateTime>2017-03-16T16:03:35</createDateTime>
+                        <fileName>Приложение № 5 Дефектные ведомости.rar</fileName>
+                        <description>Приложение № 5 Дефектные ведомости</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115575</url>
+                    </document>
+                    <document>
+                        <guid>acfd5425-e465-414c-b7cc-d5805b2a69a5</guid>
+                        <createDateTime>2017-03-16T16:06:39</createDateTime>
+                        <fileName>Изменения.docx</fileName>
+                        <description>Изменения</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115639</url>
+                    </document>
+                    <document>
+                        <guid>b25d5f9b-efc5-414a-b33d-374c7e2f55c2</guid>
+                        <createDateTime>2017-03-13T17:05:42</createDateTime>
+                        <fileName>Приложение № 9 Справка о внесении изменений в технические характеристики основных средств.xlsx</fileName>
+                        <description>Приложение № 9 Справка о внесении изменений в технические характеристики основных средств</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115576</url>
+                    </document>
+                    <document>
+                        <guid>d19af8ec-526d-4d68-bbef-7de8d24b6be9</guid>
+                        <createDateTime>2017-03-13T17:05:29</createDateTime>
+                        <fileName>Приложение № 6 Регламент допуска подрядных и субподрядных организаций.doc</fileName>
+                        <description>Приложение № 6 Регламент допуска подрядных и субподрядных организаций</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115577</url>
+                    </document>
+                    <document>
+                        <guid>0f5f88a1-7c81-434b-90e4-d3b096089ac0</guid>
+                        <createDateTime>2017-03-13T17:05:34</createDateTime>
+                        <fileName>Приложение № 7 Декларация СМП.docx</fileName>
+                        <description>Приложение № 7 Декларация СМП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115578</url>
+                    </document>
+                    <document>
+                        <guid>7ce78c5d-c6b4-41b5-91b7-801073f867bf</guid>
+                        <createDateTime>2017-03-13T17:05:09</createDateTime>
+                        <fileName>Приложение № 2 анкета участника.docx</fileName>
+                        <description>Приложение № 2 анкета участника</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115579</url>
+                    </document>
+                    <document>
+                        <guid>2a4dafd9-82e2-4338-a1dd-ee074ef0aae9</guid>
+                        <createDateTime>2017-03-16T16:03:21</createDateTime>
+                        <fileName>Закупочная документация ОЗП № 94-17.docx</fileName>
+                        <description>Закупочная документация ОЗП № 94-17</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115580</url>
+                    </document>
+                    <document>
+                        <guid>d931c7a5-13ce-427a-887c-c1ab97f78f61</guid>
+                        <createDateTime>2017-03-13T17:04:56</createDateTime>
+                        <fileName>Приложение № 1 форма предложения на выполнение работ.docx</fileName>
+                        <description>Приложение № 1 форма предложения на выполнение работ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115581</url>
+                    </document>
+                    <document>
+                        <guid>d986aa39-f9f4-4b46-90bd-521eca30d6fa</guid>
+                        <createDateTime>2017-03-13T17:05:13</createDateTime>
+                        <fileName>Приложение № 3 Проект договора.rar</fileName>
+                        <description>Приложение № 3 Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115582</url>
+                    </document>
+                    <document>
+                        <guid>3302ca3a-cc23-47c2-96a4-dbb68d095d82</guid>
+                        <createDateTime>2017-03-16T16:03:25</createDateTime>
+                        <fileName>Изменения.docx</fileName>
+                        <description>Изменения</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115583</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:07:00</ns2:modificationDate>
+                <ns2:saveUserId>157151</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>241037, г. Брянск, пр-т Станке Димитрова, д.5в (каб.210)</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-21T10:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-27T17:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>241037, г. Брянск, пр-т Станке Димитрова, д.5в (каб.210)</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-21T09:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-13</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>651c4908-e713-422c-adf2-cb3759a54f39</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>СМР/(8695 Киселевич и др.)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1950000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Брянская   обл</region>
+                                <regionOkato>15000000000</regionOkato>
+                                <address>Брянская область</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1b016ac3-114a-4f8f-8707-5121fe08d1b3</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.21.10</code>
+                                        <name>Работы электромонтажные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.21</code>
+                                        <name>Производство электромонтажных работ</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210012</planRegistrationNumber>
+                            <planGuid>c0559771-b14a-466f-904e-d79071ece12a</planGuid>
+                            <positionNumber>22</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b6a5333a-01b2-496a-8eed-7ed25dbe4c36</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

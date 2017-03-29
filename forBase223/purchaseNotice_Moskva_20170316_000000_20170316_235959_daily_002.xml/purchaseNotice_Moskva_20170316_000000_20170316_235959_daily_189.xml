@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>72c78dfd-1d77-4809-930e-70c5f99c8226</guid>
+        <createDateTime>2017-03-16T17:19:30</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>633dd1e8-2a8c-4617-bc6e-df6c11f14fd2</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>633dd1e8-2a8c-4617-bc6e-df6c11f14fd2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:47:01</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887675</ns2:urlOOS>
+                <ns2:urlVSRZ>http://utp.sberbank-ast.ru/Trade/NBT/PurchaseView/41/0/0/226995</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704854609</ns2:registrationNumber>
+                <ns2:name>Поставка лекарственных средств различных фармакотерапевтических групп для нужд ФГБНУ «НИИГБ»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ НАУЧНОЕ УЧРЕЖДЕНИЕ "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГЛАЗНЫХ БОЛЕЗНЕЙ"</fullName>
+                        <shortName>ФГБНУ "НИИГБ"</shortName>
+                        <iko>87704084426770401001</iko>
+                        <inn>7704084426</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1027700278583</ogrn>
+                        <legalAddress>119021, г МОСКВА, ул РОССОЛИМО, дом 11, корпус А;Б</legalAddress>
+                        <postalAddress>119021, Москва, Россолимо, дом 11, корпус А;Б</postalAddress>
+                        <phone>7-499-2480125</phone>
+                        <email>info@eyeacademy.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>01898517</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5621</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>СБ-АСТ: Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Сбербанк-Автоматизированная система торгов"</fullName>
+                        <shortName>ЗАО "Сбербанк-АСТ"</shortName>
+                        <iko>67707308480770701001</iko>
+                        <inn>7707308480</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027707000441</ogrn>
+                        <legalAddress>127055, Москва, Новослободская, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>119180, г. Москва, ул. Большая Якиманка, д. 23 </postalAddress>
+                        <phone>7-495-7872997</phone>
+                        <fax>7-495-7872998</fax>
+                        <email>FSKordysh@sberbank-ast.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58997535</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Мамиконян Вардан Рафаелович</firstName>
+                    <phone>+7 (499) 2480125</phone>
+                    <email>info@eyeacademy.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ НАУЧНОЕ УЧРЕЖДЕНИЕ "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГЛАЗНЫХ БОЛЕЗНЕЙ"</fullName>
+                            <shortName>ФГБНУ "НИИГБ"</shortName>
+                            <iko>87704084426770401001</iko>
+                            <inn>7704084426</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1027700278583</ogrn>
+                            <legalAddress>119021, г МОСКВА, ул РОССОЛИМО, дом 11, корпус А;Б</legalAddress>
+                            <postalAddress>119021, Москва, Россолимо, дом 11, корпус А;Б</postalAddress>
+                            <phone>7-499-2480125</phone>
+                            <email>info@eyeacademy.ru</email>
+                            <okato>45286590000</okato>
+                            <okpo>01898517</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:19:30</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-06</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>http://utp.sberbank-ast.ru/Trade</place>
+                    <procedure>http://utp.sberbank-ast.ru/Trade</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Допущена техническая ошибка в техническом задании</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>0b0496a1-1e79-405f-b170-4163c33dbf77</guid>
+                        <createDateTime>2017-03-16T16:47:01</createDateTime>
+                        <fileName>ДА  (ЛС) лот 6 (с изменениями).doc</fileName>
+                        <description>ДА  (ЛС) лот 6 (с изменениями).doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117697</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:19:30</ns2:modificationDate>
+                <ns2:saveUserId>29401</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЗАО «Сбербанк-АСТ» (УТП)</name>
+                    <url>http://utp.sberbank-ast.ru/Trade</url>
+                    <electronicPlaceId>116</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>http://utp.sberbank-ast.ru/Trade</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-03T10:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-06T10:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-31T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-03</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>a0ade71d-2cc5-4b7e-8138-92693d50a6d1</guid>
+                        <ordinalNumber>6</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка лекарственных средств различных фармакотерапевтических групп для нужд ФГБНУ «НИИГБ»</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2498059.00</initialSum>
+                            <deliveryPlace>
+                                <address>установлено в документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>9d162c01-ccdb-42ab-83d7-62dea880a38e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>21.20.10.261</code>
+                                        <name>Препараты для лечения заболеваний глаз</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>21.20.1</code>
+                                        <name>Производство лекарственных препаратов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Лекарственные средства</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160208504</planRegistrationNumber>
+                            <planGuid>e20eefb6-2616-403b-8af6-b735c5ce05d4</planGuid>
+                            <positionNumber>6</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>07e43c85-6467-4a3e-978a-2a6e58997cc7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

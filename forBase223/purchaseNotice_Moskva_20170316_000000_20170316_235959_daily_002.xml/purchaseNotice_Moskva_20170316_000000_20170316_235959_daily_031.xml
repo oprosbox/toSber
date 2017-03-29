@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>a2357fe4-f11c-4bd2-bd74-72f24ac3e334</guid>
+        <createDateTime>2017-03-16T16:57:56</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>63e71888-7955-4ff3-8653-11fed8aa8091</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>63e71888-7955-4ff3-8653-11fed8aa8091</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:48:59</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887695</ns2:urlOOS>
+                <ns2:registrationNumber>31704899454</ns2:registrationNumber>
+                <ns2:name>Поставка моющих, чистящих средств, расходных материалов, уборочного инвентаря </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                        <shortName>ЗАО "Газинком"</shortName>
+                        <iko>77728227539772801001</iko>
+                        <inn>7728227539</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1037739034541</ogrn>
+                        <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                        <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                        <phone>7-498-6574945</phone>
+                        <fax>7-498-6574941</fax>
+                        <email>info@gazinkom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>55230359</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>6232</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>21 (Газпром) Открытый запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                        <shortName>ЗАО "Газинком"</shortName>
+                        <iko>77728227539772801001</iko>
+                        <inn>7728227539</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1037739034541</ogrn>
+                        <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                        <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                        <phone>7-498-6574945</phone>
+                        <fax>7-498-6574941</fax>
+                        <email>info@gazinkom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>55230359</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (498) 6574386</phone>
+                    <email>kutueva@gazinkom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                            <shortName>ЗАО "Газинком"</shortName>
+                            <iko>77728227539772801001</iko>
+                            <inn>7728227539</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1037739034541</ogrn>
+                            <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                            <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                            <phone>7-498-6574945</phone>
+                            <fax>7-498-6574941</fax>
+                            <email>info@gazinkom.ru</email>
+                            <okato>45293590000</okato>
+                            <okpo>55230359</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:57:56</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-03</deliveryEndDateTime>
+                    <place>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</place>
+                    <procedure>В электронном виде размещена на Официальном сайте, а также предоставляется бесплатно по электронной почте на основании Уведомления о намерении принять участие в Запросе предложений (Приложение №4 к Документации - форма прилагается).</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>139ad79b-372e-4427-91d3-5c985d76d681</guid>
+                        <createDateTime>2017-03-16T16:56:43</createDateTime>
+                        <fileName>Прил  № 2 Тех часть Спец моющие чистящие.xls</fileName>
+                        <description>Прил  № 2 Тех часть Спец моющие чистящие</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118241</url>
+                    </document>
+                    <document>
+                        <guid>eb95a745-d509-4349-bad0-64961290e6fe</guid>
+                        <createDateTime>2017-03-16T16:56:49</createDateTime>
+                        <fileName>Приложение № 3 к ЗП_Коммер предложение моющие чистыщие.doc</fileName>
+                        <description>Приложение № 3 к ЗП_Коммер предложение моющие чистыщие</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118243</url>
+                    </document>
+                    <document>
+                        <guid>8d0ab5ae-9dca-43b6-be4f-0e06c0b8ac6a</guid>
+                        <createDateTime>2017-03-16T16:57:12</createDateTime>
+                        <fileName>Приложение № 5 к ЗП Методика оценки заявок моющие чистящие.rtf</fileName>
+                        <description>Приложение № 5 к ЗП Методика оценки заявок моющие чистящие</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118261</url>
+                    </document>
+                    <document>
+                        <guid>b0df09d5-adf8-4650-8970-1d6853ca417c</guid>
+                        <createDateTime>2017-03-16T16:56:15</createDateTime>
+                        <fileName>Документация ЗП моющие чистящие.rtf</fileName>
+                        <description>Документация ЗП моющие чистящие</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118213</url>
+                    </document>
+                    <document>
+                        <guid>f6e7e609-403b-4fb1-b364-b2f534b3786b</guid>
+                        <createDateTime>2017-03-16T16:56:29</createDateTime>
+                        <fileName>Приложение № 1 - Договор поставки.doc</fileName>
+                        <description>Приложение № 1 - Договор поставки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118231</url>
+                    </document>
+                    <document>
+                        <guid>781325cc-27cc-4104-8ca1-d2f323c5e126</guid>
+                        <createDateTime>2017-03-16T16:56:58</createDateTime>
+                        <fileName>Приложение №4 Уведомление о намерении.xlsx</fileName>
+                        <description>Приложение №4 Уведомление о намерении</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118252</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:57:56</ns2:modificationDate>
+                <ns2:saveUserId>29950</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-04T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-05T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-03T12:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>f81015f8-720b-4f37-a213-2fd3ab416c72</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка моющих, чистящих средств, расходных материалов и уборочного инвентаря</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>326500.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>Московская область, Ленинский район, поселок Развилка</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>001985fb-905b-4248-9720-1075c77560a2</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.4</code>
+                                        <name>Мыло и средства моющие, средства чистящие и полирующие, средства парфюмерные и косметические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.4</code>
+                                        <name>Торговля оптовая непродовольственными потребительскими товарами</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>cf36b955-e6d5-4757-a64c-31fad87e4a9c</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>13.20.44</code>
+                                        <name>Марля, кроме узких тканей</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.4</code>
+                                        <name>Торговля оптовая непродовольственными потребительскими товарами</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>c632b692-8d21-406d-82b6-2ed5932d0dc2</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>13.92.21</code>
+                                        <name>Мешки и пакеты, используемые для упаковки товаров</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.4</code>
+                                        <name>Торговля оптовая непродовольственными потребительскими товарами</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1bb726b6-e6d7-4a46-b8a4-f5493057e378</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.19</code>
+                                        <name>Изделия из резины прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.4</code>
+                                        <name>Торговля оптовая непродовольственными потребительскими товарами</name>
+                                    </okved2>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>950dbc15-e299-4163-b37b-13bff8adfd2f</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.23</code>
+                                        <name>Посуда столовая и кухонная, прочие предметы домашнего обихода и предметы туалета пластмассовые</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.4</code>
+                                        <name>Торговля оптовая непродовольственными потребительскими товарами</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209803</planRegistrationNumber>
+                            <planGuid>3a37c1f7-4002-4ab3-bc20-93e6af2b5f94</planGuid>
+                            <positionNumber>35</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>d3ad9f99-9e67-4d80-9a45-4856825c0cf5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

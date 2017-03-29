@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNoticeOK xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>cf8f4d1c-75ee-4c74-b247-0a38cc535067</guid>
+        <createDateTime>2017-03-15T16:43:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4e0ca58b-1218-490b-aee1-5c6c2c1cddc4</guid>
+            <ns2:purchaseNoticeOKData>
+                <ns2:guid>4e0ca58b-1218-490b-aee1-5c6c2c1cddc4</ns2:guid>
+                <ns2:createDateTime>2017-03-15T16:24:45</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5880317</ns2:urlOOS>
+                <ns2:registrationNumber>31704893572</ns2:registrationNumber>
+                <ns2:name>Открытый конкурс на право заключения договора на оказание услуг по добровольному медицинскому страхованию для сотрудников  ФГБОУ ВО «МГТУ «СТАНКИН»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНОЛОГИЧЕСКИЙ УНИВЕРСИТЕТ "СТАНКИН"</fullName>
+                        <shortName>ФГБОУ ВО "МГТУ "СТАНКИН"</shortName>
+                        <iko>87707003506770701001</iko>
+                        <inn>7707003506</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1037700246451</ogrn>
+                        <legalAddress>127055, Г МОСКВА, ПЕР ВАДКОВСКИЙ, дом 3А</legalAddress>
+                        <postalAddress>127055, Москва Город, Вадковский Переулок, дом 3а</postalAddress>
+                        <phone>7-499-9729400</phone>
+                        <fax>7-499-9733885</fax>
+                        <email>rector@stankin.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>02068775</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>3359</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНОЛОГИЧЕСКИЙ УНИВЕРСИТЕТ "СТАНКИН"</fullName>
+                        <shortName>ФГБОУ ВО "МГТУ "СТАНКИН"</shortName>
+                        <iko>87707003506770701001</iko>
+                        <inn>7707003506</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1037700246451</ogrn>
+                        <legalAddress>127055, Г МОСКВА, ПЕР ВАДКОВСКИЙ, дом 3А</legalAddress>
+                        <postalAddress>127055, Москва Город, Вадковский Переулок, дом 3а</postalAddress>
+                        <phone>7-499-9729400</phone>
+                        <fax>7-499-9733885</fax>
+                        <email>rector@stankin.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>02068775</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (499) 9733935</phone>
+                    <email>darya_hairo@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНОЛОГИЧЕСКИЙ УНИВЕРСИТЕТ "СТАНКИН"</fullName>
+                            <shortName>ФГБОУ ВО "МГТУ "СТАНКИН"</shortName>
+                            <iko>87707003506770701001</iko>
+                            <inn>7707003506</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1037700246451</ogrn>
+                            <legalAddress>127055, Г МОСКВА, ПЕР ВАДКОВСКИЙ, дом 3А</legalAddress>
+                            <postalAddress>127055, Москва Город, Вадковский Переулок, дом 3а</postalAddress>
+                            <phone>7-499-9729400</phone>
+                            <fax>7-499-9733885</fax>
+                            <email>rector@stankin.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>02068775</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-15T16:43:45</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-05</deliveryEndDateTime>
+                    <place>По предварительному письменному запросу</place>
+                    <procedure>По предварительному письменному запросу</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>309ff230-bcc9-4daf-8010-c82c075faad1</guid>
+                        <createDateTime>2017-03-15T16:41:04</createDateTime>
+                        <fileName>Документация ДМС 2017.doc</fileName>
+                        <description>Документация ДМС 2017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30083086</url>
+                    </document>
+                    <document>
+                        <guid>718fd140-a6e3-4627-bf4b-bfb47466332e</guid>
+                        <createDateTime>2017-03-15T16:41:10</createDateTime>
+                        <fileName>Обоснование НМЦ.docx</fileName>
+                        <description>Обоснование НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30083103</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-15T16:43:45</ns2:modificationDate>
+                <ns2:saveUserId>263138</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:lots>
+                    <lot>
+                        <guid>dd864817-4f0f-46ee-80c1-94fe72fb834c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по добровольному медицинскому страхованию для работников
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2950000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>В соответствии с техническим заданием</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>958f9971-e64f-4e3b-9b47-432a9b3e1606</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>65.12.12.000</code>
+                                        <name>Услуги по медицинскому страхованию</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>65.12.1</code>
+                                        <name>Страхование медицинское</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170225170</planRegistrationNumber>
+                            <planGuid>7dd5ffe2-0366-4d96-ac4f-485c309c080c</planGuid>
+                            <positionNumber>17</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7a4b2db6-ac3c-4a2e-858d-00af9857b1fa</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+                <ns2:examinationPlace>г. Москва, Вадковский пер., д.3а, комн. 226</ns2:examinationPlace>
+                <ns2:examinationDateTime>2017-04-06T11:00:00</ns2:examinationDateTime>
+                <ns2:envelopeOpeningPlace>г. Москва, Вадковский пер., д.3а, комн. 226</ns2:envelopeOpeningPlace>
+                <ns2:envelopeOpeningTime>2017-04-05T14:00:00</ns2:envelopeOpeningTime>
+                <ns2:summingupPlace>г. Москва, Вадковский пер., д.3а, комн. 226</ns2:summingupPlace>
+                <ns2:summingupTime>2017-04-07T12:00:00</ns2:summingupTime>
+                <ns2:submissionCloseDateTime>2017-04-05T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-15</ns2:publicationPlannedDate>
+            </ns2:purchaseNoticeOKData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNoticeOK>

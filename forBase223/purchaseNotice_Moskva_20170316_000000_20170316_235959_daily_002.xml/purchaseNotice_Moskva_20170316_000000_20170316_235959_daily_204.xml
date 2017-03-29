@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>90cceecf-750c-43b9-8fc2-196b2e2ae946</guid>
+        <createDateTime>2017-03-16T17:11:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>1f2e6cc1-5c11-4b2d-bd05-707bf0436aa2</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>1f2e6cc1-5c11-4b2d-bd05-707bf0436aa2</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:58:01</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887795</ns2:urlOOS>
+                <ns2:urlVSRZ>http://utp.sberbank-ast.ru/SB/NBT/PurchaseView/1137/0/0/228805</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899583</ns2:registrationNumber>
+                <ns2:name>Закупка у единственного источника на оказание услуг по техническому обслуживанию, выполнению работ по ремонту инженерных систем и оборудования и помещений по адресу: г. Москва, Новоданиловская наб. корп. 1 и 3 для нужд АО «СберТех»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК - ТЕХНОЛОГИИ"</fullName>
+                        <shortName>АО "СБЕРТЕХ"</shortName>
+                        <iko>67736632467772601001</iko>
+                        <inn>7736632467</inn>
+                        <kpp>772601001</kpp>
+                        <ogrn>1117746533926</ogrn>
+                        <legalAddress>117105, г МОСКВА, наб НОВОДАНИЛОВСКАЯ, дом 10</legalAddress>
+                        <postalAddress>117105, Москва, Новоданиловская, дом 10 </postalAddress>
+                        <phone>7-495-6690808</phone>
+                        <email>nvkostina.sbt@sberbank.ru</email>
+                        <okato>45000000000</okato>
+                        <okpo>92573301</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>33505</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>СБ-АСТ: Закупка у единственного источника</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Сбербанк-Автоматизированная система торгов"</fullName>
+                        <shortName>ЗАО "Сбербанк-АСТ"</shortName>
+                        <iko>67707308480770701001</iko>
+                        <inn>7707308480</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027707000441</ogrn>
+                        <legalAddress>127055, Москва, Новослободская, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>119180, г. Москва, ул. Большая Якиманка, д. 23 </postalAddress>
+                        <phone>7-495-7872997</phone>
+                        <fax>7-495-7872998</fax>
+                        <email>FSKordysh@sberbank-ast.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58997535</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Купреенко Вячеслав Владимирович</firstName>
+                    <phone>+7 (495) 669-08-08</phone>
+                    <email>VVKupreyenko.SBT@sberbank.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК - ТЕХНОЛОГИИ"</fullName>
+                            <shortName>АО "СБЕРТЕХ"</shortName>
+                            <iko>67736632467772601001</iko>
+                            <inn>7736632467</inn>
+                            <kpp>772601001</kpp>
+                            <ogrn>1117746533926</ogrn>
+                            <legalAddress>117105, г МОСКВА, наб НОВОДАНИЛОВСКАЯ, дом 10</legalAddress>
+                            <postalAddress>117105, Москва, Новоданиловская, дом 10 </postalAddress>
+                            <phone>7-495-6690808</phone>
+                            <email>nvkostina.sbt@sberbank.ru</email>
+                            <okato>45000000000</okato>
+                            <okpo>92573301</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:11:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>http://utp.sberbank-ast.ru/SB/NBT/PurchaseView/1137/0/0/228805</place>
+                    <procedure>http://utp.sberbank-ast.ru/SB</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>9400564d-0d97-4b46-b6d2-c4933c670738</guid>
+                        <createDateTime>2017-03-16T16:58:01</createDateTime>
+                        <fileName>Прил. 1. Документация закупки у ЕИ_ТО_ДФ1,3.doc</fileName>
+                        <description>Прил. 1. Документация закупки у ЕИ_ТО_ДФ1,3.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118301</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:11:37</ns2:modificationDate>
+                <ns2:saveUserId>29401</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЗАО «Сбербанк-АСТ» (УТП)</name>
+                    <url>http://utp.sberbank-ast.ru/SB</url>
+                    <electronicPlaceId>116</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>http://utp.sberbank-ast.ru/SB</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-16T17:06:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-16T17:06:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-16T17:06:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>aedbab2f-4b03-48c4-94ae-ffb50e3c624c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг по техническому обслуживанию, выполнению работ по ремонту инженерных систем и оборудования и помещений по адресу: г. Москва, Новоданиловская наб. корп. 1 и 3</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>13336845.30</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с документацией</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a47de065-d0f8-4b85-b605-1a12a4e34ebf</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>81.10</code>
+                                        <name>Услуги по комплексному обслуживанию помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>81.10</code>
+                                        <name>Деятельность по комплексному обслуживанию помещений</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Оказание услуг по техническому обслуживанию, выполнению работ по ремонту инженерных систем и оборудования и помещений по адресу: г. Москва, Новоданиловская наб. корп. 1 и 3</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218209</planRegistrationNumber>
+                            <planGuid>411de184-bf13-4688-8719-6de508055b2c</planGuid>
+                            <positionNumber>247</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>7b66477c-f615-4d40-a367-251a66305064</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

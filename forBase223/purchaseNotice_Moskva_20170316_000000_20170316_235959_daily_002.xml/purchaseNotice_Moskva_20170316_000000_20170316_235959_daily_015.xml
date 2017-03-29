@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c2708925-4d9e-47c4-90f0-6c95b330b7fa</guid>
+        <createDateTime>2017-03-16T18:03:47</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7a898aa9-816c-4f81-a994-4d206d667e02</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>7a898aa9-816c-4f81-a994-4d206d667e02</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:35:49</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888103</ns2:urlOOS>
+                <ns2:registrationNumber>31704899853</ns2:registrationNumber>
+                <ns2:name>Выполнение работ по замене 2-х пассажирских лифтов, находящихся по адресу: г.Москва, ул. Большая Дмитровка, д. 4/2 </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>федеральное государственное бюджетное учреждение культуры "Государственный академический Большой театр России"</fullName>
+                        <shortName>Большой театр России</shortName>
+                        <iko>87707079537770701001</iko>
+                        <inn>7707079537</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739856539</ogrn>
+                        <legalAddress>125009, Москва, Театральная, дом 1</legalAddress>
+                        <postalAddress>125009, Москва, Театральная, дом 1 </postalAddress>
+                        <phone>7-495-7423980</phone>
+                        <email>theatre@bolshoi.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>05841276</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>109352</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>федеральное государственное бюджетное учреждение культуры "Государственный академический Большой театр России"</fullName>
+                        <shortName>Большой театр России</shortName>
+                        <iko>87707079537770701001</iko>
+                        <inn>7707079537</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739856539</ogrn>
+                        <legalAddress>125009, Москва, Театральная, дом 1</legalAddress>
+                        <postalAddress>125009, Москва, Театральная, дом 1 </postalAddress>
+                        <phone>7-495-7423980</phone>
+                        <email>theatre@bolshoi.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>05841276</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Владимир</firstName>
+                    <middleName>Владимирович</middleName>
+                    <lastName>Колесник</lastName>
+                    <phone>+7 (495) 9844049</phone>
+                    <email>luckysector@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>федеральное государственное бюджетное учреждение культуры "Государственный академический Большой театр России"</fullName>
+                            <shortName>Большой театр России</shortName>
+                            <iko>87707079537770701001</iko>
+                            <inn>7707079537</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1027739856539</ogrn>
+                            <legalAddress>125009, Москва, Театральная, дом 1</legalAddress>
+                            <postalAddress>125009, Москва, Театральная, дом 1 </postalAddress>
+                            <phone>7-495-7423980</phone>
+                            <email>theatre@bolshoi.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>05841276</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:03:47</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>www.zakupki.gov.ru</place>
+                    <procedure>Документация о закупке доступна для ознакомления без взимания платы в единой информационной системе по адресу: www.zakupki.gov.ru</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>fc0c9ed7-a2f9-4344-a9cd-708f85b85f0a</guid>
+                        <createDateTime>2017-03-16T18:01:13</createDateTime>
+                        <fileName>Документация.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120305</url>
+                    </document>
+                    <document>
+                        <guid>ae1d7e5c-8e85-473d-bfc5-ba68eedcd218</guid>
+                        <createDateTime>2017-03-16T18:01:44</createDateTime>
+                        <fileName>Проект договора.docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120327</url>
+                    </document>
+                    <document>
+                        <guid>8d008ca2-68f4-47b4-b281-437ed814165a</guid>
+                        <createDateTime>2017-03-16T18:01:30</createDateTime>
+                        <fileName>Техническое задание.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120311</url>
+                    </document>
+                    <document>
+                        <guid>fea5ca18-56df-4fba-a6f8-9b660979992b</guid>
+                        <createDateTime>2017-03-16T18:01:50</createDateTime>
+                        <fileName>Форма декларации принадлежности участника закупки к субъектам малого и среднего предпринимательства.rtf</fileName>
+                        <description>Форма декларации принадлежности участника закупки к субъектам малого и среднего предпринимательства</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120328</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:03:47</ns2:modificationDate>
+                <ns2:saveUserId>123365</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>125009, г. Москва, ул. Б. Дмитровка, д. 2, комната 413</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-23T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-23T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>125009, г. Москва, ул. Б. Дмитровка, д. 2, комната 413</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-22T10:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>d37357ed-d024-4dd8-ae67-72cdb7be547b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по замене 2-х пассажирских лифтов, находящихся по адресу: г.Москва, ул. Большая Дмитровка, д. 4/2</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>15570930.37</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>ул. Большая Дмитровка, д. 4/2</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>ecca027b-4568-4eb4-938c-1530d8ec93cd</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.29.19.110</code>
+                                        <name>Работы по монтажу лифтов, эскалаторов и движущихся тротуаров, требующие специальной квалификации, включая ремонт и техническое обслуживание</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.29</code>
+                                        <name>Производство прочих строительно-монтажных работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170224247</planRegistrationNumber>
+                            <planGuid>05ad7b13-0a4c-11e7-80ee-005056a96077</planGuid>
+                            <positionNumber>59</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>4477ddd6-74d7-478e-be01-83ab874a2303</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

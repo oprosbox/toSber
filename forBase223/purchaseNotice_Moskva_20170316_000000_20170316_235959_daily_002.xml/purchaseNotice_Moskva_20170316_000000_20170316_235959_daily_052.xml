@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>456d67bd-b58a-4c15-9ce9-2cb74f0c6f0a</guid>
+        <createDateTime>2017-03-16T16:29:15</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>60da5191-7c12-42d8-8dad-58403d6cfe59</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>60da5191-7c12-42d8-8dad-58403d6cfe59</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:26:02</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887487</ns2:urlOOS>
+                <ns2:registrationNumber>31704899203</ns2:registrationNumber>
+                <ns2:name>Передача права использования программ для ЭВМ</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР "АТЛАС"</fullName>
+                        <shortName>ФГУП "НТЦ "АТЛАС"</shortName>
+                        <iko>57715027275771501001</iko>
+                        <inn>7715027275</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739411402</ogrn>
+                        <legalAddress>127018, Г МОСКВА, УЛ ОБРАЗЦОВА, дом 38</legalAddress>
+                        <postalAddress>127018, Москва, Образцова, дом 38</postalAddress>
+                        <phone>7-495-7271014-2588</phone>
+                        <fax>7-495-7271014-2207</fax>
+                        <email>odtorg@rambler.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>07507593</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>79081</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок цен</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР "АТЛАС"</fullName>
+                        <shortName>ФГУП "НТЦ "АТЛАС"</shortName>
+                        <iko>57715027275771501001</iko>
+                        <inn>7715027275</inn>
+                        <kpp>771501001</kpp>
+                        <ogrn>1027739411402</ogrn>
+                        <legalAddress>127018, Г МОСКВА, УЛ ОБРАЗЦОВА, дом 38</legalAddress>
+                        <postalAddress>127018, Москва, Образцова, дом 38</postalAddress>
+                        <phone>7-495-7271014-2588</phone>
+                        <fax>7-495-7271014-2207</fax>
+                        <email>odtorg@rambler.ru</email>
+                        <okato>45280569000</okato>
+                        <okpo>07507593</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Дмитрий</firstName>
+                    <middleName>Валериевич</middleName>
+                    <lastName>Жуков</lastName>
+                    <phone>+8 (495) 6892223</phone>
+                    <email>torgi@stcnet.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР "АТЛАС"</fullName>
+                            <shortName>ФГУП "НТЦ "АТЛАС"</shortName>
+                            <iko>57715027275771501001</iko>
+                            <inn>7715027275</inn>
+                            <kpp>771501001</kpp>
+                            <ogrn>1027739411402</ogrn>
+                            <legalAddress>127018, Г МОСКВА, УЛ ОБРАЗЦОВА, дом 38</legalAddress>
+                            <postalAddress>127018, Москва, Образцова, дом 38</postalAddress>
+                            <phone>7-495-7271014-2588</phone>
+                            <fax>7-495-7271014-2207</fax>
+                            <email>odtorg@rambler.ru</email>
+                            <okato>45280569000</okato>
+                            <okpo>07507593</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:29:15</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-17</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>ФГУП «НТЦ «Атлас», г. Москва, ул. Образцова, д. 38</place>
+                    <procedure>Информация о процедуре и закупочная документация в электронном виде размещена в единой информационной системе и на сайте Заказчика: http://web.stcnet.ru/ в разделе «Закупки». 
+Закупочная документация в электронном виде может быть получена Участниками на указанных выше информационных ресурсах.
+Закупочная документация в письменной форме предоставляется Участникам по адресу: г. Москва, ул. Образцова, д. 38, ежедневно, по рабочим дням с понедельника по пятницу с 10 часов 00 минут до 15 часов 30 минут c 17.03.2017 по 21.03.2017.
+Плата за предоставление закупочной документации не взимается.
+</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>f05d3a17-288c-4012-8904-625f0be73ed2</guid>
+                        <createDateTime>2017-03-16T16:28:36</createDateTime>
+                        <fileName>Dokumentacia Zakupki 10150.docx</fileName>
+                        <description>Dokumentacia Zakupki 10150</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116757</url>
+                    </document>
+                    <document>
+                        <guid>f0a0899b-eb42-4d84-9349-5bc5de037979</guid>
+                        <createDateTime>2017-03-16T16:28:28</createDateTime>
+                        <fileName>Izvechenie 10150.docx</fileName>
+                        <description>Izvechenie 10150</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116751</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:29:15</ns2:modificationDate>
+                <ns2:saveUserId>171650</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>ФГУП «НТЦ «Атлас», г. Москва, ул. Образцова, д. 38</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-22T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-23T17:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>ФГУП «НТЦ «Атлас», г. Москва, ул. Образцова, д. 38</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-22T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>18d67199-ee0b-4020-9a90-de0661d5ef07</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Передача права использования программ для ЭВМ</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>11325000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Сибирский федеральный округ</state>
+                                <region>Новосибирская   обл</region>
+                                <regionOkato>50000000000</regionOkato>
+                                <address>Новосибирский филиал ФГУП «НТЦ «Атлас»
+630091, г. Новосибирск, ул. Фрунзе, д. 5, офис 303</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1c514caa-a8f4-4c1a-95c3-2e100ee9d91a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>62.0</code>
+                                        <name>Продукты программные и услуги по разработке программного обеспечения; консультационные и аналогичные услуги в области информационных технологий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>62.0</code>
+                                        <name>Разработка компьютерного программного обеспечения, консультационные услуги в данной области и другие сопутствующие услуги</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4080</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210111</planRegistrationNumber>
+                            <planGuid>98dea611-da38-4d07-be96-502cd09a2074</planGuid>
+                            <positionNumber>34</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>c7828b79-b5ec-43f5-a264-41bffcd510b5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

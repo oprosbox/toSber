@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>a7bb423e-87e7-4389-b5e0-93129ae75e1b</guid>
+        <createDateTime>2017-03-16T17:23:26</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3a880046-8848-4d7f-a1be-8a7a1dfab9c3</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>3a880046-8848-4d7f-a1be-8a7a1dfab9c3</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:19:12</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887979</ns2:urlOOS>
+                <ns2:registrationNumber>31704899661</ns2:registrationNumber>
+                <ns2:name>Открытый запрос предложений среди субъектов малого и среднего предпринимательства на право заключения договора на выполнение работ по инструментальному обследованию и капитальному ремонту служебного здания, инв. № 4, ВСУ СК России по РВСН, МО РФ, военный городок 22/1 войсковой части 95501, Московская область, пос. Власиха, ул. Заозерная, д. 41 (шифр объекта Т-12/15-177)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ОБУСТРОЙСТВА ВОЙСК"</fullName>
+                        <shortName>АО "ГУОВ"</shortName>
+                        <iko>57703702341770401001</iko>
+                        <inn>7703702341</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1097746390224</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 18, корпус 3</legalAddress>
+                        <postalAddress>119021, Москва Город, Комсомольский Проспект, дом 18, строение 3</postalAddress>
+                        <phone>7-495-7812153</phone>
+                        <email>zakupki@oboronstroy.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>08513957</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>113267</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ОБУСТРОЙСТВА ВОЙСК"</fullName>
+                        <shortName>АО "ГУОВ"</shortName>
+                        <iko>57703702341770401001</iko>
+                        <inn>7703702341</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1097746390224</ogrn>
+                        <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 18, корпус 3</legalAddress>
+                        <postalAddress>119021, Москва Город, Комсомольский Проспект, дом 18, строение 3</postalAddress>
+                        <phone>7-495-7812153</phone>
+                        <email>zakupki@oboronstroy.ru</email>
+                        <okato>45286590000</okato>
+                        <okpo>08513957</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 7812001</phone>
+                    <email>zakupki@guov.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГЛАВНОЕ УПРАВЛЕНИЕ ОБУСТРОЙСТВА ВОЙСК"</fullName>
+                            <shortName>АО "ГУОВ"</shortName>
+                            <iko>57703702341770401001</iko>
+                            <inn>7703702341</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1097746390224</ogrn>
+                            <legalAddress>119021, г МОСКВА, пр-кт КОМСОМОЛЬСКИЙ, дом 18, корпус 3</legalAddress>
+                            <postalAddress>119021, Москва Город, Комсомольский Проспект, дом 18, строение 3</postalAddress>
+                            <phone>7-495-7812153</phone>
+                            <email>zakupki@oboronstroy.ru</email>
+                            <okato>45286590000</okato>
+                            <okpo>08513957</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:23:26</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-28</deliveryEndDateTime>
+                    <place>в соответствии с условиями закупочной документации</place>
+                    <procedure>в соответствии с условиями закупочной документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>8440faca-82c9-47d9-a14c-ac8fda30fb39</guid>
+                        <createDateTime>2017-03-16T17:22:14</createDateTime>
+                        <fileName>ЗП СМП.doc</fileName>
+                        <description>ЗП СМП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119191</url>
+                    </document>
+                    <document>
+                        <guid>37bebf99-6a3e-4608-a7e2-a13f6d6a09af</guid>
+                        <createDateTime>2017-03-16T17:22:18</createDateTime>
+                        <fileName>Техническое задание.pdf</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119192</url>
+                    </document>
+                    <document>
+                        <guid>6ec52eeb-1f69-466c-956a-9c92dab6e480</guid>
+                        <createDateTime>2017-03-16T17:22:23</createDateTime>
+                        <fileName>РНЦ и ССР.pdf</fileName>
+                        <description>РНЦ и ССР</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119194</url>
+                    </document>
+                    <document>
+                        <guid>c5a2f337-16b3-4223-ab2b-07dc5083f630</guid>
+                        <createDateTime>2017-03-16T17:22:28</createDateTime>
+                        <fileName>Проект договора.doc</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119198</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:23:26</ns2:modificationDate>
+                <ns2:saveUserId>180632</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Торговая система Оборонторг</name>
+                    <url>http://oborontorg.ru/</url>
+                    <electronicPlaceId>126</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, Комсомольский пр-т, д. 18 стр. 3</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-04T15:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-04T15:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-28T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>85e4c569-ffe3-4ae5-9870-54bfbcd1d45a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по инструментальному обследованию и капитальному ремонту служебного здания, инв. № 4, ВСУ СК России по РВСН, МО РФ, военный городок 22/1 войсковой части 95501, Московская область, пос. Власиха, ул. Заозерная, д.41 (шифр объекта Т-12/15-177)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>43962626.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Московская   обл</region>
+                                <regionOkato>46000000000</regionOkato>
+                                <address>Московская область, пос. Власиха, ул. Заозерная, д. 41 </address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>eb242e24-fb6e-4e2b-9836-cfcaf6d8ff66</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.12.12</code>
+                                        <name>Услуги по инженерно-техническому проектированию зданий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.12</code>
+                                        <name>Деятельность в области инженерных изысканий, инженерно-технического проектирования, управления проектами строительства, выполнения строительного контроля и авторского надзора, предоставление технических консультаций в этих областях</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195359</planRegistrationNumber>
+                            <planGuid>aef4a5bc-6b9c-4b03-965d-92dee770f183</planGuid>
+                            <positionNumber>609</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>b957645f-6b80-43a3-a6c6-b6a3b1913756</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>355b20c8-03f1-4c0c-94e8-d0c3db1ad3b4</guid>
+        <createDateTime>2017-03-16T19:13:51</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7140be8b-2500-b866-0133-3319a9c98fba</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>7140be8b-2500-b866-0133-3319a9c98fba</ns2:guid>
+                <ns2:createDateTime>2017-03-16T19:10:10</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888401</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286367</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704900024</ns2:registrationNumber>
+                <ns2:name>Электронный аукцион на выполнение работ по созданию эргономичного модульного пространства входной зоны учебного корпуса</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ТЕХНОЛОГИЧЕСКОЙ МОДЕРНИЗАЦИИ ОБРАЗОВАНИЯ"</fullName>
+                        <shortName>ГАОУ ДПО "ТЕМОЦЕНТР"</shortName>
+                        <iko>57718924940771801001</iko>
+                        <inn>7718924940</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1137746210161</ogrn>
+                        <legalAddress>107076, г МОСКВА, пер ЗБОРОВСКИЙ 1-Й, дом 3</legalAddress>
+                        <postalAddress>107076, Москва, 1-й Зборовский переулок, д.3</postalAddress>
+                        <phone>7-495-6519295</phone>
+                        <fax>7-495-6519295</fax>
+                        <email>tmc@edu.mos.ru</email>
+                        <okato>45263594000</okato>
+                        <okpo>17276812</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>126919</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Электронный аукцион</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ТЕХНОЛОГИЧЕСКОЙ МОДЕРНИЗАЦИИ ОБРАЗОВАНИЯ"</fullName>
+                        <shortName>ГАОУ ДПО "ТЕМОЦЕНТР"</shortName>
+                        <iko>57718924940771801001</iko>
+                        <inn>7718924940</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1137746210161</ogrn>
+                        <legalAddress>107076, г МОСКВА, пер ЗБОРОВСКИЙ 1-Й, дом 3</legalAddress>
+                        <postalAddress>107076, Москва, 1-й Зборовский переулок, д.3</postalAddress>
+                        <phone>7-495-6519295</phone>
+                        <fax>7-495-6519295</fax>
+                        <email>tmc@edu.mos.ru</email>
+                        <okato>45263594000</okato>
+                        <okpo>17276812</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юрий</firstName>
+                    <middleName>Васильевич</middleName>
+                    <lastName>Рогачев</lastName>
+                    <phone>+7 (495) 6519295</phone>
+                    <email>RogachevYV@edu.mos.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ЦЕНТР ТЕХНОЛОГИЧЕСКОЙ МОДЕРНИЗАЦИИ ОБРАЗОВАНИЯ"</fullName>
+                            <shortName>ГАОУ ДПО "ТЕМОЦЕНТР"</shortName>
+                            <iko>57718924940771801001</iko>
+                            <inn>7718924940</inn>
+                            <kpp>771801001</kpp>
+                            <ogrn>1137746210161</ogrn>
+                            <legalAddress>107076, г МОСКВА, пер ЗБОРОВСКИЙ 1-Й, дом 3</legalAddress>
+                            <postalAddress>107076, Москва, 1-й Зборовский переулок, д.3</postalAddress>
+                            <phone>7-495-6519295</phone>
+                            <fax>7-495-6519295</fax>
+                            <email>tmc@edu.mos.ru</email>
+                            <okato>45263594000</okato>
+                            <okpo>17276812</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:13:51</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>7</totalDocumentsCount>
+                    <document>
+                        <guid>5d756187-38a5-6f1c-3f57-7f676036052a</guid>
+                        <createDateTime>2017-03-16T19:02:11</createDateTime>
+                        <fileName>Протокол__обоснование__НМЦК[1].docx</fileName>
+                        <description>Протокол (обоснование) НМЦК</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121122</url>
+                    </document>
+                    <document>
+                        <guid>a5a53bee-a79d-70fa-b0fd-7c1b173b8dba</guid>
+                        <createDateTime>2017-03-16T19:02:22</createDateTime>
+                        <fileName>Проект_контракта[1].docx</fileName>
+                        <description>Проект контракта</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121123</url>
+                    </document>
+                    <document>
+                        <guid>3a519648-a4ae-ae8d-4ac7-0f27446f7f56</guid>
+                        <createDateTime>2017-03-16T18:27:11</createDateTime>
+                        <fileName>Техническое_задание[1].docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121124</url>
+                    </document>
+                    <document>
+                        <guid>0af586e5-85fb-fd6a-6ec8-cada797bb791</guid>
+                        <createDateTime>2017-03-16T18:27:39</createDateTime>
+                        <fileName>Приложения_к_Контракту__ТЗ__Акт_.docx</fileName>
+                        <description>Приложения к контракту (ТЗ, Акт)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121126</url>
+                    </document>
+                    <document>
+                        <guid>d59b8c9b-3184-82c0-6dea-05842578c6ca</guid>
+                        <createDateTime>2017-03-16T19:05:13</createDateTime>
+                        <fileName>АД[3].docx</fileName>
+                        <description>Документация о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121127</url>
+                    </document>
+                    <document>
+                        <guid>d61f46f4-c177-7ca2-6a31-a6e350b45b20</guid>
+                        <createDateTime>2017-03-16T18:30:04</createDateTime>
+                        <fileName>Приложение_к_заявке__Форма_2_.docx</fileName>
+                        <description>Приложение к заявке (Форма 2)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121128</url>
+                    </document>
+                    <document>
+                        <guid>d04b6ca4-9ead-891e-e878-938765ee18d7</guid>
+                        <createDateTime>2017-03-16T18:28:07</createDateTime>
+                        <fileName>Смета__Приложение_1_к_ТЗ_.xls</fileName>
+                        <description>Смета</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121129</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:13:51</ns2:modificationDate>
+                <ns2:saveUserId>160648</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Москва,1-й Зборовский пер., д.3</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-10T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-11T11:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T08:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>7ab8e7e5-e205-2a74-871a-5d1c87c1e6ea</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по созданию эргономичного модульного пространства входной зоны учебного корпуса</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>4207083.61</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с проектом контракта и технической частью</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>436e63cb-3a7b-ed1a-5ac1-59906abe2d2e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.29.19.190</code>
+                                        <name>Работы монтажные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.29</code>
+                                        <name>Производство прочих строительно-монтажных работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Выполнение работ по созданию эргономичного модульного пространства входной зоны учебного корпуса</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160216570</planRegistrationNumber>
+                            <planGuid>d4bc0ef8-71fc-44bd-b58c-ef284f89aab0</planGuid>
+                            <positionNumber>202</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>cc9c162d-3f72-4ac4-aafa-6dad7e0695d8</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

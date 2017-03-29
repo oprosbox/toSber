@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>19d8b4bc-381d-49a1-94f1-d1ba0a0b174a</guid>
+        <createDateTime>2017-03-16T16:48:12</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>46efd2f9-71a8-566e-fe3f-45f8dba73534</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>46efd2f9-71a8-566e-fe3f-45f8dba73534</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:45:23</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887662</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286268</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899358</ns2:registrationNumber>
+                <ns2:name>(24-17) Оказание почтовых услуг для нужд ЗАО «Макомнет»
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МАКОМНЕТ"</fullName>
+                        <shortName>ЗАО "МАКОМНЕТ"</shortName>
+                        <iko>57702029405770201001</iko>
+                        <inn>7702029405</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1027700131150</ogrn>
+                        <legalAddress>129110, Г МОСКВА, ПЕР КАПЕЛЬСКИЙ, дом 8, корпус СТР.1</legalAddress>
+                        <postalAddress>129110, Москва г, Капельский пер, дом 8, строение 1</postalAddress>
+                        <phone>7-495-7969400</phone>
+                        <fax>7-495-7969401</fax>
+                        <email>gosuslugi@macomnet.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>11470571</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>49469</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МАКОМНЕТ"</fullName>
+                        <shortName>ЗАО "МАКОМНЕТ"</shortName>
+                        <iko>57702029405770201001</iko>
+                        <inn>7702029405</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1027700131150</ogrn>
+                        <legalAddress>129110, Г МОСКВА, ПЕР КАПЕЛЬСКИЙ, дом 8, корпус СТР.1</legalAddress>
+                        <postalAddress>129110, Москва г, Капельский пер, дом 8, строение 1</postalAddress>
+                        <phone>7-495-7969400</phone>
+                        <fax>7-495-7969401</fax>
+                        <email>gosuslugi@macomnet.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>11470571</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юрий</firstName>
+                    <middleName>Альбертович</middleName>
+                    <lastName>Богажков</lastName>
+                    <phone>+7 (495) 7969400</phone>
+                    <email>bogazhkov@macomnet.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МАКОМНЕТ"</fullName>
+                            <shortName>ЗАО "МАКОМНЕТ"</shortName>
+                            <iko>57702029405770201001</iko>
+                            <inn>7702029405</inn>
+                            <kpp>770201001</kpp>
+                            <ogrn>1027700131150</ogrn>
+                            <legalAddress>129110, Г МОСКВА, ПЕР КАПЕЛЬСКИЙ, дом 8, корпус СТР.1</legalAddress>
+                            <postalAddress>129110, Москва г, Капельский пер, дом 8, строение 1</postalAddress>
+                            <phone>7-495-7969400</phone>
+                            <fax>7-495-7969401</fax>
+                            <email>gosuslugi@macomnet.ru</email>
+                            <okato>45286570000</okato>
+                            <okpo>11470571</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:48:12</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-24</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>626175b3-32fe-8cce-d995-3283af2940c6</guid>
+                        <createDateTime>2017-03-16T15:48:55</createDateTime>
+                        <fileName>ТЗ_24.docx</fileName>
+                        <description>Техническое задание</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117603</url>
+                    </document>
+                    <document>
+                        <guid>d0aef03a-c959-f788-fa5d-664b76246510</guid>
+                        <createDateTime>2017-03-16T15:49:05</createDateTime>
+                        <fileName>Договор_24.docx</fileName>
+                        <description>Проект Договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117604</url>
+                    </document>
+                    <document>
+                        <guid>8a8af2ad-7118-6765-ef95-3c36a5fd1753</guid>
+                        <createDateTime>2017-03-16T15:48:39</createDateTime>
+                        <fileName>Документация_24.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117605</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:48:12</ns2:modificationDate>
+                <ns2:saveUserId>53416</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, Капельский пер.. д.8, стр.1</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-24T10:30:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-24T13:30:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-24T09:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>49216f55-c76f-ce56-61d4-11885afcfaaa</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание почтовых услуг (Повторная процедура закупки)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>4000000.00</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с проектом Договора</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>ae1136b1-26fc-f63f-df32-ee2df44da4af</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>53.10.12.000</code>
+                                        <name>Услуги почтовой связи общего пользования, связанные с письменной корреспонденцией</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>53.10.2</code>
+                                        <name>Деятельность почтовой связи, связанная с пересылкой письменной корреспонденции</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>362</code>
+                                        <name>Месяц</name>
+                                    </okei>
+                                    <qty>24</qty>
+                                    <additionalInfo>Оказание почтовых услуг </additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160198644</planRegistrationNumber>
+                            <planGuid>0510e29a-1258-4089-a8e7-80116d3da37f</planGuid>
+                            <positionNumber>91</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>83ddbd97-d06a-4fd9-810f-617714450e0e</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

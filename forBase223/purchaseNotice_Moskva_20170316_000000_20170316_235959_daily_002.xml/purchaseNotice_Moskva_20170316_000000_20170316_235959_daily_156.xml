@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>75e90429-15cd-4d73-a063-0c21c5edf4bf</guid>
+        <createDateTime>2017-03-16T16:02:25</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>58caa683-7f41-0064-e100-80000a121a18</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>58caa683-7f41-0064-e100-80000a121a18</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:00:23</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887192</ns2:urlOOS>
+                <ns2:urlVSRZ>http://tzselektra.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898920</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на Поставка офисной бумаги</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЕДИНОЙ ЭНЕРГЕТИЧЕСКОЙ СИСТЕМЫ"</fullName>
+                        <shortName>ПАО "ФСК ЕЭС"</shortName>
+                        <iko>54716016979772801001</iko>
+                        <inn>4716016979</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1024701893336</ogrn>
+                        <legalAddress>117630Г МОСКВА, УЛ ЧЕЛОМЕЯ АКАДЕМИКА, 5А</legalAddress>
+                        <postalAddress>117630, Москва Город, Академика Челомея Улица, дом 5А</postalAddress>
+                        <phone>7-495-7109333</phone>
+                        <fax>7-495-7109655</fax>
+                        <email>info@fsk-ees.ru</email>
+                        <okato>45293578000</okato>
+                        <okpo>56947007</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>6680</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос цен в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ЭНЕРГОСТРОЙСНАБКОМПЛЕКТ ЕЭС"</fullName>
+                        <shortName>АО "ЭССК ЕЭС"</shortName>
+                        <iko>67723185941772301001</iko>
+                        <inn>7723185941</inn>
+                        <kpp>772301001</kpp>
+                        <ogrn>1027700035285</ogrn>
+                        <legalAddress>109390, г МОСКВА, ул АРТЮХИНОЙ, дом 6, корпус 1</legalAddress>
+                        <postalAddress>121353, Москва Город, Беловежская Улица, дом 4, корпус Б</postalAddress>
+                        <phone>7-495-7109333-3014</phone>
+                        <email>info@essk.ru</email>
+                        <okato>45290590000</okato>
+                        <okpo>56694322</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Екатерина</firstName>
+                    <middleName>Викторовна</middleName>
+                    <lastName>Багрин</lastName>
+                    <phone>+7 (495) 7109333</phone>
+                    <email>EkaterinaB@essk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ЭНЕРГОСТРОЙСНАБКОМПЛЕКТ ЕЭС"</fullName>
+                            <shortName>АО "ЭССК ЕЭС"</shortName>
+                            <iko>67723185941772301001</iko>
+                            <inn>7723185941</inn>
+                            <kpp>772301001</kpp>
+                            <ogrn>1027700035285</ogrn>
+                            <legalAddress>109390, г МОСКВА, ул АРТЮХИНОЙ, дом 6, корпус 1</legalAddress>
+                            <postalAddress>121353, Москва Город, Беловежская Улица, дом 4, корпус Б</postalAddress>
+                            <phone>7-495-7109333-3014</phone>
+                            <email>info@essk.ru</email>
+                            <okato>45290590000</okato>
+                            <okpo>56694322</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:02:25</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>Согласно Закупочной документации</place>
+                    <procedure>Согласно Закупочной документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>58caa681-7f41-0064-e100-80000a121a18</guid>
+                        <createDateTime>2017-03-16T15:58:57</createDateTime>
+                        <fileName>29287569-ZD.rar</fileName>
+                        <description>29287569-ZD.rar</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115249</url>
+                    </document>
+                    <document>
+                        <guid>58caa682-7f41-0064-e100-80000a121a18</guid>
+                        <createDateTime>2017-03-16T15:58:57</createDateTime>
+                        <fileName>29287472-Izveshchenie.pdf</fileName>
+                        <description>29287472-Izveshchenie.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115251</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:02:25</ns2:modificationDate>
+                <ns2:saveUserId>26050</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП "ТЗС Электра"</name>
+                    <url>http://tzselektra.ru</url>
+                    <electronicPlaceId>146</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>По адресу организатора</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-27T13:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-10T14:42:32</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-27T13:00:00</ns2:submissionCloseDateTime>
+                <ns2:lots>
+                    <lot>
+                        <guid>587c28bb-6b71-01d8-e100-80020a121a18</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка бумаги для ИА ПАО "ФСК ЕЭС"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>3401984.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>в соответствии с КД</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>57c3ff3a-8e75-0105-e100-80000a121a18</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>17.2</code>
+                                        <name>Изделия из бумаги и картона</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>17</code>
+                                        <name>Производство бумаги и бумажных изделий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Поставка бумаги для ИА ПАО "ФСК ЕЭС"</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160185733</planRegistrationNumber>
+                            <planGuid>5fd7562a-0578-4790-9c20-6dbfa7b41956</planGuid>
+                            <positionNumber>1828</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>57c3ff3a-8e75-0105-e100-80000a121a18</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

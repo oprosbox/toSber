@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>c1086e26-ead3-4b02-ae15-929415c34b20</guid>
+        <createDateTime>2017-03-16T20:41:26</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>515ce550-c56f-2d9b-f043-a4778f1d4e9d</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>515ce550-c56f-2d9b-f043-a4778f1d4e9d</ns2:guid>
+                <ns2:createDateTime>2017-03-16T20:40:15</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888479</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286402</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704900094</ns2:registrationNumber>
+                <ns2:name>Открытый конкурс в электронной форме  на оказание услуг по техническому обслуживанию медицинской техники в 2017 году в медицинских организациях Департамента здравоохранения города Москвы (ТОСП2017-61)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ГОРМЕДТЕХНИКА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУ "ГОРМЕДТЕХНИКА"</shortName>
+                        <iko>57725262013772501001</iko>
+                        <inn>7725262013</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1157746099928</ogrn>
+                        <legalAddress>115093, г МОСКВА, ул ДУБИНИНСКАЯ, дом 98</legalAddress>
+                        <postalAddress>115093, г. Москва, ул. Дубининская, д. 98</postalAddress>
+                        <phone>7-495-9582787</phone>
+                        <email>gmt@gmtmsk.ru</email>
+                        <okato>45296559000</okato>
+                        <okpo>01906547</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>134787</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ГОРМЕДТЕХНИКА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                        <shortName>ГБУ "ГОРМЕДТЕХНИКА"</shortName>
+                        <iko>57725262013772501001</iko>
+                        <inn>7725262013</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1157746099928</ogrn>
+                        <legalAddress>115093, г МОСКВА, ул ДУБИНИНСКАЯ, дом 98</legalAddress>
+                        <postalAddress>115093, г. Москва, ул. Дубининская, д. 98</postalAddress>
+                        <phone>7-495-9582787</phone>
+                        <email>gmt@gmtmsk.ru</email>
+                        <okato>45296559000</okato>
+                        <okpo>01906547</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Николаевна</middleName>
+                    <lastName>Серова</lastName>
+                    <phone>+7 (495) 9556392</phone>
+                    <email>kc@gmtmsk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ГОРМЕДТЕХНИКА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ"</fullName>
+                            <shortName>ГБУ "ГОРМЕДТЕХНИКА"</shortName>
+                            <iko>57725262013772501001</iko>
+                            <inn>7725262013</inn>
+                            <kpp>772501001</kpp>
+                            <ogrn>1157746099928</ogrn>
+                            <legalAddress>115093, г МОСКВА, ул ДУБИНИНСКАЯ, дом 98</legalAddress>
+                            <postalAddress>115093, г. Москва, ул. Дубининская, д. 98</postalAddress>
+                            <phone>7-495-9582787</phone>
+                            <email>gmt@gmtmsk.ru</email>
+                            <okato>45296559000</okato>
+                            <okpo>01906547</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T20:41:26</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>f16128db-ccd3-3091-81bd-7b95efee7ccf</guid>
+                        <createDateTime>2017-03-16T20:37:38</createDateTime>
+                        <fileName>Приложение___1_к_ТЗ_Перечень_оборудования_ЛОТ___7_новое.xlsx</fileName>
+                        <description>Приложение №1 к ТЗ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121499</url>
+                    </document>
+                    <document>
+                        <guid>9a01f203-59cf-bdf4-3941-8e94e7f25692</guid>
+                        <createDateTime>2017-03-16T20:37:48</createDateTime>
+                        <fileName>Приложение___2_к_ТЗ[7].xlsx</fileName>
+                        <description>Приложение №2 к ТЗ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121500</url>
+                    </document>
+                    <document>
+                        <guid>3fde57ce-bbb0-21fd-f53a-c41015f73105</guid>
+                        <createDateTime>2017-03-16T20:37:27</createDateTime>
+                        <fileName>КД_-_ТО61.docx</fileName>
+                        <description>Конкурсная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121501</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T20:41:26</ns2:modificationDate>
+                <ns2:saveUserId>213190</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, ул. Дубининская, д. 98</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-10T14:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-11T14:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T14:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>17809887-dc9f-e0f6-7a76-81dcac260592</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Открытый конкурс в электронной форме на оказание услуг по техническому обслуживанию медицинской техники в 2017 году в медицинских организациях Департамента здравоохранения города Москвы (ТОСП2017-61)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>44552999.47</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с ТЗ и проектом договора.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0d0b3c13-4c61-7c2a-bf89-cb5b2a3a0886</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.13.12.000</code>
+                                        <name>Услуги по ремонту и техническому обслуживанию облучающего, электрического диагностического и электрического терапевтического оборудования, применяемого в медицинских целях</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>86</code>
+                                        <name>Деятельность в области здравоохранения</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>ТО</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2170227886</planRegistrationNumber>
+                            <planGuid>b9bde1f4-f720-453b-bb4d-35e06a1cea59</planGuid>
+                            <positionNumber>14</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>cb3b1264-7404-4cc1-a410-5b6879f2d375</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

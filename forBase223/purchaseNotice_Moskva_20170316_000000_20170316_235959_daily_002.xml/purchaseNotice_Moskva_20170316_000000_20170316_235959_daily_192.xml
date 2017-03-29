@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>00163754-b0fb-415f-9a6a-024f469bde5c</guid>
+        <createDateTime>2017-03-16T16:50:00</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>36da81f1-aab6-4946-971d-dcc2825f6fca</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>36da81f1-aab6-4946-971d-dcc2825f6fca</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:48:25</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887685</ns2:urlOOS>
+                <ns2:registrationNumber>31704736847</ns2:registrationNumber>
+                <ns2:name>Проведение закупки на право заключения рамочного договора на аренду специальной техники с экипажем.</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "СПЕЦСТРОЙСЕРВИС" ПРИ ФЕДЕРАЛЬНОМ АГЕНТСТВЕ СПЕЦИАЛЬНОГО СТРОИТЕЛЬСТВА"</fullName>
+                        <shortName>ФГУП "СПЕЦСТРОЙСЕРВИС" ПРИ СПЕЦСТРОЕ РОССИИ"</shortName>
+                        <iko>57706044549774301001</iko>
+                        <inn>7706044549</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1025004058639</ogrn>
+                        <legalAddress>125212, г МОСКВА, ул АДМИРАЛА МАКАРОВА, дом 6, корпус 1</legalAddress>
+                        <postalAddress>115419, Москва Город, Михайловский Верхн. 2-й Проезд, дом 9, строение 5</postalAddress>
+                        <phone>7-495-7754640-139</phone>
+                        <fax>7-495-7754640</fax>
+                        <email>gromov.v@spsts.ru</email>
+                        <okato>45277565000</okato>
+                        <okpo>08888031</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>94173</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок цен</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "СПЕЦСТРОЙСЕРВИС" ПРИ ФЕДЕРАЛЬНОМ АГЕНТСТВЕ СПЕЦИАЛЬНОГО СТРОИТЕЛЬСТВА"</fullName>
+                        <shortName>ФГУП "СПЕЦСТРОЙСЕРВИС" ПРИ СПЕЦСТРОЕ РОССИИ"</shortName>
+                        <iko>57706044549774301001</iko>
+                        <inn>7706044549</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1025004058639</ogrn>
+                        <legalAddress>125212, г МОСКВА, ул АДМИРАЛА МАКАРОВА, дом 6, корпус 1</legalAddress>
+                        <postalAddress>115419, Москва Город, Михайловский Верхн. 2-й Проезд, дом 9, строение 5</postalAddress>
+                        <phone>7-495-7754640-139</phone>
+                        <fax>7-495-7754640</fax>
+                        <email>gromov.v@spsts.ru</email>
+                        <okato>45277565000</okato>
+                        <okpo>08888031</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Дмитрий</firstName>
+                    <middleName>Станиславович</middleName>
+                    <lastName>Новиков</lastName>
+                    <phone>+7 (495) 7754640, доб.: 144</phone>
+                    <email>zakupki@spsts.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "СПЕЦСТРОЙСЕРВИС" ПРИ ФЕДЕРАЛЬНОМ АГЕНТСТВЕ СПЕЦИАЛЬНОГО СТРОИТЕЛЬСТВА"</fullName>
+                            <shortName>ФГУП "СПЕЦСТРОЙСЕРВИС" ПРИ СПЕЦСТРОЕ РОССИИ"</shortName>
+                            <iko>57706044549774301001</iko>
+                            <inn>7706044549</inn>
+                            <kpp>774301001</kpp>
+                            <ogrn>1025004058639</ogrn>
+                            <legalAddress>125212, г МОСКВА, ул АДМИРАЛА МАКАРОВА, дом 6, корпус 1</legalAddress>
+                            <postalAddress>115419, Москва Город, Михайловский Верхн. 2-й Проезд, дом 9, строение 5</postalAddress>
+                            <phone>7-495-7754640-139</phone>
+                            <fax>7-495-7754640</fax>
+                            <email>gromov.v@spsts.ru</email>
+                            <okato>45277565000</okato>
+                            <okpo>08888031</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:50:00</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-01-31</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>www.sstorg.ru </place>
+                    <procedure>Бесплатно</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>10</ns2:version>
+                <ns2:modificationDescription>решение заказчика</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>14</totalDocumentsCount>
+                    <document>
+                        <guid>3d87c665-8f1e-41dc-9ff3-7aa0299b7181</guid>
+                        <createDateTime>2017-03-07T15:44:06</createDateTime>
+                        <fileName>Уведомление 7.docx</fileName>
+                        <description>Уведомление 7</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117760</url>
+                    </document>
+                    <document>
+                        <guid>d3da84b2-c963-4722-860d-4c6f557a68ea</guid>
+                        <createDateTime>2017-02-07T09:42:01</createDateTime>
+                        <fileName>Уведомление 1.pdf</fileName>
+                        <description>Уведомление 1</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117761</url>
+                    </document>
+                    <document>
+                        <guid>8cb10c2b-a1dd-41b2-8223-23499c5258f4</guid>
+                        <createDateTime>2017-02-13T17:09:31</createDateTime>
+                        <fileName>Уведомление 3.docx</fileName>
+                        <description>Уведомление 3</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117762</url>
+                    </document>
+                    <document>
+                        <guid>d26b5306-80d8-43ad-a9d4-6f4a8f12f495</guid>
+                        <createDateTime>2017-03-13T15:08:12</createDateTime>
+                        <fileName>Приложение №1_Извещение о ЗКЦ изм.8.docx</fileName>
+                        <description>Приложение №1_Извещение о ЗКЦ изм.8</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117763</url>
+                    </document>
+                    <document>
+                        <guid>48e29a8b-1492-4de6-bd5c-7a93d11d43ad</guid>
+                        <createDateTime>2017-03-02T17:45:27</createDateTime>
+                        <fileName>Уведомление 6.docx</fileName>
+                        <description>Уведомление 6</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117764</url>
+                    </document>
+                    <document>
+                        <guid>0157d738-80b1-4a44-93c6-bc8370570143</guid>
+                        <createDateTime>2017-02-17T12:27:10</createDateTime>
+                        <fileName>Уведомление 4.docx</fileName>
+                        <description>Уведомление 4</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117765</url>
+                    </document>
+                    <document>
+                        <guid>3b8aceeb-0289-4907-813d-ffc2b8d9c716</guid>
+                        <createDateTime>2017-02-10T08:36:43</createDateTime>
+                        <fileName>Уведомление 2.docx</fileName>
+                        <description>Уведомление 2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117766</url>
+                    </document>
+                    <document>
+                        <guid>7c896ebf-5ca3-4c86-8237-9c1d70940ada</guid>
+                        <createDateTime>2017-01-31T15:55:58</createDateTime>
+                        <fileName>Приложение №2_Форма котировочной заявки.docx</fileName>
+                        <description>Приложение №2_Форма котировочной заявки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117767</url>
+                    </document>
+                    <document>
+                        <guid>060525ea-f3ff-4d4d-b3e8-e8e71c2035d8</guid>
+                        <createDateTime>2017-03-13T15:08:23</createDateTime>
+                        <fileName>Уведомление 8.docx</fileName>
+                        <description>Уведомление 8</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117768</url>
+                    </document>
+                    <document>
+                        <guid>ee4bc7bc-2df5-4d08-a666-121c6200dd6f</guid>
+                        <createDateTime>2017-01-31T15:54:21</createDateTime>
+                        <fileName>Документация о ЗКЦ_эл.форма.docx</fileName>
+                        <description>Документация о ЗКЦ_эл.форма</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117769</url>
+                    </document>
+                    <document>
+                        <guid>6e5a5460-81d0-4024-a202-e3c9c2a482f6</guid>
+                        <createDateTime>2017-02-22T12:11:17</createDateTime>
+                        <fileName>Уведомление 5.docx</fileName>
+                        <description>Уведомление 5</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117770</url>
+                    </document>
+                    <document>
+                        <guid>f05fd54a-ebe4-464b-aafe-36e98a1ae4ed</guid>
+                        <createDateTime>2017-03-16T16:49:16</createDateTime>
+                        <fileName>Приложение №1_Извещение о ЗКЦ изм.9.docx</fileName>
+                        <description>Приложение №1_Извещение о ЗКЦ изм.9</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117838</url>
+                    </document>
+                    <document>
+                        <guid>184e79c8-5dc0-4926-9b8d-873476e38b83</guid>
+                        <createDateTime>2017-03-16T16:49:21</createDateTime>
+                        <fileName>Уведомление 9.docx</fileName>
+                        <description>Уведомление 9</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117840</url>
+                    </document>
+                    <document>
+                        <guid>a3843b13-735a-4c1b-b6ed-b8776f313c97</guid>
+                        <createDateTime>2017-01-31T15:54:32</createDateTime>
+                        <fileName>Приложение №3_Проект Договора.doc</fileName>
+                        <description>Приложение №3_Проект Договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117759</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:50:00</ns2:modificationDate>
+                <ns2:saveUserId>167002</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Торговая Система Спецстройторг</name>
+                    <url>http://www.sstorg.ru/</url>
+                    <electronicPlaceId>122</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>115419, г. Москва, 2-й Верхний Михайловский проезд, д.9 с. 5</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-28T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-28T12:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-21T14:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-01-31</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>435e07ca-5a33-49a6-9db9-5515b859aba7</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения рамочного договора на аренду специальной техники с экипажем</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>500000000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Москва и Московская область.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>1bab566f-bdd1-447e-8ef1-12cc95500f2b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>77.32</code>
+                                        <name>Услуги по аренде и лизингу строительных машин и оборудования для гражданского строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>77.12</code>
+                                        <name>Аренда и лизинг грузовых транспортных средств</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160217919</planRegistrationNumber>
+                            <planGuid>859b2aab-c683-4a2e-b7eb-fe744bec5502</planGuid>
+                            <positionNumber>220</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>02d54b50-1672-4f52-8666-6aded63371bb</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

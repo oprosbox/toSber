@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>81fdf1a5-9734-4b9a-bac6-c30a495bcbd4</guid>
+        <createDateTime>2017-03-16T16:58:23</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a2ceb045-7741-4557-a35f-7a0fdd3bf6fa</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a2ceb045-7741-4557-a35f-7a0fdd3bf6fa</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:57:04</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887784</ns2:urlOOS>
+                <ns2:registrationNumber>31704857520</ns2:registrationNumber>
+                <ns2:name>Право заключения договора настроительно-монтажные и пуско-наладочные работы в соответствии с техническимзаданием для нужд АО "Воентелеком" (Урал – 1).</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ВОЕНТЕЛЕКОМ"</fullName>
+                        <shortName>АО "ВОЕНТЕЛЕКОМ"</shortName>
+                        <iko>77718766718771801001</iko>
+                        <inn>7718766718</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1097746350151</ogrn>
+                        <legalAddress>107014, г МОСКВА, ул ОЛЕНЬЯ Б., дом 15А, корпус СТР.1</legalAddress>
+                        <postalAddress>107014, дом 15А, строение 1</postalAddress>
+                        <phone>7-495-6095005</phone>
+                        <fax>7-495-6095152</fax>
+                        <email>info@voentelecom.ru</email>
+                        <okato>45263591000</okato>
+                        <okpo>07627860</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>12576</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>конкурентные переговоры</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ВОЕНТЕЛЕКОМ"</fullName>
+                        <shortName>АО "ВОЕНТЕЛЕКОМ"</shortName>
+                        <iko>77718766718771801001</iko>
+                        <inn>7718766718</inn>
+                        <kpp>771801001</kpp>
+                        <ogrn>1097746350151</ogrn>
+                        <legalAddress>107014, г МОСКВА, ул ОЛЕНЬЯ Б., дом 15А, корпус СТР.1</legalAddress>
+                        <postalAddress>107014, дом 15А, строение 1</postalAddress>
+                        <phone>7-495-6095005</phone>
+                        <fax>7-495-6095152</fax>
+                        <email>info@voentelecom.ru</email>
+                        <okato>45263591000</okato>
+                        <okpo>07627860</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 6095005</phone>
+                    <email>info@voentelecom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ВОЕНТЕЛЕКОМ"</fullName>
+                            <shortName>АО "ВОЕНТЕЛЕКОМ"</shortName>
+                            <iko>77718766718771801001</iko>
+                            <inn>7718766718</inn>
+                            <kpp>771801001</kpp>
+                            <ogrn>1097746350151</ogrn>
+                            <legalAddress>107014, г МОСКВА, ул ОЛЕНЬЯ Б., дом 15А, корпус СТР.1</legalAddress>
+                            <postalAddress>107014, дом 15А, строение 1</postalAddress>
+                            <phone>7-495-6095005</phone>
+                            <fax>7-495-6095152</fax>
+                            <email>info@voentelecom.ru</email>
+                            <okato>45263591000</okato>
+                            <okpo>07627860</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:58:23</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-03</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>107014, г. Москва, ул. Большая Оленья д. 15 А, стр. 1.</place>
+                    <procedure>согласно документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Согласно служебной записки 020/384 от 15.03.2017</ns2:modificationDescription>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>325f3650-dd36-4b4d-a646-a8ef08d6854e</guid>
+                        <createDateTime>2017-03-03T17:35:27</createDateTime>
+                        <fileName>документация.rar</fileName>
+                        <description>документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118224</url>
+                    </document>
+                    <document>
+                        <guid>ba6e9130-9e7d-4351-9106-9aa229a814ca</guid>
+                        <createDateTime>2017-03-16T16:58:02</createDateTime>
+                        <fileName>документация.rar</fileName>
+                        <description>документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118302</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:58:23</ns2:modificationDate>
+                <ns2:saveUserId>181427</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>107014, г. Москва, ул. Большая Оленья д. 15 А, стр. 1.</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-28T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-17T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>107014, г. Москва, ул. Большая Оленья д. 15 А, стр. 1.</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-21T18:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-03</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>3dac9263-34ea-4c46-bece-8ce16ac6a6ef</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Монтаж оборудования
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>4369810.55</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>в соответствии с проектом договора</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>f478c5a5-80fe-4f64-b69e-ef896b31fe9a</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33</code>
+                                        <name>Услуги по ремонту и монтажу машин и оборудования</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33</code>
+                                        <name>Ремонт и монтаж машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>84</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209218</planRegistrationNumber>
+                            <planGuid>2870862b-795c-4416-88e5-e9fe458251c1</planGuid>
+                            <positionNumber>156</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2922a262-b22b-406a-aceb-2d5cf7b12753</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

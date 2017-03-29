@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e695cf61-ca54-4fce-a354-d32f53c683ca</guid>
+        <createDateTime>2017-03-16T16:08:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a9898519-5958-0020-0000-58ca8cdce090</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a9898519-5958-0020-0000-58ca8cdce090</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:02:36</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887224</ns2:urlOOS>
+                <ns2:urlVSRZ>http://www.b2b-mrsk.ru/market/pravo-na-zakliuchenie-dogovora-na-vypolnenie-rabot-po-remontu-zdanii-i/tender-795958/</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898998</ns2:registrationNumber>
+                <ns2:name>Право на заключение Договора на выполнение работ по ремонту зданий и сооружений для нужд ПАО МРСК Центра (филиала Белгородэнерго). (795958)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>12124</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый одноэтапный конкурс</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                        <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                        <iko>56901067107771501001</iko>
+                        <inn>6901067107</inn>
+                        <kpp>997450001</kpp>
+                        <ogrn>1046900099498</ogrn>
+                        <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                        <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                        <phone>7-495-7479292-3304</phone>
+                        <email>Stolyarov.NV@mrsk-1.ru</email>
+                        <okato>45286565000</okato>
+                        <okpo>75720657</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Юрьевна</middleName>
+                    <lastName>Стоцкая</lastName>
+                    <phone>+7 (4722) 283046</phone>
+                    <email>Stotskaya.EY@mrsk-1.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА"</fullName>
+                            <shortName>ПАО "МРСК ЦЕНТРА"</shortName>
+                            <iko>56901067107771501001</iko>
+                            <inn>6901067107</inn>
+                            <kpp>997450001</kpp>
+                            <ogrn>1046900099498</ogrn>
+                            <legalAddress>127018, г МОСКВА, ул ЯМСКАЯ 2-Я, дом 4</legalAddress>
+                            <postalAddress>127018, Москва Город, Ямская 2-я Улица, дом 4</postalAddress>
+                            <phone>7-495-7479292-3304</phone>
+                            <email>Stolyarov.NV@mrsk-1.ru</email>
+                            <okato>45286565000</okato>
+                            <okpo>75720657</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:08:19</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>ЭТП группы B2B-Center</place>
+                    <procedure>Документация по закупке предоставляется без взимания платы в форме электронного документа на сайте ЭТП группы B2B-Center</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>a9898519-5958-0020-0000-58ca8cdce090</guid>
+                        <createDateTime>2017-03-16T14:47:29</createDateTime>
+                        <fileName>795958.rar</fileName>
+                        <description>795958.rar</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115389</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:08:19</ns2:modificationDate>
+                <ns2:saveUserId>100623</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Система электронных торгов B2B-Center</name>
+                    <url>http://b2b-center.ru</url>
+                    <electronicPlaceId>107</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>127018,Россия, г. Москва, ул. 2-я Ямская, д.4</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-05-05T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-05-05T12:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>a9898519-5958-0020-5967-58ca8cde733e</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по ремонту зданий и сооружений для нужд ПАО МРСК Центра (филиала Белгородэнерго)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>28043880.00</initialSum>
+                            <deliveryPlace>
+                                <address>127018,Россия, г. Москва, ул. 2-я Ямская, д.4</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>a9898519-0000-0020-0102-000000795958</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>41.20.40.000</code>
+                                        <name>Работы строительные по возведению нежилых зданий и сооружений (работы по строительству новых объектов, возведению пристроек, реконструкции и ремонту зданий)</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>41.20</code>
+                                        <name>Строительство жилых и нежилых зданий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160190937</planRegistrationNumber>
+                            <planGuid>a9898519-2058-0251-0000-58c7fe6b6729</planGuid>
+                            <positionNumber>20392000</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a9898519-2058-0250-2000-000006365821</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>7d9c351e-baed-478c-9c9d-b22664dc7acd</guid>
+        <createDateTime>2017-03-16T17:23:57</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>bb183d6d-eeed-4cd6-b0c5-a09a7d891dc7</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>bb183d6d-eeed-4cd6-b0c5-a09a7d891dc7</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:20:38</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887993</ns2:urlOOS>
+                <ns2:registrationNumber>31704899665</ns2:registrationNumber>
+                <ns2:name>№ 8/МТО (далее – запрос котировок) на право заключения договора на поставку материалов СЦБ и связи на объект: «Установка устройств контроля схода подвижного состава (УКПС) на подходах к мосту перегона Погорелово-Каменская.»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>118359</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок (по Положению АО "РЖДстрой")</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                        <shortName>АО "РЖДСТРОЙ"</shortName>
+                        <iko>67708587205770901001</iko>
+                        <inn>7708587205</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1067746082546</ogrn>
+                        <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                        <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                        <phone>7-499-2603432-1247</phone>
+                        <email>BoroninAV@rzdstroy.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>93287520</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (863) 2638256</phone>
+                    <email>HarchenkoES@rzdstroy.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РЖДСТРОЙ"</fullName>
+                            <shortName>АО "РЖДСТРОЙ"</shortName>
+                            <iko>67708587205770901001</iko>
+                            <inn>7708587205</inn>
+                            <kpp>770901001</kpp>
+                            <ogrn>1067746082546</ogrn>
+                            <legalAddress>105064, Г МОСКВА, УЛ КАЗАКОВА, дом 8, корпус СТР.6</legalAddress>
+                            <postalAddress>105064, Москва, Казакова, дом 8, корпус СТР.6</postalAddress>
+                            <phone>7-499-2603432-1247</phone>
+                            <email>BoroninAV@rzdstroy.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>93287520</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:23:57</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>344010, г. Ростов-на-Дону, пл. Энергетиков, д. 1/5.</place>
+                    <procedure>Для прохода в здание необходимо направить заявку (с указанием ФИО, контактного телефона, номера процедуры размещения заказа и цели посещения) на электронный адрес: HarchenkoES@rzdstroy.ru, не позднее чем за один рабочий день (до 13:00 московского времени), предшествующий дню посещения. При себе необходимо иметь документ, удостоверяющий личность.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>cfb2f930-6520-4535-88f2-7058da2fc3d5</guid>
+                        <createDateTime>2017-03-16T17:23:29</createDateTime>
+                        <fileName>Извещение №8..doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119219</url>
+                    </document>
+                    <document>
+                        <guid>cff5f09d-4a94-447e-a3ed-a6818cdfd7e1</guid>
+                        <createDateTime>2017-03-16T17:23:36</createDateTime>
+                        <fileName>Документация. Условия проведения закупки..docx</fileName>
+                        <description>Документация. Условия проведения закупки.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119222</url>
+                    </document>
+                    <document>
+                        <guid>1009767f-5f25-4ebd-b27d-aaa9cae04f6d</guid>
+                        <createDateTime>2017-03-16T17:23:42</createDateTime>
+                        <fileName>Документация. Порядок организации проведения закупки..docx</fileName>
+                        <description>Документация. Порядок организации проведения закупки.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119224</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:23:57</ns2:modificationDate>
+                <ns2:saveUserId>260451</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:submissionCloseDateTime>2017-03-27T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:templateVersion>1</ns2:templateVersion>
+                <ns2:templateStructure>
+                    <ns2:level>
+                        <ns2:tabLevel>NOTICE</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Общая информация</tabName>
+                            <fixedName>MAIN</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о состоянии извещения</sectionName>
+                                <fixedName>MAIN_STATUS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Сведения о заказчике</sectionName>
+                                <fixedName>MAIN_CUSTOMER</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Общие сведения о закупке</sectionName>
+                                <fixedName>MAIN_PURCHASE</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>4</sectionOrdinal>
+                                <sectionName>Контактная информация</sectionName>
+                                <fixedName>MAIN_CONTACTS</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>Порядок размещения закупки</tabName>
+                            <fixedName>COMMISSION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Публикация извещения</sectionName>
+                                <fixedName>COMMISSION_PUBLISH</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>3</tabOrdinal>
+                            <tabName>Список лотов</tabName>
+                            <fixedName>LOTS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о лотах</sectionName>
+                                <fixedName>LOTS_INFO</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>6</tabOrdinal>
+                            <tabName>Документация</tabName>
+                            <fixedName>DOCS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Предоставление документации</sectionName>
+                                <fixedName>DOCS_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Файлы документации</sectionName>
+                                <fixedName>DOCS_FILES</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>4</tabOrdinal>
+                            <tabName>Сведения о лоте</tabName>
+                            <fixedName>LOT_INFORMATION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация о лоте</sectionName>
+                                <fixedName>LOT_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT_CUSTOMER</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>5</tabOrdinal>
+                            <tabName>Сведения по заказчику</tabName>
+                            <fixedName>LOT_CUSTOMER</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация по Заказчику</sectionName>
+                                <fixedName>LOT_CUSTOMER_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_CUSTOMER_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_CUSTOMER_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                </ns2:templateStructure>
+                <ns2:extendFields>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>examinationPlace</integrCode>
+                            <description>Место рассмотрения заявок</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>344010, г. Ростов-на-Дону, пл. Энергетиков, д. 1/5.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>examinationDateTime</integrCode>
+                            <description>Дата и время рассмотрения заявок</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-03-28T10:00:00</dateTime>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>summingupPlace</integrCode>
+                            <description>Место подведения итогов</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>344010, г. Ростов-на-Дону, пл. Энергетиков, д. 1/5.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>summingupTime</integrCode>
+                            <description>Дата и время подведения итогов</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-03-28T12:00:00</dateTime>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>COMMISSION</tabName>
+                            <sectionOrdinal>1</sectionOrdinal>
+                            <sectionName>COMISSION_SEC_Публикация извещения</sectionName>
+                        </position>
+                    </noticeExtendField>
+                </ns2:extendFields>
+                <ns2:lots>
+                    <lot>
+                        <guid>43e886b9-369c-4035-8392-37090916977a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка материалов СЦБ и связи на объект "Установка устройств контроля схода подвижного состава (УКПС) на подходах к мосту перегона Погорелово-Каменская"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1697624.11</initialSum>
+                            <deliveryPlace>
+                                <state>Южный федеральный округ</state>
+                                <region>Краснодарский край</region>
+                                <regionOkato>03000000000</regionOkato>
+                                <address>ст. Погорелово, 1025 км.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>00d14674-8492-4ccd-8169-7a62f2c538f6</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>47.52.7</code>
+                                        <name>Услуги по розничной торговле строительными материалами, не включенными в другие группировки, в специализированных магазинах</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>47.52.7</code>
+                                        <name>Торговля розничная строительными материалами, не включенными в другие группировки, в специализированных магазинах</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160210428</planRegistrationNumber>
+                            <planGuid>7a3019e8-39bb-449d-8584-fa2ac8fd6d7a</planGuid>
+                            <positionNumber>1995</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a1716919-ef3e-4f68-a77b-b39cac18529c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                        <extendFields>
+                            <noticeExtendField>
+                                <extendField>
+                                    <integrCode>TsenaDog</integrCode>
+                                    <description>Начальная (максимальная) цена договора без учета НДС</description>
+                                    <type>STRING</type>
+                                    <value>
+                                        <string>1438664,50</string>
+                                    </value>
+                                </extendField>
+                                <extendField>
+                                    <integrCode>Valuta</integrCode>
+                                    <description>Валюта</description>
+                                    <type>CURRENCY</type>
+                                    <value>
+                                        <nsi>
+                                            <currency>
+                                                <code>RUB</code>
+                                                <digitalCode>643</digitalCode>
+                                                <name>Российский рубль</name>
+                                            </currency>
+                                        </nsi>
+                                    </value>
+                                </extendField>
+                                <position>
+                                    <tabOrdinal>4</tabOrdinal>
+                                    <tabName>LOT_INFORMATION</tabName>
+                                    <sectionOrdinal>1</sectionOrdinal>
+                                    <sectionName>LOT_INFO_SEC_Общая информация о лоте</sectionName>
+                                </position>
+                            </noticeExtendField>
+                        </extendFields>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

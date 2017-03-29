@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3a8d257e-f82a-45b0-be7a-daedda6e4635</guid>
+        <createDateTime>2017-03-16T16:29:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>ce3a35fb-6300-20e8-55ee-6605252f2f70</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>ce3a35fb-6300-20e8-55ee-6605252f2f70</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:25:17</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887482</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286287</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899205</ns2:registrationNumber>
+                <ns2:name>Техническое обслуживание и ремонт транспортных средств марки УАЗ (№ 60-ГТП/РЭН/(услуги)-03.2017)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНСТИТУТ ПО ПРОЕКТИРОВАНИЮ МАГИСТРАЛЬНЫХ ТРУБОПРОВОДОВ"</fullName>
+                        <shortName>АО "ГИПРОТРУБОПРОВОД"</shortName>
+                        <iko>67710022410774501001</iko>
+                        <inn>7710022410</inn>
+                        <kpp>774501001</kpp>
+                        <ogrn>1027700002660</ogrn>
+                        <legalAddress>119334, г МОСКВА, ул ВАВИЛОВА, дом 24, корпус 1</legalAddress>
+                        <postalAddress>119334, Москва город, Вавилова улица, дом 24, корпус 1</postalAddress>
+                        <phone>7-495-9508751-0034</phone>
+                        <fax>7-495-9508756</fax>
+                        <email>NaumovAO@gtp.transneft.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>00148406</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>144224</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНСТИТУТ ПО ПРОЕКТИРОВАНИЮ МАГИСТРАЛЬНЫХ ТРУБОПРОВОДОВ"</fullName>
+                        <shortName>АО "ГИПРОТРУБОПРОВОД"</shortName>
+                        <iko>67710022410774501001</iko>
+                        <inn>7710022410</inn>
+                        <kpp>774501001</kpp>
+                        <ogrn>1027700002660</ogrn>
+                        <legalAddress>119334, г МОСКВА, ул ВАВИЛОВА, дом 24, корпус 1</legalAddress>
+                        <postalAddress>119334, Москва город, Вавилова улица, дом 24, корпус 1</postalAddress>
+                        <phone>7-495-9508751-0034</phone>
+                        <fax>7-495-9508756</fax>
+                        <email>NaumovAO@gtp.transneft.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>00148406</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Лилия</firstName>
+                    <middleName>Викторовна</middleName>
+                    <lastName>Подгорная</lastName>
+                    <phone>+7 (495) 9508751</phone>
+                    <email>PodgornayaLV@gtp.transneft.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ИНСТИТУТ ПО ПРОЕКТИРОВАНИЮ МАГИСТРАЛЬНЫХ ТРУБОПРОВОДОВ"</fullName>
+                            <shortName>АО "ГИПРОТРУБОПРОВОД"</shortName>
+                            <iko>67710022410774501001</iko>
+                            <inn>7710022410</inn>
+                            <kpp>774501001</kpp>
+                            <ogrn>1027700002660</ogrn>
+                            <legalAddress>119334, г МОСКВА, ул ВАВИЛОВА, дом 24, корпус 1</legalAddress>
+                            <postalAddress>119334, Москва город, Вавилова улица, дом 24, корпус 1</postalAddress>
+                            <phone>7-495-9508751-0034</phone>
+                            <fax>7-495-9508756</fax>
+                            <email>NaumovAO@gtp.transneft.ru</email>
+                            <okato>45293558000</okato>
+                            <okpo>00148406</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:29:22</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>6cefdad1-246e-17ea-cf1f-47b4963bbcec</guid>
+                        <createDateTime>2017-03-16T16:18:00</createDateTime>
+                        <fileName>1_Извещение_о_закупке_60.docx</fileName>
+                        <description>Извещение о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116602</url>
+                    </document>
+                    <document>
+                        <guid>373c16c9-a083-935f-3e0a-febb45ab3697</guid>
+                        <createDateTime>2017-03-16T16:18:43</createDateTime>
+                        <fileName>Проект_договора__DOGOVOR_TO_i_R_TS_i_ST_[1].doc</fileName>
+                        <description>Проект договора (DOGOVOR TO i R TS i ST)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116603</url>
+                    </document>
+                    <document>
+                        <guid>829c7c87-9f90-26c7-24b8-2da57899cc16</guid>
+                        <createDateTime>2017-03-16T16:18:32</createDateTime>
+                        <fileName>Документация_о_закупке_60.rar</fileName>
+                        <description>Документация о закупке</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116604</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:29:22</ns2:modificationDate>
+                <ns2:saveUserId>5394</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>119334, г. Москва, ул. Вавилова, д. 24, корп.1, этаж 9, каб. 925</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-13T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-20T12:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>ef5ead7f-dea9-be43-5f0e-30eccf737d9c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Техническое обслуживание и ремонт транспортных средств марки УАЗ</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>707963.35</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с документацией о закупке</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>945aa686-dac5-abad-009a-2f6248551edc</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>45.20.2</code>
+                                        <name>Услуги по техническому обслуживанию и ремонту прочих автотранспортных средств</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>45.20.2</code>
+                                        <name>Техническое обслуживание и ремонт прочих автотранспортных средств</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>15</qty>
+                                    <additionalInfo>Техническое обслуживание и ремонт транспортных средств марки УАЗ</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160208708</planRegistrationNumber>
+                            <planGuid>248765a8-a54e-4828-b565-88c6d311743a</planGuid>
+                            <positionNumber>93</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e0a6f934-f896-e057-b5c5-7e5a4e7240c2</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

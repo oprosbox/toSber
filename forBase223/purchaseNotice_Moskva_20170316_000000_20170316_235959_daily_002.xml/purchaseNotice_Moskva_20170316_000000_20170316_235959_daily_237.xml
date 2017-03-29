@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>27f4b187-3798-4033-8024-668ac0dbfb69</guid>
+        <createDateTime>2017-03-16T19:15:11</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4b4b9d70-efdc-4129-9c72-2e3b377a0dbd</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>4b4b9d70-efdc-4129-9c72-2e3b377a0dbd</ns2:guid>
+                <ns2:createDateTime>2017-03-16T19:14:16</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888405</ns2:urlOOS>
+                <ns2:urlVSRZ>http://web.etprf.ru/NotificationEP/Print/id/25738</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704900025</ns2:registrationNumber>
+                <ns2:name>1906-2017-00192. Поставка хлорсиланов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГОСУДАРСТВЕННЫЙ ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ХИМИИ И ТЕХНОЛОГИИ ЭЛЕМЕНТООРГАНИЧЕСКИХ СОЕДИНЕНИЙ"</fullName>
+                        <shortName>АО "ГНИИХТЭОС"</shortName>
+                        <iko>57720303065772001001</iko>
+                        <inn>7720303065</inn>
+                        <kpp>772001001</kpp>
+                        <ogrn>1157746445845</ogrn>
+                        <legalAddress>105118, г МОСКВА, ш ЭНТУЗИАСТОВ, дом ДОМ 38</legalAddress>
+                        <postalAddress>105118, г. Москва, Шоссе Энтузиастов, д. 38</postalAddress>
+                        <phone>7-495-6737107</phone>
+                        <fax>7-495-6737107</fax>
+                        <email>okp@eos.su</email>
+                        <okato>45263583000</okato>
+                        <okpo>00209013</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>109862</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЭТП"</fullName>
+                        <shortName>ООО "ЭТП"</shortName>
+                        <iko>51655218458165501001</iko>
+                        <inn>1655218458</inn>
+                        <kpp>165501001</kpp>
+                        <ogrn>1111690052099</ogrn>
+                        <legalAddress>420097, РЕСП ТАТАРСТАН, Г КАЗАНЬ, УЛ ДОСТОЕВСКОГО, дом 66</legalAddress>
+                        <postalAddress>420097, Казань Город, Достоевского Улица, 66</postalAddress>
+                        <phone>8-800-7000369</phone>
+                        <email>funky-b@inbox.ru</email>
+                        <okato>92401367000</okato>
+                        <okpo>92272054</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Алексей</firstName>
+                    <middleName>Геннадьевич</middleName>
+                    <lastName>Чернецов</lastName>
+                    <phone>+7 (495) 6737107</phone>
+                    <email>okp@eos.su</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ГОСУДАРСТВЕННЫЙ ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ХИМИИ И ТЕХНОЛОГИИ ЭЛЕМЕНТООРГАНИЧЕСКИХ СОЕДИНЕНИЙ"</fullName>
+                            <shortName>АО "ГНИИХТЭОС"</shortName>
+                            <iko>57720303065772001001</iko>
+                            <inn>7720303065</inn>
+                            <kpp>772001001</kpp>
+                            <ogrn>1157746445845</ogrn>
+                            <legalAddress>105118, г МОСКВА, ш ЭНТУЗИАСТОВ, дом ДОМ 38</legalAddress>
+                            <postalAddress>105118, г. Москва, Шоссе Энтузиастов, д. 38</postalAddress>
+                            <phone>7-495-6737107</phone>
+                            <fax>7-495-6737107</fax>
+                            <email>okp@eos.su</email>
+                            <okato>45263583000</okato>
+                            <okpo>00209013</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:15:11</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>cbe5106f-f312-4be1-83f4-69e710063c13</guid>
+                        <createDateTime>2017-03-16T19:13:36</createDateTime>
+                        <fileName>Извещение .html</fileName>
+                        <description>Извещение </description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121144</url>
+                    </document>
+                    <document>
+                        <guid>38975376-053f-466d-b649-ededc24c70cf</guid>
+                        <createDateTime>2017-03-16T12:53:36</createDateTime>
+                        <fileName>ДоЗ для ЕП_хлорсиланы .docx</fileName>
+                        <description>ДоЗ для ЕП_хлорсиланы </description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121145</url>
+                    </document>
+                    <document>
+                        <guid>7169ce96-1db9-40bc-86a6-bc69d1611f69</guid>
+                        <createDateTime>2017-03-16T12:56:04</createDateTime>
+                        <fileName>Проект договора.docx</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121146</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:15:11</ns2:modificationDate>
+                <ns2:saveUserId>34227</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:submissionCloseDateTime>2017-03-16T19:13:34</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:templateVersion>1</ns2:templateVersion>
+                <ns2:templateStructure>
+                    <ns2:level>
+                        <ns2:tabLevel>NOTICE</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Общая информация</tabName>
+                            <fixedName>MAIN</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о состоянии извещения</sectionName>
+                                <fixedName>MAIN_STATUS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Сведения о заказчике</sectionName>
+                                <fixedName>MAIN_CUSTOMER</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Общие сведения о закупке</sectionName>
+                                <fixedName>MAIN_PURCHASE</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>4</sectionOrdinal>
+                                <sectionName>Контактная информация</sectionName>
+                                <fixedName>MAIN_CONTACTS</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>Порядок размещения закупки</tabName>
+                            <fixedName>COMMISSION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Публикация извещения</sectionName>
+                                <fixedName>COMMISSION_PUBLISH</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>3</tabOrdinal>
+                            <tabName>Список лотов</tabName>
+                            <fixedName>LOTS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о лотах</sectionName>
+                                <fixedName>LOTS_INFO</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>6</tabOrdinal>
+                            <tabName>Документация</tabName>
+                            <fixedName>DOCS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Предоставление документации</sectionName>
+                                <fixedName>DOCS_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Файлы документации</sectionName>
+                                <fixedName>DOCS_FILES</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>4</tabOrdinal>
+                            <tabName>Сведения о лоте</tabName>
+                            <fixedName>LOT_INFORMATION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация о лоте</sectionName>
+                                <fixedName>LOT_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT_CUSTOMER</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>5</tabOrdinal>
+                            <tabName>Сведения по заказчику</tabName>
+                            <fixedName>LOT_CUSTOMER</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация по Заказчику</sectionName>
+                                <fixedName>LOT_CUSTOMER_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_CUSTOMER_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_CUSTOMER_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                </ns2:templateStructure>
+                <ns2:extendFields>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>a</integrCode>
+                            <description>Официальный сайт заказчика</description>
+                            <type>LINK</type>
+                            <value>
+                                <url>http://www.eos.su/</url>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>MAIN</tabName>
+                            <sectionOrdinal>2</sectionOrdinal>
+                            <sectionName>MAIN_SEC_Сведения о заказчике</sectionName>
+                        </position>
+                    </noticeExtendField>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>b</integrCode>
+                            <description>Организатор закупки</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>АО «ГНИИХТЭОС»</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>c</integrCode>
+                            <description>Условия поставки товара, выполнения работ, оказания услуг</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>в соответствии с проектом договора.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>d</integrCode>
+                            <description>Сроки (периоды) поставки товара, выполнения работ, оказания услуг</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Поставка Товара осуществляется одной партией не позднее 10  календарных дней с даты получения заявки.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>e</integrCode>
+                            <description>Форма, сроки и порядок оплаты продукции</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Покупатель производит оплату Товара на основании счета Поставщика в течение 10 рабочих дней с даты получения Товара на складе  Поставщика при условии, что Товар, прошедший входной контроль, соответствует требованиям, указанным в Спецификации.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>f</integrCode>
+                            <description>Сведения о контрагенте</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Общество с ограниченной ответственностью «ТД «Джей Эл Эс Кемикал» (ИНН7813447870, КПП781301001, ОГРН 1097847190165, ОКПО 61087305Место нахождения и почтовый адрес: 197101, г. Санкт-Петербург, ул. Монетная М., д.2, лит Г; 197101, г. Санкт-Петербург, а/я 44).</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>g</integrCode>
+                            <description>Дополнительные комментарии</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>16.	Дополнительные комментарии:
+16.1.	 Настоящее извещение информирует о заключении договора (договоров) с единственным поставщиком и не предназначено для приглашения поставщиков подавать заявки на участие в закупке. 
+16.2.	 Настоящее извещение имеет силу документации о закупке.
+16.3.	 Остальные условия проведения закупки содержатся в прилагаемом проекте договора (Приложение №1 к Извещению), являющемся неотъемлемой частью настоящего извещения (документации) о закупке.
+16.4.	 Установленные заказчиком требования к безопасности, качеству, техническим характеристикам, функциональным характеристикам (потребительским свойствам) товара, работы, услуги, к размерам, упаковке, отгрузке товара, к результатам работы и иные требования, связанные с поставляемым товаром / выполняемой работой / оказываемой услугой приведены в проекте договора (Приложение №1 к Извещению).
+16.5.	 Организатор закупки вправе отказаться от проведения закупки без каких-либо последствий в любой момент до заключения договора.
+</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>h</integrCode>
+                            <description>Прочие сведения</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>17.	Прочие сведения:
+17.1.	 Срок, место и порядок предоставления документации о закупке – не устанавливается.
+17.2.	 Дата и время начала, окончания подачи заявок, место и порядок их подачи – не устанавливается.
+17.3.	 Место и дата рассмотрения, подведения итогов закупки – не устанавливается.
+17.4.	 Требования к содержанию, форме, оформлению и составу заявки – не устанавливается.
+17.5.	 Требования к описанию участниками закупки поставляемого товара, выполняемой работы, оказываемой услуги, которые являются предметом закупки, их функциональных характеристик (потребительских свойств), количественных и качественных характеристик – не устанавливается.
+17.6.	 Форма, порядок и срок предоставления разъяснений положений документации о закупке – не устанавливается.
+17.7.	 Критерии и порядок оценки и сопоставления заявок – не устанавливается.
+17.8.	 Возможность проведения преддоговорных переговоров – допускается.
+</text>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>MAIN</tabName>
+                            <sectionOrdinal>3</sectionOrdinal>
+                            <sectionName>MAIN_SEC_Общие сведения о закупке</sectionName>
+                        </position>
+                    </noticeExtendField>
+                </ns2:extendFields>
+                <ns2:lots>
+                    <lot>
+                        <guid>4b4b9d70-efdc-4129-9c72-2e3b377a0dbd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>1906-2017-00192. Поставка хлорсиланов</subject>
+                            <currency>
+                                <code>USD</code>
+                                <digitalCode>840</digitalCode>
+                                <name>Доллар США</name>
+                            </currency>
+                            <initialSum>18472.60</initialSum>
+                            <deliveryPlace>
+                                <address>Поставка Товара осуществляется на склад покупателя по адресу: 105118, г. Москва, ш. Энтузиастов, д.38.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>05f176ef-4bcd-409a-b3e4-25277981e162</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.16.57</code>
+                                        <name>Полимеры кремнийорганические (силиконы) в первичных формах</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.16</code>
+                                        <name>Производство пластмасс и синтетических смол в первичных формах</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>166</code>
+                                        <name>Килограмм</name>
+                                    </okei>
+                                    <qty>5460</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160204411</planRegistrationNumber>
+                            <planGuid>07c5250e-c665-4c21-98bc-e388f0cb5e41</planGuid>
+                            <positionNumber>192</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>aa40bf69-7cee-40a7-a4c5-8cb20384bd2d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>da7ca0a6-1bd7-46f4-b430-ea24a83d2019</guid>
+        <createDateTime>2017-03-16T16:04:02</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0addd403-d90a-1ed7-82ac-2087d8a44359</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>0addd403-d90a-1ed7-82ac-2087d8a44359</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:02:45</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887228</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898942</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на поставку узлов пишущих для регистрирующих контрольно-измерительных приборов для нужд филиала АО "ОТЭК" в г. Северске
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ОБЪЕДИНЁННАЯ ТЕПЛОЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ"</fullName>
+                        <shortName>АО "ОТЭК"</shortName>
+                        <iko>67706757331770601001</iko>
+                        <inn>7706757331</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>1117746439480</ogrn>
+                        <legalAddress>101000, г МОСКВА, пер ПОТАПОВСКИЙ, дом 5, корпус 4</legalAddress>
+                        <postalAddress>Москва, Потаповский переулок, д.5, строение 4</postalAddress>
+                        <phone>7-499-9494919</phone>
+                        <email>info@oao-otek.ru</email>
+                        <okato>45296559000</okato>
+                        <okpo>92472511</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5907</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос цен в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ОБЪЕДИНЁННАЯ ТЕПЛОЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ" ФИЛИАЛ В Г.СЕВЕРСКЕ</fullName>
+                        <shortName>АО "ОТЭК" ФИЛИАЛ В Г.СЕВЕРСКЕ</shortName>
+                        <iko>57706757331702443001</iko>
+                        <inn>7706757331</inn>
+                        <kpp>702443001</kpp>
+                        <ogrn>1117746439480</ogrn>
+                        <legalAddress>Г.СЕВЕРСК, УЛ.АВТОДОРОГА, 14/11, ПРОМЫШЛЕННАЯ ПЛОЩАДКА ТЭЦ</legalAddress>
+                        <postalAddress>ФИЛИАЛ АКЦИОНЕРНОГО ОБЩЕСТВА "ОБЪЕДИНЁННАЯ ТЕПЛОЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ" В Г.СЕВЕРСКЕ</postalAddress>
+                        <phone>8-3823-555463</phone>
+                        <email>info@oao-otek.ru</email>
+                        <okato>69541000000</okato>
+                        <okpo>24619106</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Марина</firstName>
+                    <middleName>Павловна</middleName>
+                    <lastName>Дудник</lastName>
+                    <phone>+8 (3823) 555174</phone>
+                    <fax>+8 (3823) 548782</fax>
+                    <email>mpadudnik@oao-otek.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ОБЪЕДИНЁННАЯ ТЕПЛОЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ" ФИЛИАЛ В Г.СЕВЕРСКЕ</fullName>
+                            <shortName>АО "ОТЭК" ФИЛИАЛ В Г.СЕВЕРСКЕ</shortName>
+                            <iko>57706757331702443001</iko>
+                            <inn>7706757331</inn>
+                            <kpp>702443001</kpp>
+                            <ogrn>1117746439480</ogrn>
+                            <legalAddress>Г.СЕВЕРСК, УЛ.АВТОДОРОГА, 14/11, ПРОМЫШЛЕННАЯ ПЛОЩАДКА ТЭЦ</legalAddress>
+                            <postalAddress>ФИЛИАЛ АКЦИОНЕРНОГО ОБЩЕСТВА "ОБЪЕДИНЁННАЯ ТЕПЛОЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ" В Г.СЕВЕРСКЕ</postalAddress>
+                            <phone>8-3823-555463</phone>
+                            <email>info@oao-otek.ru</email>
+                            <okato>69541000000</okato>
+                            <okpo>24619106</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:04:02</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-24</deliveryEndDateTime>
+                    <place>Фабрикант 2 http://www.fabrikant.ru/</place>
+                    <procedure>Фабрикант 2 http://www.fabrikant.ru/</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c9-052020b5dca9</guid>
+                        <createDateTime>2017-03-16T12:57:50</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115394</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82ac-25a036b40f01</guid>
+                        <createDateTime>2017-03-15T09:24:22</createDateTime>
+                        <fileName>2017 01 31 Договор поставки УПС согласован.docx</fileName>
+                        <description>2017 01 31 Договор поставки УПС согласован</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115395</url>
+                    </document>
+                    <document>
+                        <guid>f2f32b7a-a50b-1ed7-82c9-0b58330acef8</guid>
+                        <createDateTime>2017-03-16T12:59:14</createDateTime>
+                        <fileName>Закупочная документация.zip</fileName>
+                        <description>Закупочная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115396</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82ac-257c706c0f01</guid>
+                        <createDateTime>2017-03-15T09:24:21</createDateTime>
+                        <fileName>Техническое задание на поставку УПС 24012017.pdf</fileName>
+                        <description>Техническое задание на поставку УПС 24012017</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115397</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:04:02</ns2:modificationDate>
+                <ns2:saveUserId>207822</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Фабрикант 2</name>
+                    <url>http://fabrikant.ru</url>
+                    <electronicPlaceId>111</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>РФ, 636000, Томская область, г. Северск, Автодорога 14/11</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-13T23:59:59</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-13T23:59:59</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-24T02:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>0addd403-d90a-1ed7-82ac-2191bc398359</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения договора на Поставка узлов пишущих для регистрирующих контрольно-измерительных приборов для нужд филиала АО "ОТЭК" в г. Северске
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>145239.88</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>в течение 60 (шестидесяти) календарных дней с момента заключения договора</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0addd403-d90a-1ed7-82a9-b0b2d3db0937</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.51.85.120</code>
+                                        <name>Комплектующие (запасные части) приборов, устройств и машин контрольно-измерительных, не включенные в другие группировки, не имеющие самостоятельных группировок</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.51.8</code>
+                                        <name>Производство частей приборов и инструментов для навигации, управления, измерения, контроля, испытаний и прочих целей</name>
+                                    </okved2>
+                                    <additionalInfo>Закупка проводится у субъектов малого и среднего предпринимательства.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184590</planRegistrationNumber>
+                            <planGuid>2220fc00-0d0b-1ed7-8282-1c9b21124c06</planGuid>
+                            <positionNumber>1120400233</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>57ea6329-f028-0a50-e100-80000a7c1050</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

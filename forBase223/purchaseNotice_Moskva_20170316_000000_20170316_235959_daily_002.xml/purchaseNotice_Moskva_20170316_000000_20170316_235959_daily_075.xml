@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>2be3a20c-d681-4dd7-9c3f-552a672a6a27</guid>
+        <createDateTime>2017-03-16T16:53:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>109b72bf-5e8c-4ecc-b158-b29370fd202b</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>109b72bf-5e8c-4ecc-b158-b29370fd202b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:51:49</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887734</ns2:urlOOS>
+                <ns2:registrationNumber>31704899411</ns2:registrationNumber>
+                <ns2:name>хранение 
+
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЖЕФКО"</fullName>
+                        <shortName>ООО "ЖЕФКО"</shortName>
+                        <iko>77704505900500301001</iko>
+                        <inn>7704505900</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1037739971829</ogrn>
+                        <legalAddress>107140, Г МОСКВА, УЛ КРАСНОСЕЛЬСКАЯ ВЕРХН., дом ДОМ 3, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>107140, дом 3, строение 2</postalAddress>
+                        <phone>7-495-9813100</phone>
+                        <email>pavel.vinogradov@gefco.net</email>
+                        <okato>46228501000</okato>
+                        <okpo>71609041</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>37580</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЖЕФКО"</fullName>
+                        <shortName>ООО "ЖЕФКО"</shortName>
+                        <iko>77704505900500301001</iko>
+                        <inn>7704505900</inn>
+                        <kpp>770801001</kpp>
+                        <ogrn>1037739971829</ogrn>
+                        <legalAddress>107140, Г МОСКВА, УЛ КРАСНОСЕЛЬСКАЯ ВЕРХН., дом ДОМ 3, корпус СТРОЕНИЕ 2</legalAddress>
+                        <postalAddress>107140, дом 3, строение 2</postalAddress>
+                        <phone>7-495-9813100</phone>
+                        <email>pavel.vinogradov@gefco.net</email>
+                        <okato>46228501000</okato>
+                        <okpo>71609041</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9813100</phone>
+                    <email>223@gefco.net</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЖЕФКО"</fullName>
+                            <shortName>ООО "ЖЕФКО"</shortName>
+                            <iko>77704505900500301001</iko>
+                            <inn>7704505900</inn>
+                            <kpp>770801001</kpp>
+                            <ogrn>1037739971829</ogrn>
+                            <legalAddress>107140, Г МОСКВА, УЛ КРАСНОСЕЛЬСКАЯ ВЕРХН., дом ДОМ 3, корпус СТРОЕНИЕ 2</legalAddress>
+                            <postalAddress>107140, дом 3, строение 2</postalAddress>
+                            <phone>7-495-9813100</phone>
+                            <email>pavel.vinogradov@gefco.net</email>
+                            <okato>46228501000</okato>
+                            <okpo>71609041</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:53:37</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-01-11</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-01-11</deliveryEndDateTime>
+                    <place>www.zakupki.gov.ru</place>
+                    <procedure>в свободном доступе</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>74bc234c-39a5-4d7b-b919-f5a6ec53dd7f</guid>
+                        <createDateTime>2017-03-16T16:53:06</createDateTime>
+                        <fileName>76 Документации о закупке у ед. поставщика.doc</fileName>
+                        <description>76 Документации о закупке у ед. поставщика</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118047</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:53:37</ns2:modificationDate>
+                <ns2:saveUserId>174887</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Сведения и информация по данному пункту неприменимы к закупке у единственного поставщика (подрядчика, исполнителя)</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-16T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-16T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>Сведения и информация по данному пункту неприменимы к закупке у единственного поставщика (подрядчика, исполнителя)</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:lots>
+                    <lot>
+                        <guid>64af299e-94cb-4fbf-9818-d65218cc10d0</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>хранение 
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>15000000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>107140, г. Москва, ул. Верхняя Красносельская, д. 3 стр. 2</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>2720ad5f-f948-4ceb-85ee-f9eb3c6788e5</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>52.1</code>
+                                        <name>Услуги по складированию и хранению</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>52.1</code>
+                                        <name>Деятельность по складированию и хранению</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195635</planRegistrationNumber>
+                            <planGuid>b95fad60-369f-4494-b8bc-2a96a6fc7078</planGuid>
+                            <positionNumber>76</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>6aa171a2-2085-4dd9-bdf1-a9dcea693b67</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

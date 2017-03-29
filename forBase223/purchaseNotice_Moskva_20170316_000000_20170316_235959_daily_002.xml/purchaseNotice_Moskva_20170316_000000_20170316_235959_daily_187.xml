@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>5e13c2b2-46fa-4663-93a7-2f1d67ea72db</guid>
+        <createDateTime>2017-03-16T16:46:18</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>65ffa281-442e-47cd-b22f-bd0ff4091fe8</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>65ffa281-442e-47cd-b22f-bd0ff4091fe8</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:44:43</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887653</ns2:urlOOS>
+                <ns2:registrationNumber>31604621897</ns2:registrationNumber>
+                <ns2:name>Исполнение функций технического заказчика на период проектирования и строительства объектов технологической части транспортно-пересадочных узлов, с осуществлением проектно-изыскательских работ, разработкой проектной и рабочей документации</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ОРДЕНА ЛЕНИНА И ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ МЕТРОПОЛИТЕН ИМЕНИ В.И.ЛЕНИНА"</fullName>
+                        <shortName>ГУП "МОСКОВСКИЙ МЕТРОПОЛИТЕН"</shortName>
+                        <iko>57702038150770201001</iko>
+                        <inn>7702038150</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1027700096280</ogrn>
+                        <legalAddress>129110, г МОСКВА, пр-кт МИРА, дом 41, корпус 2</legalAddress>
+                        <postalAddress>129110, Москва, Проспект Мира, д.41, стр.2</postalAddress>
+                        <phone>7-495-6880834</phone>
+                        <email>priemnaya@mosmetro.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>03324364</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>9791</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Конкурс в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ОРДЕНА ЛЕНИНА И ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ МЕТРОПОЛИТЕН ИМЕНИ В.И.ЛЕНИНА"</fullName>
+                        <shortName>ГУП "МОСКОВСКИЙ МЕТРОПОЛИТЕН"</shortName>
+                        <iko>57702038150770201001</iko>
+                        <inn>7702038150</inn>
+                        <kpp>770201001</kpp>
+                        <ogrn>1027700096280</ogrn>
+                        <legalAddress>129110, г МОСКВА, пр-кт МИРА, дом 41, корпус 2</legalAddress>
+                        <postalAddress>129110, Москва, Проспект Мира, д.41, стр.2</postalAddress>
+                        <phone>7-495-6880834</phone>
+                        <email>priemnaya@mosmetro.ru</email>
+                        <okato>45286570000</okato>
+                        <okpo>03324364</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Алексей</firstName>
+                    <middleName>Михайлович</middleName>
+                    <lastName>Штырков</lastName>
+                    <phone>+7 (499) 3216870</phone>
+                    <email>shtirkov-am@mosmetro.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА МОСКВЫ "МОСКОВСКИЙ ОРДЕНА ЛЕНИНА И ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ МЕТРОПОЛИТЕН ИМЕНИ В.И.ЛЕНИНА"</fullName>
+                            <shortName>ГУП "МОСКОВСКИЙ МЕТРОПОЛИТЕН"</shortName>
+                            <iko>57702038150770201001</iko>
+                            <inn>7702038150</inn>
+                            <kpp>770201001</kpp>
+                            <ogrn>1027700096280</ogrn>
+                            <legalAddress>129110, г МОСКВА, пр-кт МИРА, дом 41, корпус 2</legalAddress>
+                            <postalAddress>129110, Москва, Проспект Мира, д.41, стр.2</postalAddress>
+                            <phone>7-495-6880834</phone>
+                            <email>priemnaya@mosmetro.ru</email>
+                            <okato>45286570000</okato>
+                            <okpo>03324364</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:46:18</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2016-12-29</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-03</deliveryEndDateTime>
+                    <place>Электронная торговая площадка</place>
+                    <procedure>В электронной форме</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>7</ns2:version>
+                <ns2:modificationDescription>решение заказчика</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>28a4a4e2-92a6-4a8e-8a89-972a9ff82304</guid>
+                        <createDateTime>2017-03-16T16:45:39</createDateTime>
+                        <fileName>16.03.7z</fileName>
+                        <description>16.03</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117636</url>
+                    </document>
+                    <document>
+                        <guid>b7dc5eed-5ff1-4255-81ce-165d38819b5e</guid>
+                        <createDateTime>2016-12-29T19:35:00</createDateTime>
+                        <fileName>Брендбук часть 1.pdf</fileName>
+                        <description>Брендбук часть 1.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117546</url>
+                    </document>
+                    <document>
+                        <guid>6cc412f2-ad15-45aa-809f-835d48c19b01</guid>
+                        <createDateTime>2016-12-29T19:35:18</createDateTime>
+                        <fileName>Графический дизайн.pdf</fileName>
+                        <description>Графический дизайн.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117547</url>
+                    </document>
+                    <document>
+                        <guid>9bb39205-883b-47c2-a8ae-f6261c6387b0</guid>
+                        <createDateTime>2016-12-29T19:35:07</createDateTime>
+                        <fileName>Брендбук часть 2.pdf</fileName>
+                        <description>Брендбук часть 2.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117548</url>
+                    </document>
+                    <document>
+                        <guid>3d0d7eb3-19dc-46c2-a875-c9fabbe735d0</guid>
+                        <createDateTime>2017-03-06T14:49:07</createDateTime>
+                        <fileName>Документация.7z</fileName>
+                        <description>Документация.7z</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117549</url>
+                    </document>
+                    <document>
+                        <guid>fc1bc0f0-6a44-4dea-8f9b-2b0ee12d59e2</guid>
+                        <createDateTime>2016-12-29T19:35:07</createDateTime>
+                        <fileName>Приказ №601 об утверждении брендбука.pdf</fileName>
+                        <description>Приказ №601 об утверждении брендбука.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117550</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:46:18</ns2:modificationDate>
+                <ns2:saveUserId>38291</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Электронная торговая площадка OTC-tender</name>
+                    <url>http://otc-tender.ru</url>
+                    <electronicPlaceId>106</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Российская Федерация, г. Москва, Проспект Мира, 41 стр. 2</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-11T16:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-13T16:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-03T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-06</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>6bff04a5-3a52-4291-a608-a0a40defccad</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Исполнение функций технического заказчика на период проектирования и строительства объектов технологической части транспортно-пересадочных узлов, с осуществлением проектно-изыскательских работ, разработкой проектной и рабочей документации</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1462414501.87</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e3b01a47-a3a7-48db-bb30-c6ac7507de33</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>41.10.10.000</code>
+                                        <name>Документация проектная для строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>41.10</code>
+                                        <name>Разработка строительных проектов</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>22</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2150137754</planRegistrationNumber>
+                            <planGuid>862d33e9-6172-4241-a4c9-11e7b46b2c25</planGuid>
+                            <positionNumber>2309</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>1fb49d35-568d-404a-b8eb-3216479ca9c7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

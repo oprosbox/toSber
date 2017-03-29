@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>32dc3644-eceb-474c-98b8-3aefd53484c2</guid>
+        <createDateTime>2017-03-16T16:59:04</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f2f32b7a-a50b-1ee7-82ca-149525281600</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>f2f32b7a-a50b-1ee7-82ca-149525281600</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:58:40</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887802</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899464</ns2:registrationNumber>
+                <ns2:name>Синтезатор частот</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ АВТОМАТИКИ ИМ.Н.Л.ДУХОВА"</fullName>
+                        <shortName>ФГУП "ВНИИА"</shortName>
+                        <iko>57707074137770701001</iko>
+                        <inn>7707074137</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739646164</ogrn>
+                        <legalAddress>127055, г МОСКВА, ул СУЩЕВСКАЯ, дом 22</legalAddress>
+                        <postalAddress>127055, г. Москва, Сущевская ул., д. 22</postalAddress>
+                        <phone>7-499-9728427</phone>
+                        <fax>7-499-9784472</fax>
+                        <email>zakupki@vniia.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>07623885</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>10120</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Мелкая закупка</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ АВТОМАТИКИ ИМ.Н.Л.ДУХОВА"</fullName>
+                        <shortName>ФГУП "ВНИИА"</shortName>
+                        <iko>57707074137770701001</iko>
+                        <inn>7707074137</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027739646164</ogrn>
+                        <legalAddress>127055, г МОСКВА, ул СУЩЕВСКАЯ, дом 22</legalAddress>
+                        <postalAddress>127055, г. Москва, Сущевская ул., д. 22</postalAddress>
+                        <phone>7-499-9728427</phone>
+                        <fax>7-499-9784472</fax>
+                        <email>zakupki@vniia.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>07623885</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (499) 9787803</phone>
+                    <fax>+8 (499) 9787803</fax>
+                    <email>vniia@vniia.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ АВТОМАТИКИ ИМ.Н.Л.ДУХОВА"</fullName>
+                            <shortName>ФГУП "ВНИИА"</shortName>
+                            <iko>57707074137770701001</iko>
+                            <inn>7707074137</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1027739646164</ogrn>
+                            <legalAddress>127055, г МОСКВА, ул СУЩЕВСКАЯ, дом 22</legalAddress>
+                            <postalAddress>127055, г. Москва, Сущевская ул., д. 22</postalAddress>
+                            <phone>7-499-9728427</phone>
+                            <fax>7-499-9784472</fax>
+                            <email>zakupki@vniia.ru</email>
+                            <okato>45286585000</okato>
+                            <okpo>07623885</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:59:04</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>Данная процедура закупки не предусматривает предоставление документации</place>
+                    <procedure>Данная процедура закупки не предусматривает предоставление документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>7a9888ea-fb0a-1ee7-82ca-0882551e92c8</guid>
+                        <createDateTime>2017-03-16T13:55:52</createDateTime>
+                        <fileName>Проект договора.pdf</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118336</url>
+                    </document>
+                    <document>
+                        <guid>7a9888ea-fb0a-1ee7-82ca-05a33a53d4f1</guid>
+                        <createDateTime>2017-03-16T13:55:12</createDateTime>
+                        <fileName>printing_form.doc</fileName>
+                        <description>printing_form</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118335</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:59:04</ns2:modificationDate>
+                <ns2:saveUserId>133405</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>127055, г. Москва, ул. Сущевская д. 22</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-16T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-16T11:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>127055, г. Москва, ул. Сущевская д. 22</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:lots>
+                    <lot>
+                        <guid>7a9888ea-fb0a-1ed7-82c9-1b7303ef82fa</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Синтезатор частот</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>664222.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>115304, г.Москва, ул.Луганская, д.9, стр.1
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7a9888ea-fb0a-1ed7-82c9-1be85e7342fa</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>27.11.50.120</code>
+                                        <name>Преобразователи электрические статические</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>27.1</code>
+                                        <name>Производство электродвигателей, генераторов, трансформаторов и распределительных устройств, а также контрольно-измерительной аппаратуры</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>839</code>
+                                        <name>Комплект</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160214547</planRegistrationNumber>
+                            <planGuid>0addd403-d90a-1ee7-82c2-e49484b2888f</planGuid>
+                            <positionNumber>1151600279</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>f2f32b7a-a50b-1ee7-82a9-4d8279d30085</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

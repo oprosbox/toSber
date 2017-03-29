@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>5f8fb9bc-a363-4d86-aaa6-15b27bd7cd7e</guid>
+        <createDateTime>2017-03-16T18:14:16</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>dafcc926-289f-2e17-35ba-99f261fef75e</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>dafcc926-289f-2e17-35ba-99f261fef75e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:00:17</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888222</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286344</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899891</ns2:registrationNumber>
+                <ns2:name>Открытый конкурс в электронной форме  среди субъектов малого/среднего предпринимательства на право заключить договор на выполнение работ по модернизации системы синхронизации и распределения тестовых и синхросигналов центральной аппаратной</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТВ ЦЕНТР"</fullName>
+                        <shortName>АО "ТВ ЦЕНТР"</shortName>
+                        <iko>57717091519770501001</iko>
+                        <inn>7717091519</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1027739048281</ogrn>
+                        <legalAddress>115184, Г МОСКВА, УЛ ТАТАРСКАЯ Б., дом 33, корпус 1</legalAddress>
+                        <postalAddress>115184, Москва Город, Татарская Б. Улица, дом 33, строение 1</postalAddress>
+                        <phone>7-495-9593900</phone>
+                        <fax>7-495-9593966</fax>
+                        <email>zakupki@tvc.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>45886171</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>19045</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый конкурс в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТВ ЦЕНТР"</fullName>
+                        <shortName>АО "ТВ ЦЕНТР"</shortName>
+                        <iko>57717091519770501001</iko>
+                        <inn>7717091519</inn>
+                        <kpp>770501001</kpp>
+                        <ogrn>1027739048281</ogrn>
+                        <legalAddress>115184, Г МОСКВА, УЛ ТАТАРСКАЯ Б., дом 33, корпус 1</legalAddress>
+                        <postalAddress>115184, Москва Город, Татарская Б. Улица, дом 33, строение 1</postalAddress>
+                        <phone>7-495-9593900</phone>
+                        <fax>7-495-9593966</fax>
+                        <email>zakupki@tvc.ru</email>
+                        <okato>45286560000</okato>
+                        <okpo>45886171</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Михайловна</middleName>
+                    <lastName>Соколова</lastName>
+                    <phone>+7 (495) 9269447</phone>
+                    <email>zakupki@tvc.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ТВ ЦЕНТР"</fullName>
+                            <shortName>АО "ТВ ЦЕНТР"</shortName>
+                            <iko>57717091519770501001</iko>
+                            <inn>7717091519</inn>
+                            <kpp>770501001</kpp>
+                            <ogrn>1027739048281</ogrn>
+                            <legalAddress>115184, Г МОСКВА, УЛ ТАТАРСКАЯ Б., дом 33, корпус 1</legalAddress>
+                            <postalAddress>115184, Москва Город, Татарская Б. Улица, дом 33, строение 1</postalAddress>
+                            <phone>7-495-9593900</phone>
+                            <fax>7-495-9593966</fax>
+                            <email>zakupki@tvc.ru</email>
+                            <okato>45286560000</okato>
+                            <okpo>45886171</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T18:14:16</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>2b5b7e53-f733-e069-f8a0-f01a476085c8</guid>
+                        <createDateTime>2017-03-16T17:48:12</createDateTime>
+                        <fileName>05-ОКЭФ-2017.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30120286</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T18:14:16</ns2:modificationDate>
+                <ns2:saveUserId>180973</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Город Москва столица Российской Федерации город федерального значения</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-07T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-10T11:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>2074301d-8d0d-4dbe-c872-bad36bc11ccd</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по модернизации системы синхронизации и распределения тестовых и синхросигналов центральной аппаратной</subject>
+                            <currency>
+                                <code>USD</code>
+                                <digitalCode>840</digitalCode>
+                                <name>Доллар США</name>
+                            </currency>
+                            <initialSum>219329.56</initialSum>
+                            <deliveryPlace>
+                                <address>г. Москва, ул. Большая Татарская, д. 33, стр. 1.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>6518313c-7144-145e-4306-5da9a967628d</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>33.20.39</code>
+                                        <name>Услуги по монтажу прочего оборудования специального назначения</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>33.20</code>
+                                        <name>Монтаж промышленных машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Выполнение работ по модернизации системы синхронизации и распределения тестовых и синхросигналов центральной аппаратной</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>373c2060-0caf-38ad-4954-3780a43acc85</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.30</code>
+                                        <name>Оборудование коммуникационное</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.30</code>
+                                        <name>Производство коммуникационного оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>100</qty>
+                                    <additionalInfo>Выполнение работ по модернизации системы синхронизации и распределения тестовых и синхросигналов центральной аппаратной</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6bc678ca-a1e5-7c80-7346-3f47e5a317a7</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.21.10</code>
+                                        <name>Работы электромонтажные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.21</code>
+                                        <name>Производство электромонтажных работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Выполнение работ по модернизации системы синхронизации и распределения тестовых и синхросигналов центральной аппаратной</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218312</planRegistrationNumber>
+                            <planGuid>93599645-514f-47dd-8e7c-297b9f55c567</planGuid>
+                            <positionNumber>317</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>8f1037e7-bfa8-46b8-858c-ba7c1145fe47</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>46e8c46b-1524-4bc5-b449-08dd89e8cd9f</guid>
+        <createDateTime>2017-03-16T16:42:53</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>49e2d2bf-7aa7-4e3e-b3e7-ef3abe13ebdc</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>49e2d2bf-7aa7-4e3e-b3e7-ef3abe13ebdc</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:35:03</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887568</ns2:urlOOS>
+                <ns2:registrationNumber>31704899311</ns2:registrationNumber>
+                <ns2:name>Оказание услуг по обеспечению физической охраны объектов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                        <shortName>ЗАО "Газинком"</shortName>
+                        <iko>77728227539772801001</iko>
+                        <inn>7728227539</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1037739034541</ogrn>
+                        <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                        <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                        <phone>7-498-6574945</phone>
+                        <fax>7-498-6574941</fax>
+                        <email>info@gazinkom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>55230359</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>6232</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>21 (Газпром) Открытый запрос предложений</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                        <shortName>ЗАО "Газинком"</shortName>
+                        <iko>77728227539772801001</iko>
+                        <inn>7728227539</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1037739034541</ogrn>
+                        <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                        <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                        <phone>7-498-6574945</phone>
+                        <fax>7-498-6574941</fax>
+                        <email>info@gazinkom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>55230359</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (498) 6574386</phone>
+                    <email>kutueva@gazinkom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Закрытое акционерное общество "Газинком"</fullName>
+                            <shortName>ЗАО "Газинком"</shortName>
+                            <iko>77728227539772801001</iko>
+                            <inn>7728227539</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1037739034541</ogrn>
+                            <legalAddress>117997, г Москва, ул Наметкина, дом 16</legalAddress>
+                            <postalAddress>142717, Московская Область, Развилка Поселок, дом -, корпус -, строение -</postalAddress>
+                            <phone>7-498-6574945</phone>
+                            <fax>7-498-6574941</fax>
+                            <email>info@gazinkom.ru</email>
+                            <okato>45293590000</okato>
+                            <okpo>55230359</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:42:53</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-03</deliveryEndDateTime>
+                    <place>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</place>
+                    <procedure>В электронном виде размещена на Официальном сайте, а также предоставляется бесплатно по электронной почте на основании Уведомления о намерении принять участие в Запросе предложений (Приложение №4 к Документации - форма прилагается).</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>6</totalDocumentsCount>
+                    <document>
+                        <guid>44e144c5-5873-49fc-8555-38586c743272</guid>
+                        <createDateTime>2017-03-16T16:41:48</createDateTime>
+                        <fileName>Приложение №3 Коммерческое предложение.docx</fileName>
+                        <description>Приложение №3 Коммерческое предложение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117392</url>
+                    </document>
+                    <document>
+                        <guid>737ee032-c8f8-4d57-8c6e-6e9f36b9e436</guid>
+                        <createDateTime>2017-03-16T16:42:07</createDateTime>
+                        <fileName>Приложение №5 Методика.docx</fileName>
+                        <description>Приложение №5 Методика</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117415</url>
+                    </document>
+                    <document>
+                        <guid>e72a90d6-518d-47bc-8630-8e96d56f1e42</guid>
+                        <createDateTime>2017-03-16T16:41:31</createDateTime>
+                        <fileName>Приложение №2 Спецификация.docx</fileName>
+                        <description>Приложение №2 Спецификация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117384</url>
+                    </document>
+                    <document>
+                        <guid>f118ae99-cba9-4f42-94f8-b8b00714b3f1</guid>
+                        <createDateTime>2017-03-16T16:41:58</createDateTime>
+                        <fileName>Приложение №4 Уведомление.xls</fileName>
+                        <description>Приложение №4 Уведомление</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117404</url>
+                    </document>
+                    <document>
+                        <guid>f997ba3e-7950-4ec1-9519-5afcee3f7864</guid>
+                        <createDateTime>2017-03-16T16:41:01</createDateTime>
+                        <fileName>Документация.docx</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117357</url>
+                    </document>
+                    <document>
+                        <guid>2304ad9d-eb63-4ca3-a607-1a928e9edd2f</guid>
+                        <createDateTime>2017-03-16T16:41:17</createDateTime>
+                        <fileName>Приложение №1 Договор.docx</fileName>
+                        <description>Приложение №1 Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117373</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:42:53</ns2:modificationDate>
+                <ns2:saveUserId>29950</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-04T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-05T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>РФ, 142717, Московская область, Ленинский район, поселок Развилка, кабинет №205</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-03T12:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>ade818f9-61ce-4104-b96b-bd9e1b97b8b5</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Обеспечение физической охраны объектов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>1588000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Калужская   обл</region>
+                                <regionOkato>29000000000</regionOkato>
+                                <address>Калужская область, г. Малоярославец, ул. Энтузиастов, д. 8 и гидротехнические сооружения прудов по адресу: Калужская область, Малоярославецкий район, дер. Радищево
+</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>dd833e4b-e67f-4a38-9821-f99bbef0fd80</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>80.10</code>
+                                        <name>Услуги частных охранных служб</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>80.1</code>
+                                        <name>Деятельность частных охранных служб</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160209803</planRegistrationNumber>
+                            <planGuid>3a37c1f7-4002-4ab3-bc20-93e6af2b5f94</planGuid>
+                            <positionNumber>13</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>6a66c3ed-4ca0-4b11-a30a-bbf4cacbcf44</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

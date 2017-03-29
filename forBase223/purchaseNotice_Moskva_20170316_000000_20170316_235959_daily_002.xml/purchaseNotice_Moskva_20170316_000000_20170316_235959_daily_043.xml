@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>e9e22a91-5c53-4fd2-8da9-49fa5fc9ceb2</guid>
+        <createDateTime>2017-03-16T16:16:42</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2220fc00-0d0b-1ed7-82c4-6acb89254650</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>2220fc00-0d0b-1ed7-82c4-6acb89254650</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:11:01</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887327</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899069</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на Проверка устойчивости к электромагнитным воздействиям комплекса технических средств системы индустриальной антисейсмической защиты (СИАЗ) и системы контроля герметичности оболочек (СКГО-М) по месту эксплуатации на энергоблоке № 3 Белоярской АЭС во время планово-предупредительного ремонта  в соответствии с техническим заданием</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ"</fullName>
+                        <shortName>АО "КОНЦЕРН РОСЭНЕРГОАТОМ"</shortName>
+                        <iko>57721632827772101001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>772101001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>109507, Г МОСКВА, УЛ ФЕРГАНСКАЯ, дом 25</legalAddress>
+                        <postalAddress>109507, г. Москва, ул. Ферганская, д.25
+</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>45290554000</okato>
+                        <okpo>08844275</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5905</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Филиал ОАО "Концерн Росэнергоатом" "Белоярская атомная станция"</fullName>
+                        <shortName>Белоярская АЭС</shortName>
+                        <iko>57721632827663943002</iko>
+                        <inn>7721632827</inn>
+                        <kpp>663943002</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>624250, Свердловская обл., г.Заречный</legalAddress>
+                        <postalAddress>624250, Свердловская обл., г.Заречный, а/я 149</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>65426000000</okato>
+                        <okpo>08614718</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Елена</firstName>
+                    <middleName>Валентиновна</middleName>
+                    <lastName>Куликова</lastName>
+                    <phone>+8 (34377) 38105</phone>
+                    <fax>+8 (34377) 36901</fax>
+                    <email>cz1@belnpp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Филиал ОАО "Концерн Росэнергоатом" "Белоярская атомная станция"</fullName>
+                            <shortName>Белоярская АЭС</shortName>
+                            <iko>57721632827663943002</iko>
+                            <inn>7721632827</inn>
+                            <kpp>663943002</kpp>
+                            <ogrn>5087746119951</ogrn>
+                            <legalAddress>624250, Свердловская обл., г.Заречный</legalAddress>
+                            <postalAddress>624250, Свердловская обл., г.Заречный, а/я 149</postalAddress>
+                            <phone>7-495-6474189</phone>
+                            <fax>7-495-6474603</fax>
+                            <email>petrov-au@rosenergoatom.ru</email>
+                            <okato>65426000000</okato>
+                            <okpo>08614718</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:16:42</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>B2B-Center http://www.b2b-center.ru/</place>
+                    <procedure>На электронную торговую площадку ЭТП  «B2b-Center»,  в сети «Интернет» по адресу: www.b2b-center.ru в порядке, установленном регламентом данной электронной торговой площадки</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>15</totalDocumentsCount>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c9-1535e276570a</guid>
+                        <createDateTime>2017-03-16T13:01:25</createDateTime>
+                        <fileName>Часть 2 Том 1 Порядок проведения закупки.doc</fileName>
+                        <description>Часть 2 Том 1 Порядок проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115872</url>
+                    </document>
+                    <document>
+                        <guid>a22a2ab1-590a-1ed7-82c4-b582a87888ea</guid>
+                        <createDateTime>2017-03-16T08:50:57</createDateTime>
+                        <fileName>Часть 1_Закупочная документация- СИАЗ- не МСП сайт.doc</fileName>
+                        <description>Часть 1_Закупочная документация- СИАЗ- не МСП сайт</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115874</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c4-704eaed50a88</guid>
+                        <createDateTime>2017-03-16T08:35:29</createDateTime>
+                        <fileName>Техническое задание № 22-08а-2511 от 28.12.2016г..pdf</fileName>
+                        <description>Техническое задание № 22-08а-2511 от 28.12.2016г.</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115876</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c9-0bb4348c4a19</guid>
+                        <createDateTime>2017-03-16T12:59:18</createDateTime>
+                        <fileName>Пр.№5 к ТЗ-Отчет №3 БЕЛ-Ц27-036-09-14-ЦТАИ.pdf</fileName>
+                        <description>Пр.№5 к ТЗ-Отчет №3 БЕЛ-Ц27-036-09-14-ЦТАИ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115877</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c8-afb268024e07</guid>
+                        <createDateTime>2017-03-16T12:38:44</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.1-1.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.1-1</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115878</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c8-f0a2299c5426</guid>
+                        <createDateTime>2017-03-16T12:53:15</createDateTime>
+                        <fileName>Пр. №2 к ТЗ-Справка по ложным срабатываниям СИАЗ 2015, 2016.doc</fileName>
+                        <description>Пр. №2 к ТЗ-Справка по ложным срабатываниям СИАЗ 2015, 2016</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115880</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c8-c128f981d76c</guid>
+                        <createDateTime>2017-03-16T12:42:38</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.2-1.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.2-1</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115881</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c8-e6ed8766425c</guid>
+                        <createDateTime>2017-03-16T12:51:05</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.4.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.4</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115882</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c8-fbd72cfe532f</guid>
+                        <createDateTime>2017-03-16T12:55:46</createDateTime>
+                        <fileName>Пр.№3 к ТЗ-БЛ.3М26-1А-78.rar</fileName>
+                        <description>Пр.№3 к ТЗ-БЛ.3М26-1А-78</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115883</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c8-ba04dabb97ef</guid>
+                        <createDateTime>2017-03-16T12:41:02</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.1-2.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.1-2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115884</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c8-cd9942f18ad6</guid>
+                        <createDateTime>2017-03-16T12:45:25</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.2-2.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.2-2</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115885</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c9-04bb27e09d32</guid>
+                        <createDateTime>2017-03-16T12:57:45</createDateTime>
+                        <fileName>Пр.№4 к ТЗ-Р по Э.091.7330 РЭ.pdf</fileName>
+                        <description>Пр.№4 к ТЗ-Р по Э.091.7330 РЭ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115886</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ee7-82c8-df323aa48bcc</guid>
+                        <createDateTime>2017-03-16T13:11:12</createDateTime>
+                        <fileName>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.3.rar</fileName>
+                        <description>Пр. №1 к ТЗ-РЭ АИАЗ_05 ч.3.rar</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115891</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c4-706fd1988a88</guid>
+                        <createDateTime>2017-03-16T08:35:30</createDateTime>
+                        <fileName>Проект договора - СИАЗ.docx</fileName>
+                        <description>Проект договора - СИАЗ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115869</url>
+                    </document>
+                    <document>
+                        <guid>0addd403-d90a-1ed7-82c4-97cc80ea0a3b</guid>
+                        <createDateTime>2017-03-16T08:44:18</createDateTime>
+                        <fileName>ИЗВЕЩЕНИЕ О ПРОВЕДЕНИИ ЗАКУПКИ-не МСП.doc</fileName>
+                        <description>ИЗВЕЩЕНИЕ О ПРОВЕДЕНИИ ЗАКУПКИ-не МСП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115871</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:16:42</ns2:modificationDate>
+                <ns2:saveUserId>26293</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>B2B-Center</name>
+                    <url>http://b2b-center.ru/</url>
+                    <electronicPlaceId>107</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>624250 г. Заречный Свердловской области, а/я 149, Белоярская АЭС</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-20T23:59:59</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-25T23:59:59</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-27T06:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>2220fc00-0d0b-1ed7-82c4-6beb47360650</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения договора на Проверка устойчивости к электромагнитным воздействиям комплекса технических средств системы индустриальной антисейсмической защиты (СИАЗ) и системы контроля герметичности оболочек (СКГО-М) по месту эксплуатации на энергоблоке № 3 Белоярской АЭС во время планово-предупредительного ремонта  в соответствии с техническим заданием</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>4566094.72</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Россия, 624250, Свердловская область,  г. Заречный,  Филиал АО «Концерн Росэнергоатом»  «Белоярская атомная станция»,  энергоблок №3.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0addd403-d90a-1ee7-81c9-67bc1f9f4c76</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.20.13.000</code>
+                                        <name>Услуги в области испытаний, исследований и анализа целостных механических и электрических систем</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.2</code>
+                                        <name>Технические испытания, исследования, анализ и сертификация</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184588</planRegistrationNumber>
+                            <planGuid>400f977e-055d-496b-9b06-1fe1de4b483f</planGuid>
+                            <positionNumber>1071300284</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2220fc00-0d0a-1ed7-8081-99d740df1a21</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

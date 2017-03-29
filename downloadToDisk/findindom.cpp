@@ -26,10 +26,9 @@ bool controlNode(const QDomNode &controls,QList<QRegExp> &list,int i)
       return controlNode(controls.parentNode(),list,i);}
   else{return false;}
 }
-
-
+//-------------------------------------------------------------------------------
 bool removePath(const QString &path)
-  {
+{
       bool result = true;
       QFileInfo info(path);
       if (info.isDir()) {
@@ -43,9 +42,8 @@ bool removePath(const QString &path)
           result = QFile::remove(path);
       }
       return result;
-  }
-
-
+}
+//-------------------------------------------------------------------------------
 WFindInDom::WFindInDom()
 {
 
@@ -226,7 +224,7 @@ int WFindInDom::findInDirExp(QString pathFrom, QString pathTo,QStringList &listA
         return ret;
 }
 //----------------------------------------------------------------------------------------------
-void WFindThr::run()
+void WFindThr::process()
 {
   QStringList allFiles;
   QStringList listFind;
@@ -236,10 +234,11 @@ void WFindThr::run()
  listFilesFind<<listFind;
   }
   delete findInDom;
-  this->deleteLater();
+  emit finished();
+  //this->deleteLater();
 }
 //----------------------------------------------------------------------------------------------
-void WFindThrExp::run()
+void WFindThrExp::process()
 {
     QStringList allFiles;
     QStringList listFind;
@@ -249,7 +248,8 @@ void WFindThrExp::run()
   listFilesFind<<listFind;
   }
   delete findInDom;
-  this->deleteLater();
+  emit finished();
+  //this->deleteLater();
 }
 //-------------Создает потоки для последующего запуска и обработки--------------------
 void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QString val,bool flgClearAll)
@@ -278,8 +278,9 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
          else{for(;it!=listDirFrom.begin()+(szBeg+(i)*sz);it++)
                   thrStart->listDirFrom.push_back(*it);}
    listThr.push_back(thrStart);
-   connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
-   connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
+   connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
+   //thrStart->moveToThread(this);
+   //connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
   // thrStart->moveToThread(this);
    if(sz==0){threadsWork=1;break;}
   ++threadsWork;
@@ -312,17 +313,13 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QList<QRegExp> teg,Q
          else{for(;it!=listDirFrom.begin()+(szBeg+(i)*sz);it++)
                   thrStart->listDirFrom.push_back(*it);}
    listThrExp.push_back(thrStart);
-   connect(thrStart,SIGNAL(threadStop(int)),this,SLOT(getSignalStop(int)));
-   connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
+   connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
+   //connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
   //this->moveToThread(thrStart);
    if(sz==0){threadsWork=1;break;}
   ++threadsWork;
  }
 }
-
- void WFind::allThreadsFormLists(QStringList list)
- {emit allThreadsLists(list);}
-
 //----------------------------------------------------------------------------------------------
 void WFind::destroyObj()
 {   stopThreads();
@@ -341,9 +338,9 @@ void WFind::startThreads()
 countThr=threadsWork;
 for(int i=0;i<threadsWork;i++)
 { if(flgStart==CSTRFILTER)
-  {listThr.at(i)->start();}
+  {listThr.at(i)->process();}
   if(flgStart==CEXPFILTER)
-  {listThrExp.at(i)->start();}
+  {listThrExp.at(i)->process();}
 }
 }
 //----------------------------------------------------------------------------------------------
@@ -352,20 +349,33 @@ void WFind::stopThreads()
     for(int i=0;i<threadsWork;i++)
     {if(flgStart==CEXPFILTER)
         {
-      listThrExp.at(i)->terminate();
-      listThrExp.at(i)->deleteLater();}
-        if(flgStart==CSTRFILTER)
-        {listThr.at(i)->terminate();
-         listThr.at(i)->deleteLater();}
-    }
+      //listThrExp.at(i)->terminate();
+      //listThrExp.at(i)->deleteLater();}
+//        if(flgStart==CSTRFILTER)
+//        {listThr.at(i)->terminate();
+//         listThr.at(i)->deleteLater();}
+    }}
     countThr=0;
     emit allThreadsStop(id);
 }
 //----------------------------------------------------------------------------------------------
-void WFind::getSignalStop(int)
+void WFind::getSignalStop()
 {
 --countThr;
-    if(countThr==0){emit allThreadsStop(id);}
+    if(countThr==0){QStringList list;
+                    if(listThr.size()!=0)
+                    for(auto i=listThr.begin();i!=listThr.end();i++)
+                      {
+                        list<<(*i)->listFilesFind;
+                      }
+                    if(listThrExp.size()!=0)
+                    for(auto i=listThrExp.begin();i!=listThrExp.end();i++)
+                      {
+                        list<<(*i)->listFilesFind;
+                        //(*i)->deleteLater();
+                      }
+                    emit allThreadsLists(list);
+                    emit allThreadsStop(id);}
 }
 
 }

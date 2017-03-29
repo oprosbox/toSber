@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>17cd65de-0342-4531-8d0e-7374db83c9e4</guid>
+        <createDateTime>2017-03-16T16:54:50</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>06f3e264-80a1-7b15-13f8-ceea7bc96c34</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>06f3e264-80a1-7b15-13f8-ceea7bc96c34</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:51:05</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887724</ns2:urlOOS>
+                <ns2:urlVSRZ>https://etp.gpb.ru/#com/procedure/view/procedure/90581</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899428</ns2:registrationNumber>
+                <ns2:name>Аукцион на право заключения договора на поставку электроустановочных материалов, электроинструментов и сопутствующих материалов</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "АЛМАЗ" ИМЕНИ АКАДЕМИКА А.А.РАСПЛЕТИНА"</fullName>
+                        <shortName>ПАО "НПО "АЛМАЗ"</shortName>
+                        <iko>57712040285774301001</iko>
+                        <inn>7712040285</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1027700118984</ogrn>
+                        <legalAddress>125190, г МОСКВА, пр-кт ЛЕНИНГРАДСКИЙ, дом 80, корпус 16</legalAddress>
+                        <postalAddress>125190, Москва, Ленинградский, дом 80, корпус 16</postalAddress>
+                        <phone>7-499-9400222</phone>
+                        <email>tender@gskb.ru</email>
+                        <okato>45277589000</okato>
+                        <okpo>07501863</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>22490</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Аукцион</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "АЛМАЗ" ИМЕНИ АКАДЕМИКА А.А.РАСПЛЕТИНА"</fullName>
+                        <shortName>ПАО "НПО "АЛМАЗ"</shortName>
+                        <iko>57712040285774301001</iko>
+                        <inn>7712040285</inn>
+                        <kpp>774301001</kpp>
+                        <ogrn>1027700118984</ogrn>
+                        <legalAddress>125190, г МОСКВА, пр-кт ЛЕНИНГРАДСКИЙ, дом 80, корпус 16</legalAddress>
+                        <postalAddress>125190, Москва, Ленинградский, дом 80, корпус 16</postalAddress>
+                        <phone>7-499-9400222</phone>
+                        <email>tender@gskb.ru</email>
+                        <okato>45277589000</okato>
+                        <okpo>07501863</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Марат</firstName>
+                    <middleName>Аюпович</middleName>
+                    <lastName>Малеков</lastName>
+                    <phone>+7 (499) 9400222, доб.: 7472</phone>
+                    <email>tender@gskb.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "АЛМАЗ" ИМЕНИ АКАДЕМИКА А.А.РАСПЛЕТИНА"</fullName>
+                            <shortName>ПАО "НПО "АЛМАЗ"</shortName>
+                            <iko>57712040285774301001</iko>
+                            <inn>7712040285</inn>
+                            <kpp>774301001</kpp>
+                            <ogrn>1027700118984</ogrn>
+                            <legalAddress>125190, г МОСКВА, пр-кт ЛЕНИНГРАДСКИЙ, дом 80, корпус 16</legalAddress>
+                            <postalAddress>125190, Москва, Ленинградский, дом 80, корпус 16</postalAddress>
+                            <phone>7-499-9400222</phone>
+                            <email>tender@gskb.ru</email>
+                            <okato>45277589000</okato>
+                            <okpo>07501863</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:54:50</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>https://etp.gpb.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>d89e9ec8-5acf-2f51-6149-5fc6fd68326d</guid>
+                        <createDateTime>2017-03-16T16:47:25</createDateTime>
+                        <fileName>Извещение.doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117944</url>
+                    </document>
+                    <document>
+                        <guid>08c4f139-4dfa-a050-e5ea-49039fe5b64a</guid>
+                        <createDateTime>2017-03-16T16:47:16</createDateTime>
+                        <fileName>Аукционная_документация.doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117946</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:54:50</ns2:modificationDate>
+                <ns2:saveUserId>21266</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП ГПБ</name>
+                    <url>https://etp.gpb.ru/</url>
+                    <electronicPlaceId>125</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Москва, Ленинградский проспект, д. 80, корпус 16</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-12T23:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-13T23:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T09:30:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>2ae6f7d6-b55a-d3c1-4907-96d7d76cf22c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка электроустановочных материалов, электроинструментов  и сопутствующих материалов</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>10003443.62</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с положениями документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>471dfc2c-cdc1-fc29-7288-7ab7857c731e</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>27.33.1</code>
+                                        <name>Изделия электроустановочные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>27.33</code>
+                                        <name>Производство электроустановочных изделий</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Поставка электроустановочных материалов, электроинструментов  и сопутствующих материалов</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160200653</planRegistrationNumber>
+                            <planGuid>adaff37d-c134-4052-bef9-2156dfd35dc6</planGuid>
+                            <positionNumber>539</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>8940f876-0a9f-4360-9393-45ee50cd373a</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

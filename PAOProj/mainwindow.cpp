@@ -5,13 +5,13 @@
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
-{//this->setWindowIcon(QIcon("icon.png"));
+{  //this->setWindowIcon(QIcon("icon.png"));
     ui->setupUi(this);
-    WToBASE toBASE;
-    bool ok;
+   //WToBASE toBASE;
+   // bool ok;
 
-    ok=toBASE.openMySQL();
-int i=0;
+   // ok=toBASE.openMySQL();
+   //int i=0;
 }
 
 MainWindow::~MainWindow()

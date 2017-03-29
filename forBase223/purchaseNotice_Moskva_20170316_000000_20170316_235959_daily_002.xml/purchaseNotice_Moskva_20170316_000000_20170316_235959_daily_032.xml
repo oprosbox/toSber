@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3a800957-b33e-40d9-af3a-43d75c46bcad</guid>
+        <createDateTime>2017-03-16T17:05:50</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a22a2ab1-590a-1ee7-82ca-020e5a3c151a</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a22a2ab1-590a-1ee7-82ca-020e5a3c151a</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:58:22</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887800</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704868664</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на поставку товарно-материальных ценностей для нужд Госкорпорации «Росатом</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Государственная корпорация по атомной энергии "Росатом"</fullName>
+                        <shortName>Госкорпорация "Росатом"</shortName>
+                        <iko>57706413348770601001</iko>
+                        <inn>7706413348</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1077799032926</ogrn>
+                        <legalAddress>119017, г Москва, ул Ордынка Б., дом 24</legalAddress>
+                        <postalAddress>Российская Федерация, 119017, Москва, ул. Б.Ордынка, д. 24..</postalAddress>
+                        <phone>7-499-9494473</phone>
+                        <email>onlysenko@rosatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>84695609</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5907</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос цен в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Государственная корпорация по атомной энергии "Росатом"</fullName>
+                        <shortName>Госкорпорация "Росатом"</shortName>
+                        <iko>57706413348770601001</iko>
+                        <inn>7706413348</inn>
+                        <kpp>770601001</kpp>
+                        <ogrn>1077799032926</ogrn>
+                        <legalAddress>119017, г Москва, ул Ордынка Б., дом 24</legalAddress>
+                        <postalAddress>Российская Федерация, 119017, Москва, ул. Б.Ордынка, д. 24..</postalAddress>
+                        <phone>7-499-9494473</phone>
+                        <email>onlysenko@rosatom.ru</email>
+                        <okato>45286596000</okato>
+                        <okpo>84695609</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Владислав</firstName>
+                    <middleName>Владимирович</middleName>
+                    <lastName>Кобызев</lastName>
+                    <phone>+8 (499) 9494200</phone>
+                    <fax>+8 (499) 9494200</fax>
+                    <email>VVKobyzev@rosatom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Государственная корпорация по атомной энергии "Росатом"</fullName>
+                            <shortName>Госкорпорация "Росатом"</shortName>
+                            <iko>57706413348770601001</iko>
+                            <inn>7706413348</inn>
+                            <kpp>770601001</kpp>
+                            <ogrn>1077799032926</ogrn>
+                            <legalAddress>119017, г Москва, ул Ордынка Б., дом 24</legalAddress>
+                            <postalAddress>Российская Федерация, 119017, Москва, ул. Б.Ордынка, д. 24..</postalAddress>
+                            <phone>7-499-9494473</phone>
+                            <email>onlysenko@rosatom.ru</email>
+                            <okato>45286596000</okato>
+                            <okpo>84695609</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:05:50</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-09</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>Фабрикант 2 http://www.fabrikant.ru/</place>
+                    <procedure>согласно правилам ЭТП</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>В соответствии с п. 5.16 Раздела 1 Приложения №12 к Единому отраслевому стандарту закупок Госкорпорации «Росатом» в силу того, что до окончания срока подачи заявок на участие в запросе цен поступило менее двух заявок, срок подачи заявок на участие в открытом запросе цен в электронной форме на право заключения договора на поставку товарно-материальных ценностей для нужд Госкорпорации «Росатом, размещенном на официальном сайте в информационно-телекоммуникационной сети «Интернет» для размещения информации о размещении заказов на поставки товаров, выполнение работ, оказание услуг (на http://www.zakupki.gov.ru закупка № 31704868664; на сайте http://zakupki.rosatom.ru закупка № 170309/0451/041; на ЭТП Фабрикант  закупка № 2317501) автоматически продлен с помощью функционала ЭТП/</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>a22a2ab1-590a-1ee7-82ca-089f490ecee5</guid>
+                        <createDateTime>2017-03-16T13:55:52</createDateTime>
+                        <fileName>Извещение о продлении 41.doc</fileName>
+                        <description>Извещение о продлении 41</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118323</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:05:50</ns2:modificationDate>
+                <ns2:saveUserId>209856</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Фабрикант 2</name>
+                    <url>http://fabrikant.ru</url>
+                    <electronicPlaceId>111</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, ул. Большая Ордынка, д.24</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-29T23:59:59</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-29T23:59:59</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-09</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>0addd011-6b0a-1ee6-bfc9-31dd37ca58e6</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения договора на поставку товарно-материальных ценностей для нужд Госкорпорации "Росатом"
+</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>2294637.86</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>г.Москва, ул.Большая Ордынка, д.24</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>589fb8b9-7b53-0ca0-e100-80000a7c1052</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>47.79.30.000</code>
+                                        <name>Услуги по розничной торговле прочими бывшими в употреблении товарами</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>47.78.9</code>
+                                        <name>Торговля розничная непродовольственными товарами, не включенными в другие группировки, в специализированных магазинах</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184759</planRegistrationNumber>
+                            <planGuid>a22a2ab1-590a-1ed7-82c8-ae0e76d04fc9</planGuid>
+                            <positionNumber>1116800006</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>0addd011-6b0a-1ee6-bfc9-f7e956e608f0</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

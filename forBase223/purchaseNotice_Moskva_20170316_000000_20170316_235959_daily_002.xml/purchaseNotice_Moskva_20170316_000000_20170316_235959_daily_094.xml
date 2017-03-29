@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>2f628570-5e06-4dc9-8965-53f24396352e</guid>
+        <createDateTime>2017-03-16T17:16:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>99e6de7c-6f4c-4041-b5a5-2cfd39bd0faa</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>99e6de7c-6f4c-4041-b5a5-2cfd39bd0faa</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:09:59</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887917</ns2:urlOOS>
+                <ns2:registrationNumber>31704878702</ns2:registrationNumber>
+                <ns2:name>поставка источников ионизирующих излучений на основе изотопов Иридий- 192 и Селен - 75</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ"</fullName>
+                        <shortName>АО "КОНЦЕРН РОСЭНЕРГОАТОМ"</shortName>
+                        <iko>57721632827772101001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>772101001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>109507, Г МОСКВА, УЛ ФЕРГАНСКАЯ, дом 25</legalAddress>
+                        <postalAddress>109507, г. Москва, ул. Ферганская, д.25
+</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>45290554000</okato>
+                        <okpo>08844275</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5906</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос цен</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ" Филиал «Калининская атомная станция»</fullName>
+                        <shortName>Калининская АЭС</shortName>
+                        <iko>57721632827691643001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>691643001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>РФ, Тверская обл., г.Удомля, Промзона Калининской АЭС</legalAddress>
+                        <postalAddress>171841, Тверская область, г.Удомля, Промзона Калининской АЭС</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>28455000000</okato>
+                        <okpo>08614411</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+8 (48255) 69159</phone>
+                    <email>Lebedinceva@knpp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ"</fullName>
+                            <shortName>АО "КОНЦЕРН РОСЭНЕРГОАТОМ"</shortName>
+                            <iko>57721632827772101001</iko>
+                            <inn>7721632827</inn>
+                            <kpp>772101001</kpp>
+                            <ogrn>5087746119951</ogrn>
+                            <legalAddress>109507, Г МОСКВА, УЛ ФЕРГАНСКАЯ, дом 25</legalAddress>
+                            <postalAddress>109507, г. Москва, ул. Ферганская, д.25
+</postalAddress>
+                            <phone>7-495-6474189</phone>
+                            <fax>7-495-6474603</fax>
+                            <email>petrov-au@rosenergoatom.ru</email>
+                            <okato>45290554000</okato>
+                            <okpo>08844275</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:16:48</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-13</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-22</deliveryEndDateTime>
+                    <place>www.roseltorg.ru  </place>
+                    <procedure>согласно Закупочной документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>в соответствии с ЕОСЗ ГК "Росатом"</ns2:modificationDescription>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>10</totalDocumentsCount>
+                    <document>
+                        <guid>c4216038-ec9c-421d-81d9-cbf42dcf1a07</guid>
+                        <createDateTime>2017-03-13T09:11:56</createDateTime>
+                        <fileName>Проект договора.pdf</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118784</url>
+                    </document>
+                    <document>
+                        <guid>192b1277-b90e-4a40-8ab9-1e302af21d87</guid>
+                        <createDateTime>2017-03-16T17:12:15</createDateTime>
+                        <fileName>Том 2 Техническая часть (изм.).rar</fileName>
+                        <description>Том 2 Техническая часть (изм.)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118928</url>
+                    </document>
+                    <document>
+                        <guid>a49a901c-0453-45ae-a059-e5b3a0e36ad7</guid>
+                        <createDateTime>2017-03-13T09:12:57</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118785</url>
+                    </document>
+                    <document>
+                        <guid>d5138beb-2dd7-43d6-aadd-02f779c4a932</guid>
+                        <createDateTime>2017-03-16T17:13:06</createDateTime>
+                        <fileName>Извещение о внесении изменений.doc</fileName>
+                        <description>Извещение о внесении изменений</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118946</url>
+                    </document>
+                    <document>
+                        <guid>7cc8056e-14c7-40fe-8b9f-4d1841d76cd6</guid>
+                        <createDateTime>2017-03-16T17:12:30</createDateTime>
+                        <fileName>Закупочная документация Том 1 (изм.).rar</fileName>
+                        <description>Закупочная документация Том 1 (изм.)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118934</url>
+                    </document>
+                    <document>
+                        <guid>0fc656ee-01d5-49d2-90fe-31f161aa3876</guid>
+                        <createDateTime>2017-03-16T17:11:36</createDateTime>
+                        <fileName>Проект договора (изм.).docx</fileName>
+                        <description>Проект договора (изм.)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118902</url>
+                    </document>
+                    <document>
+                        <guid>e459c165-f0c6-4982-8b0e-77fd75bddf3b</guid>
+                        <createDateTime>2017-03-16T17:13:17</createDateTime>
+                        <fileName>Извещение о продлении.doc</fileName>
+                        <description>Извещение о продлении</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118951</url>
+                    </document>
+                    <document>
+                        <guid>dbb4842b-757b-4895-98db-bb838ed0d8ef</guid>
+                        <createDateTime>2017-03-16T17:11:14</createDateTime>
+                        <fileName>Извещение (изм.).docx</fileName>
+                        <description>Извещение (изм.)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118892</url>
+                    </document>
+                    <document>
+                        <guid>543a4453-374f-4c97-b353-7aed540fccee</guid>
+                        <createDateTime>2017-03-13T09:11:23</createDateTime>
+                        <fileName>Том 2 Техническая часть.rar</fileName>
+                        <description>Том 2 Техническая часть</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118782</url>
+                    </document>
+                    <document>
+                        <guid>120087de-0a7a-45b2-96c4-3e7198344a82</guid>
+                        <createDateTime>2017-03-13T09:10:48</createDateTime>
+                        <fileName>Закупочная документация Том 1.rar</fileName>
+                        <description>Закупочная документация Том 1</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118783</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:16:48</ns2:modificationDate>
+                <ns2:saveUserId>215292</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Тверская обл., г. Удомля, Калининская АЭС, помещение административного корпуса-1, пом.304</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-06T10:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-06T10:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>Тверская обл., г. Удомля, Калининская АЭС, помещение административного корпуса-1, пом.304</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-22T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-10</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>9655761c-5c52-45f1-8221-809517efff4c</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка источников ионизирующего излучения на основе изотопов Иридий-192 и Селен-75</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>6443249.15</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Тверская   обл</region>
+                                <regionOkato>28000000000</regionOkato>
+                                <address>171841, Тверская область, г. Удомля (Промзона КлнАЭС)</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>7fe8092c-a756-4dc1-851c-37cc625221d4</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.13.13.110</code>
+                                        <name>Элементы, изотопы и их соединения радиоактивные прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.11.3</code>
+                                        <name>Производство электроэнергии атомными электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>32</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184588</planRegistrationNumber>
+                            <planGuid>400f977e-055d-496b-9b06-1fe1de4b483f</planGuid>
+                            <positionNumber>1039400366</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58a5e107-3cd0-0de0-e100-80000a7c1052</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

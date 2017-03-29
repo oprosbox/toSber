@@ -30,9 +30,9 @@ public:
     bool findInFile(QString path,QStringList &val);
     bool findInFileAdd(QString path,QStringList &fileFind);
 static  bool findInText(QString &xmlText,QStringList teg,QStringList &valOut);
-    void setFindAttr(QStringList teg,QString val);
-    void setFindAttr(QList<QRegExp> tegs,QString val);
-    void setFindAttr(QList<QStringList> tegs);
+        void setFindAttr(QStringList teg,QString val);
+        void setFindAttr(QList<QRegExp> tegs,QString val);
+        void setFindAttr(QList<QStringList> tegs);
 protected:
     QStringList listNamesTeg;
     QList<QStringList> listOftegs;
@@ -40,40 +40,32 @@ protected:
     QString valFind;
 };
 
-class WFindThr:public QThread
+class WFindThr:public QObject//public QThread
 {Q_OBJECT
  public:
- WFindThr(){connect(this,SIGNAL(),this,SLOT(stopedThr()));}
   int id;
   WFindInDom *findInDom;
   QStringList listDirFrom;
   QStringList listFilesFind;
   QString pathTo;
   int clearAll;
-  void run();
-public slots:
- void stopedThr(){emit  threadStop(id);}
- signals:
-  void threadStop(int);
-  void sAllFiles(QStringList);
-  void findFiles(QStringList);
+  void process();
+signals:
+  void finished();
 };
 
-class WFindThrExp:public QThread
+class WFindThrExp:public QObject//:public QThread
 {Q_OBJECT
  public:
-  WFindThrExp(){connect(this,SIGNAL(finished()),this,SLOT(stopedThr()));}
   int id;
   WFindInDom *findInDom;
   QStringList listDirFrom;
   QStringList listFilesFind;
   QString pathTo;
   int clearAll;
-  void run();
- public slots:
-  void stopedThr(){emit  threadStop(id);}
+  void process();
  signals:
-  void threadStop(int);
+  void finished();
 };
 
 class WFind:public QObject
@@ -86,8 +78,7 @@ class WFind:public QObject
   void startThreads();
   void stopThreads();
 public slots:
-  void getSignalStop(int);
-  void allThreadsFormLists(QStringList list);
+  void getSignalStop();
 signals:
   void allThreadsStop(int);
   void allThreadsLists(QStringList);

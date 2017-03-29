@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>405c4e01-922c-4601-ab19-23281c1e75be</guid>
+        <createDateTime>2017-03-16T16:37:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a22a2ab1-590a-1ed7-82c9-6adae79451cf</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a22a2ab1-590a-1ed7-82c9-6adae79451cf</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:36:10</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887582</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899275</ns2:registrationNumber>
+                <ns2:name>Право заключения договора на выполнение пусконаладочных работ установок контроля радиоактивного 
+загрязнения персонала РЗБ-204 в санпропускниках Калининской АЭС</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ"</fullName>
+                        <shortName>АО "КОНЦЕРН РОСЭНЕРГОАТОМ"</shortName>
+                        <iko>57721632827772101001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>772101001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>109507, Г МОСКВА, УЛ ФЕРГАНСКАЯ, дом 25</legalAddress>
+                        <postalAddress>109507, г. Москва, ул. Ферганская, д.25
+</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>45290554000</okato>
+                        <okpo>08844275</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5905</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ" Филиал «Калининская атомная станция»</fullName>
+                        <shortName>Калининская АЭС</shortName>
+                        <iko>57721632827691643001</iko>
+                        <inn>7721632827</inn>
+                        <kpp>691643001</kpp>
+                        <ogrn>5087746119951</ogrn>
+                        <legalAddress>РФ, Тверская обл., г.Удомля, Промзона Калининской АЭС</legalAddress>
+                        <postalAddress>171841, Тверская область, г.Удомля, Промзона Калининской АЭС</postalAddress>
+                        <phone>7-495-6474189</phone>
+                        <fax>7-495-6474603</fax>
+                        <email>petrov-au@rosenergoatom.ru</email>
+                        <okato>28455000000</okato>
+                        <okpo>08614411</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Кристина</firstName>
+                    <middleName>Олеговна</middleName>
+                    <lastName>Губейко</lastName>
+                    <phone>+8 (48255) 69028</phone>
+                    <fax>+8 (48255) 69028</fax>
+                    <email>gubeiko-ko@knpp.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "РОССИЙСКИЙ КОНЦЕРН ПО ПРОИЗВОДСТВУ ЭЛЕКТРИЧЕСКОЙ И ТЕПЛОВОЙ ЭНЕРГИИ НА АТОМНЫХ СТАНЦИЯХ" Филиал «Калининская атомная станция»</fullName>
+                            <shortName>Калининская АЭС</shortName>
+                            <iko>57721632827691643001</iko>
+                            <inn>7721632827</inn>
+                            <kpp>691643001</kpp>
+                            <ogrn>5087746119951</ogrn>
+                            <legalAddress>РФ, Тверская обл., г.Удомля, Промзона Калининской АЭС</legalAddress>
+                            <postalAddress>171841, Тверская область, г.Удомля, Промзона Калининской АЭС</postalAddress>
+                            <phone>7-495-6474189</phone>
+                            <fax>7-495-6474603</fax>
+                            <email>petrov-au@rosenergoatom.ru</email>
+                            <okato>28455000000</okato>
+                            <okpo>08614411</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:37:48</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-28</deliveryEndDateTime>
+                    <place>Росэлторг 2  http://atom2.roseltorg.ru/</place>
+                    <procedure>В соответствии с регламентом работы ЭТП</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>5</totalDocumentsCount>
+                    <document>
+                        <guid>a22a2ab1-590a-1ee7-82c9-703ab5ce1d06</guid>
+                        <createDateTime>2017-03-16T13:21:47</createDateTime>
+                        <fileName>Проект договора.rar</fileName>
+                        <description>Проект договора</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117111</url>
+                    </document>
+                    <document>
+                        <guid>a22a2ab1-590a-1ee7-82c9-7023e36e9d06</guid>
+                        <createDateTime>2017-03-16T13:21:46</createDateTime>
+                        <fileName>ТЗ.tif</fileName>
+                        <description>ТЗ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117112</url>
+                    </document>
+                    <document>
+                        <guid>a22a2ab1-590a-1ed7-82c9-7754b1c50f58</guid>
+                        <createDateTime>2017-03-16T13:23:22</createDateTime>
+                        <fileName>Извещение ОЗП.tif</fileName>
+                        <description>Извещение ОЗП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117113</url>
+                    </document>
+                    <document>
+                        <guid>f2f32b7a-a50b-1ed7-82c9-7cf3473b1209</guid>
+                        <createDateTime>2017-03-16T13:24:38</createDateTime>
+                        <fileName>Документация ОЗП.doc</fileName>
+                        <description>Документация ОЗП</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117114</url>
+                    </document>
+                    <document>
+                        <guid>0addd011-6b0b-1ed7-82c9-83c4d0368b5c</guid>
+                        <createDateTime>2017-03-16T13:26:10</createDateTime>
+                        <fileName>проекты+РЭ.rar</fileName>
+                        <description>проекты+РЭ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117115</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:37:48</ns2:modificationDate>
+                <ns2:saveUserId>172544</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Росэлторг 2</name>
+                    <url>http://roseltorg.ru</url>
+                    <electronicPlaceId>102</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>171841, Тверская область, г. Удомля, Калининская АЭС</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-17T23:59:59</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-20T23:59:59</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-28T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>a22a2ab1-590a-1ed7-82c9-6bf0fda211cf</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Право заключения договора на выполнение пусконаладочных работ установок контроля радиоактивного 
+загрязнения персонала РЗБ-204 в санпропускниках Калининской АЭС</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>5009222.17</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>КлнАЭС</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0addd011-6b0b-1ed7-81f8-894c8a50c43f</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.20.19.190</code>
+                                        <name>Услуги по техническим испытаниям и анализу прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>35.11.3</code>
+                                        <name>Производство электроэнергии атомными электростанциями, в том числе деятельность по обеспечению работоспособности электростанций</name>
+                                    </okved2>
+                                    <additionalInfo> Инновационная продукция.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184588</planRegistrationNumber>
+                            <planGuid>400f977e-055d-496b-9b06-1fe1de4b483f</planGuid>
+                            <positionNumber>1039400654</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>587e1e59-85d5-0b90-e100-80000a7c101c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

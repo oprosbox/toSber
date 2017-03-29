@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1fc5ef13-a888-436e-89ac-7d03896dcac1</guid>
+        <createDateTime>2017-03-16T19:41:00</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e9cf9810-6144-df27-dc21-d3c1cc44d327</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>e9cf9810-6144-df27-dc21-d3c1cc44d327</ns2:guid>
+                <ns2:createDateTime>2017-03-16T19:24:12</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888415</ns2:urlOOS>
+                <ns2:urlVSRZ>https://etpgaz.gazprombank.ru/#com/procedure/view/procedure/84363</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704841380</ns2:registrationNumber>
+                <ns2:name>Поставка арматуры фонтанной и головок колонных для ремонтных работ на скважинах для нужд ООО «Газпром комплектация» (0001/17/4.2/0005855/ГПК/ЗП/ГОС/Э/28.02.2017)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>8993</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>29 (Газпром) Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ГАЗПРОМ"</fullName>
+                        <shortName>ПАО "ГАЗПРОМ"</shortName>
+                        <iko>57736050003772801001</iko>
+                        <inn>7736050003</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1027700070518</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул НАМЕТКИНА, дом 16</legalAddress>
+                        <postalAddress>ул. Наметкина, д. 16, г. Москва, ГСП-7, 117997</postalAddress>
+                        <phone>7-495-7198103</phone>
+                        <email>223@adm.gazprom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>45908000</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Дмитрий</firstName>
+                    <middleName>Александрович</middleName>
+                    <lastName>Козлов</lastName>
+                    <phone>+7 (495) 7195342</phone>
+                    <email>Zakupki@adm.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ГАЗПРОМ"</fullName>
+                            <shortName>ПАО "ГАЗПРОМ"</shortName>
+                            <iko>57736050003772801001</iko>
+                            <inn>7736050003</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1027700070518</ogrn>
+                            <legalAddress>117997, г МОСКВА, ул НАМЕТКИНА, дом 16</legalAddress>
+                            <postalAddress>ул. Наметкина, д. 16, г. Москва, ГСП-7, 117997</postalAddress>
+                            <phone>7-495-7198103</phone>
+                            <email>223@adm.gazprom.ru</email>
+                            <okato>45293590000</okato>
+                            <okpo>45908000</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:41:00</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-02-28</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>https://etpgaz.gazprombank.ru http://zakupki.gov.ru/223</place>
+                    <procedure>Путем скачивания файлов в электронной форме</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Изложено в прилагаемой документации</ns2:modificationDescription>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>1a7383e7-0399-89be-5331-a759bafaa08b</guid>
+                        <createDateTime>2017-03-16T19:21:23</createDateTime>
+                        <fileName>5855_Уведомление_о_продлении.doc</fileName>
+                        <description>5855 Уведомление о продлении.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121203</url>
+                    </document>
+                    <document>
+                        <guid>a21bcc67-0a64-927d-87fd-12a913de12c8</guid>
+                        <createDateTime>2017-02-28T17:20:43</createDateTime>
+                        <fileName>Док-ция_5855.rar</fileName>
+                        <description>Док-ция 5855.rar</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121204</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:41:00</ns2:modificationDate>
+                <ns2:saveUserId>37419</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>true</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП ГПБ</name>
+                    <url>https://etpgaz.gazprombank.ru/</url>
+                    <electronicPlaceId>115</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>117418, ГСП-7, г. Москва, ул. Новочеремушкинская, д.65</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-31T19:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-31T19:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-02-28</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>6a2bfc22-b24a-2f14-30b1-75ef74b7268a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>арматура фонтанная и головки колонные для ремонтных работ на скважинах</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>50434487.43</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bd086e28-d39a-73c5-3808-9fdc3b00a735</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Арматура фонтанная АФ1-65/65х14 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>79a7f5a9-a3fc-92eb-6690-4327259644a8</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Арматура фонтанная АФ1-65/65х14 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6a369e1a-fea2-8dce-9a09-d9a1960341c6</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Арматура фонтанная АФ2-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6841aa2c-d33c-10cd-e110-c136e5270c1d</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Арматура фонтанная АФ2-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2d696bb6-6a14-7219-ea28-8268cc96305b</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Арматура фонтанная АФК1-65/65х14 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>025e4bc1-749b-08d4-820b-caa6524c3653</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Арматура фонтанная АФК2-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>03c9c65d-ed86-7469-00b0-14e1e81d2a5c</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Арматура фонтанная АФК3-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2eabd0c4-5a5d-6666-3089-1dfa7c665dd4</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Арматура фонтанная АФК4-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>41ee7ffb-f941-06be-a18f-6c187cf556d2</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                    <additionalInfo>Арматура фонтанная АФК6-80/80х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>9d7dbbff-6f64-d993-b808-3ecafea0d9be</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Головка колонная ОКК1-14-146х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4f30d5c4-ebcf-9d16-c9e6-e4c598b998f1</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Головка колонная ОКК1-14-146х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>da06e4a4-be57-3759-3a62-5faf49cf9818</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Головка колонная ОКК1-14-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>0af937ac-3747-0e2a-efec-66b7d58d2351</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-146х219 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>b40c6f9d-ecc9-bb8a-7b77-8bbb92e351b2</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>20576af4-a06f-4bed-6792-60b8cdacfdeb</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>19b273d0-916b-f191-19a5-d7826e285457</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>55d32e5f-70f4-a76f-e51c-a4bb963d3099</guid>
+                                    <ordinalNumber>17</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1d3b25df-36c7-1d45-8dd6-8e68bda6668f</guid>
+                                    <ordinalNumber>18</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>8b2eedd4-ae6c-0cdf-ce6f-2131a05766b6</guid>
+                                    <ordinalNumber>19</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2b4dc347-e82d-ef0f-c1d6-dbee8da05a4e</guid>
+                                    <ordinalNumber>20</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Арматура фонтанная АФ2-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1e68d5cf-fec6-1900-a25d-adf03ff6f7f4</guid>
+                                    <ordinalNumber>21</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Арматура фонтанная АФ4-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>e7d5073e-87ad-1f8e-e118-dd0284856d94</guid>
+                                    <ordinalNumber>22</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-146х219 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>fc60dc6c-2d9c-d02c-aa52-7ff99c82fbfb</guid>
+                                    <ordinalNumber>23</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х245 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>a0eead72-9a6f-8b89-4258-40568728af57</guid>
+                                    <ordinalNumber>24</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Арматура фонтанная АФ2-65/65х21 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2280b48e-755f-5895-c030-845897d90d5b</guid>
+                                    <ordinalNumber>25</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-146х219 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>8933f596-2ef1-26a8-e9b3-e40a1d5833c3</guid>
+                                    <ordinalNumber>26</ordinalNumber>
+                                    <okpd2>
+                                        <code>28.92</code>
+                                        <name>Оборудование для добычи полезных ископаемых подземным и открытым способами и строительства</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>28.92</code>
+                                        <name>Производство машин и оборудования для добычи полезных ископаемых и строительства</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                    <additionalInfo>Головка колонная ОКК1-21-168х273 К1 ХЛ</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>65f8f22d-8916-44d2-86c6-876ac125ccf2</planGuid>
+                            <positionNumber>53</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>58756f8b-0b09-fea2-e100-00000a388ca6</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

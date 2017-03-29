@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d17e1409-2d00-4801-82eb-65550254feda</guid>
+        <createDateTime>2017-03-16T16:23:28</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2220fc00-0d0b-1ed7-82c9-6bdfd9e74f24</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>2220fc00-0d0b-1ed7-82c9-6bdfd9e74f24</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:20:54</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887442</ns2:urlOOS>
+                <ns2:urlVSRZ>ЕОС-Закупки</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899150</ns2:registrationNumber>
+                <ns2:name>Оказание услуг механизации</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНЫЙ ЦЕНТР НАУКИ И ВЫСОКИХ ТЕХНОЛОГИЙ "СПЕЦИАЛЬНОЕ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "ЭЛЕРОН"</fullName>
+                        <shortName>АО "ФЦНИВТ" СНПО "ЭЛЕРОН"</shortName>
+                        <iko>57724313681772401001</iko>
+                        <inn>7724313681</inn>
+                        <kpp>772401001</kpp>
+                        <ogrn>1157746325043</ogrn>
+                        <legalAddress>115563, Г МОСКВА, УЛ ГЕНЕРАЛА БЕЛОВА, дом ДОМ 14</legalAddress>
+                        <postalAddress>1155562, Москва, ул. Генерала Белова, д.14</postalAddress>
+                        <phone>7-499-7250157</phone>
+                        <email>info@eleron.org</email>
+                        <okato>45296577000</okato>
+                        <okpo>08633489</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>10120</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Мелкая закупка</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНЫЙ ЦЕНТР НАУКИ И ВЫСОКИХ ТЕХНОЛОГИЙ "СПЕЦИАЛЬНОЕ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "ЭЛЕРОН"</fullName>
+                        <shortName>АО "ФЦНИВТ" СНПО "ЭЛЕРОН"</shortName>
+                        <iko>57724313681772401001</iko>
+                        <inn>7724313681</inn>
+                        <kpp>772401001</kpp>
+                        <ogrn>1157746325043</ogrn>
+                        <legalAddress>115563, Г МОСКВА, УЛ ГЕНЕРАЛА БЕЛОВА, дом ДОМ 14</legalAddress>
+                        <postalAddress>1155562, Москва, ул. Генерала Белова, д.14</postalAddress>
+                        <phone>7-499-7250157</phone>
+                        <email>info@eleron.org</email>
+                        <okato>45296577000</okato>
+                        <okpo>08633489</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>М.А.</firstName>
+                    <middleName>25-54</middleName>
+                    <lastName>Зайцева</lastName>
+                    <phone>+8 (499) 7250157</phone>
+                    <fax>+8 (499) 7250157</fax>
+                    <email>oz@eleron.org</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "ФЕДЕРАЛЬНЫЙ ЦЕНТР НАУКИ И ВЫСОКИХ ТЕХНОЛОГИЙ "СПЕЦИАЛЬНОЕ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "ЭЛЕРОН"</fullName>
+                            <shortName>АО "ФЦНИВТ" СНПО "ЭЛЕРОН"</shortName>
+                            <iko>57724313681772401001</iko>
+                            <inn>7724313681</inn>
+                            <kpp>772401001</kpp>
+                            <ogrn>1157746325043</ogrn>
+                            <legalAddress>115563, Г МОСКВА, УЛ ГЕНЕРАЛА БЕЛОВА, дом ДОМ 14</legalAddress>
+                            <postalAddress>1155562, Москва, ул. Генерала Белова, д.14</postalAddress>
+                            <phone>7-499-7250157</phone>
+                            <email>info@eleron.org</email>
+                            <okato>45296577000</okato>
+                            <okpo>08633489</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:23:28</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-15</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>Данная процедура закупки не предусматривает предоставление документации</place>
+                    <procedure>Данная процедура закупки не предусматривает предоставление документации</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c9-60ce55b0538f</guid>
+                        <createDateTime>2017-03-16T13:18:20</createDateTime>
+                        <fileName>извещение.docx</fileName>
+                        <description>извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116400</url>
+                    </document>
+                    <document>
+                        <guid>2220fc00-0d0b-1ed7-82c9-05e54872c41b</guid>
+                        <createDateTime>2017-03-16T12:58:00</createDateTime>
+                        <fileName>договор.pdf</fileName>
+                        <description>договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116401</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:23:28</ns2:modificationDate>
+                <ns2:saveUserId>171186</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>115563, РФ, Москва, ул. Генерала Белова, д.14</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-16T11:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-16T11:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>115563, РФ, Москва, ул. Генерала Белова, д.14</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:lots>
+                    <lot>
+                        <guid>0addd403-d90a-1ed7-82c8-86a8cf11d087</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание услуг механизации</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>990000.00</initialSum>
+                            <deliveryPlace>
+                                <state>Центральный федеральный округ</state>
+                                <region>Москва</region>
+                                <regionOkato>45000000000</regionOkato>
+                                <address>Красноярский кр., г. Железногорск</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>0addd403-d90a-1ed7-82c8-8711771d9087</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>77.12.19.000</code>
+                                        <name>Услуги по аренде и лизингу прочих сухопутных транспортных средств и оборудования без водителя</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>77.32</code>
+                                        <name>Аренда и лизинг строительных машин и оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>500</qty>
+                                    <additionalInfo>Закупка проводится у субъектов малого и среднего предпринимательства.</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160184495</planRegistrationNumber>
+                            <planGuid>a22a2ab1-590a-1ee7-8290-fd3423f6951a</planGuid>
+                            <positionNumber>1117700069</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2220fc00-0d0a-1ee7-8192-c87091af982c</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>84431749-92c6-4984-af46-b627c5c335aa</guid>
+        <createDateTime>2017-03-16T21:01:07</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e3ca820e-5a4e-4dc5-2217-b3972902cd79</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>e3ca820e-5a4e-4dc5-2217-b3972902cd79</ns2:guid>
+                <ns2:createDateTime>2017-03-16T21:00:09</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888494</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286278</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704900106</ns2:registrationNumber>
+                <ns2:name>Запрос котировок в электронной форме на право заключения договора на выполнение работ по очистке и промывке фасадов многоквартирных домов района Силино</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                        <iko>57735597700773501001</iko>
+                        <inn>7735597700</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746069820</ogrn>
+                        <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                        <postalAddress>124460, корпус 1123</postalAddress>
+                        <phone>7-499-7317778</phone>
+                        <fax>7-499-7317778</fax>
+                        <email>gbu.silino@mail.ru</email>
+                        <okato>45272572000</okato>
+                        <okpo>20533885</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>151384</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                        <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                        <iko>57735597700773501001</iko>
+                        <inn>7735597700</inn>
+                        <kpp>773501001</kpp>
+                        <ogrn>5137746069820</ogrn>
+                        <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                        <postalAddress>124460, корпус 1123</postalAddress>
+                        <phone>7-499-7317778</phone>
+                        <fax>7-499-7317778</fax>
+                        <email>gbu.silino@mail.ru</email>
+                        <okato>45272572000</okato>
+                        <okpo>20533885</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Алексей</firstName>
+                    <middleName>Юрьевич</middleName>
+                    <lastName>Галустов</lastName>
+                    <phone>+7 (499) 7317778</phone>
+                    <email>gbu.silino@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</fullName>
+                            <shortName>ГБУ "ЖИЛИЩНИК РАЙОНА СИЛИНО"</shortName>
+                            <iko>57735597700773501001</iko>
+                            <inn>7735597700</inn>
+                            <kpp>773501001</kpp>
+                            <ogrn>5137746069820</ogrn>
+                            <legalAddress>124460, г МОСКВА, г ЗЕЛЕНОГРАД, корпус 1123</legalAddress>
+                            <postalAddress>124460, корпус 1123</postalAddress>
+                            <phone>7-499-7317778</phone>
+                            <fax>7-499-7317778</fax>
+                            <email>gbu.silino@mail.ru</email>
+                            <okato>45272572000</okato>
+                            <okpo>20533885</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T21:01:07</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>10</totalDocumentsCount>
+                    <document>
+                        <guid>55cfe8a5-2b24-7649-7f3a-b03c23decaff</guid>
+                        <createDateTime>2017-03-16T16:21:53</createDateTime>
+                        <fileName>ТЗ__очистка_фасада_2.docx</fileName>
+                        <description>Техническое задание (word)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121569</url>
+                    </document>
+                    <document>
+                        <guid>42037a66-a1bf-3c37-fbc8-d3c6173c5d5c</guid>
+                        <createDateTime>2017-03-16T20:53:28</createDateTime>
+                        <fileName>Проект_контракта_с_приложениями[3].rar</fileName>
+                        <description>Проект контракта с приложениями</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121570</url>
+                    </document>
+                    <document>
+                        <guid>986641db-8859-7dc4-b496-076cab642473</guid>
+                        <createDateTime>2017-03-16T20:48:24</createDateTime>
+                        <fileName>Извещение[G47bQyrytPM].doc</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121571</url>
+                    </document>
+                    <document>
+                        <guid>dec90103-01aa-8db7-8710-189dec124eef</guid>
+                        <createDateTime>2017-03-16T16:32:13</createDateTime>
+                        <fileName>Промывка_фасада[1].xls</fileName>
+                        <description>Определение НМЦ (excel)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121572</url>
+                    </document>
+                    <document>
+                        <guid>3a287a10-f583-01ee-892e-9e15b2f0313f</guid>
+                        <createDateTime>2017-03-16T20:52:12</createDateTime>
+                        <fileName>Документация[IV23iSRjzww].doc</fileName>
+                        <description>Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121573</url>
+                    </document>
+                    <document>
+                        <guid>3a134e8a-1200-a5d7-0a73-640ed7caf924</guid>
+                        <createDateTime>2017-03-16T16:35:32</createDateTime>
+                        <fileName>Протокол_фасады.pdf</fileName>
+                        <description>Протокол НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121574</url>
+                    </document>
+                    <document>
+                        <guid>c74fa8a4-7935-4c92-696b-38ec56481f67</guid>
+                        <createDateTime>2017-03-16T17:52:23</createDateTime>
+                        <fileName>Техническое_задание[1].pdf</fileName>
+                        <description>Техническое задание (pdf)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121575</url>
+                    </document>
+                    <document>
+                        <guid>ffae1e0b-6c7f-8023-0220-a64b354d6e8f</guid>
+                        <createDateTime>2017-03-16T16:31:15</createDateTime>
+                        <fileName>Смета_фасады[1].pdf</fileName>
+                        <description>Определение НМЦ (pdf)</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121576</url>
+                    </document>
+                    <document>
+                        <guid>cb7ad4b4-5c91-8d1f-d79a-e8376af32391</guid>
+                        <createDateTime>2017-03-16T16:33:41</createDateTime>
+                        <fileName>Обоснование_фасады.pdf</fileName>
+                        <description>Обоснование НМЦ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121577</url>
+                    </document>
+                    <document>
+                        <guid>5ae659c4-b591-b779-b05a-30f3fb8f05c0</guid>
+                        <createDateTime>2017-03-16T16:33:00</createDateTime>
+                        <fileName>Приказ_фасады.pdf</fileName>
+                        <description>Приказ</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121578</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T21:01:07</ns2:modificationDate>
+                <ns2:saveUserId>222218</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, г. Зеленоград, корп. 1137</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-23T16:30:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-23T16:30:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T09:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>452b40a4-c7d5-cd1e-bd4d-7dc494bbd1e8</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по очистке и промывке фасадов многоквартирных домов района Силино</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>499160.23</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с техническим заданием.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>bcf2bc6a-a4bd-d4f2-02d1-0a048c029c68</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>81.22.1</code>
+                                        <name>Услуги по промышленной уборке</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>81.22</code>
+                                        <name>Деятельность по чистке и уборке жилых зданий и нежилых помещений прочая</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Выполнение работ по очистке и промывке фасадов многоквартирных домов района Силино</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160200964</planRegistrationNumber>
+                            <planGuid>4b03e681-9cf1-4844-9ca9-60a73296cbe6</planGuid>
+                            <positionNumber>32</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>77041db1-da94-40b2-80d7-54415af215d7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

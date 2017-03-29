@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>5cfb1d4e-b4cf-4818-ab77-c6335455e7a6</guid>
+        <createDateTime>2017-03-16T17:35:19</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>061cb00a-67ff-4944-be38-3ff5e0e09105</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>061cb00a-67ff-4944-be38-3ff5e0e09105</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:25:07</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888025</ns2:urlOOS>
+                <ns2:urlVSRZ>http://torgi223.ru</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899745</ns2:registrationNumber>
+                <ns2:name>Поставка расходных материалов для лаборатории</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>116776</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                        <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                        <iko>87713059497771301001</iko>
+                        <inn>7713059497</inn>
+                        <kpp>771301001</kpp>
+                        <ogrn>1027739714606</ogrn>
+                        <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                        <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                        <phone>7-495-4888747</phone>
+                        <email>glaz-za-glaz@yandex.ru</email>
+                        <okato>45277559000</okato>
+                        <okpo>05332385</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николай</firstName>
+                    <middleName>Петрович</middleName>
+                    <lastName>Соболев</lastName>
+                    <phone>+7(499)905-81-49</phone>
+                    <email>glaz-za-glaz@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ "МЕЖОТРАСЛЕВОЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС "МИКРОХИРУРГИЯ ГЛАЗА" ИМЕНИ АКАДЕМИКА С.Н. ФЕДОРОВА" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            <shortName>ФГАУ "МНТК "МИКРОХИРУРГИЯ ГЛАЗА" ИМ.АКАД. С.Н. ФЕДОРОВА" МИНЗДРАВА РОССИИ</shortName>
+                            <iko>87713059497771301001</iko>
+                            <inn>7713059497</inn>
+                            <kpp>771301001</kpp>
+                            <ogrn>1027739714606</ogrn>
+                            <legalAddress>127486, Г МОСКВА, Б-Р БЕСКУДНИКОВСКИЙ, дом 59А</legalAddress>
+                            <postalAddress>127486, Москва Город, Бескудниковский Бульвар, дом 59А</postalAddress>
+                            <phone>7-495-4888747</phone>
+                            <email>glaz-za-glaz@yandex.ru</email>
+                            <okato>45277559000</okato>
+                            <okpo>05332385</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:35:18</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-21</deliveryEndDateTime>
+                    <place>Документация о закупке доступна для скачивания и ознакомления в единой информационной системе по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru</place>
+                    <procedure>Документация о закупке доступна для скачивания и ознакомления в единой информационной системе по адресу в сети Интернет www.zakupki.gov.ru и сайте электронной торговой площадки www.torgi223.ru</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>a699b963-486e-4fe1-97c4-92a819196c2f</guid>
+                        <createDateTime>2017-03-16T17:25:07</createDateTime>
+                        <fileName>ЗК расх.docx</fileName>
+                        <description>ЗК расх.docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119264</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:35:18</ns2:modificationDate>
+                <ns2:saveUserId>67328</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП «Торги 223»</name>
+                    <url>http://www.torgi223.ru</url>
+                    <electronicPlaceId>145</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, Бескудниковский б-р, д.59А</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-22T07:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-22T07:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-21T07:00:00</ns2:submissionCloseDateTime>
+                <ns2:lots>
+                    <lot>
+                        <guid>69abe723-fb63-4d20-a007-dfc105a49c9a</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Поставка расходных материалов для лабратории</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>248936.20</initialSum>
+                            <deliveryPlace>
+                                <address>г.Москва, Бескудниковский бульвар, дом 59А, центральный склад</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>e9b3d184-ba3e-4cef-bf2e-318b99857e29</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.140</code>
+                                        <name>Среды готовые питательные для выращивания микроорганизмов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Раствор трипсина 0,25% с солями Хенкса</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>538c8dae-df60-496e-9a7c-adea42fedbb5</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>100</qty>
+                                    <additionalInfo>Глутамин</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>cdbdb520-6dc1-41f8-9704-0172a9af2582</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                    <additionalInfo>Штатив для ПЦР микропробирок 96 мест</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>ecf72300-a7aa-493b-94ee-29adb0e16f29</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Штатив для микропробирок  80 мест</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4d55d754-8270-4f93-b7f4-29c63d93ca8a</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Штатив для пробирок 15 мл</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4af2ddff-7fe6-4f87-a149-55981d0350bd</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Штатив для пробирок 50 мл</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>9ba47c04-3e6a-4067-b8f4-fa945826343e</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.140</code>
+                                        <name>Среды готовые питательные для выращивания микроорганизмов</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Раствор трипсина 0,25% с солями Хенкса
+Раствор трипсина-ЭДТА 0,25% с солями Хенкса</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>8053c32a-c713-4f4e-bc23-80270a417f44</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                    <additionalInfo>Сыворотка эмбриональная телячья</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>06e6c144-7be3-4b72-9107-845be18b97f2</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                    <additionalInfo>Фактор роста фибробластов</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>7937758f-4a69-485d-a9a7-f8754277ad62</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>4</qty>
+                                    <additionalInfo>Инсулиноподобный фактор роста 2</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>20a8f198-abba-4e75-870b-d7e568badb63</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>2</qty>
+                                    <additionalInfo>Инсулиноподобный фактор роста 1</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>80d2f8a4-9c7a-451e-86e3-98b3df3aafdd</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>22.29.2</code>
+                                        <name>Производство прочих изделий из пластмасс, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                    <additionalInfo>Микропробирки 0,2 мл для ПЦР</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>d34c4dbe-3196-4435-99cc-cd06627b7f4a</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>22.29.2</code>
+                                        <name>Производство прочих изделий из пластмасс, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                    <additionalInfo>Микропробирки 0,2 мл для ПЦР</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1d7f07a9-9c74-4200-a96c-c91a7a3e9475</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Коллагеназа I типа,  нестерильная</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>a3db2927-d038-45d7-ad7c-ed2388d706e6</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.52.199</code>
+                                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>20.59</code>
+                                        <name>Производство прочих химических продуктов, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>872</code>
+                                        <name>Флакон</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Коллагеназа II типа,  нестерильная</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>805904f3-72de-45df-a427-0b59bff5c44d</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                    <additionalInfo>Слайд-флаконы 2-луночные</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>3fce1d34-12dc-4060-8351-a689b112b4d1</guid>
+                                    <ordinalNumber>17</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Слайд-флаконы 4-луночные</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>7590ed4d-c3e8-43ed-9eae-2bb8e4f075b4</guid>
+                                    <ordinalNumber>18</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Слайд-флаконы 8-луночные</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>fc5757fa-c4d2-47b7-a124-2234d00e964e</guid>
+                                    <ordinalNumber>19</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Стекла покровные 24х55</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>e479199b-187f-4587-8e89-e21c6dc7f39a</guid>
+                                    <ordinalNumber>20</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Стекла покровные 24х50</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>61a8438a-b27e-4c9d-ac34-e3464012c6e4</guid>
+                                    <ordinalNumber>21</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.46.2</code>
+                                        <name>Торговля оптовая изделиями, применяемыми в медицинских целях</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Стёкла предметные с матовым полем</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>4faee2bd-4a1b-4648-aaef-5d7b345a2e29</guid>
+                                    <ordinalNumber>22</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>22.29.2</code>
+                                        <name>Производство прочих изделий из пластмасс, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Стекло предметное</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>3e131a96-ea04-465c-afa4-1e593e56c412</guid>
+                                    <ordinalNumber>23</ordinalNumber>
+                                    <okpd2>
+                                        <code>22.29.29.000</code>
+                                        <name>Изделия пластмассовые прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>22.29.2</code>
+                                        <name>Производство прочих изделий из пластмасс, не включенных в другие группировки</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>778</code>
+                                        <name>Упаковка</name>
+                                    </okei>
+                                    <qty>10</qty>
+                                    <additionalInfo>Стекло предметное</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218529</planRegistrationNumber>
+                            <planGuid>1b6e7b8c-b276-14d6-9bbd-9acc8992fbb3</planGuid>
+                            <positionNumber>1835</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>8d787777-93b7-d903-c027-c22421b348b7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>12fdd156-2d85-4dac-9e39-890fcd3d8627</guid>
+        <createDateTime>2017-03-16T17:13:33</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>2360d6dc-4535-445c-a797-227ee585893b</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>2360d6dc-4535-445c-a797-227ee585893b</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:04:56</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887869</ns2:urlOOS>
+                <ns2:registrationNumber>31704899598</ns2:registrationNumber>
+                <ns2:name>Открытый аукцион среди субъектов малого и среднего предпринимательства в электронной форме № 337/ОАЭ-
+ОАО «ЭЛТЕЗА»/2017/СД на право заключения договора на комплексную поставку кабельно-проводниковой продукции для нужд ОАО «ЭЛТЕЗА»
+</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Объединенные электротехнические заводы"</fullName>
+                        <shortName>ОАО "ЭЛТЕЗА"</shortName>
+                        <iko>67716523950771601001</iko>
+                        <inn>7716523950</inn>
+                        <kpp>771601001</kpp>
+                        <ogrn>1057746620535</ogrn>
+                        <legalAddress>127343, Москва, Сибиряковская, дом 5</legalAddress>
+                        <postalAddress>Российская Федерация, индекс 127343, город Москва, улица Сибиряковская, дом 5.</postalAddress>
+                        <phone>8-499-2666996-2461</phone>
+                        <fax>8-499-2666866</fax>
+                        <email>markshimonov@gmail.com</email>
+                        <okato>45280580000</okato>
+                        <okpo>76614166</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>117074</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый аукцион в эл. форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Объединенные электротехнические заводы"</fullName>
+                        <shortName>ОАО "ЭЛТЕЗА"</shortName>
+                        <iko>67716523950771601001</iko>
+                        <inn>7716523950</inn>
+                        <kpp>771601001</kpp>
+                        <ogrn>1057746620535</ogrn>
+                        <legalAddress>127343, Москва, Сибиряковская, дом 5</legalAddress>
+                        <postalAddress>Российская Федерация, индекс 127343, город Москва, улица Сибиряковская, дом 5.</postalAddress>
+                        <phone>8-499-2666996-2461</phone>
+                        <fax>8-499-2666866</fax>
+                        <email>markshimonov@gmail.com</email>
+                        <okato>45280580000</okato>
+                        <okpo>76614166</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Анастасия</firstName>
+                    <middleName>Сергеевна</middleName>
+                    <lastName>Еньшина</lastName>
+                    <phone>+7 (499) 2666996, доб.: 2460</phone>
+                    <email>as.enshina@elteza.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Открытое акционерное общество "Объединенные электротехнические заводы"</fullName>
+                            <shortName>ОАО "ЭЛТЕЗА"</shortName>
+                            <iko>67716523950771601001</iko>
+                            <inn>7716523950</inn>
+                            <kpp>771601001</kpp>
+                            <ogrn>1057746620535</ogrn>
+                            <legalAddress>127343, Москва, Сибиряковская, дом 5</legalAddress>
+                            <postalAddress>Российская Федерация, индекс 127343, город Москва, улица Сибиряковская, дом 5.</postalAddress>
+                            <phone>8-499-2666996-2461</phone>
+                            <fax>8-499-2666866</fax>
+                            <email>markshimonov@gmail.com</email>
+                            <okato>45280580000</okato>
+                            <okpo>76614166</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:13:33</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>Документация размещена в Единой информационной системе в сфере закупок (далее – единая информационная система), на сайте ЭТЗП и на сайте ОАО «ЭЛТЕЗА» http://www.elteza.ru (раздел «Тендеры) (далее – сайты).
+В случае возникновения технических и иных неполадок при работе единой информационной системы, блокирующих доступ к единой информационной системе в течение более чем 1 (одного) рабочего дня, информация, подлежащая размещению в единой информационной системе, размещается на сайте ОАО «ЭЛТЕЗА» http://www.elteza.ru, а также на сайте ЭТЗП (в случае проведения аукциона в электронной форме) с последующим размещением такой информации в единой информационной системе в течение 1 (одного) рабочего дня со дня устранения технических или иных неполадок, блокирующих доступ к единой информационной системе, и считается размещенной в установленном порядке.
+Плата за предоставление документации не взимается.
+Документация доступна для ознакомления на перечисленных сайтах с момента ее опубликования без ограничений</place>
+                    <procedure>Документация размещена в Единой информационной системе в сфере закупок (далее – единая информационная система), на сайте ЭТЗП и на сайте ОАО «ЭЛТЕЗА» http://www.elteza.ru (раздел «Тендеры) (далее – сайты).
+В случае возникновения технических и иных неполадок при работе единой информационной системы, блокирующих доступ к единой информационной системе в течение более чем 1 (одного) рабочего дня, информация, подлежащая размещению в единой информационной системе, размещается на сайте ОАО «ЭЛТЕЗА» http://www.elteza.ru, а также на сайте ЭТЗП (в случае проведения аукциона в электронной форме) с последующим размещением такой информации в единой информационной системе в течение 1 (одного) рабочего дня со дня устранения технических или иных неполадок, блокирующих доступ к единой информационной системе, и считается размещенной в установленном порядке.
+Плата за предоставление документации не взимается.
+Документация доступна для ознакомления на перечисленных сайтах с момента ее опубликования без ограничений</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>89afb3d9-8502-4184-8d4e-000a78920ab4</guid>
+                        <createDateTime>2017-03-16T17:10:56</createDateTime>
+                        <fileName>Документация. Порядок организации проведения закупки.docx</fileName>
+                        <description>Документация. Порядок организации проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118880</url>
+                    </document>
+                    <document>
+                        <guid>922aaa10-e365-4261-8dff-a5a095211963</guid>
+                        <createDateTime>2017-03-16T17:10:46</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118872</url>
+                    </document>
+                    <document>
+                        <guid>b1641a5a-3b80-44e7-900f-d825f9daf418</guid>
+                        <createDateTime>2017-03-16T17:10:51</createDateTime>
+                        <fileName>Документация. Условия проведения закупки.docx</fileName>
+                        <description>Документация. Условия проведения закупки</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118875</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:13:33</ns2:modificationDate>
+                <ns2:saveUserId>197703</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>Электронная торгово-закупочная площадка ОАО "РЖД"</name>
+                    <url>http://etzp.rzd.ru</url>
+                    <electronicPlaceId>112</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:submissionCloseDateTime>2017-04-06T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:templateVersion>2</ns2:templateVersion>
+                <ns2:templateStructure>
+                    <ns2:level>
+                        <ns2:tabLevel>NOTICE</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Общая информация</tabName>
+                            <fixedName>MAIN</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о состоянии извещения</sectionName>
+                                <fixedName>MAIN_STATUS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Сведения о заказчике</sectionName>
+                                <fixedName>MAIN_CUSTOMER</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Общие сведения о закупке</sectionName>
+                                <fixedName>MAIN_PURCHASE</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>4</sectionOrdinal>
+                                <sectionName>Контактная информация</sectionName>
+                                <fixedName>MAIN_CONTACTS</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>Порядок размещения закупки</tabName>
+                            <fixedName>COMMISSION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Публикация извещения</sectionName>
+                                <fixedName>COMMISSION_PUBLISH</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>3</tabOrdinal>
+                            <tabName>Список лотов</tabName>
+                            <fixedName>LOTS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о лотах</sectionName>
+                                <fixedName>LOTS_INFO</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>4</tabOrdinal>
+                            <tabName>Документация</tabName>
+                            <fixedName>DOCS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Предоставление документации</sectionName>
+                                <fixedName>DOCS_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Файлы документации</sectionName>
+                                <fixedName>DOCS_FILES</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Сведения о лоте</tabName>
+                            <fixedName>LOT_INFORMATION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация о лоте</sectionName>
+                                <fixedName>LOT_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT_CUSTOMER</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Сведения по заказчику</tabName>
+                            <fixedName>LOT_CUSTOMER</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация по Заказчику</sectionName>
+                                <fixedName>LOT_CUSTOMER_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_CUSTOMER_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_CUSTOMER_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                </ns2:templateStructure>
+                <ns2:extendFields>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>applExamPeriodTime</integrCode>
+                            <description>Дата рассмотрения первых частей заявок</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-04-13T11:00:00</dateTime>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>procedureDate</integrCode>
+                            <description>Дата и время проведения аукциона в электронной форме</description>
+                            <type>DATETIME</type>
+                            <value>
+                                <dateTime>2017-04-18T09:30:00</dateTime>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>COMMISSION</tabName>
+                            <sectionOrdinal>1</sectionOrdinal>
+                            <sectionName>COMISSION_SEC_Публикация извещения</sectionName>
+                        </position>
+                    </noticeExtendField>
+                </ns2:extendFields>
+                <ns2:lots>
+                    <lot>
+                        <guid>95d1496c-9624-4d44-8166-7bb4a816bf22</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Комплексная поставка кабельно-проводниковой продукции для нужд ОАО "ЭЛТЕЗА"</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>11060625.81</initialSum>
+                            <deliveryPlace>
+                                <state>Уральский федеральный округ</state>
+                                <region>Свердловская   обл</region>
+                                <regionOkato>65000000000</regionOkato>
+                                <address>КЭТЗ - филиал ОАО «ЭЛТЕЗА» - 624864, г. Камышлов, Свердловской области, ул. Фарфористов, д.6.
+ВЛМЗ - филиал ОАО «ЭЛТЕЗА» - 400022, г. Волгоград, ул. Арсеньева д.47.
+СЗПК - филиал ОАО «ЭЛТЕЗА» - 188302, г. Гатчина, Ленинградской обл., ул. Матвеева д. 48.</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>eba47fb6-774f-440a-bd0d-72e20b56aedd</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>27.32</code>
+                                        <name>Провода и кабели электронные и электрические прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>27.32</code>
+                                        <name>Производство прочих проводов и кабелей для электронного и электрического оборудования</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>642</code>
+                                        <name>Единица</name>
+                                    </okei>
+                                    <qty>32010</qty>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160214424</planRegistrationNumber>
+                            <planGuid>c29fff37-801a-47ce-b0ed-7d4c4bed754c</planGuid>
+                            <positionNumber>242</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>2fe928a5-810f-434a-a0c6-a58949d6de2b</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                        <extendFields>
+                            <noticeExtendField>
+                                <extendField>
+                                    <integrCode>TsenaDog</integrCode>
+                                    <description>Начальная максимальная цена договора без учета НДС</description>
+                                    <type>STRING</type>
+                                    <value>
+                                        <string>9373411,70</string>
+                                    </value>
+                                </extendField>
+                                <extendField>
+                                    <integrCode>Valyta</integrCode>
+                                    <description>Валюта</description>
+                                    <type>CURRENCY</type>
+                                    <value>
+                                        <nsi>
+                                            <currency>
+                                                <code>RUB</code>
+                                                <digitalCode>643</digitalCode>
+                                                <name>Российский рубль</name>
+                                            </currency>
+                                        </nsi>
+                                    </value>
+                                </extendField>
+                                <position>
+                                    <tabOrdinal>1</tabOrdinal>
+                                    <tabName>LOT_INFORMATION</tabName>
+                                    <sectionOrdinal>1</sectionOrdinal>
+                                    <sectionName>LOT_INFO_SEC_Общая информация о лоте</sectionName>
+                                </position>
+                            </noticeExtendField>
+                        </extendFields>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

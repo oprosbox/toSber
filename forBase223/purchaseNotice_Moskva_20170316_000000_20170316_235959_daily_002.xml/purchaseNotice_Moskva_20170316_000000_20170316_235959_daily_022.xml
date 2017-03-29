@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>12244c2f-2d3e-4e4e-a3e1-12bebd8563d7</guid>
+        <createDateTime>2017-03-16T19:39:09</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>86fbe511-c863-777b-b000-7e62f1eaa403</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>86fbe511-c863-777b-b000-7e62f1eaa403</ns2:guid>
+                <ns2:createDateTime>2017-03-16T18:57:05</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5888382</ns2:urlOOS>
+                <ns2:urlVSRZ>https://etpgaz.gazprombank.ru/#com/procedure/view/procedure/84083</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704821356</ns2:registrationNumber>
+                <ns2:name>Поставка присадок Диприс для нужд ООО «Газпром комплектация» (№ 0001/17/4.2/0005860/ГПК/ЗП/ГОС/Э/21.02.2017)</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Общество с ограниченной ответственностью "Газпром комплектация"</fullName>
+                        <shortName>ООО "Газпром комплектация"</shortName>
+                        <iko>67740000044773601001</iko>
+                        <inn>7740000044</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700501113</ogrn>
+                        <legalAddress>119991, Москва, Строителей, дом 8, корпус КОРПУС 1</legalAddress>
+                        <postalAddress>119991, г. Москва, ул. Строителей, д. 8, корп. 1</postalAddress>
+                        <phone>7-495-6315782</phone>
+                        <email>komplekt@komplekt.gazprom.ru</email>
+                        <okato>45293558000</okato>
+                        <okpo>05030632</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>8993</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>29 (Газпром) Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ГАЗПРОМ"</fullName>
+                        <shortName>ПАО "ГАЗПРОМ"</shortName>
+                        <iko>57736050003772801001</iko>
+                        <inn>7736050003</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1027700070518</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул НАМЕТКИНА, дом 16</legalAddress>
+                        <postalAddress>ул. Наметкина, д. 16, г. Москва, ГСП-7, 117997</postalAddress>
+                        <phone>7-495-7198103</phone>
+                        <email>223@adm.gazprom.ru</email>
+                        <okato>45293590000</okato>
+                        <okpo>45908000</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Дмитрий</firstName>
+                    <middleName>Александрович</middleName>
+                    <lastName>Козлов</lastName>
+                    <phone>+7 (495) 7195342</phone>
+                    <email>Zakupki@adm.gazprom.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ГАЗПРОМ"</fullName>
+                            <shortName>ПАО "ГАЗПРОМ"</shortName>
+                            <iko>57736050003772801001</iko>
+                            <inn>7736050003</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1027700070518</ogrn>
+                            <legalAddress>117997, г МОСКВА, ул НАМЕТКИНА, дом 16</legalAddress>
+                            <postalAddress>ул. Наметкина, д. 16, г. Москва, ГСП-7, 117997</postalAddress>
+                            <phone>7-495-7198103</phone>
+                            <email>223@adm.gazprom.ru</email>
+                            <okato>45293590000</okato>
+                            <okpo>45908000</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T19:39:09</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-02-21</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-06</deliveryEndDateTime>
+                    <place>https://etpgaz.gazprombank.ru http://zakupki.gov.ru/223</place>
+                    <procedure>Путем скачивания файлов в электронной форме</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>2</ns2:version>
+                <ns2:modificationDescription>Изложено в прилагаемой документации</ns2:modificationDescription>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>1f8438b4-fc5a-b8ef-6892-bcd7fc241d59</guid>
+                        <createDateTime>2017-03-16T18:55:20</createDateTime>
+                        <fileName>5860_Уведомление_о_комиссии_17_03_2017.doc</fileName>
+                        <description>5860 Уведомление о комиссии 17 03 2017.doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121032</url>
+                    </document>
+                    <document>
+                        <guid>d54a66d0-da5c-aab9-ce85-0b2ac968ac14</guid>
+                        <createDateTime>2017-02-21T21:24:52</createDateTime>
+                        <fileName>5860_Документация_для_публикации.rar</fileName>
+                        <description>5860 Документация для публикации.rar</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30121034</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T19:39:09</ns2:modificationDate>
+                <ns2:saveUserId>37419</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>true</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЭТП ГПБ</name>
+                    <url>https://etpgaz.gazprombank.ru/</url>
+                    <electronicPlaceId>115</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>117997, ГСП-7, г. Москва, ул. Новочеремушкинская, д.65 (КПП с торца, корпус В)</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-17T19:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-17T19:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-06T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-02-21</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>a501bcfb-9a07-4b0f-3471-33c4c7a3bf7b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>присадки Диприс</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>205221036.15</initialSum>
+                            <deliveryPlace>
+                                <address>Согласно закупочной документации</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>4b5c7427-1a46-3b62-bcc7-2d7d37073f59</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>44.88</qty>
+                                    <additionalInfo>Присадка Диприс Х 4138</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>cda04169-5d35-536e-4c47-1c71f3fb7cad</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>44.88</qty>
+                                    <additionalInfo>Присадка Диприс Х 4138</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1fd039d5-35f1-6ac0-9f43-54f763837900</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>44.88</qty>
+                                    <additionalInfo>Присадка Диприс Х 4138</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>563c123b-e935-f9ca-18ab-b04a134c2acc</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>29.92</qty>
+                                    <additionalInfo>Присадка Диприс Д 4500</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>3204cbfb-38f2-ff6b-34b0-2ca8cf6ddbaa</guid>
+                                    <ordinalNumber>5</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>29.92</qty>
+                                    <additionalInfo>Присадка Диприс Д 4500</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>263b9044-f8e4-874a-83c3-33c22bf135d2</guid>
+                                    <ordinalNumber>6</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>14.96</qty>
+                                    <additionalInfo>Присадка Диприс Д 4500</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>af9a40cd-ba28-b6c7-02de-ce15dd0ca01f</guid>
+                                    <ordinalNumber>7</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>35.36</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>d5e2a8ab-5363-d0af-2640-af9b49dac20d</guid>
+                                    <ordinalNumber>8</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>35.36</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>2b4028b5-ced5-7686-6ab0-f6f38006dd13</guid>
+                                    <ordinalNumber>9</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>17.68</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>f708ec1b-9f19-47b8-22e3-be0e7591ae34</guid>
+                                    <ordinalNumber>10</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>17.68</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>46e2e8dc-c5f2-bad3-bb60-c7d426851fba</guid>
+                                    <ordinalNumber>11</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>17.68</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>03503040-40b4-acb7-4d19-318da028a31e</guid>
+                                    <ordinalNumber>12</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>17.68</qty>
+                                    <additionalInfo>Присадка Диприс С</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>1b936576-7b55-6bcd-e89b-3ca84abd62ff</guid>
+                                    <ordinalNumber>13</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>13.6</qty>
+                                    <additionalInfo>Присадка депрессорно-диспергирующая для дизельных топлив Диприс 5706</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>3b07baec-7063-9160-1bcd-86dc27af005f</guid>
+                                    <ordinalNumber>14</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>29.92</qty>
+                                    <additionalInfo>Присадка Диприс Х 4138</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6160419a-c6b3-751c-6f52-390f5600faae</guid>
+                                    <ordinalNumber>15</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>14.96</qty>
+                                    <additionalInfo>Присадка Диприс Д 4500</additionalInfo>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>21156057-6241-17bd-7b61-82bf6ebfe529</guid>
+                                    <ordinalNumber>16</ordinalNumber>
+                                    <okpd2>
+                                        <code>20.59.42</code>
+                                        <name>Антидетонаторы; присадки к топливу и смазочным материалам и аналогичные продукты</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>46.75</code>
+                                        <name>Торговля оптовая химическими продуктами</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>168</code>
+                                        <name>Тонна; Метрическая тонна (1000 кг)</name>
+                                    </okei>
+                                    <qty>29.92</qty>
+                                    <additionalInfo>Присадка Диприс Д 4500</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160195932</planRegistrationNumber>
+                            <planGuid>65f8f22d-8916-44d2-86c6-876ac125ccf2</planGuid>
+                            <positionNumber>49</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>585af1b0-863b-60c6-e100-00000a388ca5</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

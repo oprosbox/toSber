@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>a5c22f6d-984e-4cf6-8af8-12e6fdd1f690</guid>
+        <createDateTime>2017-03-16T17:18:56</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>948843d6-7807-42f2-8940-f7be4886e1a7</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>948843d6-7807-42f2-8940-f7be4886e1a7</ns2:guid>
+                <ns2:createDateTime>2017-03-16T17:14:20</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887947</ns2:urlOOS>
+                <ns2:registrationNumber>31704899638</ns2:registrationNumber>
+                <ns2:name>Выполнение работ по ремонту зданий и инженерных коммуникаций. № 087-17</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</fullName>
+                        <shortName>РУДН, РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ, ФГАОУ ВО РУДН,ФГАОУ ВО "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</shortName>
+                        <iko>57728073720772801001</iko>
+                        <inn>7728073720</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1027739189323</ogrn>
+                        <legalAddress>117198, Г МОСКВА, УЛ МИКЛУХО-МАКЛАЯ, дом ДОМ 6</legalAddress>
+                        <postalAddress>117198, Москва г, Миклухо-Маклая ул, дом 6</postalAddress>
+                        <phone>7-495-7873803-1355</phone>
+                        <fax>7-495-4343110</fax>
+                        <email>ekk3@rudn.ru</email>
+                        <okato>45293578000</okato>
+                        <okpo>02066463</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>128756</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>(КсПКО) Конкурс среди организаций, прошедших предварительный квалификационный отбор</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</fullName>
+                        <shortName>РУДН, РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ, ФГАОУ ВО РУДН,ФГАОУ ВО "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</shortName>
+                        <iko>57728073720772801001</iko>
+                        <inn>7728073720</inn>
+                        <kpp>772801001</kpp>
+                        <ogrn>1027739189323</ogrn>
+                        <legalAddress>117198, Г МОСКВА, УЛ МИКЛУХО-МАКЛАЯ, дом ДОМ 6</legalAddress>
+                        <postalAddress>117198, Москва г, Миклухо-Маклая ул, дом 6</postalAddress>
+                        <phone>7-495-7873803-1355</phone>
+                        <fax>7-495-4343110</fax>
+                        <email>ekk3@rudn.ru</email>
+                        <okato>45293578000</okato>
+                        <okpo>02066463</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николай</firstName>
+                    <middleName>Юрьевич</middleName>
+                    <lastName>Родин</lastName>
+                    <phone>+7 (495) 7873803, доб.: 2534</phone>
+                    <fax>+7 (495) 4343110</fax>
+                    <email>ekk2@rudn.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</fullName>
+                            <shortName>РУДН, РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ, ФГАОУ ВО РУДН,ФГАОУ ВО "РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ"</shortName>
+                            <iko>57728073720772801001</iko>
+                            <inn>7728073720</inn>
+                            <kpp>772801001</kpp>
+                            <ogrn>1027739189323</ogrn>
+                            <legalAddress>117198, Г МОСКВА, УЛ МИКЛУХО-МАКЛАЯ, дом ДОМ 6</legalAddress>
+                            <postalAddress>117198, Москва г, Миклухо-Маклая ул, дом 6</postalAddress>
+                            <phone>7-495-7873803-1355</phone>
+                            <fax>7-495-4343110</fax>
+                            <email>ekk3@rudn.ru</email>
+                            <okato>45293578000</okato>
+                            <okpo>02066463</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:18:56</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-17</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-23</deliveryEndDateTime>
+                    <place>Единая информационная система </place>
+                    <procedure>В электронной форме</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>d117e417-9d28-466d-8ecd-d10c10cff624</guid>
+                        <createDateTime>2017-03-16T17:18:04</createDateTime>
+                        <fileName>0539_Документация.doc</fileName>
+                        <description>0539_Документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30119068</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:18:56</ns2:modificationDate>
+                <ns2:saveUserId>114691</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г. Москва, ул. Миклухо-Маклая, дом 7, каб. 211.
+</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-23T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-24T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>г. Москва, ул. Миклухо-Маклая, дом 7, каб. 211.
+</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-23T11:10:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>692d14e7-4765-450f-a46c-d63556744343</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по ремонту зданий и инженерных коммуникаций</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>788912.39</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>daf14cce-b7e4-4ba6-a10a-35bb894022db</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.22</code>
+                                        <name>Работы по монтажу систем водопровода, канализации, отопления и кондиционирования воздуха</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.2</code>
+                                        <name>Производство электромонтажных, санитарно-технических и прочих строительно-монтажных работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Условная единица- весь объем работ.</additionalInfo>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>84c4ada3-65f9-4fd2-8f2c-2d8aaa20f609</guid>
+                                    <ordinalNumber>2</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.31</code>
+                                        <name>Работы штукатурные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.31</code>
+                                        <name>Производство штукатурных работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Условная единица- весь объем работ.</additionalInfo>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>6c885f87-bbf4-4e71-9a23-e4547ad3ff9a</guid>
+                                    <ordinalNumber>3</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.32</code>
+                                        <name>Работы столярные и плотничные</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.32</code>
+                                        <name>Работы столярные и плотничные</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Условная единица- весь объем работ.</additionalInfo>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                                <lotItem>
+                                    <guid>551cb19a-6f1c-4362-9d12-ec1fe0767f40</guid>
+                                    <ordinalNumber>4</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.33</code>
+                                        <name>Работы по устройству покрытий полов и облицовке стен</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.33</code>
+                                        <name>Работы по устройству покрытий полов и облицовке стен</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>876</code>
+                                        <name>Условная единица</name>
+                                    </okei>
+                                    <qty>1</qty>
+                                    <additionalInfo>Условная единица- весь объем работ.</additionalInfo>
+                                    <deliveryPlace>
+                                        <state>Центральный федеральный округ</state>
+                                        <region>Москва</region>
+                                        <regionOkato>45000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160207518</planRegistrationNumber>
+                            <planGuid>ea9e3d15-6576-4953-a622-d9aa231771d2</planGuid>
+                            <positionNumber>36</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>5f37d50e-606d-463c-81e7-a9a28ece186d</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

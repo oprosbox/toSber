@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>0c051466-b5de-4cbb-8508-a8ce3a707ad3</guid>
+        <createDateTime>2017-03-16T16:38:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>9e02c958-cc99-4da9-8f07-ef4502bbe67c</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>9e02c958-cc99-4da9-8f07-ef4502bbe67c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:31:08</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887539</ns2:urlOOS>
+                <ns2:registrationNumber>31704899283</ns2:registrationNumber>
+                <ns2:name>аренда офисного помещения </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ВНЕШНЕЭКОНОМИЧЕСКОЕ ОБЪЕДИНЕНИЕ "ТЕХНОПРОМЭКСПОРТ"</fullName>
+                        <shortName>ООО "ВО "ТЕХНОПРОМЭКСПОРТ"</shortName>
+                        <iko>57704863782770401001</iko>
+                        <inn>7704863782</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1147746527279</ogrn>
+                        <legalAddress>119019, г МОСКВА, ул НОВЫЙ АРБАТ, дом 15, корпус 2</legalAddress>
+                        <postalAddress>119019г МОСКВА, ул НОВЫЙ АРБАТ, 15, 2</postalAddress>
+                        <phone>7-495-6481828</phone>
+                        <email>inform@tpe-vo.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>29901988</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>109862</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Закупка у единственного поставщика</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ВНЕШНЕЭКОНОМИЧЕСКОЕ ОБЪЕДИНЕНИЕ "ТЕХНОПРОМЭКСПОРТ"</fullName>
+                        <shortName>ООО "ВО "ТЕХНОПРОМЭКСПОРТ"</shortName>
+                        <iko>57704863782770401001</iko>
+                        <inn>7704863782</inn>
+                        <kpp>770401001</kpp>
+                        <ogrn>1147746527279</ogrn>
+                        <legalAddress>119019, г МОСКВА, ул НОВЫЙ АРБАТ, дом 15, корпус 2</legalAddress>
+                        <postalAddress>119019г МОСКВА, ул НОВЫЙ АРБАТ, 15, 2</postalAddress>
+                        <phone>7-495-6481828</phone>
+                        <email>inform@tpe-vo.ru</email>
+                        <okato>45286552000</okato>
+                        <okpo>29901988</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 9899765, доб.: 1236</phone>
+                    <email>valery.kartashov@tpe.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ВНЕШНЕЭКОНОМИЧЕСКОЕ ОБЪЕДИНЕНИЕ "ТЕХНОПРОМЭКСПОРТ"</fullName>
+                            <shortName>ООО "ВО "ТЕХНОПРОМЭКСПОРТ"</shortName>
+                            <iko>57704863782770401001</iko>
+                            <inn>7704863782</inn>
+                            <kpp>770401001</kpp>
+                            <ogrn>1147746527279</ogrn>
+                            <legalAddress>119019, г МОСКВА, ул НОВЫЙ АРБАТ, дом 15, корпус 2</legalAddress>
+                            <postalAddress>119019г МОСКВА, ул НОВЫЙ АРБАТ, 15, 2</postalAddress>
+                            <phone>7-495-6481828</phone>
+                            <email>inform@tpe-vo.ru</email>
+                            <okato>45286552000</okato>
+                            <okpo>29901988</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:38:27</ns2:publicationDateTime>
+                <ns2:documentationDelivery/>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>54bccdbd-c28d-47f8-b55c-28ea4bfa74ea</guid>
+                        <createDateTime>2017-03-16T16:37:08</createDateTime>
+                        <fileName>Документация_аренда_Сев_ЕП_Бондарь.docx</fileName>
+                        <description>Документация_аренда_Сев_ЕП_Бондарь</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117177</url>
+                    </document>
+                    <document>
+                        <guid>30be43fe-8206-426b-9865-0d56b952d856</guid>
+                        <createDateTime>2017-03-16T16:37:15</createDateTime>
+                        <fileName>Договор аренды офиса.doc</fileName>
+                        <description>Договор аренды офиса</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30117180</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:38:27</ns2:modificationDate>
+                <ns2:saveUserId>152952</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:templateVersion>1</ns2:templateVersion>
+                <ns2:templateStructure>
+                    <ns2:level>
+                        <ns2:tabLevel>NOTICE</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>Общая информация</tabName>
+                            <fixedName>MAIN</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о состоянии извещения</sectionName>
+                                <fixedName>MAIN_STATUS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Сведения о заказчике</sectionName>
+                                <fixedName>MAIN_CUSTOMER</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Общие сведения о закупке</sectionName>
+                                <fixedName>MAIN_PURCHASE</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>4</sectionOrdinal>
+                                <sectionName>Контактная информация</sectionName>
+                                <fixedName>MAIN_CONTACTS</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>2</tabOrdinal>
+                            <tabName>Порядок размещения закупки</tabName>
+                            <fixedName>COMMISSION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Публикация извещения</sectionName>
+                                <fixedName>COMMISSION_PUBLISH</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>3</tabOrdinal>
+                            <tabName>Список лотов</tabName>
+                            <fixedName>LOTS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Сведения о лотах</sectionName>
+                                <fixedName>LOTS_INFO</fixedName>
+                            </section>
+                        </ns2:tab>
+                        <ns2:tab>
+                            <tabOrdinal>6</tabOrdinal>
+                            <tabName>Документация</tabName>
+                            <fixedName>DOCS</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Предоставление документации</sectionName>
+                                <fixedName>DOCS_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Файлы документации</sectionName>
+                                <fixedName>DOCS_FILES</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>4</tabOrdinal>
+                            <tabName>Сведения о лоте</tabName>
+                            <fixedName>LOT_INFORMATION</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация о лоте</sectionName>
+                                <fixedName>LOT_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                    <ns2:level>
+                        <ns2:tabLevel>LOT_CUSTOMER</ns2:tabLevel>
+                        <ns2:tab>
+                            <tabOrdinal>5</tabOrdinal>
+                            <tabName>Сведения по заказчику</tabName>
+                            <fixedName>LOT_CUSTOMER</fixedName>
+                            <section>
+                                <sectionOrdinal>1</sectionOrdinal>
+                                <sectionName>Общая информация по Заказчику</sectionName>
+                                <fixedName>LOT_CUSTOMER_INFO</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>2</sectionOrdinal>
+                                <sectionName>Информация о товаре, работе, услуге</sectionName>
+                                <fixedName>LOT_CUSTOMER_GOODS</fixedName>
+                            </section>
+                            <section>
+                                <sectionOrdinal>3</sectionOrdinal>
+                                <sectionName>Место поставки</sectionName>
+                                <fixedName>LOT_CUSTOMER_PLACE</fixedName>
+                            </section>
+                        </ns2:tab>
+                    </ns2:level>
+                </ns2:templateStructure>
+                <ns2:extendFields>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>a</integrCode>
+                            <description>Официальный сайт заказчика</description>
+                            <type>LINK</type>
+                            <value>
+                                <url>www.tpe-vo.ru</url>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>MAIN</tabName>
+                            <sectionOrdinal>2</sectionOrdinal>
+                            <sectionName>MAIN_SEC_Сведения о заказчике</sectionName>
+                        </position>
+                    </noticeExtendField>
+                    <noticeExtendField>
+                        <extendField>
+                            <integrCode>b</integrCode>
+                            <description>Организатор закупки</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Функции организатора закупки выполняет Заказчик</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>c</integrCode>
+                            <description>Условия поставки товара, выполнения работ, оказания услуг</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>в соответствии с проектом договора</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>d</integrCode>
+                            <description>Сроки (периоды) поставки товара, выполнения работ, оказания услуг</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>с 19.03.2017 г. по 18.06.2017 г.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>e</integrCode>
+                            <description>Форма, сроки и порядок оплаты продукции</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>в соответствии с проектом договора</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>f</integrCode>
+                            <description>Сведения о контрагенте</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Индивидуальный предприниматель Бондарь Оксана Леонидовна; 299008, г. Севастополь, ул. 6-я Бастионная, 42, кв. 40; ОГРНИП 314920434701406; ИНН 920400155260</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>g</integrCode>
+                            <description>Дополнительные комментарии</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Настоящее извещение информирует о заключении договора (договоров) с единственным поставщиком и не предназначено для приглашения поставщиков подавать заявки на участие в закупке. 
+Настоящее извещение имеет силу документации о закупке.
+Остальные условия проведения закупки содержатся в прилагаемом проекте договора (Приложение №1 к Извещению), являющемся неотъемлемой частью настоящего извещения (документации) о закупке.
+Установленные заказчиком требования к безопасности, качеству, техническим характеристикам, функциональным характеристикам (потребительским свойствам) товара, работы, услуги, к размерам, упаковке, отгрузке товара, к результатам работы и иные требования, связанные с поставляемым товаром / выполняемой работой / оказываемой услугой приведены в проекте договора (Приложение №1 к Извещению).
+Организатор закупки вправе отказаться от проведения закупки без каких-либо последствий в любой момент до заключения договора.</text>
+                            </value>
+                        </extendField>
+                        <extendField>
+                            <integrCode>h</integrCode>
+                            <description>Прочие сведения</description>
+                            <type>TEXT</type>
+                            <value>
+                                <text>Срок, место и порядок предоставления документации о закупке – не устанавливается.
+Дата и время начала, окончания подачи заявок, место и порядок их подачи – не устанавливается.
+Место и дата рассмотрения, подведения итогов закупки – не устанавливается.
+Требования к содержанию, форме, оформлению и составу заявки – не устанавливается.
+Требования к описанию участниками закупки поставляемого товара, выполняемой работы, оказываемой услуги, которые являются предметом закупки, их функциональных характеристик (потребительских свойств), количественных и качественных характеристик – не устанавливается.
+Форма, порядок и срок предоставления разъяснений положений документации о закупке – не устанавливается.
+Критерии и порядок оценки и сопоставления заявок – не устанавливается.
+Возможность проведения преддоговорных переговоров –  допускается.</text>
+                            </value>
+                        </extendField>
+                        <position>
+                            <tabOrdinal>1</tabOrdinal>
+                            <tabName>MAIN</tabName>
+                            <sectionOrdinal>3</sectionOrdinal>
+                            <sectionName>MAIN_SEC_Общие сведения о закупке</sectionName>
+                        </position>
+                    </noticeExtendField>
+                </ns2:extendFields>
+                <ns2:lots>
+                    <lot>
+                        <guid>86ca0061-39ef-42a8-aa61-9829e27be4de</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Аренда офисного помещения </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>445810.00</initialSum>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>cd51ccd9-a2b7-474f-a197-1abe2a16649b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>68.20.12</code>
+                                        <name>Услуги по сдаче в аренду (внаем) собственных или арендованных нежилых помещений</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>68.20.2</code>
+                                        <name>Аренда и управление собственным или арендованным нежилым недвижимым имуществом</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>081</code>
+                                        <name>Квадратный метр общей площади</name>
+                                    </okei>
+                                    <qty>166</qty>
+                                    <deliveryPlace>
+                                        <state>Крымский федеральный округ</state>
+                                        <region>Севастополь   г</region>
+                                        <regionOkato>67000000000</regionOkato>
+                                        <address>Не заполнено</address>
+                                    </deliveryPlace>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>11</code>
+                                <name>Закупки, предметом которых является аренда и (или) приобретение в собственность объектов недвижимого имущества</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>ELP</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160194036</planRegistrationNumber>
+                            <planGuid>67326f8d-d743-44b6-993a-521b52a3af48</planGuid>
+                            <positionNumber>82</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>e0c8748b-ef32-4af2-90e9-7d9942f0a393</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

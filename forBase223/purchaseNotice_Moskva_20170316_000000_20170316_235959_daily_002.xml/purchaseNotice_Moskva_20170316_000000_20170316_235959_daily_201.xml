@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1f2bc22f-f2be-409b-9c89-2f5d328e3ed9</guid>
+        <createDateTime>2017-03-16T17:11:58</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6018534b-0191-431a-b7d9-bd666cca0498</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>6018534b-0191-431a-b7d9-bd666cca0498</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:57:01</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887783</ns2:urlOOS>
+                <ns2:urlVSRZ>http://utp.sberbank-ast.ru/Trade/NBT/PurchaseView/55/0/0/228804</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899586</ns2:registrationNumber>
+                <ns2:name>Оказание образовательной услуги по дополнительной профессиональной программе повышения квалификации по курсу «Оценка стоимости проектных и изыскательских работ. Теория, практика. Составление смет на проектно-изыскательские работы с применением программы «Система ПИР»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКАЯ КОЛЬЦЕВАЯ ЖЕЛЕЗНАЯ ДОРОГА"</fullName>
+                        <shortName>АО "МКЖД"</shortName>
+                        <iko>57705953848770501001</iko>
+                        <inn>7705953848</inn>
+                        <kpp>770901001</kpp>
+                        <ogrn>1117746497549</ogrn>
+                        <legalAddress>109147, г МОСКВА, ул ТАГАНСКАЯ, дом 34, корпус 3</legalAddress>
+                        <postalAddress>109147, г МОСКВА, ул ТАГАНСКАЯ, дом 34, корпус 3</postalAddress>
+                        <phone>8-495-7881092</phone>
+                        <fax>8-495-7881093</fax>
+                        <email>info@mkzd.ru</email>
+                        <okato>45286580000</okato>
+                        <okpo>92472787</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>34169</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>СБ-АСТ: Открытый запрос котировок в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Сбербанк-Автоматизированная система торгов"</fullName>
+                        <shortName>ЗАО "Сбербанк-АСТ"</shortName>
+                        <iko>67707308480770701001</iko>
+                        <inn>7707308480</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027707000441</ogrn>
+                        <legalAddress>127055, Москва, Новослободская, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>119180, г. Москва, ул. Большая Якиманка, д. 23 </postalAddress>
+                        <phone>7-495-7872997</phone>
+                        <fax>7-495-7872998</fax>
+                        <email>FSKordysh@sberbank-ast.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58997535</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Николаев Павел Анатольевич</firstName>
+                    <phone>84957881092</phone>
+                    <email>admin@mkzd.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКАЯ КОЛЬЦЕВАЯ ЖЕЛЕЗНАЯ ДОРОГА"</fullName>
+                            <shortName>АО "МКЖД"</shortName>
+                            <iko>57705953848770501001</iko>
+                            <inn>7705953848</inn>
+                            <kpp>770901001</kpp>
+                            <ogrn>1117746497549</ogrn>
+                            <legalAddress>109147, г МОСКВА, ул ТАГАНСКАЯ, дом 34, корпус 3</legalAddress>
+                            <postalAddress>109147, г МОСКВА, ул ТАГАНСКАЯ, дом 34, корпус 3</postalAddress>
+                            <phone>8-495-7881092</phone>
+                            <fax>8-495-7881093</fax>
+                            <email>info@mkzd.ru</email>
+                            <okato>45286580000</okato>
+                            <okpo>92472787</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T17:11:58</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-17</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-24</deliveryEndDateTime>
+                    <place>http://utp.sberbank-ast.ru/Trade</place>
+                    <procedure>http://utp.sberbank-ast.ru/Trade</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>50037b14-af79-40ea-99fb-e3402c0bd8db</guid>
+                        <createDateTime>2017-03-16T16:57:01</createDateTime>
+                        <fileName>Извещение запрос котировок обучение..docx</fileName>
+                        <description>Извещение запрос котировок обучение..docx</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30118253</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T17:11:58</ns2:modificationDate>
+                <ns2:saveUserId>29401</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЗАО «Сбербанк-АСТ» (УТП)</name>
+                    <url>http://utp.sberbank-ast.ru/Trade</url>
+                    <electronicPlaceId>116</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>http://utp.sberbank-ast.ru/Trade</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-28T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-28T12:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-24T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>9a7e69d0-e10d-41c2-9a1c-bb6b1390eacf</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Оказание образовательной услуги по дополнительной профессиональной программе повышения квалификации по курсу «Оценка стоимости проектных и изыскательских работ. Теория, практика. Составление смет на проектно-изыскательские работы с применением программы «Система ПИР»</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>120000.00</initialSum>
+                            <deliveryPlace>
+                                <address>В соответствии с Извещением о проведении запроса котировок</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>f9857c41-689d-470b-a7b3-3a8b92d0d8e1</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>85.42.19.000</code>
+                                        <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>85.42</code>
+                                        <name>Образование профессиональное дополнительное</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>792</code>
+                                        <name>Человек</name>
+                                    </okei>
+                                    <qty>8</qty>
+                                    <additionalInfo>Оказание образовательной услуги по дополнительной профессиональной программе повышения квалификации по курсу «Оценка стоимости проектных и изыскательских работ. Теория, практика. Составление смет на проектно-изыскательские работы с применением программы «Система ПИР»</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160218243</planRegistrationNumber>
+                            <planGuid>caaf3a15-b641-47c2-a25e-76e84a77ca36</planGuid>
+                            <positionNumber>412</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>207c73a1-af16-414c-94a7-7a25994c5dcf</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

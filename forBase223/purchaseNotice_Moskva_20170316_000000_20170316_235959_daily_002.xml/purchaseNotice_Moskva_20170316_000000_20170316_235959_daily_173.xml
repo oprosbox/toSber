@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>dced18eb-7bae-4a71-a217-7238fe314193</guid>
+        <createDateTime>2017-03-16T16:12:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4169a363-c70f-d0b8-35e8-8047c5d5603e</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>4169a363-c70f-d0b8-35e8-8047c5d5603e</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:11:57</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887338</ns2:urlOOS>
+                <ns2:urlVSRZ>https://etp.rosseti.ru/#com/procedure/view/id/26624</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704899036</ns2:registrationNumber>
+                <ns2:name>Определение поставщика на поставку «индикационного и силового оборудования» для нужд филиалов ПАО «МОЭСК»</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ПАО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ" ПАО "МОЭСК"</shortName>
+                        <iko>55036065113772501001</iko>
+                        <inn>5036065113</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1057746555811</ogrn>
+                        <legalAddress>115114, г МОСКВА, пр ПАВЕЛЕЦКИЙ 2-Й, дом 3, корпус 2</legalAddress>
+                        <postalAddress>115114, г. Москва,  2-ой Павелецкий пр-д, д.3, стр. 2.</postalAddress>
+                        <phone>7-495-6624070-4774</phone>
+                        <email>SinyutinPA@moesk.ru</email>
+                        <okato>45296559000</okato>
+                        <okpo>75273098</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>6276</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Открытый запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ"</fullName>
+                        <shortName>ПАО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ" ПАО "МОЭСК"</shortName>
+                        <iko>55036065113772501001</iko>
+                        <inn>5036065113</inn>
+                        <kpp>772501001</kpp>
+                        <ogrn>1057746555811</ogrn>
+                        <legalAddress>115114, г МОСКВА, пр ПАВЕЛЕЦКИЙ 2-Й, дом 3, корпус 2</legalAddress>
+                        <postalAddress>115114, г. Москва,  2-ой Павелецкий пр-д, д.3, стр. 2.</postalAddress>
+                        <phone>7-495-6624070-4774</phone>
+                        <email>SinyutinPA@moesk.ru</email>
+                        <okato>45296559000</okato>
+                        <okpo>75273098</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Юлия</firstName>
+                    <middleName>Станиславовна</middleName>
+                    <lastName>Лебедева</lastName>
+                    <phone>+7 (495) 6624070</phone>
+                    <email>LebedevaYS@moesk.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ"</fullName>
+                            <shortName>ПАО "МОСКОВСКАЯ ОБЪЕДИНЕННАЯ ЭЛЕКТРОСЕТЕВАЯ КОМПАНИЯ" ПАО "МОЭСК"</shortName>
+                            <iko>55036065113772501001</iko>
+                            <inn>5036065113</inn>
+                            <kpp>772501001</kpp>
+                            <ogrn>1057746555811</ogrn>
+                            <legalAddress>115114, г МОСКВА, пр ПАВЕЛЕЦКИЙ 2-Й, дом 3, корпус 2</legalAddress>
+                            <postalAddress>115114, г. Москва,  2-ой Павелецкий пр-д, д.3, стр. 2.</postalAddress>
+                            <phone>7-495-6624070-4774</phone>
+                            <email>SinyutinPA@moesk.ru</email>
+                            <okato>45296559000</okato>
+                            <okpo>75273098</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:12:45</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-27</deliveryEndDateTime>
+                    <place>https://etp.rosseti.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>2</totalDocumentsCount>
+                    <document>
+                        <guid>0f1a7106-f495-a62d-bd7e-e129ed8677c9</guid>
+                        <createDateTime>2017-03-16T15:55:30</createDateTime>
+                        <fileName>Закупочная_документация[1].rar</fileName>
+                        <description>Закупочная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115934</url>
+                    </document>
+                    <document>
+                        <guid>259b33e1-94a7-d6a4-9015-478b02992430</guid>
+                        <createDateTime>2017-03-16T15:52:11</createDateTime>
+                        <fileName>Закупочная_документация.rar</fileName>
+                        <description>Закупочная документация</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115935</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:12:45</ns2:modificationDate>
+                <ns2:saveUserId>14986</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ОАО "Россети"</name>
+                    <url>https://etp.rosseti.ru/</url>
+                    <electronicPlaceId>182</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Москва</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-17T10:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-17T10:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-27T10:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>bfdc758f-2bbd-6647-1b94-0ca0dc0e762b</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>определение поставщика на поставку «индикационного и силового оборудования» для нужд филиалов ПАО «МОЭСК»</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>907702.78</initialSum>
+                            <deliveryPlace>
+                                <address>МКС - 115035, г. Москва, ул. Садовническая, д. 36
+МВС - 107140, г. Москва, ул. Нижняя Красносельская, д. 6 стр. 1
+ЮЭС - 142117, г. Подольск, ул. Кирова, д. 65
+ВЭС - 142400, Московская область, г. Ногинск, ул. Радченко, д. 13
+ЗЭС - 121293, г. Москва, ул. 1812 года, д. 15</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>b28866e4-3640-ed8b-93df-37072aea8a77</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.51.66.190</code>
+                                        <name>Инструменты, приборы и машины для измерения или контроля прочие, не включенные в другие группировки</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>26.51.6</code>
+                                        <name>Производство прочих приборов, датчиков, аппаратуры и инструментов для измерения, контроля и испытаний</name>
+                                    </okved2>
+                                    <additionalInfo>Индикационное и силовое оборудование</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>true</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160198355</planRegistrationNumber>
+                            <planGuid>bf5e9fb9-9125-4579-a1fa-37da05793796</planGuid>
+                            <positionNumber>621009809</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>a9898519-2019-0250-9809-000006358489</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3b7281c6-4407-4c08-9e85-988caf3894aa</guid>
+        <createDateTime>2017-03-16T16:22:23</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4624b050-41bc-4462-96fa-981d4796f671</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>4624b050-41bc-4462-96fa-981d4796f671</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:20:49</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887441</ns2:urlOOS>
+                <ns2:registrationNumber>31704899135</ns2:registrationNumber>
+                <ns2:name>Выполнение работ по проведению государственной экспертизы проектной документации и результатов инженерных изысканий «Строительство с последующей эксплуатацией на платной основе «Нового выхода на МКАД с федеральной автомобильной дороги М-7 «Волга» на участке МКАД – км 60 (обходы г. Балашиха, Ногинск), Московская область». I этап строительства. Подготовка территории строительства </ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ"</fullName>
+                        <shortName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "АВТОДОР"</shortName>
+                        <iko>57717151380770901001</iko>
+                        <inn>7717151380</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1097799013652</ogrn>
+                        <legalAddress>127006, г МОСКВА, б-р СТРАСТНОЙ, дом ДОМ 9</legalAddress>
+                        <postalAddress>127006, Москва Город, Страстной Бульвар, дом 9</postalAddress>
+                        <phone>7-495-7271195</phone>
+                        <email>zakupki@russianhighways.ru</email>
+                        <okato>45286580000</okato>
+                        <okpo>94158138</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>8563</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Прямая Закупка</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ"</fullName>
+                        <shortName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "АВТОДОР"</shortName>
+                        <iko>57717151380770901001</iko>
+                        <inn>7717151380</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1097799013652</ogrn>
+                        <legalAddress>127006, г МОСКВА, б-р СТРАСТНОЙ, дом ДОМ 9</legalAddress>
+                        <postalAddress>127006, Москва Город, Страстной Бульвар, дом 9</postalAddress>
+                        <phone>7-495-7271195</phone>
+                        <email>zakupki@russianhighways.ru</email>
+                        <okato>45286580000</okato>
+                        <okpo>94158138</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <phone>+7 (495) 7271195</phone>
+                    <email>zakupki@russianhighways.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ"</fullName>
+                            <shortName>ГОСУДАРСТВЕННАЯ КОМПАНИЯ "АВТОДОР"</shortName>
+                            <iko>57717151380770901001</iko>
+                            <inn>7717151380</inn>
+                            <kpp>770701001</kpp>
+                            <ogrn>1097799013652</ogrn>
+                            <legalAddress>127006, г МОСКВА, б-р СТРАСТНОЙ, дом ДОМ 9</legalAddress>
+                            <postalAddress>127006, Москва Город, Страстной Бульвар, дом 9</postalAddress>
+                            <phone>7-495-7271195</phone>
+                            <email>zakupki@russianhighways.ru</email>
+                            <okato>45286580000</okato>
+                            <okpo>94158138</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:22:23</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-16</deliveryEndDateTime>
+                    <place>не требуется</place>
+                    <procedure>не требуется </procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>false</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>3</totalDocumentsCount>
+                    <document>
+                        <guid>888d4ef2-5ed4-4cf3-9801-1036c6cc75ca</guid>
+                        <createDateTime>2017-03-16T16:21:56</createDateTime>
+                        <fileName>Договор.docx</fileName>
+                        <description>Договор</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116457</url>
+                    </document>
+                    <document>
+                        <guid>73294140-7285-4199-ad5b-b86dc3aff69e</guid>
+                        <createDateTime>2017-03-16T16:22:01</createDateTime>
+                        <fileName>Извещение.docx</fileName>
+                        <description>Извещение</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116459</url>
+                    </document>
+                    <document>
+                        <guid>9e86e4e1-c1c3-4186-a1dc-8034e770f83d</guid>
+                        <createDateTime>2017-03-16T16:22:08</createDateTime>
+                        <fileName>Обоснование цены.docx</fileName>
+                        <description>Обоснование цены</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30116462</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:22:23</ns2:modificationDate>
+                <ns2:saveUserId>220590</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>SINGLE_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>Процедура рассмотрения заявок и подведения итогов не осуществляется</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-16T12:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-16T12:00:00</ns2:summingupDateTime>
+                    <ns2:summingupPlace>Процедура рассмотрения заявок и подведения итогов не осуществляется</ns2:summingupPlace>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-16T12:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>00eba654-ed6d-4bb8-967d-ddeb365db1e0</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>false</lotEditEnabled>
+                        <lotData>
+                            <subject>Выполнение работ по проведению государственной экспертизы проектной документации и результатов инженерных изысканий   «Строительство с последующей эксплуатацией на платной основе «Нового выхода на МКАД с федеральной автомобильной дороги М-7 «Волга» на участке МКАД – км 60 (обходы г. Балашиха, Ногинск), Московская область». I этап строительства. Подготовка территории строительства         </subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>6242991.07</initialSum>
+                            <deliveryPlace>
+                                <address>Россия, г. Москва</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>3ccb0a65-91c1-491d-9702-1909ec0eb194</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>71.20.19.111</code>
+                                        <name>Услуги по проведению государственной экспертизы проектной документации и результатов инженерных изысканий</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>71.20</code>
+                                        <name>Технические испытания, исследования, анализ и сертификация</name>
+                                    </okved2>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>true</ignoredPurchase>
+                            <purchaseCategory>
+                                <code>9</code>
+                                <name>Закупки работ (услуг), выполнение (оказание) которых может осуществляться только органом исполнительной власти в соответствии с его полномочиями либо подведомственными ему государственным учреждением и государственным унитарным предприятием, соответствующие полномочия которых устанавливаются федеральными законами, нормативными правовыми актами Президента Российской Федерации или нормативными правовыми актами Правительства Российской Федерации, а также законодательными актами соответствующего субъекта Российской Федерации</name>
+                            </purchaseCategory>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160196952</planRegistrationNumber>
+                            <planGuid>1c4577de-8e33-4ecf-a8d0-4260d52eefc0</planGuid>
+                            <positionNumber>205</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>551e5177-075f-4688-9f0e-d9c2c91b83d3</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

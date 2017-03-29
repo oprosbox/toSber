@@ -6,6 +6,7 @@
 
 QT       += core gui
 QT += sql
+QT += xml
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -26,10 +27,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    tobase.cpp
+    tobase.cpp \
+    findindom.cpp \
+    winterface.cpp
 
 HEADERS  += mainwindow.h \
-    tobase.h
+    tobase.h \
+    findindom.h \
+    winterface.h
 
 FORMS    += mainwindow.ui
 RC_FILE  += sbicon.rc

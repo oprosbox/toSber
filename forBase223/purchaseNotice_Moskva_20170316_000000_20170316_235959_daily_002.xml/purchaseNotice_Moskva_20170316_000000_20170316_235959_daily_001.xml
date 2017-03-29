@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>9169871d-7199-42f7-8ccf-379fc091ffd9</guid>
+        <createDateTime>2017-03-16T16:07:11</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>143b8ec4-80fb-4b5a-b2a6-6026dd35bae7</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>143b8ec4-80fb-4b5a-b2a6-6026dd35bae7</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:02:30</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887222</ns2:urlOOS>
+                <ns2:urlVSRZ>http://utp.sberbank-ast.ru/Trade/NBT/PurchaseView/41/0/0/228777</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898985</ns2:registrationNumber>
+                <ns2:name>Текущий ремонт летних пристроенных веранд №1-5 (5 шт.) в  МАДОУ Детский сад №3 "Светлячок"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Муниципальное автономное дошкольное образовательное учреждение Центр развития ребенка  Детский сад № 3 " Светлячок"</fullName>
+                        <shortName>МАДОУ Детский сад № 3 "Светлячок"</shortName>
+                        <iko>55046052201775101001</iko>
+                        <inn>5046052201</inn>
+                        <kpp>775101001</kpp>
+                        <ogrn>1025006037583</ogrn>
+                        <legalAddress>142190, Москва, Троицк, Сиреневый, дом 9</legalAddress>
+                        <postalAddress>108840 г. Москва, г. Троицк, Сиреневый бульвар, д.9</postalAddress>
+                        <phone>7-495-8404975</phone>
+                        <email>troitskdou3@yandex.ru</email>
+                        <okato>45298578001</okato>
+                        <okpo>45756095</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>5621</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>СБ-АСТ: Открытый аукцион в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Закрытое акционерное общество "Сбербанк-Автоматизированная система торгов"</fullName>
+                        <shortName>ЗАО "Сбербанк-АСТ"</shortName>
+                        <iko>67707308480770701001</iko>
+                        <inn>7707308480</inn>
+                        <kpp>770701001</kpp>
+                        <ogrn>1027707000441</ogrn>
+                        <legalAddress>127055, Москва, Новослободская, дом 24, корпус СТР.2</legalAddress>
+                        <postalAddress>119180, г. Москва, ул. Большая Якиманка, д. 23 </postalAddress>
+                        <phone>7-495-7872997</phone>
+                        <fax>7-495-7872998</fax>
+                        <email>FSKordysh@sberbank-ast.ru</email>
+                        <okato>45286585000</okato>
+                        <okpo>58997535</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Тесакова Светлана Валентиновна</firstName>
+                    <phone>8 4958404975</phone>
+                    <email>troitskdou3@yandex.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Муниципальное автономное дошкольное образовательное учреждение Центр развития ребенка  Детский сад № 3 " Светлячок"</fullName>
+                            <shortName>МАДОУ Детский сад № 3 "Светлячок"</shortName>
+                            <iko>55046052201775101001</iko>
+                            <inn>5046052201</inn>
+                            <kpp>775101001</kpp>
+                            <ogrn>1025006037583</ogrn>
+                            <legalAddress>142190, Москва, Троицк, Сиреневый, дом 9</legalAddress>
+                            <postalAddress>108840 г. Москва, г. Троицк, Сиреневый бульвар, д.9</postalAddress>
+                            <phone>7-495-8404975</phone>
+                            <email>troitskdou3@yandex.ru</email>
+                            <okato>45298578001</okato>
+                            <okpo>45756095</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:07:11</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-17</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-04-06</deliveryEndDateTime>
+                    <place>http://utp.sberbank-ast.ru/Trade</place>
+                    <procedure>http://utp.sberbank-ast.ru/Trade</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>4</totalDocumentsCount>
+                    <document>
+                        <guid>1752fcf4-59d0-44fc-9292-690d81da03bf</guid>
+                        <createDateTime>2017-03-16T16:02:31</createDateTime>
+                        <fileName>Документация об аукционе текущ. ремонт летних пристроен. веранд №1-5 (5 шт.).doc</fileName>
+                        <description>Документация об аукционе текущ. ремонт летних пристроен. веранд №1-5 (5 шт.).doc</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115379</url>
+                    </document>
+                    <document>
+                        <guid>aae8e318-6ef5-4b6f-922b-5fb8721b0614</guid>
+                        <createDateTime>2017-03-16T16:02:33</createDateTime>
+                        <fileName>Приложение № 1 к тех. зад.Требования к товарам, используемым при выполнении работ.pdf</fileName>
+                        <description>Приложение № 1 к тех. зад.Требования к товарам, используемым при выполнении работ.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115381</url>
+                    </document>
+                    <document>
+                        <guid>75b43bea-774c-4186-9b85-a18c0920e9f9</guid>
+                        <createDateTime>2017-03-16T16:02:34</createDateTime>
+                        <fileName>Смета ремонт летних пристроенных веранд №1-5 (5шт.).pdf</fileName>
+                        <description>Смета ремонт летних пристроенных веранд №1-5 (5шт.).pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115384</url>
+                    </document>
+                    <document>
+                        <guid>79d37290-10ba-49cc-89c8-80971592fc54</guid>
+                        <createDateTime>2017-03-16T16:02:31</createDateTime>
+                        <fileName>Дефектный акт на ремонт летних пристроенных веранд №1-5 (5 шт.pdf</fileName>
+                        <description>Дефектный акт на ремонт летних пристроенных веранд №1-5 (5 шт.pdf</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115372</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:07:11</ns2:modificationDate>
+                <ns2:saveUserId>29401</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>ЗАО «Сбербанк-АСТ» (УТП)</name>
+                    <url>http://utp.sberbank-ast.ru/Trade</url>
+                    <electronicPlaceId>116</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>http://utp.sberbank-ast.ru/Trade</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-04-10T00:00:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-04-14T00:00:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-04-06T00:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>3ded23cc-87bd-4379-91e1-f78e3502b885</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Текущий ремонт летних пристроенных веранд №1-5 (5 шт.)</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>5810702.99</initialSum>
+                            <deliveryPlace>
+                                <address>5</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>9c6fedf0-76d1-40d1-9aff-85fa0c17a32b</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>43.39</code>
+                                        <name>Работы завершающие и отделочные в зданиях и сооружениях, прочие</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>43.39</code>
+                                        <name>Производство прочих отделочных и завершающих работ</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>879</code>
+                                        <name>Условная штука</name>
+                                    </okei>
+                                    <qty>5</qty>
+                                    <additionalInfo>Текущий ремонт летних пристроенных веранд №1-5 (5 шт.)</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160202938</planRegistrationNumber>
+                            <planGuid>76eead68-2646-4a02-bea6-4afb16b0b250</planGuid>
+                            <positionNumber>2</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>85f7ba35-e3df-4fee-96b2-f7fc1b77d7f7</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>

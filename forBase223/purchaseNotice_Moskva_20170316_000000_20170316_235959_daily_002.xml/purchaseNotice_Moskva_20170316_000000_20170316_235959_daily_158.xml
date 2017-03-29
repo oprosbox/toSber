@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/purchase.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/contract/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>d2f942da-1e16-4f5d-bf4d-7312ac46ba3c</guid>
+        <createDateTime>2017-03-16T16:05:21</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a033ecfb-2afc-9fcd-5427-d67b9a86957c</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>a033ecfb-2afc-9fcd-5427-d67b9a86957c</ns2:guid>
+                <ns2:createDateTime>2017-03-16T16:00:34</ns2:createDateTime>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/purchase/private/purchase/notice-info/details.html?noticeInfoId=5887195</ns2:urlOOS>
+                <ns2:urlVSRZ>https://com.roseltorg.ru/#com/procedure/view/id/286260</ns2:urlVSRZ>
+                <ns2:registrationNumber>31704898961</ns2:registrationNumber>
+                <ns2:name>Запрос предложений в электронной форме на право заключения договора на поставку формирователя изображения для  OCE ColorWave 600/650</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                        <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                        <iko>59701021862770101001</iko>
+                        <inn>9701021862</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>5157746085173</ogrn>
+                        <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                        <phone>7-495-2251940-1074</phone>
+                        <fax>7-495-6250256</fax>
+                        <email>institute@mosinzhproekt.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>42953493</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>130326</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос предложений в электронной форме</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                        <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                        <iko>59701021862770101001</iko>
+                        <inn>9701021862</inn>
+                        <kpp>770101001</kpp>
+                        <ogrn>5157746085173</ogrn>
+                        <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                        <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                        <phone>7-495-2251940-1074</phone>
+                        <fax>7-495-6250256</fax>
+                        <email>institute@mosinzhproekt.ru</email>
+                        <okato>45286555000</okato>
+                        <okpo>42953493</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Ольга</firstName>
+                    <middleName>Бахтияровна</middleName>
+                    <lastName>Юсифова</lastName>
+                    <phone>+7 (495) 6250256</phone>
+                    <email>YsifovaOB@mosinzhproekt.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ИНСТИТУТ ПО ИЗЫСКАНИЯМ И ПРОЕКТИРОВАНИЮ ТРАНСПОРТНЫХ И ИНЖЕНЕРНЫХ СООРУЖЕНИЙ "МОСИНЖПРОЕКТ"</fullName>
+                            <shortName>ООО "ИНСТИТУТ "МОСИНЖПРОЕКТ"</shortName>
+                            <iko>59701021862770101001</iko>
+                            <inn>9701021862</inn>
+                            <kpp>770101001</kpp>
+                            <ogrn>5157746085173</ogrn>
+                            <legalAddress>101000, г МОСКВА, пер СВЕРЧКОВ, дом ДОМ 4/1, корпус СТРОЕНИЕ 1</legalAddress>
+                            <postalAddress>101000, г. Москва, Сверчков переулок 4/1, строение 1</postalAddress>
+                            <phone>7-495-2251940-1074</phone>
+                            <fax>7-495-6250256</fax>
+                            <email>institute@mosinzhproekt.ru</email>
+                            <okato>45286555000</okato>
+                            <okpo>42953493</okpo>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2017-03-16T16:05:21</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2017-03-16</deliveryStartDateTime>
+                    <deliveryEndDateTime>2017-03-28</deliveryEndDateTime>
+                    <place>https://com.roseltorg.ru/</place>
+                    <procedure>посредством размещения для скачивания и ознакомления</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:notDishonest>true</ns2:notDishonest>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>6a62ac7a-a7fc-8e15-8dbb-6f771dcef921</guid>
+                        <createDateTime>2017-03-16T15:53:12</createDateTime>
+                        <fileName>31-0317-ЗПЭФ-ОВАД[1].pdf</fileName>
+                        <description>31-03-ЗПЭФ-ОВАД</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=30115267</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2017-03-16T16:05:21</ns2:modificationDate>
+                <ns2:saveUserId>188491</ns2:saveUserId>
+                <ns2:deliveryPlaceIndication>DIFFERENT_PLACE</ns2:deliveryPlaceIndication>
+                <ns2:emergency>false</ns2:emergency>
+                <ns2:jointPurchase>false</ns2:jointPurchase>
+                <ns2:electronicPlaceInfo>
+                    <name>АО "ЕЭТП"</name>
+                    <url>http://www.roseltorg.ru/</url>
+                    <electronicPlaceId>113</electronicPlaceId>
+                </ns2:electronicPlaceInfo>
+                <ns2:placingProcedure>
+                    <ns2:examinationPlace>г.Москва, Сверчков переулок, дом 4/1, строение 1, каб. А-301</ns2:examinationPlace>
+                    <ns2:examinationDateTime>2017-03-28T11:01:00</ns2:examinationDateTime>
+                    <ns2:summingupDateTime>2017-03-30T10:30:00</ns2:summingupDateTime>
+                </ns2:placingProcedure>
+                <ns2:submissionCloseDateTime>2017-03-28T11:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2017-03-16</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>998767f1-a37f-bd77-22e9-83fbe1a918c2</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <lotEditEnabled>true</lotEditEnabled>
+                        <lotData>
+                            <subject>Запрос предложений в электронной форме на право заключения договора на поставку формирователя изображения для  OCE ColorWave 600/650</subject>
+                            <currency>
+                                <code>RUB</code>
+                                <digitalCode>643</digitalCode>
+                                <name>Российский рубль</name>
+                            </currency>
+                            <initialSum>815559.00</initialSum>
+                            <deliveryPlace>
+                                <address>101000, г.Москва, Сверчков переулок, дом 4/1, строение 1</address>
+                            </deliveryPlace>
+                            <lotItems>
+                                <newCodes>true</newCodes>
+                                <lotItem>
+                                    <guid>3ef1d6f2-245c-ac14-771d-c106a065a470</guid>
+                                    <ordinalNumber>1</ordinalNumber>
+                                    <okpd2>
+                                        <code>26.20.2</code>
+                                        <name>Устройства запоминающие и прочие устройства хранения данных</name>
+                                    </okpd2>
+                                    <okved2>
+                                        <code>58.19</code>
+                                        <name>Виды издательской деятельности прочие</name>
+                                    </okved2>
+                                    <okei>
+                                        <code>796</code>
+                                        <name>Штука</name>
+                                    </okei>
+                                    <qty>3</qty>
+                                    <additionalInfo>Запрос предложений в электронной форме на право заключения договора на поставку формирователя изображения для  OCE ColorWave 600/650</additionalInfo>
+                                </lotItem>
+                            </lotItems>
+                            <forSmallOrMiddle>false</forSmallOrMiddle>
+                            <excludePurchaseFromPlan>false</excludePurchaseFromPlan>
+                            <subcontractorsRequirement>false</subcontractorsRequirement>
+                            <ignoredPurchase>false</ignoredPurchase>
+                            <centralized>false</centralized>
+                        </lotData>
+                        <deliveryPlaceIndication>GL</deliveryPlaceIndication>
+                        <jointLotData>
+                            <jointLot>false</jointLot>
+                        </jointLotData>
+                        <lotPlanInfo>
+                            <planRegistrationNumber>2160189482</planRegistrationNumber>
+                            <planGuid>1c25643c-bdc8-4312-b0e5-7b76e1f0dae8</planGuid>
+                            <positionNumber>10</positionNumber>
+                            <lotPlanPosition>COMMODITY</lotPlanPosition>
+                            <positionGuid>8270b6cf-7612-4694-ac05-72fdc05d2913</positionGuid>
+                        </lotPlanInfo>
+                        <cancelled>false</cancelled>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>
