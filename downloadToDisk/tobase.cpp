@@ -76,7 +76,7 @@ bool WToBASE::createTable223Notif()
   queryNotif->prepare(
         "CREATE TABLE NOTIFI223FZ ("
         "id INTEGER PRIMARY KEY NOT NULL,"
-        "inn INTEGER,"
+        "inn CHAR(10),"
         "name_organization varchar(3000),"
         "type_notif CHAR(20),"
         "date_begin INTEGER,"
@@ -98,7 +98,7 @@ bool WToBASE::createTable223Dishon()
   queryDishon->prepare(
         "CREATE TABLE DISHON223FZ ("
         "id INTEGER PRIMARY KEY NOT NULL,"
-        "inn INTEGER,"
+        "inn CHAR(10),"
         "name_organization varchar(3000),"
         "date_add INTEGER,"
         "date_addUTC varchar(20),"
@@ -222,28 +222,28 @@ void WBaseWR::toSNotif(QStringList &list,QList<SNotif> &lstNotif)
   QStringList temp;
   for(auto i=list.begin();i!=list.end();i++)
     {
-      notif.inn=0;
+      notif.inn="";
       notif.data=*i;
       ndom::WFindInDom::findInText(*i,QStringList({"customer","mainInfo","inn"}),temp);
-      if(temp.size()!=0){notif.inn=temp[0].toInt(); }
+      if(temp.size()!=0){notif.inn=temp[0]; }
 
       ndom::WFindInDom::findInText(*i,QStringList({"customer","mainInfo","fullName"}),temp);
       if(temp.size()!=0){notif.name_organization=temp[0];}
                         else {notif.name_organization="";}
 
-      ndom::WFindInDom::findInText(*i,QStringList({"publicationDateTime"}),temp);
+      ndom::WFindInDom::findInText(*i,QStringList({"publicationDate"}),temp);
       if(temp.size()!=0){notif.date_beginUTC=temp[0];
                          QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddTHH:mm:ss");
                          notif.date_begin=time.toTime_t();}
                      else{notif.date_begin=0;
                           notif.date_beginUTC="";
                           }
-      ndom::WFindInDom::findInText(*i,QStringList({"summingupTime"}),temp);
-      if(temp.size()!=0){notif.date_endUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddTHH:mm:ss");
-                         notif.date_end=time.toTime_t();}
-                        else{notif.date_endUTC="";
-                             notif.date_end=0;}
+//      ndom::WFindInDom::findInText(*i,QStringList({"summingupTime"}),temp);
+//      if(temp.size()!=0){notif.date_endUTC=temp[0];
+//                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddTHH:mm:ss");
+//                         notif.date_end=time.toTime_t();}
+//                        else{notif.date_endUTC="";
+//                             notif.date_end=0;}
 
       ndom::WFindInDom::findInText(*i,QStringList({"purchaseCodeName"}),temp);
       if(temp.size()!=0){notif.type_notif=temp[0];}
@@ -252,7 +252,7 @@ void WBaseWR::toSNotif(QStringList &list,QList<SNotif> &lstNotif)
       if(temp.size()!=0){notif.guid=temp[0];}
                         else{notif.guid="";}
 
-      if(notif.inn!=0)lstNotif.push_back(notif);
+      if(notif.inn!="")lstNotif.push_back(notif);
     }
 }
 //---------------------------------------------------------------------------------------------

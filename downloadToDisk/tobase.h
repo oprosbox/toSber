@@ -16,7 +16,7 @@ public:
 //-------------------------------------------------------------------------------
 struct SDishon
 {
-  int inn;
+  QString inn;
   QString name_organization;
   int date_add;
   QString date_addUTC;
@@ -26,7 +26,7 @@ struct SDishon
 //-------------------------------------------------------------------------------
 struct SNotif
 {
-  int inn;
+  QString inn;
   QString name_organization;
   QString type_notif;
   int date_begin;
