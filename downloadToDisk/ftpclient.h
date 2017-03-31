@@ -163,7 +163,7 @@ public slots:
   void startLoad(void){start(toNetList);}
   void getError(int error,QString errorText);
   void downloadProgress(QString,qint64,qint64);
-   void endDownloads(){emit endDownload();}
+   void endDownloads();
 signals:
    void downStop(int,QStringList);
    void downlTen(int,QStringList);

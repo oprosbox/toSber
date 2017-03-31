@@ -385,7 +385,14 @@ void WNetFtpClient::getList()
 {
 ftpFiles.readCurrFiles();
 }
+//-------------------------------------------------------------------------------------------------------------------------
+ void WNetFtpClient::endDownloads()
+ {
+   if(dirListBig.size()==0)
+     { emit endDownload();}
+   else{start(dirListBig);}
 
+ }
 //-------------------------------------------------------------------------------------------------------------------------
 void WNetFtpClient::createFtp(QString serv,QString login,QString passv,QString cd,QString dirSave)
 {
@@ -428,9 +435,11 @@ if(err==QFtp::NoError)
     }
 
     //QString mlst=*itDirList;
-    ftpFiles.cd(*itDirList);
-
-    ftpFiles.readCurrFiles();
+if(toNetList.size()<1000)
+    {ftpFiles.cd(*itDirList);
+     ftpFiles.readCurrFiles();
+     dirListBig.erase(itDirList);}
+    else{startLoad();return;}
     }
     else{startLoad();return;}
 }
