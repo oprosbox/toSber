@@ -180,7 +180,7 @@ void WLoadFtp::delObjectThatStop(int idLocal)
 void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
 
-    QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
+    //QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="fz223free";
     inpFtp.password="fz223free";
@@ -189,20 +189,43 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
     inpFtp.stFilt.dateEnd=tmEnd;
     inpFtp.pathTo=dirToReport;
     inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Notif";
-    //inpFtp.tegPathFind.push_back("customer");
-    //inpFtp.tegPathFind.push_back("mainInfo");
+    inpFtp.tegPathFind.push_back("customer");
+    inpFtp.tegPathFind.push_back("mainInfo");
     inpFtp.tegPathFind.push_back("inn");
     inpFtp.val=inn;
     inpFtp.urlPath="out/published";
     for(auto i=regions.begin();i!=regions.end();i++)
     {
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeEP/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeOK/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeOA/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeIS/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE94/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseNoticeZK/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeEP/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeOK/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeOA/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeIS/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE94/daily");
+//      inpFtp.urlList.push_back(*i+"/purchaseNoticeZK/daily");
+//      inpFtp.urlList.push_back(*i+"/ListsGWS/daily");
+//      inpFtp.urlList.push_back(*i+"/ListsInnov/daily");
+//      inpFtp.urlList.push_back(*i+"/VolumePurchases/daily");
+//      inpFtp.urlList.push_back(*i+"/attachedOrderClause/daily");
+//      inpFtp.urlList.push_back(*i+"/changeRequirements/daily");
+      inpFtp.urlList.push_back(*i+"/complainWithdraw/daily");
+      inpFtp.urlList.push_back(*i+"/complaint/daily");
+
+//      inpFtp.urlList.push_back(*i+"/complaintDecision/daily");
+//      inpFtp.urlList.push_back(*i+"/complaintVerificationPlan/daily");
+//      inpFtp.urlList.push_back(*i+"/complaintVerificationResult/daily");
+      inpFtp.urlList.push_back(*i+"/contract/daily");
+      inpFtp.urlList.push_back(*i+"/contractCompleting/daily");
+      inpFtp.urlList.push_back(*i+"/contractInfo/daily");
+      inpFtp.urlList.push_back(*i+"/explanation/daily");
+
+      inpFtp.urlList.push_back(*i+"/lotCancellation/daily");
+      inpFtp.urlList.push_back(*i+"/orderClause/daily");
+      inpFtp.urlList.push_back(*i+"/protocolLotAllocation/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseContract/daily");
+      inpFtp.urlList.push_back(*i+"/purchaseContractAccount/daily");
+      //inpFtp.urlList.push_back(*i+"/purchasePlan/daily");
+      //inpFtp.urlList.push_back(*i+"/purchasePlanProject/daily");
     }
      inpFtp.flgDellArh=CDELDIRANDARH;
 

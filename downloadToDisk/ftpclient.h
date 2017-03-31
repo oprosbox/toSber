@@ -120,14 +120,12 @@ public slots:
   void doneURLInfo(QUrlInfo urlInfo);//слот получает список всех файлов
   void ftpConnected(int id,bool hasError);//проверка на ошибки ftp;
   void commFinish(int id,bool hasBed);//окончание комманды
-
 signals:
   void sendError(int,QString);//невозможно создать файл
   void sFiles(int err,QStringList);
   void finished(QStringList);
   void finishedList(QStringList,QStringList);
   void errorTo();
-
 protected:
 //QFtp *ftpLiders;
 QList<QFile*> openedFiles;

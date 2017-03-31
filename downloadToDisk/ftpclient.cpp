@@ -114,7 +114,7 @@ void WFtpClient::readList(QStringList lstFiles)
 }
 //----------------------------------------------------------------------------------------
 void WFtpClient::reconToHost(void)
-{ QThread::usleep(100000);
+{
   delete ftpLiders;
   int ret=connectServ(mserv,mlogin,mpassv);
   int yu=0;
