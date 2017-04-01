@@ -1,0 +1,1722 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 117620 bytes (115 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 117620
+
+Everything is Ok
+
+Files: 34
+Size:       462088
+Compressed: 117620
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17879 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 17879
+
+Everything is Ok
+
+Files: 5
+Size:       67236
+Compressed: 17879
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 109609 bytes (108 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 109609
+
+Everything is Ok
+
+Files: 32
+Size:       407105
+Compressed: 109609
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7318 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 7318
+
+Everything is Ok
+
+Files: 2
+Size:       27114
+Compressed: 7318
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10389 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 10389
+
+Everything is Ok
+
+Files: 3
+Size:       37580
+Compressed: 10389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 93033 bytes (91 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 93033
+
+Everything is Ok
+
+Files: 27
+Size:       368405
+Compressed: 93033
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 94189 bytes (92 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 94189
+
+Everything is Ok
+
+Files: 27
+Size:       363366
+Compressed: 94189
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29280 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 29280
+
+Everything is Ok
+
+Files: 8
+Size:       114671
+Compressed: 29280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 100956 bytes (99 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 100956
+
+Everything is Ok
+
+Files: 26
+Size:       492700
+Compressed: 100956
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 107604 bytes (106 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 107604
+
+Everything is Ok
+
+Files: 31
+Size:       438216
+Compressed: 107604
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 123890 bytes (121 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 123890
+
+Everything is Ok
+
+Files: 35
+Size:       499980
+Compressed: 123890
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10443 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170324_000000_20170324_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170324_000000_20170324_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 10443
+
+Everything is Ok
+
+Files: 3
+Size:       38195
+Compressed: 10443
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256277 bytes (251 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256277
+
+Everything is Ok
+
+Files: 73
+Size:       1029761
+Compressed: 256277
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6983 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 6983
+
+Everything is Ok
+
+Files: 2
+Size:       26872
+Compressed: 6983
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7119 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170327_000000_20170327_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 7119
+
+Everything is Ok
+
+Files: 2
+Size:       26204
+Compressed: 7119
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 121788 bytes (119 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 121788
+
+Everything is Ok
+
+Files: 35
+Size:       475838
+Compressed: 121788
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6850 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 6850
+
+Everything is Ok
+
+Files: 2
+Size:       24684
+Compressed: 6850
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 134426 bytes (132 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 134426
+
+Everything is Ok
+
+Files: 39
+Size:       519695
+Compressed: 134426
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7530 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 7530
+
+Everything is Ok
+
+Files: 2
+Size:       34267
+Compressed: 7530
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 134198 bytes (132 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 134198
+
+Everything is Ok
+
+Files: 39
+Size:       535924
+Compressed: 134198
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 90654 bytes (89 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 90654
+
+Everything is Ok
+
+Files: 35
+Size:       475559
+Compressed: 90654
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 117881 bytes (116 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 117881
+
+Everything is Ok
+
+Files: 47
+Size:       563326
+Compressed: 117881
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4670 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 4670
+
+Everything is Ok
+
+Files: 2
+Size:       17432
+Compressed: 4670
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 174317 bytes (171 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 174317
+
+Everything is Ok
+
+Files: 71
+Size:       751029
+Compressed: 174317
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44868 bytes (44 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 44868
+
+Everything is Ok
+
+Files: 18
+Size:       200373
+Compressed: 44868
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3051 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3051
+
+Everything is Ok
+
+Size:       21219
+Compressed: 3051
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 158400 bytes (155 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 158400
+
+Everything is Ok
+
+Files: 62
+Size:       752574
+Compressed: 158400
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4475 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 4475
+
+Everything is Ok
+
+Files: 2
+Size:       15043
+Compressed: 4475
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 111519 bytes (109 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 111519
+
+Everything is Ok
+
+Files: 36
+Size:       969060
+Compressed: 111519
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9870 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 9870
+
+Everything is Ok
+
+Files: 4
+Size:       64354
+Compressed: 9870
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 118197 bytes (116 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 118197
+
+Everything is Ok
+
+Files: 47
+Size:       753386
+Compressed: 118197
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 105249 bytes (103 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 105249
+
+Everything is Ok
+
+Files: 42
+Size:       426673
+Compressed: 105249
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 99341 bytes (98 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 99341
+
+Everything is Ok
+
+Files: 41
+Size:       364622
+Compressed: 99341
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 80023 bytes (79 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 80023
+
+Everything is Ok
+
+Files: 27
+Size:       526226
+Compressed: 80023
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 103616 bytes (102 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 103616
+
+Everything is Ok
+
+Files: 41
+Size:       515967
+Compressed: 103616
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 77988 bytes (77 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 77988
+
+Everything is Ok
+
+Files: 31
+Size:       298340
+Compressed: 77988
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2607 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 2607
+
+Everything is Ok
+
+Size:       9527
+Compressed: 2607
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 146172 bytes (143 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 146172
+
+Everything is Ok
+
+Files: 60
+Size:       595013
+Compressed: 146172
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2476 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Amurskaya_obl_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 2476
+
+Everything is Ok
+
+Size:       10233
+Compressed: 2476
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8659 bytes (9 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8659
+
+Everything is Ok
+
+Files: 4
+Size:       22980
+Compressed: 8659
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6803 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6803
+
+Everything is Ok
+
+Files: 3
+Size:       17608
+Compressed: 6803
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12290 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 12290
+
+Everything is Ok
+
+Files: 6
+Size:       33079
+Compressed: 12290
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6312 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6312
+
+Everything is Ok
+
+Files: 3
+Size:       16008
+Compressed: 6312
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9836 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9836
+
+Everything is Ok
+
+Files: 5
+Size:       25890
+Compressed: 9836
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10238 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 10238
+
+Everything is Ok
+
+Files: 5
+Size:       26448
+Compressed: 10238
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4608 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4608
+
+Everything is Ok
+
+Files: 2
+Size:       11973
+Compressed: 4608
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8178 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8178
+
+Everything is Ok
+
+Files: 4
+Size:       21149
+Compressed: 8178
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19026 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19026
+
+Everything is Ok
+
+Files: 9
+Size:       50218
+Compressed: 19026
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7871 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7871
+
+Everything is Ok
+
+Files: 4
+Size:       20501
+Compressed: 7871
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2261 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2261
+
+Everything is Ok
+
+Size:       5805
+Compressed: 2261
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8856 bytes (9 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8856
+
+Everything is Ok
+
+Files: 4
+Size:       23472
+Compressed: 8856
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2136 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2136
+
+Everything is Ok
+
+Size:       10141
+Compressed: 2136
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5095 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5095
+
+Everything is Ok
+
+Files: 2
+Size:       21207
+Compressed: 5095
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29935 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 29935
+
+Everything is Ok
+
+Files: 12
+Size:       127274
+Compressed: 29935
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12793 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 12793
+
+Everything is Ok
+
+Files: 5
+Size:       64071
+Compressed: 12793
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10177 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 10177
+
+Everything is Ok
+
+Files: 4
+Size:       43057
+Compressed: 10177
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12299 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 12299
+
+Everything is Ok
+
+Files: 6
+Size:       49361
+Compressed: 12299
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4795 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4795
+
+Everything is Ok
+
+Files: 2
+Size:       18710
+Compressed: 4795
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5271 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5271
+
+Everything is Ok
+
+Files: 2
+Size:       21077
+Compressed: 5271
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5125 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5125
+
+Everything is Ok
+
+Files: 2
+Size:       28150
+Compressed: 5125
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 47635 bytes (47 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 47635
+
+Everything is Ok
+
+Files: 18
+Size:       205512
+Compressed: 47635
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44509 bytes (44 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 44509
+
+Everything is Ok
+
+Files: 17
+Size:       169906
+Compressed: 44509
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28892 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28892
+
+Everything is Ok
+
+Files: 12
+Size:       97066
+Compressed: 28892
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 26364 bytes (26 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 26364
+
+Everything is Ok
+
+Files: 11
+Size:       97084
+Compressed: 26364
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 14227 bytes (14 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 14227
+
+Everything is Ok
+
+Files: 5
+Size:       59537
+Compressed: 14227
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 61051 bytes (60 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 61051
+
+Everything is Ok
+
+Files: 20
+Size:       335252
+Compressed: 61051
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28849 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28849
+
+Everything is Ok
+
+Files: 11
+Size:       133161
+Compressed: 28849
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 36769 bytes (36 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 36769
+
+Everything is Ok
+
+Files: 15
+Size:       125627
+Compressed: 36769
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 60639 bytes (60 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 60639
+
+Everything is Ok
+
+Files: 24
+Size:       247633
+Compressed: 60639
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44519 bytes (44 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 44519
+
+Everything is Ok
+
+Files: 18
+Size:       162280
+Compressed: 44519
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 21869 bytes (22 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 21869
+
+Everything is Ok
+
+Files: 8
+Size:       87222
+Compressed: 21869
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 45920 bytes (45 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Amurskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 45920
+
+Everything is Ok
+
+Files: 19
+Size:       183199
+Compressed: 45920
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 23098 bytes (23 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 23098
+
+Everything is Ok
+
+Files: 12
+Size:       72468
+Compressed: 23098
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 25919 bytes (26 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 25919
+
+Everything is Ok
+
+Files: 15
+Size:       80246
+Compressed: 25919
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 21324 bytes (21 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 21324
+
+Everything is Ok
+
+Files: 12
+Size:       66391
+Compressed: 21324
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 24986 bytes (25 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 24986
+
+Everything is Ok
+
+Files: 14
+Size:       76853
+Compressed: 24986
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44389 bytes (44 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 44389
+
+Everything is Ok
+
+Files: 24
+Size:       137028
+Compressed: 44389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 117172 bytes (115 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 117172
+
+Everything is Ok
+
+Files: 68
+Size:       354736
+Compressed: 117172
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1884 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1884
+
+Everything is Ok
+
+Size:       5749
+Compressed: 1884
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7177 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Amurskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7177
+
+Everything is Ok
+
+Files: 3
+Size:       32612
+Compressed: 7177

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>b5e98e56-f99b-43eb-b8da-3de13f0bcc15</guid>
+        <createDateTime>2017-03-23T14:51:43</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>4d2b5a8c-5b83-4159-a6c4-1b292adc9c28</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>4d0e5b2e-442c-4339-b7ff-49fb3bd028c9</ns2:guid>
+                <ns2:registrationNumber>57707083893160034390003</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2626447</ns2:urlOOS>
+                <ns2:createDateTime>2016-08-12T13:52:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-23T14:51:43</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>6b74a643-e83e-4911-baae-d32659c7a4e2</guid>
+                        <createDateTime>2017-03-22T18:22:29</createDateTime>
+                        <fileName>2405BBEA-E150-4990-A3E3-0F8216EC1648___20170322_18</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11533999</url>
+                        <registrationNumber>57707083893160034390004</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160034390000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>0bb5e4f7-4501-4904-a9cc-651d2edb504a</ns2:guid>
+                    <ns2:name>CZ160613</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>АО "АйТи"</ns2:supplierName>
+                    <ns2:lotInfo>[34342] Выбор единственного источника - АО  «Фирма «АйТи» Информационные технологии», на основании п.п.2.2.5.4  Положения о закупках Банка № 2348 от 05.12.2011 г., для выполнения работ по разработке п</ns2:lotInfo>
+                    <ns2:contractDate>2016-08-12</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-22</ns2:paymentDate>
+                        <ns2:price>2647861</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>2647861</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2016-12-16</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>6CZ17003</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb75e-ab19-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>Выполнение работ по разработке программного обеспечения «Модуль по гибкому изменению списка валют и изменению алгоритмов ППО АС «Финансовые калькуляторы» (АС ФК)», кол-во  - 1 компл.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>62.01</code>
+                                        <name>Продукты программные и услуги по разработке и тестированию программного обеспечения</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>642</code>
+                                    <name>Единица</name>
+                                </ns2:okei>
+                                <ns2:qty>1</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>2647861</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

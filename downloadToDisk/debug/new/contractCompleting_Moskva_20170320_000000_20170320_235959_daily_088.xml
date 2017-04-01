@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contractCancellation xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>2768e1a0-f9e3-4f6d-a637-ab513a1ca8ba</guid>
+        <createDateTime>2017-03-20T16:37:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>a3c4581d-ea25-41fa-a57d-281be5a809a1</guid>
+            <ns2:contractCancellationData>
+                <ns2:guid>6faf6005-2180-4bb4-883b-226bede051ce</ns2:guid>
+                <ns2:registrationNumber>57707083893160041670003</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2604222</ns2:urlOOS>
+                <ns2:createDateTime>2017-03-20T16:00:00</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-20T16:37:45</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:attachments/>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160041670000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>93596ef4-7e0c-488e-8bbb-e48c9fbc44d3</ns2:guid>
+                    <ns2:name>50001358337</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО «Самкор»</ns2:supplierName>
+                    <ns2:lotInfo>[34116] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП) на поставку офисной мебели (корпусная мебель) на объекты г.Санкт-Петербурга, Ленинградской, Новгородской, Псковск</ns2:lotInfo>
+                    <ns2:contractDate>2016-09-26</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:baseContractCancellationCode>3</ns2:baseContractCancellationCode>
+                <ns2:baseContractCancellationName>Односторонний отказ заказчика от исполнения договора в соответствии с гражданским законодательством</ns2:baseContractCancellationName>
+                <ns2:baseRejectionDocCode>31</ns2:baseRejectionDocCode>
+                <ns2:baseRejectionDocName>Решение заказчика об одностороннем отказе от исполнения договора</ns2:baseRejectionDocName>
+                <ns2:completionDate>2017-01-09T13:07:00</ns2:completionDate>
+                <ns2:additionalDocDate>2016-12-08</ns2:additionalDocDate>
+                <ns2:baseRejectionDocDate>2016-12-08</ns2:baseRejectionDocDate>
+            </ns2:contractCancellationData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contractCancellation>

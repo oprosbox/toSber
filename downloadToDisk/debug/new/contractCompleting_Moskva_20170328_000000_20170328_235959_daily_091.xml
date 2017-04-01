@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>5571c708-c463-4a8f-a967-48c2889dfdc6</guid>
+        <createDateTime>2017-03-28T16:16:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>5d885d6c-bfcf-43c4-bd4e-ffaecf4ebda5</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>7630f13a-a444-4a22-8e6c-7c9e44f7838a</ns2:guid>
+                <ns2:registrationNumber>57707083893160054690005</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2653195</ns2:urlOOS>
+                <ns2:termination>false</ns2:termination>
+                <ns2:createDateTime>2016-12-06T12:37:03</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-28T16:16:22</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>aade29cc-e102-48d0-a1b0-473b12ea92ef</guid>
+                        <createDateTime>2017-03-28T13:40:03</createDateTime>
+                        <fileName>основа_475.PDF</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11668106</url>
+                        <registrationNumber>57707083893160054690006</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160054690000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>8eb00db2-d3b4-4be8-a746-f1e7caef1a96</ns2:guid>
+                    <ns2:name>16/А</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО УК "Основа-Центр"</ns2:supplierName>
+                    <ns2:lotInfo>[36872] Выбор ООО УК «Основа-Центр» поставщиком услуг по теплоснабжению нежилого здания УРКЦ Уральского банка ПАО Сбербанк, расположенного по адресу: г. Екатеринбург, ул. Кислородная, 8, в количестве </ns2:lotInfo>
+                    <ns2:contractDate>2016-12-05</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-24</ns2:paymentDate>
+                        <ns2:price>153414.82</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>153414.82</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-03-14</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>475, 476</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>66388097-0f15-4722-a911-311a88de2b40</ns2:guid>
+                                    <ns2:name>Оказание услуг по теплоснабжению нежилого здания УРКЦ Уральского банка ПАО Сбербанк, расположенного по адресу: г. Екатеринбург, ул. Кислородная, 8 в количестве 542,28 Гкал.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>35.30.11.120</code>
+                                        <name>Энергия тепловая, отпущенная котельными</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>839</code>
+                                    <name>Комплект</name>
+                                </ns2:okei>
+                                <ns2:qty>2</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>153414.82</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

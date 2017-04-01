@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>82e5ff72-6c4b-4c0b-9b3c-5ccd85665a9a</guid>
+        <createDateTime>2017-03-16T14:22:55</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>169faf18-4e8c-4b4e-bafe-323f7dde96c6</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>06bfdd68-c2a8-4178-8272-a442860a47a8</ns2:guid>
+                <ns2:registrationNumber>57707083893160054540013</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2586105</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-06T08:52:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-16T14:22:55</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>1a5be913-c819-4938-8bf0-b2b457559a1a</guid>
+                        <createDateTime>2017-03-16T14:05:04</createDateTime>
+                        <fileName>1516526.PDF</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11348394</url>
+                        <registrationNumber>57707083893160054540014</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160054540000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>985082db-250f-43c4-b0b0-4dece7fc0d17</ns2:guid>
+                    <ns2:name>1516526</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО "Сбербанк-Сервис"</ns2:supplierName>
+                    <ns2:lotInfo>[36382] Выбор на основании с п.2.2.5.2 Положения о закупках ПАО Сбербанк ООО "Сбербанк-Сервис" поставщиком по оказанию услуг технического сопровождения устройств самообслуживания для нужд Северного ба</ns2:lotInfo>
+                    <ns2:contractDate>2016-12-05</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-15</ns2:paymentDate>
+                        <ns2:price>2941813.83</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>2941813.83</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-02-28</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>229</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>2293ea37-c820-4cf9-ad63-6ee409860bbc</ns2:guid>
+                                    <ns2:name>Оказание услуг технического сопровождения устройств самообслуживания для нужд Северного банка ПАО Сбербанк. В количестве 1 комплект.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>95.1</code>
+                                        <name>Услуги по ремонту компьютеров и коммуникационного оборудования</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>796</code>
+                                    <name>Штука</name>
+                                </ns2:okei>
+                                <ns2:qty>3269</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>2941813.83</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

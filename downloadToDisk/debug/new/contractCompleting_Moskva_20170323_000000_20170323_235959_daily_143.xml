@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>d0f273f4-1ed8-43c2-9970-b3695bc72d3a</guid>
+        <createDateTime>2017-03-23T16:19:48</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>983c201c-179c-4f93-9986-cf4c8847041f</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>84558bc2-b7b5-4e3e-a36a-af01d2b32bd2</ns2:guid>
+                <ns2:registrationNumber>57707083893150034340090</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2628316</ns2:urlOOS>
+                <ns2:termination>false</ns2:termination>
+                <ns2:createDateTime>2016-11-15T13:52:16</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-23T16:19:48</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>772edf13-2342-49e5-bec1-d8c4e3e77994</guid>
+                        <createDateTime>2017-03-23T11:46:59</createDateTime>
+                        <fileName>сч 182.pdf</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11543181</url>
+                        <registrationNumber>57707083893150034340091</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893150034340000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>4b4e9679-a9b3-4f97-846f-9f9124c05ee7</ns2:guid>
+                    <ns2:name>2</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО «ЛифтРемонт»</ns2:supplierName>
+                    <ns2:lotInfo>[28624] Выбор организации на выполнение работ по техническому обслуживанию и ремонту лифтового оборудования на объектах ОАО «Сбербанк России» по адресам: г. Москва, ул. Вавилова, д. 19; г. Москва, ул.</ns2:lotInfo>
+                    <ns2:contractDate>2016-11-15</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-20</ns2:paymentDate>
+                        <ns2:price>10078.29</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>10078.29</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-03-14</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>182</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>20a2d486-654d-49a7-98bc-08ff41c55105</ns2:guid>
+                                    <ns2:name>Лот №1. Лот №4.В рамках Договора «Подрядчик» принимает на себя обязательства проводить своими силами и средствами (расходные материалы, лифтовое оборудование, инструменты и пр.) техническое обслуживание и ремонт лифтов в количестве 24 (Двадцати четырех) единиц  (включая ремонт систем связи с кабинами лифтов и машинными помещениями и диспетчерского контроля и управления лифтами – ЕМС ), расположенных на объекте «Заказчика» по адресу: г. Москва, ул. Вавилова, д. 19.  Указанные работы проводятся в соответствии с требованиями нормативных документов и технического регламента ТР ТС 011/2011 от 04.12.2012г., а также требованиями «Заказчика» к «Подрядчику», определенными в  Приложении № 1 к Договору. Объем - 24 штуки.  Лот №2.Лот №4.В рамках Договора «Подрядчик» принимает на себя обязательства проводить своими силами и средствами (расходные материалы, лифтовое оборудование, инструменты и пр.) техническое обслуживание и ремонт лифтов (включая систему связи с лифтовыми кабинами и машинными помещениями) в количестве 5 (Пяти) единиц, расположенных на объекте  «Заказчика» по  адресу: г. Москва, ул. Б. Якиманка, д. 42, строения 1-2, 3.  Указанные работы проводятся в соответствии с требованиями нормативных документов и технического регламента ТР ТС 011/2011 от 04.12.2012г., а также требованиями  «Заказчика» к «Подрядчику», определенными в  Приложении № 1 к  Договору. Объем - 5 щтук.  Лот №3.Лот №4. В рамках Договора Подрядчик принимает на себя обязательства по выполнению работ по техническому обслуживанию и ремонту лифтов и грузоподъемных механизмов (включая системы связи с лифтовыми кабинами и машинными помещениями и диспетчерского контроля и управления лифтами) (далее – лифты, в количестве 20 (Двадцать) единиц), расположенного на объекте Заказчика по адресу: г. Москва, 2-й Южнопортовый проезд, д. 12А, корп. 1, стр. 1, 2, 5. Объем - 20 штук.</ns2:name>
+                                    <ns2:okdp>
+                                        <code>2920000</code>
+                                        <name>Машины и оборудование специального назначения</name>
+                                    </ns2:okdp>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>839</code>
+                                    <name>Комплект</name>
+                                </ns2:okei>
+                                <ns2:qty>1</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>10078.29</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

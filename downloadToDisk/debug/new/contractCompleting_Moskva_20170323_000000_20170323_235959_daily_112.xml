@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>64f66c92-f2de-4705-998f-e78c2162574c</guid>
+        <createDateTime>2017-03-23T16:08:02</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>e45be996-dfe3-4d68-9bba-11e48c3de649</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>5eff950d-8d7b-422b-b823-55b350dbfd2b</ns2:guid>
+                <ns2:registrationNumber>57707083893160015910003</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2628162</ns2:urlOOS>
+                <ns2:createDateTime>2016-04-21T14:12:03</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-23T16:08:02</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>f7f1c011-25d1-4032-bfa3-d57de6c6ae3c</guid>
+                        <createDateTime>2017-03-23T09:57:11</createDateTime>
+                        <fileName>0034.pdf</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11542669</url>
+                        <registrationNumber>57707083893160015910004</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160015910000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>b50ab7be-26c7-4e56-905e-6b5a90b4ff8a</ns2:guid>
+                    <ns2:name>50001089691</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО «Рекламные конструкции»</ns2:supplierName>
+                    <ns2:lotInfo>[32232] Выбор организации на изготовление, поставку и монтаж фасадных постеров для нужд Северо-Западного банка ПАО Сбербанк (СЗБ2016-0034(ЗКО)</ns2:lotInfo>
+                    <ns2:contractDate>2016-04-21</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-02-17</ns2:paymentDate>
+                        <ns2:price>206072.81</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>206072.81</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2016-10-25</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>307; 292;294; 296.</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb745-9cca-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>на изготовление, поставку и монтаж фасадных постеров для нужд Северо-Западного банка ПАО Сбербанк - 5 комплектов. Срок действия Генерального соглашения – до полного исполнения обязательств сторонами.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>22.2</code>
+                                        <name>Изделия из пластмасс</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>839</code>
+                                    <name>Комплект</name>
+                                </ns2:okei>
+                                <ns2:qty>1</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>206072.81</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

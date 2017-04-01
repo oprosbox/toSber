@@ -1,0 +1,1662 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2304 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2304
+
+Everything is Ok
+
+Size:       9888
+Compressed: 2304
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2272 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2272
+
+Everything is Ok
+
+Size:       9625
+Compressed: 2272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2731 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2731
+
+Everything is Ok
+
+Size:       12448
+Compressed: 2731
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2072 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2072
+
+Everything is Ok
+
+Size:       7302
+Compressed: 2072
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3248 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3248
+
+Everything is Ok
+
+Size:       12759
+Compressed: 3248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28804 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28804
+
+Everything is Ok
+
+Files: 11
+Size:       123961
+Compressed: 28804
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 24446 bytes (24 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 24446
+
+Everything is Ok
+
+Files: 9
+Size:       112279
+Compressed: 24446
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 31723 bytes (31 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 31723
+
+Everything is Ok
+
+Files: 13
+Size:       125232
+Compressed: 31723
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4348 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4348
+
+Everything is Ok
+
+Files: 2
+Size:       16714
+Compressed: 4348
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11809 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 11809
+
+Everything is Ok
+
+Files: 5
+Size:       46481
+Compressed: 11809
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 280
+
+Everything is Ok
+
+Size:       0
+Compressed: 280
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 27815 bytes (28 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 27815
+
+Everything is Ok
+
+Files: 15
+Size:       87399
+Compressed: 27815
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6786 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6786
+
+Everything is Ok
+
+Files: 4
+Size:       20563
+Compressed: 6786
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1711 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1711
+
+Everything is Ok
+
+Size:       5291
+Compressed: 1711
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 32277 bytes (32 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 32277
+
+Everything is Ok
+
+Files: 17
+Size:       102025
+Compressed: 32277
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1689 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1689
+
+Everything is Ok
+
+Size:       5067
+Compressed: 1689
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 14521 bytes (15 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 14521
+
+Everything is Ok
+
+Files: 8
+Size:       47809
+Compressed: 14521
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1717 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1717
+
+Everything is Ok
+
+Size:       5552
+Compressed: 1717
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 137096 bytes (134 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 137096
+
+Everything is Ok
+
+Files: 77
+Size:       440146
+Compressed: 137096
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 97967 bytes (96 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 97967
+
+Everything is Ok
+
+Files: 57
+Size:       313626
+Compressed: 97967
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19886 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19886
+
+Everything is Ok
+
+Files: 11
+Size:       61929
+Compressed: 19886
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 32121 bytes (32 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Brianskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 32121
+
+Everything is Ok
+
+Files: 18
+Size:       102930
+Compressed: 32121
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 270 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Buryatiya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 270
+
+Everything is Ok
+
+Size:       0
+Compressed: 270
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256
+
+Everything is Ok
+
+Size:       0
+Compressed: 256
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 90179 bytes (89 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 90179
+
+Everything is Ok
+
+Files: 26
+Size:       342668
+Compressed: 90179
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7020 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170315_000000_20170315_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170315_000000_20170315_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 7020
+
+Everything is Ok
+
+Files: 2
+Size:       25619
+Compressed: 7020
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 97184 bytes (95 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 97184
+
+Everything is Ok
+
+Files: 28
+Size:       365139
+Compressed: 97184
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18120 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 18120
+
+Everything is Ok
+
+Files: 5
+Size:       79017
+Compressed: 18120
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 102194 bytes (100 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 102194
+
+Everything is Ok
+
+Files: 30
+Size:       390017
+Compressed: 102194
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7258 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 7258
+
+Everything is Ok
+
+Files: 2
+Size:       27192
+Compressed: 7258
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28060 bytes (28 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28060
+
+Everything is Ok
+
+Files: 8
+Size:       104262
+Compressed: 28060
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3712 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3712
+
+Everything is Ok
+
+Size:       13313
+Compressed: 3712
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 151251 bytes (148 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 151251
+
+Everything is Ok
+
+Files: 43
+Size:       597762
+Compressed: 151251
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18577 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 18577
+
+Everything is Ok
+
+Files: 5
+Size:       82028
+Compressed: 18577
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 194619 bytes (191 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 194619
+
+Everything is Ok
+
+Files: 55
+Size:       809299
+Compressed: 194619
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 20935 bytes (21 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 20935
+
+Everything is Ok
+
+Files: 6
+Size:       91030
+Compressed: 20935
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 169230 bytes (166 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 169230
+
+Everything is Ok
+
+Files: 46
+Size:       697991
+Compressed: 169230
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9803 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170322_000000_20170322_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170322_000000_20170322_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 9803
+
+Everything is Ok
+
+Files: 3
+Size:       36053
+Compressed: 9803
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 116293 bytes (114 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 116293
+
+Everything is Ok
+
+Files: 34
+Size:       439275
+Compressed: 116293
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18385 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170323_000000_20170323_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170323_000000_20170323_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 18385
+
+Everything is Ok
+
+Files: 5
+Size:       76015
+Compressed: 18385
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 168881 bytes (165 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 168881
+
+Everything is Ok
+
+Files: 48
+Size:       651498
+Compressed: 168881
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3223 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3223
+
+Everything is Ok
+
+Size:       12520
+Compressed: 3223
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 183504 bytes (180 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 183504
+
+Everything is Ok
+
+Files: 53
+Size:       717271
+Compressed: 183504
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28649 bytes (28 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170327_000000_20170327_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170327_000000_20170327_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 28649
+
+Everything is Ok
+
+Files: 8
+Size:       115368
+Compressed: 28649
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 192544 bytes (189 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 192544
+
+Everything is Ok
+
+Files: 54
+Size:       771251
+Compressed: 192544
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 26867 bytes (27 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 26867
+
+Everything is Ok
+
+Files: 8
+Size:       99321
+Compressed: 26867
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 150281 bytes (147 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 150281
+
+Everything is Ok
+
+Files: 42
+Size:       631145
+Compressed: 150281
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13116 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 13116
+
+Everything is Ok
+
+Files: 4
+Size:       48577
+Compressed: 13116
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 113906 bytes (112 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 113906
+
+Everything is Ok
+
+Files: 32
+Size:       473432
+Compressed: 113906
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29584 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Buryatiya_Resp_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 29584
+
+Everything is Ok
+
+Files: 9
+Size:       110638
+Compressed: 29584
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 162699 bytes (159 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 162699
+
+Everything is Ok
+
+Files: 65
+Size:       793757
+Compressed: 162699
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 152385 bytes (149 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 152385
+
+Everything is Ok
+
+Files: 60
+Size:       667000
+Compressed: 152385
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 93811 bytes (92 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 93811
+
+Everything is Ok
+
+Files: 36
+Size:       435139
+Compressed: 93811
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 172813 bytes (169 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 172813
+
+Everything is Ok
+
+Files: 70
+Size:       705541
+Compressed: 172813
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29319 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 29319
+
+Everything is Ok
+
+Files: 10
+Size:       182393
+Compressed: 29319
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4671 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4671
+
+Everything is Ok
+
+Files: 2
+Size:       17304
+Compressed: 4671
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22641 bytes (23 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 22641
+
+Everything is Ok
+
+Files: 7
+Size:       187641
+Compressed: 22641
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 80978 bytes (80 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 80978
+
+Everything is Ok
+
+Files: 31
+Size:       362973
+Compressed: 80978
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 26674 bytes (27 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Buryatiya_Resp_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 26674
+
+Everything is Ok
+
+Files: 11
+Size:       101660
+Compressed: 26674

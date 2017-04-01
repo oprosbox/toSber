@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>68ec570d-1ce5-4818-8ecf-73fecd666b60</guid>
+        <createDateTime>2017-03-29T16:55:52</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>0d1fc0d7-2be1-4943-893b-1fb1403369aa</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>cbed1e40-bb74-41d8-a6d7-ab21d0744329</ns2:guid>
+                <ns2:registrationNumber>57707083893160011570013</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2661117</ns2:urlOOS>
+                <ns2:createDateTime>2016-03-31T10:42:08</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-29T16:55:52</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>49365d4c-e702-4f21-b56e-62482b965b02</guid>
+                        <createDateTime>2017-03-29T13:44:40</createDateTime>
+                        <fileName>645106F183B01ED784D851421276B851.PDF</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11707270</url>
+                        <registrationNumber>57707083893160011570014</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160011570000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>5999b381-d46d-4788-bfbe-fe71fd927fbf</ns2:guid>
+                    <ns2:name>338</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ОАО "Забайкалспецтранс"</ns2:supplierName>
+                    <ns2:lotInfo>[32608] Выбор на основании 2.2.5.3 Положения о закупках №2348ОАО "Забайкалспецтранс" на проведение работ на планово-регулярное транспортирование и размещение твердых коммунальных отходов для нужд Чити</ns2:lotInfo>
+                    <ns2:contractDate>2016-03-31</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-28</ns2:paymentDate>
+                        <ns2:price>68378.72</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>68378.72</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-02-28</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>4179</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb742-87b7-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>проведение работ на планово-регулярное транспортирование и размещение твердых коммунальных отходов для нужд Читинского отделения №8600 ПАО Сбербанк, в количестве 2303 кубических метров</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>38.11.11.000</code>
+                                        <name>Услуги по сбору неопасных отходов городского хозяйства, пригодных для повторного использования</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>113</code>
+                                    <name>Кубический метр</name>
+                                </ns2:okei>
+                                <ns2:qty>24</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>68378.72</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>fe446004-1a7a-4ec4-97f6-fe61415b09b5</guid>
+        <createDateTime>2017-03-24T11:41:39</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>99590487-8e1d-493c-ae91-1f97d05c44de</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>5cdea357-aeab-4c18-a8eb-5e1a7d140bd8</ns2:guid>
+                <ns2:registrationNumber>57707083893160030860036</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2631821</ns2:urlOOS>
+                <ns2:termination>false</ns2:termination>
+                <ns2:createDateTime>2016-07-25T13:52:05</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-24T11:41:39</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>fe4d9ef5-1dce-42fd-b7b0-7cdbb4fbc4e6</guid>
+                        <createDateTime>2017-03-23T06:15:00</createDateTime>
+                        <fileName>843.pdf</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11559751</url>
+                        <registrationNumber>57707083893160030860037</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160030860000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>8e1b2a86-101b-4c56-8ecb-e1150cf6a7bb</ns2:guid>
+                    <ns2:name>1263789</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ФГУП ГЦСС</ns2:supplierName>
+                    <ns2:lotInfo>[33075] Выбор организации на оказание услуг инкассации, перевозки, доставки денежной наличности и ценностей внутренних структурных подразделений Банка и клиентов Банка, устройств самообслуживания Банк</ns2:lotInfo>
+                    <ns2:contractDate>2016-07-19</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-17</ns2:paymentDate>
+                        <ns2:price>24300</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>24300</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-02-28</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>843</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb75b-9230-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>1. Исполнитель обязуется в соответствии с законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора, а также условиями, определяемыми в согласованной Сторонами форме Соглашения  (Приложение № 5 к Договору), своими силами и средствами в согласованные дни и часы осуществлять для Банка :  1.1.	Перевозку банковских ценностей между подразделениями Банка:  - прием опломбированных одноразовых номерных сейф-пакетов с защитным клапаном (далее – пакеты)/сумок/мешков с денежной наличностью и ценностями (далее - банковскими ценностями) Банка от внутренних структурных подразделений Банка/Кассового центра Банка (далее – ВСП/КЦ Банка); 2. Исполнитель обязуется в соответствии с действующим законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора своими силами и средствами в согласованные дни и часы оказывать Банку услуги по инкассаторскому обслуживанию программно-технических средств, а именно__________________  (далее - устройств самообслуживания; УС) Банка, а также по обеспечению сохранности перевозимых денежной наличности и ценностей Банка от посягательств третьих лиц. 3. Исполнитель обязуется в соответствии с действующим законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора своими силами и средствами в согласованные дни и часы оказывать Банку услуги по :  3.1.	Перевозке денежной наличности Клиента Банка __________________________ (полное наименование Клиента Банка – юридического лица, соответствующее учредительным документам): сбор с объектов Клиента Банка силами инкассаторских и сдача в кассовое подразделение Банка пакетов с денежной наличностью Клиента Банка в сроки, указанные в Приложении № 3 к Соглашению ; Количество - 1 комплект.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>77.1</code>
+                                        <name>Услуги по аренде и лизингу автотранспортных средств</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>796</code>
+                                    <name>Штука</name>
+                                </ns2:okei>
+                                <ns2:qty>1</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>24300</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

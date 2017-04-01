@@ -1,0 +1,1659 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9769 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9769
+
+Everything is Ok
+
+Files: 4
+Size:       35476
+Compressed: 9769
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10883 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 10883
+
+Everything is Ok
+
+Files: 4
+Size:       49217
+Compressed: 10883
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2525 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2525
+
+Everything is Ok
+
+Size:       8918
+Compressed: 2525
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 16867 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 16867
+
+Everything is Ok
+
+Files: 6
+Size:       116191
+Compressed: 16867
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3826 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3826
+
+Everything is Ok
+
+Files: 2
+Size:       10072
+Compressed: 3826
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1904 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1904
+
+Everything is Ok
+
+Size:       4904
+Compressed: 1904
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1933 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1933
+
+Everything is Ok
+
+Size:       5303
+Compressed: 1933
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3919 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3919
+
+Everything is Ok
+
+Files: 2
+Size:       10795
+Compressed: 3919
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9724 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9724
+
+Everything is Ok
+
+Files: 5
+Size:       27331
+Compressed: 9724
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3831 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3831
+
+Everything is Ok
+
+Files: 2
+Size:       10367
+Compressed: 3831
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2165 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2165
+
+Everything is Ok
+
+Size:       9141
+Compressed: 2165
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2132 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2132
+
+Everything is Ok
+
+Size:       7431
+Compressed: 2132
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3621 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3621
+
+Everything is Ok
+
+Size:       17543
+Compressed: 3621
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 286
+
+Everything is Ok
+
+Size:       0
+Compressed: 286
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7779 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7779
+
+Everything is Ok
+
+Files: 3
+Size:       25715
+Compressed: 7779
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11968 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 11968
+
+Everything is Ok
+
+Files: 5
+Size:       39010
+Compressed: 11968
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17994 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 17994
+
+Everything is Ok
+
+Files: 7
+Size:       63950
+Compressed: 17994
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 20038 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 20038
+
+Everything is Ok
+
+Files: 8
+Size:       66833
+Compressed: 20038
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 40798 bytes (40 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 40798
+
+Everything is Ok
+
+Files: 6
+Size:       417162
+Compressed: 40798
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 41438 bytes (41 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 41438
+
+Everything is Ok
+
+Files: 13
+Size:       240504
+Compressed: 41438
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5405 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5405
+
+Everything is Ok
+
+Files: 2
+Size:       17317
+Compressed: 5405
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9889 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9889
+
+Everything is Ok
+
+Files: 4
+Size:       35180
+Compressed: 9889
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7288 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7288
+
+Everything is Ok
+
+Files: 3
+Size:       26692
+Compressed: 7288
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5124 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5124
+
+Everything is Ok
+
+Files: 2
+Size:       16208
+Compressed: 5124
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17221 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 17221
+
+Everything is Ok
+
+Files: 6
+Size:       77119
+Compressed: 17221
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12432 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 12432
+
+Everything is Ok
+
+Files: 5
+Size:       43266
+Compressed: 12432
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10824 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 10824
+
+Everything is Ok
+
+Files: 6
+Size:       33791
+Compressed: 10824
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 42190 bytes (42 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 42190
+
+Everything is Ok
+
+Files: 25
+Size:       134771
+Compressed: 42190
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17148 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 17148
+
+Everything is Ok
+
+Files: 10
+Size:       52093
+Compressed: 17148
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 115013 bytes (113 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 115013
+
+Everything is Ok
+
+Files: 68
+Size:       361063
+Compressed: 115013
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17693 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 17693
+
+Everything is Ok
+
+Files: 10
+Size:       54426
+Compressed: 17693
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 25337 bytes (25 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 25337
+
+Everything is Ok
+
+Files: 14
+Size:       80885
+Compressed: 25337
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7834 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7834
+
+Everything is Ok
+
+Files: 4
+Size:       24663
+Compressed: 7834
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9188 bytes (9 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Astrahanskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9188
+
+Everything is Ok
+
+Files: 5
+Size:       28644
+Compressed: 9188
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 262 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Baikonur_g_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 262
+
+Everything is Ok
+
+Size:       0
+Compressed: 262
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 248 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Baikonur_g_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 248
+
+Everything is Ok
+
+Size:       0
+Compressed: 248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 260 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Baikonur_g_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 260
+
+Everything is Ok
+
+Size:       0
+Compressed: 260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Baikonur_g_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 272
+
+Everything is Ok
+
+Size:       0
+Compressed: 272

@@ -1,0 +1,1666 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7706 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7706
+
+Everything is Ok
+
+Files: 4
+Size:       25342
+Compressed: 7706
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1729 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 1729
+
+Everything is Ok
+
+Size:       5440
+Compressed: 1729
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5454 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5454
+
+Everything is Ok
+
+Files: 3
+Size:       17164
+Compressed: 5454
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9594 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9594
+
+Everything is Ok
+
+Files: 5
+Size:       29971
+Compressed: 9594
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19022 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Penzenskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19022
+
+Everything is Ok
+
+Files: 10
+Size:       59814
+Compressed: 19022
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 268 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 268
+
+Everything is Ok
+
+Size:       0
+Compressed: 268
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 254 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 254
+
+Everything is Ok
+
+Size:       0
+Compressed: 254
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 93726 bytes (92 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 93726
+
+Everything is Ok
+
+Files: 33
+Size:       578037
+Compressed: 93726
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 84936 bytes (83 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 84936
+
+Everything is Ok
+
+Files: 31
+Size:       490093
+Compressed: 84936
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 102879 bytes (101 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 102879
+
+Everything is Ok
+
+Files: 39
+Size:       610971
+Compressed: 102879
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11751 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170316_000000_20170316_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 11751
+
+Everything is Ok
+
+Files: 4
+Size:       83365
+Compressed: 11751
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 196049 bytes (192 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 196049
+
+Everything is Ok
+
+Files: 69
+Size:       1485005
+Compressed: 196049
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 109353 bytes (107 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 109353
+
+Everything is Ok
+
+Files: 44
+Size:       451550
+Compressed: 109353
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 21445 bytes (21 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170317_000000_20170317_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 21445
+
+Everything is Ok
+
+Files: 8
+Size:       118868
+Compressed: 21445
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9727 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9727
+
+Everything is Ok
+
+Files: 4
+Size:       34525
+Compressed: 9727
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4624 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4624
+
+Everything is Ok
+
+Files: 2
+Size:       16239
+Compressed: 4624
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 207910 bytes (204 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 207910
+
+Everything is Ok
+
+Files: 71
+Size:       1390912
+Compressed: 207910
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 160530 bytes (157 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 160530
+
+Everything is Ok
+
+Files: 62
+Size:       780351
+Compressed: 160530
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 194014 bytes (190 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 194014
+
+Everything is Ok
+
+Files: 76
+Size:       985140
+Compressed: 194014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 65296 bytes (64 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 65296
+
+Everything is Ok
+
+Files: 25
+Size:       391828
+Compressed: 65296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13515 bytes (14 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170321_000000_20170321_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 13515
+
+Everything is Ok
+
+Files: 5
+Size:       75098
+Compressed: 13515
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 386135 bytes (378 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 386135
+
+Everything is Ok
+
+Files: 125
+Size:       2937405
+Compressed: 386135
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 167051 bytes (164 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 167051
+
+Everything is Ok
+
+Files: 50
+Size:       1525559
+Compressed: 167051
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 59548 bytes (59 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170322_000000_20170322_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 59548
+
+Everything is Ok
+
+Files: 23
+Size:       247387
+Compressed: 59548
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266432 bytes (261 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266432
+
+Everything is Ok
+
+Files: 96
+Size:       1775551
+Compressed: 266432
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 163298 bytes (160 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 163298
+
+Everything is Ok
+
+Files: 60
+Size:       1015117
+Compressed: 163298
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 43417 bytes (43 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170323_000000_20170323_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 43417
+
+Everything is Ok
+
+Files: 18
+Size:       173906
+Compressed: 43417
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 54283 bytes (54 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 54283
+
+Everything is Ok
+
+Files: 22
+Size:       222594
+Compressed: 54283
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 160648 bytes (157 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 160648
+
+Everything is Ok
+
+Files: 59
+Size:       961657
+Compressed: 160648
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19288 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19288
+
+Everything is Ok
+
+Files: 8
+Size:       72301
+Compressed: 19288
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276757 bytes (271 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276757
+
+Everything is Ok
+
+Files: 98
+Size:       1648217
+Compressed: 276757
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 179325 bytes (176 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 179325
+
+Everything is Ok
+
+Files: 69
+Size:       864420
+Compressed: 179325
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7251 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170328_000000_20170328_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 7251
+
+Everything is Ok
+
+Files: 3
+Size:       26539
+Compressed: 7251
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 159769 bytes (157 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 159769
+
+Everything is Ok
+
+Files: 59
+Size:       800187
+Compressed: 159769
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 68009 bytes (67 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 68009
+
+Everything is Ok
+
+Files: 28
+Size:       291751
+Compressed: 68009
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10578 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170329_000000_20170329_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 10578
+
+Everything is Ok
+
+Files: 4
+Size:       57825
+Compressed: 10578
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 146792 bytes (144 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 146792
+
+Everything is Ok
+
+Files: 49
+Size:       1042499
+Compressed: 146792
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 136008 bytes (133 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 136008
+
+Everything is Ok
+
+Files: 47
+Size:       999375
+Compressed: 136008
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8568 bytes (9 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Permskii_krai_20170330_000000_20170330_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 8568
+
+Everything is Ok
+
+Files: 4
+Size:       29647
+Compressed: 8568
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 266 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 266
+
+Everything is Ok
+
+Size:       0
+Compressed: 266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Permskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 278
+
+Everything is Ok
+
+Size:       0
+Compressed: 278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29861 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 29861
+
+Everything is Ok
+
+Files: 12
+Size:       101912
+Compressed: 29861
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19762 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19762
+
+Everything is Ok
+
+Files: 8
+Size:       69348
+Compressed: 19762
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19346 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19346
+
+Everything is Ok
+
+Files: 8
+Size:       64466
+Compressed: 19346
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 37211 bytes (37 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 37211
+
+Everything is Ok
+
+Files: 15
+Size:       123309
+Compressed: 37211
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28824 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28824
+
+Everything is Ok
+
+Files: 12
+Size:       98435
+Compressed: 28824
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8010 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8010
+
+Everything is Ok
+
+Files: 3
+Size:       32865
+Compressed: 8010
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 58841 bytes (58 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 58841
+
+Everything is Ok
+
+Files: 23
+Size:       193288
+Compressed: 58841
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 39873 bytes (39 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 39873
+
+Everything is Ok
+
+Files: 15
+Size:       160348
+Compressed: 39873
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18031 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18031
+
+Everything is Ok
+
+Files: 7
+Size:       59862
+Compressed: 18031
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18180 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18180
+
+Everything is Ok
+
+Files: 7
+Size:       60446
+Compressed: 18180
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 47938 bytes (47 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Permskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 47938
+
+Everything is Ok
+
+Files: 19
+Size:       161701
+Compressed: 47938
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 42796 bytes (42 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 42796
+
+Everything is Ok
+
+Files: 22
+Size:       136094
+Compressed: 42796
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 39922 bytes (39 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 39922
+
+Everything is Ok
+
+Files: 22
+Size:       125553
+Compressed: 39922
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 55939 bytes (55 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Permskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 55939
+
+Everything is Ok
+
+Files: 32
+Size:       175692
+Compressed: 55939

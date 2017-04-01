@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>0dd2177f-0b79-42cb-b001-9ec92ed3dbec</guid>
+        <createDateTime>2017-03-28T16:02:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>b8e44aae-beb7-4911-85fa-e4a0f109a427</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>3b710e01-043c-4068-98b1-e0ea31f3818a</ns2:guid>
+                <ns2:registrationNumber>57707083893160040050017</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2653244</ns2:urlOOS>
+                <ns2:createDateTime>2016-09-15T08:52:03</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-28T16:02:49</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>868dc89f-4202-4a28-b262-a1e7b6521ca9</guid>
+                        <createDateTime>2017-03-28T13:52:12</createDateTime>
+                        <fileName>20.pdf</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11668224</url>
+                        <registrationNumber>57707083893160040050018</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160040050000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>0167f39e-add7-4e0b-9820-14c3140bdbb8</ns2:guid>
+                    <ns2:name>50001358770</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО "Энергоресурс М"</ns2:supplierName>
+                    <ns2:lotInfo>[34947] Выбор организации на техническое обслуживание, отопления, вентиляции и кондиционирования (Ангарская территория) Иркутского отделения № 8586 Байкальского банка ПАО Сбербанк</ns2:lotInfo>
+                    <ns2:contractDate>2016-09-15</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-23</ns2:paymentDate>
+                        <ns2:price>61171.72</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>61171.72</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-02-28</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>20</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb762-76cb-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>Выбор организации на техническое обслуживание, отопления, вентиляции и кондиционирования (Ангарская территория) Иркутского отделения № 8586 Байкальского банка ПАО Сбербанк. К запросу котировок в количестве 1 комплекта, включающего 199 шт.)</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>43.22</code>
+                                        <name>Работы по монтажу систем водопровода, канализации, отопления и кондиционирования воздуха</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>796</code>
+                                    <name>Штука</name>
+                                </ns2:okei>
+                                <ns2:qty>2</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>61171.72</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

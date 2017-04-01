@@ -1,0 +1,1714 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 282 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Smolenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Smolenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 282
+
+Everything is Ok
+
+Size:       0
+Compressed: 282
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 282 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Smolenskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Smolenskaya_obl_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 282
+
+Everything is Ok
+
+Size:       0
+Compressed: 282
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11427 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 11427
+
+Everything is Ok
+
+Files: 5
+Size:       38496
+Compressed: 11427
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13798 bytes (14 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 13798
+
+Everything is Ok
+
+Files: 6
+Size:       45846
+Compressed: 13798
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7327 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7327
+
+Everything is Ok
+
+Files: 3
+Size:       23404
+Compressed: 7327
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6760 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6760
+
+Everything is Ok
+
+Files: 3
+Size:       22446
+Compressed: 6760
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7484 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7484
+
+Everything is Ok
+
+Files: 3
+Size:       25080
+Compressed: 7484
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18389 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18389
+
+Everything is Ok
+
+Files: 8
+Size:       60880
+Compressed: 18389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5592 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5592
+
+Everything is Ok
+
+Files: 2
+Size:       35561
+Compressed: 5592
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 16954 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 16954
+
+Everything is Ok
+
+Files: 7
+Size:       73233
+Compressed: 16954
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13121 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 13121
+
+Everything is Ok
+
+Files: 6
+Size:       43256
+Compressed: 13121
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 15915 bytes (16 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 15915
+
+Everything is Ok
+
+Files: 7
+Size:       52278
+Compressed: 15915
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13910 bytes (14 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Smolenskaya_obl_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 13910
+
+Everything is Ok
+
+Files: 6
+Size:       45087
+Compressed: 13910
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7863 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7863
+
+Everything is Ok
+
+Files: 4
+Size:       24257
+Compressed: 7863
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3766 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3766
+
+Everything is Ok
+
+Files: 2
+Size:       12543
+Compressed: 3766
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11510 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 11510
+
+Everything is Ok
+
+Files: 6
+Size:       37136
+Compressed: 11510
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6872 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6872
+
+Everything is Ok
+
+Files: 4
+Size:       21103
+Compressed: 6872
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6984 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Smolenskaya_obl_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 6984
+
+Everything is Ok
+
+Files: 4
+Size:       21473
+Compressed: 6984
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 264 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 264
+
+Everything is Ok
+
+Size:       0
+Compressed: 264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 105840 bytes (104 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 105840
+
+Everything is Ok
+
+Files: 30
+Size:       417652
+Compressed: 105840
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 131104 bytes (129 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170315_000000_20170315_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170315_000000_20170315_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 131104
+
+Everything is Ok
+
+Files: 38
+Size:       488530
+Compressed: 131104
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 35903 bytes (36 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 35903
+
+Everything is Ok
+
+Files: 11
+Size:       132213
+Compressed: 35903
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 92349 bytes (91 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 92349
+
+Everything is Ok
+
+Files: 25
+Size:       515417
+Compressed: 92349
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 80978 bytes (80 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 80978
+
+Everything is Ok
+
+Files: 24
+Size:       296836
+Compressed: 80978
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 61660 bytes (61 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 61660
+
+Everything is Ok
+
+Files: 18
+Size:       229692
+Compressed: 61660
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 51540 bytes (51 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 51540
+
+Everything is Ok
+
+Files: 15
+Size:       192628
+Compressed: 51540
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 90563 bytes (89 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 90563
+
+Everything is Ok
+
+Files: 27
+Size:       335806
+Compressed: 90563
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 48991 bytes (48 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 48991
+
+Everything is Ok
+
+Files: 14
+Size:       178821
+Compressed: 48991
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 79180 bytes (78 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 79180
+
+Everything is Ok
+
+Files: 23
+Size:       302170
+Compressed: 79180
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 59672 bytes (59 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 59672
+
+Everything is Ok
+
+Files: 17
+Size:       219990
+Compressed: 59672
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 77946 bytes (77 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 77946
+
+Everything is Ok
+
+Files: 22
+Size:       309232
+Compressed: 77946
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 54139 bytes (53 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 54139
+
+Everything is Ok
+
+Files: 16
+Size:       201813
+Compressed: 54139
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 137167 bytes (134 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 137167
+
+Everything is Ok
+
+Files: 39
+Size:       493812
+Compressed: 137167
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 54203 bytes (53 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 54203
+
+Everything is Ok
+
+Files: 16
+Size:       198499
+Compressed: 54203
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 51381 bytes (51 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 51381
+
+Everything is Ok
+
+Files: 15
+Size:       185758
+Compressed: 51381
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 36470 bytes (36 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 36470
+
+Everything is Ok
+
+Files: 11
+Size:       131444
+Compressed: 36470
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 119990 bytes (118 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 119990
+
+Everything is Ok
+
+Files: 35
+Size:       441770
+Compressed: 119990
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10865 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170327_000000_20170327_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 10865
+
+Everything is Ok
+
+Files: 3
+Size:       41047
+Compressed: 10865
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 57415 bytes (57 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 57415
+
+Everything is Ok
+
+Files: 17
+Size:       213254
+Compressed: 57415
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 117361 bytes (115 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 117361
+
+Everything is Ok
+
+Files: 34
+Size:       440108
+Compressed: 117361
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 49313 bytes (49 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 49313
+
+Everything is Ok
+
+Files: 14
+Size:       190969
+Compressed: 49313
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 76675 bytes (75 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 76675
+
+Everything is Ok
+
+Files: 22
+Size:       276246
+Compressed: 76675
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 70023 bytes (69 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 70023
+
+Everything is Ok
+
+Files: 20
+Size:       274618
+Compressed: 70023
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 138487 bytes (136 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Stavropolskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 138487
+
+Everything is Ok
+
+Files: 40
+Size:       515584
+Compressed: 138487
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 85802 bytes (84 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 85802
+
+Everything is Ok
+
+Files: 17
+Size:       994767
+Compressed: 85802
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 49021 bytes (48 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 49021
+
+Everything is Ok
+
+Files: 18
+Size:       277770
+Compressed: 49021
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 69328 bytes (68 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 69328
+
+Everything is Ok
+
+Files: 26
+Size:       382138
+Compressed: 69328
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29749 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170316_000000_20170316_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 29749
+
+Everything is Ok
+
+Files: 12
+Size:       151050
+Compressed: 29749
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 15247 bytes (15 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 15247
+
+Everything is Ok
+
+Files: 4
+Size:       222049
+Compressed: 15247
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 66264 bytes (65 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 66264
+
+Everything is Ok
+
+Files: 25
+Size:       418823
+Compressed: 66264
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 53998 bytes (53 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170317_000000_20170317_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 53998
+
+Everything is Ok
+
+Files: 22
+Size:       222022
+Compressed: 53998
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9953 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9953
+
+Everything is Ok
+
+Files: 4
+Size:       35012
+Compressed: 9953
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 66884 bytes (66 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 66884
+
+Everything is Ok
+
+Files: 26
+Size:       314370
+Compressed: 66884
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 104502 bytes (103 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 104502
+
+Everything is Ok
+
+Files: 41
+Size:       479727
+Compressed: 104502
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 47679 bytes (47 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170320_000000_20170320_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 47679
+
+Everything is Ok
+
+Files: 18
+Size:       213278
+Compressed: 47679
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 58043 bytes (57 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 58043
+
+Everything is Ok
+
+Files: 23
+Size:       277464
+Compressed: 58043
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 74830 bytes (74 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 74830
+
+Everything is Ok
+
+Files: 30
+Size:       373240
+Compressed: 74830
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 24577 bytes (25 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170321_000000_20170321_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 24577
+
+Everything is Ok
+
+Files: 10
+Size:       91158
+Compressed: 24577
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 20749 bytes (21 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 20749
+
+Everything is Ok
+
+Files: 8
+Size:       108651
+Compressed: 20749
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 54244 bytes (53 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 54244
+
+Everything is Ok
+
+Files: 22
+Size:       216244
+Compressed: 54244
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 47561 bytes (47 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170322_000000_20170322_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 47561
+
+Everything is Ok
+
+Files: 20
+Size:       177778
+Compressed: 47561
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 31103 bytes (31 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 31103
+
+Everything is Ok
+
+Files: 12
+Size:       151890
+Compressed: 31103
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 85743 bytes (84 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 85743
+
+Everything is Ok
+
+Files: 35
+Size:       374949
+Compressed: 85743
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 29887 bytes (30 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170323_000000_20170323_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 29887
+
+Everything is Ok
+
+Files: 12
+Size:       126707
+Compressed: 29887
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 43487 bytes (43 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 43487
+
+Everything is Ok
+
+Files: 16
+Size:       347388
+Compressed: 43487
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 41266 bytes (41 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170324_000000_20170324_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 41266
+
+Everything is Ok
+
+Files: 16
+Size:       194598
+Compressed: 41266
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 36787 bytes (36 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 36787
+
+Everything is Ok
+
+Files: 15
+Size:       167108
+Compressed: 36787
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 65186 bytes (64 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 65186
+
+Everything is Ok
+
+Files: 27
+Size:       304753
+Compressed: 65186
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28505 bytes (28 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170328_000000_20170328_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 28505
+
+Everything is Ok
+
+Files: 11
+Size:       193454
+Compressed: 28505
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 113701 bytes (112 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 113701
+
+Everything is Ok
+
+Files: 44
+Size:       497393
+Compressed: 113701
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 73806 bytes (73 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 73806
+
+Everything is Ok
+
+Files: 29
+Size:       365176
+Compressed: 73806
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17215 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170329_000000_20170329_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 17215
+
+Everything is Ok
+
+Files: 7
+Size:       70561
+Compressed: 17215
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 61189 bytes (60 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 61189
+
+Everything is Ok
+
+Files: 25
+Size:       238894
+Compressed: 61189
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 39020 bytes (39 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 39020
+
+Everything is Ok
+
+Files: 16
+Size:       180493
+Compressed: 39020
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 16818 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Stavropolskii_krai_20170330_000000_20170330_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 16818
+
+Everything is Ok
+
+Files: 7
+Size:       66070
+Compressed: 16818
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7751 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7751
+
+Everything is Ok
+
+Files: 4
+Size:       20777
+Compressed: 7751
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19859 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19859
+
+Everything is Ok
+
+Files: 10
+Size:       53131
+Compressed: 19859
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19042 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 19042
+
+Everything is Ok
+
+Files: 9
+Size:       50640
+Compressed: 19042
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7721 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7721
+
+Everything is Ok
+
+Files: 4
+Size:       20560
+Compressed: 7721
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11018 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 11018
+
+Everything is Ok
+
+Files: 5
+Size:       29783
+Compressed: 11018
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8248 bytes (9 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8248
+
+Everything is Ok
+
+Files: 4
+Size:       23485
+Compressed: 8248
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3962 bytes (4 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 3962
+
+Everything is Ok
+
+Files: 2
+Size:       10130
+Compressed: 3962
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18965 bytes (19 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18965
+
+Everything is Ok
+
+Files: 9
+Size:       51028
+Compressed: 18965
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10812 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 10812
+
+Everything is Ok
+
+Files: 5
+Size:       28859
+Compressed: 10812
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4164 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\explanation_Stavropolskii_krai_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4164
+
+Everything is Ok
+
+Files: 2
+Size:       10962
+Compressed: 4164
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 276 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Stavropolskii_krai_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 276
+
+Everything is Ok
+
+Size:       0
+Compressed: 276

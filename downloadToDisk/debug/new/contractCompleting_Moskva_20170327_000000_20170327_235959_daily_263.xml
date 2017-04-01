@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>85a4750c-b1b1-4885-bad3-aa1c9cf137b9</guid>
+        <createDateTime>2017-03-27T11:32:12</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>98bad10e-ddf2-4ced-a5fe-123d6cbd5a82</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>dd2b3ae5-c853-4945-9f98-8ef5e30de12a</ns2:guid>
+                <ns2:registrationNumber>57707083893160032390009</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2641736</ns2:urlOOS>
+                <ns2:createDateTime>2016-08-02T10:32:09</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-27T11:32:12</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>cade935a-3d6a-4953-9417-52a80913977b</guid>
+                        <createDateTime>2017-03-27T10:45:09</createDateTime>
+                        <fileName>Февраль 2017.pdf</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11609846</url>
+                        <registrationNumber>57707083893160032390010</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893160032390000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>77fa2f18-1b6d-4d63-83e1-23a2c6a2f262</ns2:guid>
+                    <ns2:name>1005191</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО Ривелти групп</ns2:supplierName>
+                    <ns2:lotInfo>[33515] Выбор поставщика на оказание услуг по фото-, видео- сопровождению мероприятий, созданию роликов по запросам подразделений для нужд ПАО Сбербанк.</ns2:lotInfo>
+                    <ns2:contractDate>2016-07-29</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-24</ns2:paymentDate>
+                        <ns2:price>788440</ns2:price>
+                        <ns2:currency>
+                            <code>RUB</code>
+                            <digitalCode>643</digitalCode>
+                            <name>Российский рубль</name>
+                        </ns2:currency>
+                        <ns2:rubPrice>788440</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-03-07</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>50/03</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb75c-dfe8-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>Исполнитель по заявкам Заказчика в течение срока действия настоящего Договора обязуется: 1.1.1.	Выполнять работы по фото- и/или видеосопровождению мероприятий (событий) Заказчика и созданию в рамках данных мероприятий фото и/или  видеоматериалов  (далее по тексту также «Произведений»),  на основе заявок Заказчика, оформленных по форме Приложения № 2 к Договору (далее по тексту «Заявка»). Требования к Произведениям, сроки их выполнения указаны в Приложении №2 к Договору. 1.1.2.	В день проведения соответствующего мероприятия (события)  передать уполномоченному представителю Заказчика фото и/или видеоматериал на электронном носителе (указать тип носителя) в соответствующем формате (указать формат для видеоматериалов и качество для фотоматериалов) (стоимость материального носителя входит в общую стоимость работ по Договору). 1.1.3.	Передать Заказчику исключительное право на фото и/или видеоматериалы, созданные в результате выполнения работ в соответствии с Заявкой  (п.п. 1.1.1 и 1.1.2 Договора), в полном объеме на условиях отчуждения. Количество: 1 комплект.</ns2:name>
+                                    <ns2:okpd2>
+                                        <code>73.1</code>
+                                        <name>Услуги рекламные</name>
+                                    </ns2:okpd2>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>876</code>
+                                    <name>Условная единица</name>
+                                </ns2:okei>
+                                <ns2:qty>1</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>788440</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

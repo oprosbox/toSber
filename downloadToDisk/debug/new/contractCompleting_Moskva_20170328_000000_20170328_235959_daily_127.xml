@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:performanceContract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>111fdf11-0898-4a2d-aa64-13a596027fe5</guid>
+        <createDateTime>2017-03-28T09:13:20</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>bd8b22ff-8a55-4f15-95cc-c7c7da7b7740</guid>
+            <ns2:performanceContractData>
+                <ns2:guid>8b1dca77-6c6c-4310-993a-c3138dc4b87e</ns2:guid>
+                <ns2:registrationNumber>57707083893150028710012</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/completing/info/view.html?id=2647999</ns2:urlOOS>
+                <ns2:createDateTime>2015-10-07T17:42:00</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-28T09:13:20</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:completed>false</ns2:completed>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>f317e22b-2a77-48e4-8a9b-5f4f4e602ee5</guid>
+                        <createDateTime>2017-03-27T18:43:57</createDateTime>
+                        <fileName>Счёт №17-02-16-01, ГС 108, OCS, Сп28.ZIP</fileName>
+                        <description>Сведения об исполнении договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11640385</url>
+                        <registrationNumber>57707083893150028710013</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:hasPenalty>false</ns2:hasPenalty>
+                <ns2:contractRegNumber>57707083893150028710000</ns2:contractRegNumber>
+                <ns2:contractInfo>
+                    <ns2:guid>e40b33df-f3a8-48d4-90be-34356aac8981</ns2:guid>
+                    <ns2:name>Предметом настоящего Соглашения является поставка Поставщиком Банку продукции по номенклатуре и ценам, указанным в Приложении № 1 к настоящему Соглашению. Поставка продукции производится по заявке Банка, в соответствии со Спецификацией поставки, подписанной Поставщиком и Банком. Спецификация поставки (форма приведена в Приложении № 3) – документ, подписываемый уполномоченными лицами Поставщика и Банка и содержащий дату подписания, наименование продукции, количество и цену продукции, срок и адрес</ns2:name>
+                    <ns2:agencyName>ПАО СБЕРБАНК</ns2:agencyName>
+                    <ns2:supplierName>ООО «Опен Компьютер Солюшнз»</ns2:supplierName>
+                    <ns2:lotInfo>[29001] Выбор организации на право заключения генерального соглашения сроком на 2 года на поставку компонентов структурированной кабельной системы  для нужд ПАО Сбербанк</ns2:lotInfo>
+                    <ns2:contractDate>2015-09-30</ns2:contractDate>
+                </ns2:contractInfo>
+                <ns2:positions>
+                    <ns2:position>
+                        <ns2:ordinal>1</ns2:ordinal>
+                        <ns2:paymentDate>2017-03-23</ns2:paymentDate>
+                        <ns2:price>82358.02</ns2:price>
+                        <ns2:currency>
+                            <code>USD</code>
+                            <digitalCode>840</digitalCode>
+                            <name>Доллар США</name>
+                        </ns2:currency>
+                        <ns2:currencyRate>56.7719</ns2:currencyRate>
+                        <ns2:rubPrice>4675621.28</ns2:rubPrice>
+                        <ns2:prepaid>false</ns2:prepaid>
+                        <ns2:docs>
+                            <ns2:doc>
+                                <ns2:ordinal>1</ns2:ordinal>
+                                <ns2:date>2017-02-16</ns2:date>
+                                <ns2:code>18</ns2:code>
+                                <ns2:name>счет на оплату</ns2:name>
+                                <ns2:number>17/02/16-01</ns2:number>
+                                <ns2:contractPosition>
+                                    <ns2:guid>3cabb735-2d23-014e-e053-ac11070d70ec</ns2:guid>
+                                    <ns2:name>Предметом настоящего Соглашения является поставка Поставщиком Банку продукции по номенклатуре и ценам, указанным в Приложении № 1 к настоящему Соглашению. Поставка продукции производится по заявке Банка, в соответствии со Спецификацией поставки, подписанной Поставщиком и Банком. Спецификация поставки (форма приведена в Приложении № 3) – документ, подписываемый уполномоченными лицами Поставщика и Банка и содержащий дату подписания, наименование продукции, количество и цену продукции, срок и адрес поставки, адреса и банковские реквизиты Сторон. Подписанная Сторонами Спецификация поставки и настоящее Соглашение составляют договор поставки. Количество - 1 комплект.</ns2:name>
+                                    <ns2:okdp>
+                                        <code>2940000</code>
+                                        <name>Специализированное технологическое оборудование прочее, не включенное в другие группировки</name>
+                                    </ns2:okdp>
+                                </ns2:contractPosition>
+                                <ns2:okei>
+                                    <code>796</code>
+                                    <name>Штука</name>
+                                </ns2:okei>
+                                <ns2:qty>9242</ns2:qty>
+                            </ns2:doc>
+                        </ns2:docs>
+                    </ns2:position>
+                    <ns2:total>4675621.28</ns2:total>
+                </ns2:positions>
+            </ns2:performanceContractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:performanceContract>

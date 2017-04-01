@@ -1,0 +1,1708 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 217697 bytes (213 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 217697
+
+Everything is Ok
+
+Files: 62
+Size:       834396
+Compressed: 217697
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 336913 bytes (330 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 336913
+
+Everything is Ok
+
+Files: 125
+Size:       1499900
+Compressed: 336913
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 314559 bytes (308 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 314559
+
+Everything is Ok
+
+Files: 121
+Size:       1356359
+Compressed: 314559
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 338022 bytes (331 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 338022
+
+Everything is Ok
+
+Files: 127
+Size:       1357759
+Compressed: 338022
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 20420 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 20420
+
+Everything is Ok
+
+Files: 8
+Size:       88894
+Compressed: 20420
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 384569 bytes (376 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 384569
+
+Everything is Ok
+
+Files: 146
+Size:       1702592
+Compressed: 384569
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 166288 bytes (163 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 166288
+
+Everything is Ok
+
+Files: 65
+Size:       616261
+Compressed: 166288
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 40876 bytes (40 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 40876
+
+Everything is Ok
+
+Files: 16
+Size:       174273
+Compressed: 40876
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28210 bytes (28 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 28210
+
+Everything is Ok
+
+Files: 11
+Size:       112286
+Compressed: 28210
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5697 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 5697
+
+Everything is Ok
+
+Files: 2
+Size:       47424
+Compressed: 5697
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 234737 bytes (230 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 234737
+
+Everything is Ok
+
+Files: 89
+Size:       1180723
+Compressed: 234737
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 226316 bytes (222 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 226316
+
+Everything is Ok
+
+Files: 88
+Size:       853521
+Compressed: 226316
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 78876 bytes (78 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 78876
+
+Everything is Ok
+
+Files: 31
+Size:       308236
+Compressed: 78876
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 226941 bytes (222 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 226941
+
+Everything is Ok
+
+Files: 80
+Size:       1101211
+Compressed: 226941
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 323199 bytes (316 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 323199
+
+Everything is Ok
+
+Files: 128
+Size:       1268690
+Compressed: 323199
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 80362 bytes (79 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 80362
+
+Everything is Ok
+
+Files: 32
+Size:       303927
+Compressed: 80362
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 267312 bytes (262 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 267312
+
+Everything is Ok
+
+Files: 102
+Size:       1219528
+Compressed: 267312
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 199624 bytes (195 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 199624
+
+Everything is Ok
+
+Files: 74
+Size:       937931
+Compressed: 199624
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 16260 bytes (16 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 16260
+
+Everything is Ok
+
+Files: 6
+Size:       80858
+Compressed: 16260
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 256993 bytes (251 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 256993
+
+Everything is Ok
+
+Files: 87
+Size:       1866385
+Compressed: 256993
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 286691 bytes (280 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 286691
+
+Everything is Ok
+
+Files: 110
+Size:       1316366
+Compressed: 286691
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 28903 bytes (29 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 28903
+
+Everything is Ok
+
+Files: 11
+Size:       137862
+Compressed: 28903
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 196053 bytes (192 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 196053
+
+Everything is Ok
+
+Files: 73
+Size:       898110
+Compressed: 196053
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 198563 bytes (194 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 198563
+
+Everything is Ok
+
+Files: 75
+Size:       803833
+Compressed: 198563
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 378772 bytes (370 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 378772
+
+Everything is Ok
+
+Files: 144
+Size:       1723637
+Compressed: 378772
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 272474 bytes (267 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 272474
+
+Everything is Ok
+
+Files: 104
+Size:       1096906
+Compressed: 272474
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5398 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 5398
+
+Everything is Ok
+
+Files: 2
+Size:       20451
+Compressed: 5398
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 249951 bytes (245 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 249951
+
+Everything is Ok
+
+Files: 91
+Size:       1181109
+Compressed: 249951
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 303993 bytes (297 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 303993
+
+Everything is Ok
+
+Files: 116
+Size:       1271937
+Compressed: 303993
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 47098 bytes (46 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 47098
+
+Everything is Ok
+
+Files: 19
+Size:       197679
+Compressed: 47098
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 174895 bytes (171 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 174895
+
+Everything is Ok
+
+Files: 63
+Size:       924984
+Compressed: 174895
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 129947 bytes (127 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_002.xml.zip
+Type = zip
+Physical Size = 129947
+
+Everything is Ok
+
+Files: 51
+Size:       508916
+Compressed: 129947
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 95203 bytes (93 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_003.xml.zip
+Type = zip
+Physical Size = 95203
+
+Everything is Ok
+
+Files: 37
+Size:       437972
+Compressed: 95203
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 296 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 296
+
+Everything is Ok
+
+Size:       0
+Compressed: 296
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2178 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2178
+
+Everything is Ok
+
+Size:       8414
+Compressed: 2178
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8107 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 8107
+
+Everything is Ok
+
+Files: 3
+Size:       44261
+Compressed: 8107
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2278 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2278
+
+Everything is Ok
+
+Size:       7827
+Compressed: 2278
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2149 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2149
+
+Everything is Ok
+
+Size:       8025
+Compressed: 2149
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4803 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4803
+
+Everything is Ok
+
+Files: 2
+Size:       18359
+Compressed: 4803
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7460 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7460
+
+Everything is Ok
+
+Files: 3
+Size:       32599
+Compressed: 7460
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2332 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2332
+
+Everything is Ok
+
+Size:       9305
+Compressed: 2332
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2330 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2330
+
+Everything is Ok
+
+Size:       8087
+Compressed: 2330
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4589 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4589
+
+Everything is Ok
+
+Files: 2
+Size:       16337
+Compressed: 4589
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7338 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7338
+
+Everything is Ok
+
+Files: 3
+Size:       33001
+Compressed: 7338
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7076 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 7076
+
+Everything is Ok
+
+Files: 3
+Size:       27585
+Compressed: 7076
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4879 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 4879
+
+Everything is Ok
+
+Files: 2
+Size:       21191
+Compressed: 4879
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 308
+
+Everything is Ok
+
+Size:       0
+Compressed: 308
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 24928 bytes (25 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 24928
+
+Everything is Ok
+
+Files: 10
+Size:       84485
+Compressed: 24928
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44959 bytes (44 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 44959
+
+Everything is Ok
+
+Files: 18
+Size:       152966
+Compressed: 44959
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 56503 bytes (56 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 56503
+
+Everything is Ok
+
+Files: 22
+Size:       188555
+Compressed: 56503
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2451 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 2451
+
+Everything is Ok
+
+Size:       8272
+Compressed: 2451
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 46471 bytes (46 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 46471
+
+Everything is Ok
+
+Files: 18
+Size:       155808
+Compressed: 46471
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 72551 bytes (71 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 72551
+
+Everything is Ok
+
+Files: 28
+Size:       248020
+Compressed: 72551
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 44001 bytes (43 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 44001
+
+Everything is Ok
+
+Files: 17
+Size:       145572
+Compressed: 44001
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 34314 bytes (34 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 34314
+
+Everything is Ok
+
+Files: 13
+Size:       113831
+Compressed: 34314
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 48561 bytes (48 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 48561
+
+Everything is Ok
+
+Files: 18
+Size:       166796
+Compressed: 48561
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 25811 bytes (26 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 25811
+
+Everything is Ok
+
+Files: 10
+Size:       87539
+Compressed: 25811
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 70958 bytes (70 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 70958
+
+Everything is Ok
+
+Files: 26
+Size:       272609
+Compressed: 70958
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 40111 bytes (40 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContract_Hanty-Mansiiskii_AO_Iugra_AO_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 40111
+
+Everything is Ok
+
+Files: 15
+Size:       138448
+Compressed: 40111
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 43039 bytes (43 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 43039
+
+Everything is Ok
+
+Files: 23
+Size:       136527
+Compressed: 43039
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 18406 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 18406
+
+Everything is Ok
+
+Files: 10
+Size:       57537
+Compressed: 18406
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 31687 bytes (31 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 31687
+
+Everything is Ok
+
+Files: 16
+Size:       100377
+Compressed: 31687
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17373 bytes (17 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 17373
+
+Everything is Ok
+
+Files: 9
+Size:       54086
+Compressed: 17373
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 64211 bytes (63 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 64211
+
+Everything is Ok
+
+Files: 31
+Size:       209177
+Compressed: 64211
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 75328 bytes (74 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 75328
+
+Everything is Ok
+
+Files: 34
+Size:       261603
+Compressed: 75328
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9785 bytes (10 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 9785
+
+Everything is Ok
+
+Files: 5
+Size:       31126
+Compressed: 9785
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12185 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 12185
+
+Everything is Ok
+
+Files: 6
+Size:       37748
+Compressed: 12185
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 37692 bytes (37 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Hanty-Mansiiskii_AO_Iugra_AO_20170330_000000_20170330_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 37692
+
+Everything is Ok
+
+Files: 20
+Size:       120837
+Compressed: 37692
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 274 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Ingushetiya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Type = zip
+Physical Size = 274
+
+Everything is Ok
+
+Size:       0
+Compressed: 274
