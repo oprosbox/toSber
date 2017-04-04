@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'ftpclient.h'
 **
-** Created by: The Qt Meta Object Compiler version 67 (Qt 5.7.0)
+** Created by: The Qt Meta Object Compiler version 67 (Qt 5.7.1)
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
@@ -12,7 +12,7 @@
 #if !defined(Q_MOC_OUTPUT_REVISION)
 #error "The header file 'ftpclient.h' doesn't include <QObject>."
 #elif Q_MOC_OUTPUT_REVISION != 67
-#error "This file was generated using the moc from 5.7.0. It"
+#error "This file was generated using the moc from 5.7.1. It"
 #error "cannot be used with the include files from this version of Qt."
 #error "(The moc has changed too much.)"
 #endif
@@ -225,8 +225,8 @@ void WNetworkFtp::errorEmit()
     QMetaObject::activate(this, &staticMetaObject, 2, Q_NULLPTR);
 }
 struct qt_meta_stringdata_WFtpClient_t {
-    QByteArrayData data[17];
-    char stringdata0[147];
+    QByteArrayData data[22];
+    char stringdata0[188];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -243,21 +243,28 @@ QT_MOC_LITERAL(4, 29, 3), // "err"
 QT_MOC_LITERAL(5, 33, 8), // "finished"
 QT_MOC_LITERAL(6, 42, 12), // "finishedList"
 QT_MOC_LITERAL(7, 55, 7), // "errorTo"
-QT_MOC_LITERAL(8, 63, 11), // "reconToHost"
-QT_MOC_LITERAL(9, 75, 11), // "doneURLInfo"
-QT_MOC_LITERAL(10, 87, 8), // "QUrlInfo"
-QT_MOC_LITERAL(11, 96, 7), // "urlInfo"
-QT_MOC_LITERAL(12, 104, 12), // "ftpConnected"
-QT_MOC_LITERAL(13, 117, 2), // "id"
-QT_MOC_LITERAL(14, 120, 8), // "hasError"
-QT_MOC_LITERAL(15, 129, 10), // "commFinish"
-QT_MOC_LITERAL(16, 140, 6) // "hasBed"
+QT_MOC_LITERAL(8, 63, 6), // "errBeg"
+QT_MOC_LITERAL(9, 70, 6), // "errEnd"
+QT_MOC_LITERAL(10, 77, 11), // "reconToHost"
+QT_MOC_LITERAL(11, 89, 11), // "doneURLInfo"
+QT_MOC_LITERAL(12, 101, 8), // "QUrlInfo"
+QT_MOC_LITERAL(13, 110, 7), // "urlInfo"
+QT_MOC_LITERAL(14, 118, 12), // "ftpConnected"
+QT_MOC_LITERAL(15, 131, 2), // "id"
+QT_MOC_LITERAL(16, 134, 8), // "hasError"
+QT_MOC_LITERAL(17, 143, 10), // "commFinish"
+QT_MOC_LITERAL(18, 154, 6), // "hasBed"
+QT_MOC_LITERAL(19, 161, 7), // "doneEnd"
+QT_MOC_LITERAL(20, 169, 7), // "hasGood"
+QT_MOC_LITERAL(21, 177, 10) // "functTimer"
 
     },
     "WFtpClient\0sendError\0\0sFiles\0err\0"
-    "finished\0finishedList\0errorTo\0reconToHost\0"
-    "doneURLInfo\0QUrlInfo\0urlInfo\0ftpConnected\0"
-    "id\0hasError\0commFinish\0hasBed"
+    "finished\0finishedList\0errorTo\0errBeg\0"
+    "errEnd\0reconToHost\0doneURLInfo\0QUrlInfo\0"
+    "urlInfo\0ftpConnected\0id\0hasError\0"
+    "commFinish\0hasBed\0doneEnd\0hasGood\0"
+    "functTimer"
 };
 #undef QT_MOC_LITERAL
 
@@ -267,25 +274,29 @@ static const uint qt_meta_data_WFtpClient[] = {
        7,       // revision
        0,       // classname
        0,    0, // classinfo
-       9,   14, // methods
+      13,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
-       5,       // signalCount
+       7,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
-       1,    2,   59,    2, 0x06 /* Public */,
-       3,    2,   64,    2, 0x06 /* Public */,
-       5,    1,   69,    2, 0x06 /* Public */,
-       6,    2,   72,    2, 0x06 /* Public */,
-       7,    0,   77,    2, 0x06 /* Public */,
+       1,    2,   79,    2, 0x06 /* Public */,
+       3,    2,   84,    2, 0x06 /* Public */,
+       5,    1,   89,    2, 0x06 /* Public */,
+       6,    2,   92,    2, 0x06 /* Public */,
+       7,    0,   97,    2, 0x06 /* Public */,
+       8,    0,   98,    2, 0x06 /* Public */,
+       9,    0,   99,    2, 0x06 /* Public */,
 
  // slots: name, argc, parameters, tag, flags
-       8,    0,   78,    2, 0x0a /* Public */,
-       9,    1,   79,    2, 0x0a /* Public */,
-      12,    2,   82,    2, 0x0a /* Public */,
-      15,    2,   87,    2, 0x0a /* Public */,
+      10,    0,  100,    2, 0x0a /* Public */,
+      11,    1,  101,    2, 0x0a /* Public */,
+      14,    2,  104,    2, 0x0a /* Public */,
+      17,    2,  109,    2, 0x0a /* Public */,
+      19,    1,  114,    2, 0x0a /* Public */,
+      21,    0,  117,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::Int, QMetaType::QString,    2,    2,
@@ -293,12 +304,16 @@ static const uint qt_meta_data_WFtpClient[] = {
     QMetaType::Void, QMetaType::QStringList,    2,
     QMetaType::Void, QMetaType::QStringList, QMetaType::QStringList,    2,    2,
     QMetaType::Void,
+    QMetaType::Void,
+    QMetaType::Void,
 
  // slots: parameters
     QMetaType::Void,
-    QMetaType::Void, 0x80000000 | 10,   11,
-    QMetaType::Void, QMetaType::Int, QMetaType::Bool,   13,   14,
-    QMetaType::Void, QMetaType::Int, QMetaType::Bool,   13,   16,
+    QMetaType::Void, 0x80000000 | 12,   13,
+    QMetaType::Void, QMetaType::Int, QMetaType::Bool,   15,   16,
+    QMetaType::Void, QMetaType::Int, QMetaType::Bool,   15,   18,
+    QMetaType::Void, QMetaType::Bool,   20,
+    QMetaType::Void,
 
        0        // eod
 };
@@ -314,10 +329,14 @@ void WFtpClient::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 2: _t->finished((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
         case 3: _t->finishedList((*reinterpret_cast< QStringList(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         case 4: _t->errorTo(); break;
-        case 5: _t->reconToHost(); break;
-        case 6: _t->doneURLInfo((*reinterpret_cast< QUrlInfo(*)>(_a[1]))); break;
-        case 7: _t->ftpConnected((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
-        case 8: _t->commFinish((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
+        case 5: _t->errBeg(); break;
+        case 6: _t->errEnd(); break;
+        case 7: _t->reconToHost(); break;
+        case 8: _t->doneURLInfo((*reinterpret_cast< QUrlInfo(*)>(_a[1]))); break;
+        case 9: _t->ftpConnected((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
+        case 10: _t->commFinish((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
+        case 11: _t->doneEnd((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 12: _t->functTimer(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -358,6 +377,20 @@ void WFtpClient::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
                 return;
             }
         }
+        {
+            typedef void (WFtpClient::*_t)();
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFtpClient::errBeg)) {
+                *result = 5;
+                return;
+            }
+        }
+        {
+            typedef void (WFtpClient::*_t)();
+            if (*reinterpret_cast<_t *>(func) == static_cast<_t>(&WFtpClient::errEnd)) {
+                *result = 6;
+                return;
+            }
+        }
     }
 }
 
@@ -388,13 +421,13 @@ int WFtpClient::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 9)
+        if (_id < 13)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 9;
+        _id -= 13;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 9)
+        if (_id < 13)
             *reinterpret_cast<int*>(_a[0]) = -1;
-        _id -= 9;
+        _id -= 13;
     }
     return _id;
 }
@@ -432,9 +465,21 @@ void WFtpClient::errorTo()
 {
     QMetaObject::activate(this, &staticMetaObject, 4, Q_NULLPTR);
 }
+
+// SIGNAL 5
+void WFtpClient::errBeg()
+{
+    QMetaObject::activate(this, &staticMetaObject, 5, Q_NULLPTR);
+}
+
+// SIGNAL 6
+void WFtpClient::errEnd()
+{
+    QMetaObject::activate(this, &staticMetaObject, 6, Q_NULLPTR);
+}
 struct qt_meta_stringdata_WNetFtpClient_t {
     QByteArrayData data[18];
-    char stringdata0[174];
+    char stringdata0[182];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -449,25 +494,25 @@ QT_MOC_LITERAL(2, 23, 0), // ""
 QT_MOC_LITERAL(3, 24, 8), // "downlTen"
 QT_MOC_LITERAL(4, 33, 11), // "endFormList"
 QT_MOC_LITERAL(5, 45, 11), // "endDownload"
-QT_MOC_LITERAL(6, 57, 5), // "start"
-QT_MOC_LITERAL(7, 63, 11), // "getListFrom"
-QT_MOC_LITERAL(8, 75, 3), // "err"
-QT_MOC_LITERAL(9, 79, 12), // "downloadStop"
-QT_MOC_LITERAL(10, 92, 4), // "list"
-QT_MOC_LITERAL(11, 97, 11), // "downloadTen"
-QT_MOC_LITERAL(12, 109, 9), // "startLoad"
-QT_MOC_LITERAL(13, 119, 8), // "getError"
-QT_MOC_LITERAL(14, 128, 5), // "error"
-QT_MOC_LITERAL(15, 134, 9), // "errorText"
-QT_MOC_LITERAL(16, 144, 16), // "downloadProgress"
-QT_MOC_LITERAL(17, 161, 12) // "endDownloads"
+QT_MOC_LITERAL(6, 57, 13), // "sgetListFiles"
+QT_MOC_LITERAL(7, 71, 11), // "getListFrom"
+QT_MOC_LITERAL(8, 83, 3), // "err"
+QT_MOC_LITERAL(9, 87, 12), // "downloadStop"
+QT_MOC_LITERAL(10, 100, 4), // "list"
+QT_MOC_LITERAL(11, 105, 11), // "downloadTen"
+QT_MOC_LITERAL(12, 117, 9), // "startLoad"
+QT_MOC_LITERAL(13, 127, 8), // "getError"
+QT_MOC_LITERAL(14, 136, 5), // "error"
+QT_MOC_LITERAL(15, 142, 9), // "errorText"
+QT_MOC_LITERAL(16, 152, 16), // "downloadProgress"
+QT_MOC_LITERAL(17, 169, 12) // "endDownloads"
 
     },
     "WNetFtpClient\0downStop\0\0downlTen\0"
-    "endFormList\0endDownload\0start\0getListFrom\0"
-    "err\0downloadStop\0list\0downloadTen\0"
-    "startLoad\0getError\0error\0errorText\0"
-    "downloadProgress\0endDownloads"
+    "endFormList\0endDownload\0sgetListFiles\0"
+    "getListFrom\0err\0downloadStop\0list\0"
+    "downloadTen\0startLoad\0getError\0error\0"
+    "errorText\0downloadProgress\0endDownloads"
 };
 #undef QT_MOC_LITERAL
 
@@ -491,14 +536,14 @@ static const uint qt_meta_data_WNetFtpClient[] = {
        5,    0,   85,    2, 0x06 /* Public */,
 
  // slots: name, argc, parameters, tag, flags
-       6,    1,   86,    2, 0x0a /* Public */,
-       7,    2,   89,    2, 0x0a /* Public */,
-       9,    2,   94,    2, 0x0a /* Public */,
-      11,    2,   99,    2, 0x0a /* Public */,
-      12,    0,  104,    2, 0x0a /* Public */,
-      13,    2,  105,    2, 0x0a /* Public */,
-      16,    3,  110,    2, 0x0a /* Public */,
-      17,    0,  117,    2, 0x0a /* Public */,
+       6,    0,   86,    2, 0x0a /* Public */,
+       7,    2,   87,    2, 0x0a /* Public */,
+       9,    2,   92,    2, 0x0a /* Public */,
+      11,    2,   97,    2, 0x0a /* Public */,
+      12,    0,  102,    2, 0x0a /* Public */,
+      13,    2,  103,    2, 0x0a /* Public */,
+      16,    3,  108,    2, 0x0a /* Public */,
+      17,    0,  115,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::Int, QMetaType::QStringList,    2,    2,
@@ -507,7 +552,7 @@ static const uint qt_meta_data_WNetFtpClient[] = {
     QMetaType::Void,
 
  // slots: parameters
-    QMetaType::Void, QMetaType::QStringList,    2,
+    QMetaType::Void,
     QMetaType::Void, QMetaType::Int, QMetaType::QStringList,    8,    2,
     QMetaType::Void, QMetaType::Int, QMetaType::QStringList,    8,   10,
     QMetaType::Void, QMetaType::Int, QMetaType::QStringList,    8,   10,
@@ -529,7 +574,7 @@ void WNetFtpClient::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _i
         case 1: _t->downlTen((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         case 2: _t->endFormList(); break;
         case 3: _t->endDownload(); break;
-        case 4: _t->start((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
+        case 4: _t->sgetListFiles(); break;
         case 5: _t->getListFrom((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         case 6: _t->downloadStop((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;
         case 7: _t->downloadTen((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< QStringList(*)>(_a[2]))); break;

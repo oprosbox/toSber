@@ -1,0 +1,13 @@
+INPUT(
+./release\tobase.o
+./release\findindom.o
+./release\winterface.o
+./release\mainTb.o
+./release\mainwinTb.o
+./release\frombase.o
+./release\wreporttable.o
+./release\moc_tobase.o
+./release\moc_findindom.o
+./release\moc_winterface.o
+./release\moc_mainwinTb.o
+);

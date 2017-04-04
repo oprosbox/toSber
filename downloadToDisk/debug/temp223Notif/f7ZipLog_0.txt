@@ -2,1658 +2,1712 @@
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 238 bytes (1 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170103_000000_20170103_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170103_000000_20170103_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 238
 
 Everything is Ok
 
 Size:       0
-Compressed: 266
+Compressed: 238
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 3236 bytes (4 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170104_000000_20170104_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170104_000000_20170104_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 3236
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
-
-7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
-
-Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
-
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
---
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
-Type = zip
-Physical Size = 266
-
-Everything is Ok
-
-Size:       0
-Compressed: 266
-
-7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
-
-Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
-
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
---
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
-Type = zip
-Physical Size = 266
-
-Everything is Ok
-
-Size:       0
-Compressed: 266
+Size:       11540
+Compressed: 3236
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 151256 bytes (148 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170105_000000_20170105_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170105_000000_20170105_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 151256
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 44
+Size:       563549
+Compressed: 151256
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 170395 bytes (167 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170106_000000_20170106_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170106_000000_20170106_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 170395
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 48
+Size:       641753
+Compressed: 170395
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 238 bytes (1 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170107_000000_20170107_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170107_000000_20170107_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 238
 
 Everything is Ok
 
 Size:       0
-Compressed: 266
+Compressed: 238
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 187161 bytes (183 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170108_000000_20170108_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170108_000000_20170108_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 187161
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 51
+Size:       729834
+Compressed: 187161
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 2036581 bytes (1989 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 2036581
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 629
+Size:       7895423
+Compressed: 2036581
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 2547714 bytes (2489 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 2547714
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 719
+Size:       9587620
+Compressed: 2547714
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 3197911 bytes (3123 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 3197911
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 896
+Size:       12268024
+Compressed: 3197911
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 1788736 bytes (1747 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_004.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170109_000000_20170109_235959_daily_004.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 1788736
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 511
+Size:       6952020
+Compressed: 1788736
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 2281248 bytes (2228 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 2281248
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 653
+Size:       8406328
+Compressed: 2281248
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 2900746 bytes (2833 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 2900746
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 845
+Size:       10868136
+Compressed: 2900746
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 2199717 bytes (2149 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170110_000000_20170110_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 2199717
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 645
+Size:       8288556
+Compressed: 2199717
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1250926 bytes (1222 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1250926
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 355
+Size:       4924342
+Compressed: 1250926
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 969192 bytes (947 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 969192
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 277
+Size:       3620258
+Compressed: 969192
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 266 bytes (1 KiB)
+1 file, 1900086 bytes (1856 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 266
+Physical Size = 1900086
 
 Everything is Ok
 
-Size:       0
-Compressed: 266
+Files: 547
+Size:       7084568
+Compressed: 1900086
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1859806 bytes (1817 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_004.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_004.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1859806
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 542
+Size:       7125860
+Compressed: 1859806
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 2072197 bytes (2024 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_005.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_005.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 2072197
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 600
+Size:       8009300
+Compressed: 2072197
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 3044082 bytes (2973 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_006.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_006.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 3044082
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 886
+Size:       11864201
+Compressed: 3044082
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1193696 bytes (1166 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_007.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170111_000000_20170111_235959_daily_007.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1193696
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 350
+Size:       4566117
+Compressed: 1193696
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1432427 bytes (1399 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1432427
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 416
+Size:       5474536
+Compressed: 1432427
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1719537 bytes (1680 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1719537
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 500
+Size:       6447676
+Compressed: 1719537
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 2391441 bytes (2336 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 2391441
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 691
+Size:       9018251
+Compressed: 2391441
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 847340 bytes (828 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_004.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170112_000000_20170112_235959_daily_004.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 847340
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 249
+Size:       3147892
+Compressed: 847340
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 252 bytes (1 KiB)
+1 file, 1248939 bytes (1220 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 252
+Physical Size = 1248939
 
 Everything is Ok
 
-Size:       0
-Compressed: 252
+Files: 359
+Size:       4637477
+Compressed: 1248939
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 6353 bytes (7 KiB)
+1 file, 2041234 bytes (1994 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 6353
+Physical Size = 2041234
 
 Everything is Ok
 
-Files: 2
-Size:       23471
-Compressed: 6353
+Files: 584
+Size:       7761405
+Compressed: 2041234
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3332 bytes (4 KiB)
+1 file, 2652875 bytes (2591 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170113_000000_20170113_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 3332
+Physical Size = 2652875
 
 Everything is Ok
 
-Size:       11727
-Compressed: 3332
+Files: 763
+Size:       10485826
+Compressed: 2652875
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3137 bytes (4 KiB)
+1 file, 720476 bytes (704 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170114_000000_20170114_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170114_000000_20170114_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 3137
+Physical Size = 720476
 
 Everything is Ok
 
-Size:       11318
-Compressed: 3137
+Files: 207
+Size:       2720737
+Compressed: 720476
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 6239 bytes (7 KiB)
+1 file, 466331 bytes (456 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170115_000000_20170115_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170115_000000_20170115_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 6239
+Physical Size = 466331
 
 Everything is Ok
 
-Files: 2
-Size:       22740
-Compressed: 6239
+Files: 141
+Size:       1739850
+Compressed: 466331
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 17937 bytes (18 KiB)
+1 file, 1135621 bytes (1110 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 17937
+Physical Size = 1135621
 
 Everything is Ok
 
-Files: 6
-Size:       66526
-Compressed: 17937
+Files: 328
+Size:       4191421
+Compressed: 1135621
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 12510 bytes (13 KiB)
+1 file, 2315645 bytes (2262 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 12510
+Physical Size = 2315645
 
 Everything is Ok
 
-Files: 4
-Size:       46590
-Compressed: 12510
+Files: 665
+Size:       8665056
+Compressed: 2315645
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3253 bytes (4 KiB)
+1 file, 2582222 bytes (2522 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170116_000000_20170116_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 3253
+Physical Size = 2582222
 
 Everything is Ok
 
-Size:       11967
-Compressed: 3253
+Files: 753
+Size:       9668983
+Compressed: 2582222
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2562 bytes (3 KiB)
+1 file, 1741038 bytes (1701 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 2562
+Physical Size = 1741038
 
 Everything is Ok
 
-Size:       9304
-Compressed: 2562
+Files: 498
+Size:       6383707
+Compressed: 1741038
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2521 bytes (3 KiB)
+1 file, 2278223 bytes (2225 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170316_000000_20170316_235959_daily_002.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 2521
+Physical Size = 2278223
 
 Everything is Ok
 
-Size:       9084
-Compressed: 2521
+Files: 656
+Size:       8538283
+Compressed: 2278223
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2459 bytes (3 KiB)
+1 file, 1681555 bytes (1643 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170117_000000_20170117_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 2459
+Physical Size = 1681555
 
 Everything is Ok
 
-Size:       9449
-Compressed: 2459
+Files: 482
+Size:       6432685
+Compressed: 1681555
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 5147 bytes (6 KiB)
+1 file, 1373406 bytes (1342 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 5147
+Physical Size = 1373406
 
 Everything is Ok
 
-Files: 2
-Size:       18705
-Compressed: 5147
+Files: 397
+Size:       5228997
+Compressed: 1373406
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2874 bytes (3 KiB)
+1 file, 2245938 bytes (2194 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 2874
+Physical Size = 2245938
 
 Everything is Ok
 
-Size:       10092
-Compressed: 2874
+Files: 648
+Size:       8618213
+Compressed: 2245938
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2400 bytes (3 KiB)
+1 file, 934794 bytes (913 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170118_000000_20170118_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 2400
+Physical Size = 934794
 
 Everything is Ok
 
-Size:       8724
-Compressed: 2400
+Files: 273
+Size:       3437928
+Compressed: 934794
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2568 bytes (3 KiB)
+1 file, 1570853 bytes (1535 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170119_000000_20170119_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contractCompleting_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170119_000000_20170119_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 2568
+Physical Size = 1570853
 
 Everything is Ok
 
-Size:       8691
-Compressed: 2568
+Files: 452
+Size:       5972720
+Compressed: 1570853
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 1132672 bytes (1107 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 1132672
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 331
+Size:       4145320
+Compressed: 1132672
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 1882022 bytes (1838 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 1882022
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 539
+Size:       7002577
+Compressed: 1882022
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 2409165 bytes (2353 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 2409165
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 694
+Size:       9086464
+Compressed: 2409165
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 1800867 bytes (1759 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_004.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170120_000000_20170120_235959_daily_004.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 1800867
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 524
+Size:       6792670
+Compressed: 1800867
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 224001 bytes (219 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170121_000000_20170121_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170121_000000_20170121_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 224001
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 63
+Size:       909648
+Compressed: 224001
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 34163 bytes (34 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170122_000000_20170122_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170122_000000_20170122_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 34163
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 10
+Size:       123032
+Compressed: 34163
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 1439006 bytes (1406 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 1439006
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 412
+Size:       5427510
+Compressed: 1439006
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 264 bytes (1 KiB)
+1 file, 2159949 bytes (2110 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\lotCancellation_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 264
+Physical Size = 2159949
 
 Everything is Ok
 
-Size:       0
-Compressed: 264
+Files: 626
+Size:       8113092
+Compressed: 2159949
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2230 bytes (3 KiB)
+1 file, 1738167 bytes (1698 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170123_000000_20170123_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 2230
+Physical Size = 1738167
 
 Everything is Ok
 
-Size:       9426
-Compressed: 2230
+Files: 504
+Size:       6616707
+Compressed: 1738167
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 2460 bytes (3 KiB)
+1 file, 1487845 bytes (1453 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 2460
+Physical Size = 1487845
 
 Everything is Ok
 
-Size:       14182
-Compressed: 2460
+Files: 430
+Size:       5506220
+Compressed: 1487845
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 4925 bytes (5 KiB)
+1 file, 2348859 bytes (2294 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\orderClause_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 4925
+Physical Size = 2348859
 
 Everything is Ok
 
-Files: 2
-Size:       30168
-Compressed: 4925
+Files: 674
+Size:       8861192
+Compressed: 2348859
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1583947 bytes (1547 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170124_000000_20170124_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1583947
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 460
+Size:       5930570
+Compressed: 1583947
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 238 bytes (1 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170125_000000_20170125_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170125_000000_20170125_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 238
 
 Everything is Ok
 
 Size:       0
-Compressed: 276
+Compressed: 238
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2131022 bytes (2082 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170126_000000_20170126_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170126_000000_20170126_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2131022
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 614
+Size:       8290361
+Compressed: 2131022
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2839850 bytes (2774 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170126_000000_20170126_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170126_000000_20170126_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2839850
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 813
+Size:       10973304
+Compressed: 2839850
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2200503 bytes (2149 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170127_000000_20170127_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170127_000000_20170127_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2200503
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 633
+Size:       8355432
+Compressed: 2200503
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1979985 bytes (1934 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170127_000000_20170127_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170127_000000_20170127_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1979985
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 574
+Size:       7556994
+Compressed: 1979985
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 34003 bytes (34 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170128_000000_20170128_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170128_000000_20170128_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 34003
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 9
+Size:       139453
+Compressed: 34003
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1418755 bytes (1386 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1418755
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 407
+Size:       5314479
+Compressed: 1418755
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1341600 bytes (1311 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1341600
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 384
+Size:       5208811
+Compressed: 1341600
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2469174 bytes (2412 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2469174
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 721
+Size:       9203174
+Compressed: 2469174
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2794784 bytes (2730 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_004.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_004.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2794784
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 809
+Size:       10456274
+Compressed: 2794784
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1157015 bytes (1130 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_005.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170130_000000_20170130_235959_daily_005.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1157015
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 337
+Size:       4410751
+Compressed: 1157015
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 1531298 bytes (1496 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 1531298
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 443
+Size:       5687135
+Compressed: 1531298
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2669682 bytes (2608 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2669682
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 776
+Size:       10113986
+Compressed: 2669682
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 276 bytes (1 KiB)
+1 file, 2925003 bytes (2857 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\protocolLotAllocation_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170131_000000_20170131_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 276
+Physical Size = 2925003
 
 Everything is Ok
 
-Size:       0
-Compressed: 276
+Files: 858
+Size:       10860177
+Compressed: 2925003
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3282 bytes (4 KiB)
+1 file, 2050068 bytes (2003 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 3282
+Physical Size = 2050068
 
 Everything is Ok
 
-Files: 2
-Size:       10258
-Compressed: 3282
+Files: 588
+Size:       7823194
+Compressed: 2050068
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 1746 bytes (2 KiB)
+1 file, 2707536 bytes (2645 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 1746
+Physical Size = 2707536
 
 Everything is Ok
 
-Size:       5501
-Compressed: 1746
+Files: 791
+Size:       10111625
+Compressed: 2707536
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 1937 bytes (2 KiB)
+1 file, 2777576 bytes (2713 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170201_000000_20170201_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 1937
+Physical Size = 2777576
 
 Everything is Ok
 
-Size:       6203
-Compressed: 1937
+Files: 807
+Size:       10330971
+Compressed: 2777576
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 8801 bytes (9 KiB)
+1 file, 1901936 bytes (1858 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\purchaseContractAccount_Adygeya_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 8801
+Physical Size = 1901936
 
 Everything is Ok
 
-Files: 5
-Size:       26818
-Compressed: 8801
+Files: 551
+Size:       7029360
+Compressed: 1901936
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2889529 bytes (2822 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2889529
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 835
+Size:       10951823
+Compressed: 2889529
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2433581 bytes (2377 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170202_000000_20170202_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2433581
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 705
+Size:       9248432
+Compressed: 2433581
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 1425719 bytes (1393 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 1425719
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 409
+Size:       5380878
+Compressed: 1425719
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2678212 bytes (2616 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170318_000000_20170318_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2678212
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 775
+Size:       10095237
+Compressed: 2678212
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 1751678 bytes (1711 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170203_000000_20170203_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 1751678
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 506
+Size:       6842583
+Compressed: 1751678
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 259521 bytes (254 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170204_000000_20170204_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170204_000000_20170204_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 259521
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 76
+Size:       957327
+Compressed: 259521
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 69872 bytes (69 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170205_000000_20170205_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170205_000000_20170205_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 69872
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 19
+Size:       257778
+Compressed: 69872
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 1940074 bytes (1895 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170206_000000_20170206_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170206_000000_20170206_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 1940074
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 551
+Size:       7583409
+Compressed: 1940074
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 677405 bytes (662 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170206_000000_20170206_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170206_000000_20170206_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 677405
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 195
+Size:       2574547
+Compressed: 677405
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 1959742 bytes (1914 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 1959742
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 559
+Size:       7383517
+Compressed: 1959742
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 3370800 bytes (3292 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170326_000000_20170326_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 3370800
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 957
+Size:       12887944
+Compressed: 3370800
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2926360 bytes (2858 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170207_000000_20170207_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2926360
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 811
+Size:       11490532
+Compressed: 2926360
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2176857 bytes (2126 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2176857
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 608
+Size:       8462823
+Compressed: 2176857
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 4065872 bytes (3971 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 4065872
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 1125
+Size:       15877542
+Compressed: 4065872
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 262 bytes (1 KiB)
+1 file, 2123607 bytes (2074 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complainWithdraw_Altay_Resp_20170330_000000_20170330_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170208_000000_20170208_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 262
+Physical Size = 2123607
 
 Everything is Ok
 
-Size:       0
-Compressed: 262
+Files: 577
+Size:       8531499
+Compressed: 2123607
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 2960711 bytes (2892 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170209_000000_20170209_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170209_000000_20170209_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 2960711
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 831
+Size:       11428796
+Compressed: 2960711
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 1306166 bytes (1276 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170209_000000_20170209_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170316_000000_20170316_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170209_000000_20170209_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 1306166
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 345
+Size:       8430035
+Compressed: 1306166
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 2079664 bytes (2031 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 2079664
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 602
+Size:       7846349
+Compressed: 2079664
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 3041842 bytes (2971 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170319_000000_20170319_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 3041842
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 884
+Size:       11333547
+Compressed: 3041842
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 1247919 bytes (1219 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170210_000000_20170210_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 1247919
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 358
+Size:       4801617
+Compressed: 1247919
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 45604 bytes (45 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170211_000000_20170211_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170211_000000_20170211_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 45604
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 13
+Size:       169596
+Compressed: 45604
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 59331 bytes (58 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170212_000000_20170212_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170322_000000_20170322_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170212_000000_20170212_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 59331
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 17
+Size:       220567
+Compressed: 59331
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 2649270 bytes (2588 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170213_000000_20170213_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170323_000000_20170323_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170213_000000_20170213_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 2649270
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 753
+Size:       10513147
+Compressed: 2649270
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 2974054 bytes (2905 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170213_000000_20170213_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170324_000000_20170324_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170213_000000_20170213_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 2974054
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 852
+Size:       11398359
+Compressed: 2974054
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 1831886 bytes (1789 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170327_000000_20170327_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 1831886
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 520
+Size:       6888152
+Compressed: 1831886
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 3116798 bytes (3044 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170328_000000_20170328_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 3116798
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 899
+Size:       11714964
+Compressed: 3116798
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 248 bytes (1 KiB)
+1 file, 106059 bytes (104 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_003.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\complaint_Altay_Resp_20170329_000000_20170329_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170214_000000_20170214_235959_daily_003.xml.zip
 Type = zip
-Physical Size = 248
+Physical Size = 106059
 
 Everything is Ok
 
-Size:       0
-Compressed: 248
+Files: 32
+Size:       387122
+Compressed: 106059
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 9936 bytes (10 KiB)
+1 file, 1892858 bytes (1849 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170215_000000_20170215_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170315_000000_20170315_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170215_000000_20170215_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 9936
+Physical Size = 1892858
 
 Everything is Ok
 
-Files: 3
-Size:       36470
-Compressed: 9936
+Files: 541
+Size:       7224783
+Compressed: 1892858
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 9730 bytes (10 KiB)
+1 file, 2940532 bytes (2872 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170315_000000_20170315_235959_daily_002.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170215_000000_20170215_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170315_000000_20170315_235959_daily_002.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170215_000000_20170215_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 9730
+Physical Size = 2940532
 
 Everything is Ok
 
-Files: 3
-Size:       35401
-Compressed: 9730
+Files: 843
+Size:       11248466
+Compressed: 2940532
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3271 bytes (4 KiB)
+1 file, 2037575 bytes (1990 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170216_000000_20170216_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170317_000000_20170317_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170216_000000_20170216_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 3271
+Physical Size = 2037575
 
 Everything is Ok
 
-Size:       11893
-Compressed: 3271
+Files: 581
+Size:       9051959
+Compressed: 2037575
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 3457 bytes (4 KiB)
+1 file, 2785370 bytes (2721 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170216_000000_20170216_235959_daily_002.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170320_000000_20170320_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170216_000000_20170216_235959_daily_002.xml.zip
 Type = zip
-Physical Size = 3457
+Physical Size = 2785370
 
 Everything is Ok
 
-Size:       12352
-Compressed: 3457
+Files: 810
+Size:       10578668
+Compressed: 2785370
 
 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
 
 Scanning the drive for archives:
-1 file, 16720 bytes (17 KiB)
+1 file, 2070307 bytes (2022 KiB)
 
-Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Extracting archive: G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170217_000000_20170217_235959_daily_001.xml.zip
 --
-Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Altay_Resp_20170321_000000_20170321_235959_daily_001.xml.zip
+Path = G:\toSber\downloadToDisk\debug\temp223Notif\contract_Moskva_20170217_000000_20170217_235959_daily_001.xml.zip
 Type = zip
-Physical Size = 16720
+Physical Size = 2070307
 
 Everything is Ok
 
-Files: 5
-Size:       61189
-Compressed: 16720
+Files: 597
+Size:       7955246
+Compressed: 2070307

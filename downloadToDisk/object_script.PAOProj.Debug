@@ -1,0 +1,13 @@
+INPUT(
+./debug\tobase.o
+./debug\findindom.o
+./debug\winterface.o
+./debug\mainTb.o
+./debug\mainwinTb.o
+./debug\frombase.o
+./debug\wreporttable.o
+./debug\moc_tobase.o
+./debug\moc_findindom.o
+./debug\moc_winterface.o
+./debug\moc_mainwinTb.o
+);

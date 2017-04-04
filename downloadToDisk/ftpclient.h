@@ -104,7 +104,9 @@ class WFtpClient:public QObject,protected WFtpFilter
 {Q_OBJECT
 public:  
   WFtpClient();
-  void setStFilter(SFilterStr toFilter){stFilter=toFilter;}
+  void setStFilter(SFilterStr toFilter){stFilter=toFilter;countTimer=0;toLoad=-1;
+                                         connect(&timer,SIGNAL(timeout()),this,SLOT(functTimer()));
+                                         timer.start(2000); }
   int connectServ(QString serv,QString login,QString passv);//коннектится к ftp источнику
   void disconnectServ(void);//отключаем ftp
   void cd(QString cdFromNull);//переходим по указанной директории
@@ -114,18 +116,23 @@ public:
   void readDirectories(void);//читаем список всех директорий из текущего положения
   void readCurrFiles(void);//читаем список всех файлов
   void save(void);//сохраняем уже полученые файлы на жесткий диск
+  QString cdBegin;
 QFtp *ftpLiders;
 public slots:
   void reconToHost();
   void doneURLInfo(QUrlInfo urlInfo);//слот получает список всех файлов
   void ftpConnected(int id,bool hasError);//проверка на ошибки ftp;
   void commFinish(int id,bool hasBed);//окончание комманды
+  void doneEnd(bool hasGood);
+  void functTimer();
 signals:
   void sendError(int,QString);//невозможно создать файл
   void sFiles(int err,QStringList);
   void finished(QStringList);
   void finishedList(QStringList,QStringList);
   void errorTo();
+  void errBeg(void);
+  void errEnd(void);
 protected:
 //QFtp *ftpLiders;
 QList<QFile*> openedFiles;
@@ -142,6 +149,8 @@ QString mserv;
 QString mlogin;
 QString mpassv;
 int currCommGet;
+QTimer timer;
+int countTimer;
 };
 
 
@@ -149,27 +158,31 @@ class WNetFtpClient:public QObject
 { Q_OBJECT
 public:
   void createFtp(QString serv,QString login,QString passv,QString cd,QString dirSave);
-  void destroyFtp(void);
-  void getList(void);
-  void cd(QString path);
-  void getList(QStringList dirList,int count);
+  void destroyFtp(void); 
+  void getListFiles(QStringList &dirList,int count);
   WFtpClient ftpFiles;
-  WNetworkFtp *ftpGet;
 public slots:
-  void start(QStringList);
+  void sgetListFiles(void);
   void getListFrom(int err,QStringList);
   void downloadStop( int err,QStringList list){emit downStop(err,list);}
   void downloadTen(int err,QStringList list){emit downlTen(err,list);}
-  void startLoad(void){start(toNetList);}
+  void startLoad(void){start(toNetList);toNetList.clear();}
   void getError(int error,QString errorText);
   void downloadProgress(QString,qint64,qint64);
-   void endDownloads();
+  void endDownloads(void);
+  //void functTimer(void);
 signals:
    void downStop(int,QStringList);
    void downlTen(int,QStringList);
    void endFormList(void);
    void endDownload(void);
+
 protected:
+   void cd(QString path);
+   //void getListFiles(void);
+   void start(QStringList &listUrl);
+
+   WNetworkFtp *ftpGet;
   QString toNet;
   QString tempCd;
   QStringList toNetList;
@@ -177,6 +190,7 @@ protected:
   QStringList::iterator itDirList;
   QStringList dirListBig;
   int countBack;
+  QTimer updateConnect;
 };
 
 

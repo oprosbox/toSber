@@ -48,10 +48,12 @@ protected:
 class WLoadZipThread:public QThread
 {Q_OBJECT
  public:
- WLoadZipThread(){ LoadZip.moveToThread(this);}
+ WLoadZipThread(){ //LoadZip.moveToThread(this);
+                 }
   WLoadZip LoadZip;
   QStringList listPathZip;
  void run(){LoadZip.startUnpackWork(listPathZip);}
+            //this->deleteLater();}
 };
 //--------------------------------------------------------------------------------------------------
 struct SInputFtp

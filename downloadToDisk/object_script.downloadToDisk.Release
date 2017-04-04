@@ -1,6 +1,4 @@
 INPUT(
-./release\main.o
-./release\mainwindow.o
 ./release\findindom.o
 ./release\ftpclient.o
 ./release\fzunpack.o
@@ -9,6 +7,8 @@ INPUT(
 ./release\qurlinfo.o
 ./release\interface.o
 ./release\tobase.o
+./release\mainwin.o
+./release\mainw.o
 ./release\moc_mainwindow.o
 ./release\moc_findindom.o
 ./release\moc_ftpclient.o

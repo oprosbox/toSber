@@ -28,11 +28,10 @@ struct SNotif
 {
   QString inn;
   QString name_organization;
-  QString type_notif;
-  int date_begin;
-  QString date_beginUTC;
-  int date_end;
-  QString date_endUTC;
+  QString inn_supplier;
+  QString name_organization_supplier;
+  int date;
+  QString dateUTC;
   QString guid;
   QString data;
 };
@@ -45,7 +44,7 @@ public:
     bool start(QString url,QString database,QString login, QString pass);
     void stop();
     bool createTable223Notif();
-    bool insertToBase223Notif(SNotif &notif);
+    bool insertToBase223Notif(SNotif &notif,QSqlError &error);
     bool createTable223Dishon();
     bool insertToBase223Dishon(SDishon &dishon);
     bool selectNotif(int inn,QDateTime tmBegin,QDateTime tmEnd,QStringList &notif);

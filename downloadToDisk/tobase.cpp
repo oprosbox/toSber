@@ -28,22 +28,22 @@ QSqlDatabase::removeDatabase("dbPAO");
 void WToBASE::prepare()
 {
 
-  queryNotif->prepare("INSERT INTO NOTIFI223FZ (id,inn,name_organization,type_notif,date_begin,date_beginUTC,date_end,date_endUTC,data_id)"
-                     "VALUES (:id, :inn, :name, :type, :date_begin,:date_beginUTC, :date_end, :date_endUTC, :data_id);");
+  queryNotif->prepare("INSERT INTO NOTIFI223FZ(inn,name_organization,inn_supplier,name_organization_supplier,date,dateUTC,guid)"
+                     "VALUES (:inn, :name, :inn_supplier, :name_supplier, :date,:dateUTC, :guid);");
 
-  queryDishon->prepare("INSERT INTO DISHON223FZ (id,inn,name_organization,date_add,date_addUTC,data_id)"
-                      "VALUES (:id, :inn, :name, :date_add,:date_addUTC, :data_id);");
+  queryDishon->prepare("INSERT INTO DISHON223FZ (inn,name_organization,date_add,date_addUTC,guid)"
+                      "VALUES (:inn, :name, :date_add,:date_addUTC, :guid);");
 
-  queryNotifData->prepare("INSERT INTO NOTIF223FZDATA (id_data,data)"
-                      "VALUES (:id, :data);");
+  queryNotifData->prepare("INSERT INTO NOTIFI223FZDATA (guid,data)"
+                      "VALUES (:guid, :data);");
 
-  queryDishonData->prepare("INSERT INTO DISHON223FZDATA (id_data,data)"
-                      "VALUES (:id, :data);");
+  queryDishonData->prepare("INSERT INTO DISHON223FZDATA (guid,data)"
+                      "VALUES (:guid, :data);");
 
-  queryNotifSelectData->prepare("SELECT data FROM NOTIFI223FZDATA WHERE (data_id="
+  queryNotifSelectData->prepare("SELECT data FROM NOTIFI223FZDATA WHERE (guid="
                                "(SELECT data_id FROM NOTIFI223FZ WHERE ((:inn=inn) AND (date_begin>:date_start) AND (date_begin>:date_stop))))");
 
-  queryDishonSelectData->prepare("SELECT data FROM DISHON223FZDATA WHERE (data_id="
+  queryDishonSelectData->prepare("SELECT data FROM DISHON223FZDATA WHERE (guid="
                                "(SELECT data_id FROM DISHON223FZ WHERE (:inn=inn)));");
 
 }
@@ -59,7 +59,7 @@ bool WToBASE::start(QString url,QString database,QString login, QString pass)
     return true;}
     return false;
 }
-
+//---------------------------------------------------------------------------------------------
 void WToBASE::stop()
 {if(base.isOpen())
     {delete queryNotif;
@@ -70,25 +70,23 @@ void WToBASE::stop()
     delete queryDishonSelectData;
     closeConn();}
 }
-//------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------------
 bool WToBASE::createTable223Notif()
-{ //QSqlQuery* query=new QSqlQuery(base);
+{
   queryNotif->prepare(
         "CREATE TABLE NOTIFI223FZ ("
-        "id INTEGER PRIMARY KEY NOT NULL,"
-        "inn CHAR(10),"
+        "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
+        "inn varchar(20),"
         "name_organization varchar(3000),"
-        "type_notif CHAR(20),"
-        "date_begin INTEGER,"
-        "date_beginUTC varchar(20),"
-        "date_end INTEGER,"
-        "date_endUTC varchar(20),"
-        "data_id CHAR(40));"
+        "inn_supplier varchar(20),"
+        "name_organization_supplier varchar(3000),"
+        "date INTEGER,"
+        "dateUTC varchar(20),"
+        "guid varchar(50));"
         "CREATE TABLE NOTIFI223FZDATA ("
-        "data_id CHAR(40) PRIMARY KEY,"
+        "guid varchar(50) PRIMARY KEY,"
         "data varchar(MAX));"
        );
-  //bool flg=query->exec();
   if(!queryNotif->exec())return false;
  return true;
 }
@@ -97,14 +95,14 @@ bool WToBASE::createTable223Dishon()
 {
   queryDishon->prepare(
         "CREATE TABLE DISHON223FZ ("
-        "id INTEGER PRIMARY KEY NOT NULL,"
-        "inn CHAR(10),"
+        "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
+        "inn CHAR(20),"
         "name_organization varchar(3000),"
         "date_add INTEGER,"
         "date_addUTC varchar(20),"
-        "data_id CHAR(40));"
+        "guid varchar(50));"
         "CREATE TABLE DISHON223FZDATA ("
-        "data_id CHAR(40) PRIMARY KEY,"
+        "guid varchar(50) PRIMARY KEY,"
         "data varchar(MAX));"
        );
   if(!queryDishon->exec())return false;
@@ -114,34 +112,33 @@ bool WToBASE::createTable223Dishon()
 bool WToBASE::insertToBase223Dishon(SDishon &dish)
 { //QSqlDatabase::database().transaction();
   queryDishon->bindValue(":inn", dish.inn);
-  queryDishon->bindValue(":name_organization", dish.name_organization);
+  queryDishon->bindValue(":name", dish.name_organization);
   queryDishon->bindValue(":date_add", dish.date_add);
   queryDishon->bindValue(":date_addUTC", dish.date_addUTC);
-  queryDishon->bindValue(":data_id",dish.guid);
+  queryDishon->bindValue(":guid",dish.guid);
   if(!queryDishon->exec())return false;
 
-  queryDishonData->bindValue(":data_id", dish.guid);
+  queryDishonData->bindValue(":guid", dish.guid);
   queryDishonData->bindValue(":data",dish.data);
   if(!queryDishonData->exec())return false;
  // QSqlDatabase::database().commit();
   return true;
 }
 //------------------------------------------------------------------
-bool WToBASE::insertToBase223Notif(SNotif &notif)
+bool WToBASE::insertToBase223Notif(SNotif &notif,QSqlError &error)
 { //QSqlDatabase::database().transaction();
   queryNotif->bindValue(":inn", notif.inn);
-  queryNotif->bindValue(":name_organization", notif.name_organization);
-  queryNotif->bindValue(":date_begin", notif.date_begin);
-  queryNotif->bindValue(":date_beginUTC", notif.date_beginUTC);
-  queryNotif->bindValue(":date_end", notif.date_begin);
-  queryNotif->bindValue(":date_endUTC", notif.date_beginUTC);
-  queryNotif->bindValue(":data_id",notif.guid);
-  queryNotif->bindValue(":type_notif",notif.type_notif);
-  if(!queryNotif->exec())return false;
+  queryNotif->bindValue(":name", notif.name_organization);
+  queryNotif->bindValue(":inn_supplier", notif.inn_supplier);
+  queryNotif->bindValue(":name_supplier", notif.name_organization_supplier);
+  queryNotif->bindValue(":date", notif.date);
+  queryNotif->bindValue(":dateUTC", notif.dateUTC);
+  queryNotif->bindValue(":guid",notif.guid);
+  if(!queryNotif->exec()) {error=queryNotifData->lastError();return false;}
 
-  queryNotifData->bindValue(":data_id", notif.guid);
+  queryNotifData->bindValue(":guid", notif.guid);
   queryNotifData->bindValue(":data",notif.data);
-  if(!queryNotifData->exec())return false;
+  if(!queryNotifData->exec()){error=queryNotifData->lastError();return false;}
   //QSqlDatabase::database().commit();
   return true;
 }
@@ -181,23 +178,25 @@ bool WToBASE::selectDishon(int inn,QStringList &dishon)
 }
 //-------------------------------------------------------------------------------------------
 bool WBaseWR::start(QString url,QString database,QString login, QString pass)
-{bool flgOpen=openMSSQL(url,database,login,pass);
+{
+ bool flgOpen=WToBASE::start(url,database,login,pass);
 if(flgOpen){prepare();}
 
 return flgOpen;
 }
-
-
 
 //--------------------------------------------------------------------------------------------
 bool WBaseWR::writeToNotif(QStringList findObjects)
 {
 QList<SNotif> lstNotif;
 toSNotif(findObjects,lstNotif);
+QSqlError error;
+QString err;
 for(auto i=lstNotif.begin();i!=lstNotif.end();i++)
   {
-if(insertToBase223Notif(*i)){}
-                    else{return false;}
+if(insertToBase223Notif(*i,error)){}
+                    else{QString err=error.text();
+                         int ou=0;}
   }
 return true;
 }
@@ -231,23 +230,24 @@ void WBaseWR::toSNotif(QStringList &list,QList<SNotif> &lstNotif)
       if(temp.size()!=0){notif.name_organization=temp[0];}
                         else {notif.name_organization="";}
 
-      ndom::WFindInDom::findInText(*i,QStringList({"publicationDate"}),temp);
-      if(temp.size()!=0){notif.date_beginUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddTHH:mm:ss");
-                         notif.date_begin=time.toTime_t();}
-                     else{notif.date_begin=0;
-                          notif.date_beginUTC="";
-                          }
-//      ndom::WFindInDom::findInText(*i,QStringList({"summingupTime"}),temp);
-//      if(temp.size()!=0){notif.date_endUTC=temp[0];
-//                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddTHH:mm:ss");
-//                         notif.date_end=time.toTime_t();}
-//                        else{notif.date_endUTC="";
-//                             notif.date_end=0;}
+      ndom::WFindInDom::findInText(*i,QStringList({"supplierInfo","inn"}),temp);
+      if(temp.size()!=0){notif.inn_supplier=temp[0]; }
+                         else{notif.inn_supplier="";}
 
-      ndom::WFindInDom::findInText(*i,QStringList({"purchaseCodeName"}),temp);
-      if(temp.size()!=0){notif.type_notif=temp[0];}
-                        else{notif.type_notif="";}
+      ndom::WFindInDom::findInText(*i,QStringList({"supplierInfo","name"}),temp);
+      if(temp.size()!=0){notif.name_organization_supplier=temp[0];}
+      //else{ndom::WFindInDom::findInText(*i,QStringList({"contractInfo","supplierName"}),temp);
+      //        if(temp.size()!=0) {notif.name_organization_supplier=temp[0];}
+              else {notif.name_organization_supplier="";}
+
+      ndom::WFindInDom::findInText(*i,QStringList({"contractDate"}),temp);
+      if(temp.size()!=0){notif.dateUTC=temp[0];
+                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-dd");
+                         notif.date=time.toTime_t();}
+                          else{notif.date=0;
+                          notif.dateUTC="";
+                          }
+
       ndom::WFindInDom::findInText(*i,QStringList({"header","guid"}),temp);
       if(temp.size()!=0){notif.guid=temp[0];}
                         else{notif.guid="";}

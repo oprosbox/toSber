@@ -80,7 +80,8 @@ bool WFindInDom::findInFile(QString path,QList<SListVal> &value)
 }
 //----------------------------------------------------------------------------------------------
 bool WFindInDom::findInText(QString &xmlText,QStringList teg,QStringList &valOut)
-{QDomDocument doc;
+{QDomDocument doc;//QRegExp("[a-z]{1,3}[0-9]:")
+  xmlText.replace(QRegExp("[a-z]{1,2}[0-9]{1}:{1}"),"");
   valOut.clear();
   doc.setContent(xmlText);
   QDomNodeList controls = doc.elementsByTagName(teg.back());
@@ -96,6 +97,25 @@ bool WFindInDom::findInText(QString &xmlText,QStringList teg,QStringList &valOut
        return true;
 }
 
+//----------------------------------------------------------------------------------------------
+bool WFindInDom::findInText(QString &xmlText,QStringList teg,QString &valOut)
+{QDomDocument doc;//QRegExp("[a-z]{1,3}[0-9]:")
+  xmlText.replace(QRegExp("[a-z]{1,2}[0-9]{1}:{1}"),"");
+  valOut.clear();
+  doc.setContent(xmlText);
+  QDomNodeList controls = doc.elementsByTagName(teg.back());
+  bool flgIt;
+  for(int i=0;i<controls.length();i++)
+  {  //ищем необходимое вложение
+      flgIt=controlNode(controls.at(i),teg,teg.size());
+     if(!flgIt){}
+     else{ //добавляет значения в список
+           valOut=controls.at(i).toElement().text();
+           break;
+           }
+  }
+       return true;
+}
 //----------------------------------------------------------------------------------------------
 bool WFindInDom::findInFile(QString path,QStringList &listVal)
 {

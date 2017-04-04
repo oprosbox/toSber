@@ -25,16 +25,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 
-SOURCES += main.cpp\
-        mainwindow.cpp \
+SOURCES +=\
     tobase.cpp \
     findindom.cpp \
-    winterface.cpp
+    winterface.cpp \
+    mainTb.cpp \
+    mainwinTb.cpp
 
-HEADERS  += mainwindow.h \
+HEADERS  += \
     tobase.h \
     findindom.h \
-    winterface.h
+    winterface.h \
+    mainwinTb.h
 
-FORMS    += mainwindow.ui
+FORMS    += \
+    winTable.ui
 RC_FILE  += sbicon.rc

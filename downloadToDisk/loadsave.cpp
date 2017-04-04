@@ -92,7 +92,7 @@ void WLoadZip::fromDirToEnd(QStringList strListFrom)//обрабатывает �
   connect(domObj,SIGNAL(allThreadsStop(int)),this,SLOT(delObjThreads(int)));
   connect(domObj,SIGNAL(allThreadsLists(QStringList)),this,SLOT(formListFiles(QStringList)));
   if(tegFind.size()>0)domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);
-  else domObj->createObj(strListFrom,pathToEnd, tegFindExp, valFind,flgClearAll);
+  else if(tegFindExp.size()>0)domObj->createObj(strListFrom,pathToEnd, tegFindExp, valFind,flgClearAll);
   domObj->startThreads();
   listThread.push_back(domObj);
 }
@@ -103,7 +103,7 @@ void  WLoadZip::delObjThreads(int idLocal)
   if(countObj<1)
     {for(auto it=listThread.begin();it!=listThread.end();it++)
         {
-         if((*it)->id==idLocal){(*it)->deleteLater();
+         if((*it)->id==idLocal){//(*it)->deleteLater();
                                 listThread.erase(it);
                                 break;}
         }
@@ -140,9 +140,9 @@ int WLoadFtp::createFtp(SInputFtp inputFtp)
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
 {flgDownloadsAll=false;
-client->getList(params.urlList,params.countToExitDirUrl);
+client->getListFiles(params.urlList,params.countToExitDirUrl);
 }
-
+//-------------------------------------------------------------------------------------------------
 void WLoadFtp::nextUnpack(int err,QStringList listGet)
 {
     emit getDownloadFiles(err,listGet);
@@ -160,7 +160,7 @@ void WLoadFtp::nextUnpack(int err,QStringList listGet)
 
 //------------------------------------------------------------------------------------------------
 void  WLoadFtp::endLoad(void)
-{
+{    flgDownloadsAll=true;
      emit allFilesDownload(id);
 
 }
@@ -169,7 +169,7 @@ void WLoadFtp::delObjectThatStop(int idLocal)
 {
   for(auto i=fromZip.begin();i!=fromZip.end();i++)
   {if((*i)->LoadZip.id==idLocal)
-        {(*i)->deleteLater();
+        {
          fromZip.erase(i);
          break;}
   }
@@ -179,8 +179,8 @@ void WLoadFtp::delObjectThatStop(int idLocal)
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-
-    //QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
+    BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
+    QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="fz223free";
     inpFtp.password="fz223free";
@@ -196,36 +196,9 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
     inpFtp.urlPath="out/published";
     for(auto i=regions.begin();i!=regions.end();i++)
     {
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeEP/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeOK/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeOA/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeIS/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeAE94/daily");
-//      inpFtp.urlList.push_back(*i+"/purchaseNoticeZK/daily");
-//      inpFtp.urlList.push_back(*i+"/ListsGWS/daily");
-//      inpFtp.urlList.push_back(*i+"/ListsInnov/daily");
-//      inpFtp.urlList.push_back(*i+"/VolumePurchases/daily");
-//      inpFtp.urlList.push_back(*i+"/attachedOrderClause/daily");
-//      inpFtp.urlList.push_back(*i+"/changeRequirements/daily");
-      inpFtp.urlList.push_back(*i+"/complainWithdraw/daily");
-      inpFtp.urlList.push_back(*i+"/complaint/daily");
-
-//      inpFtp.urlList.push_back(*i+"/complaintDecision/daily");
-//      inpFtp.urlList.push_back(*i+"/complaintVerificationPlan/daily");
-//      inpFtp.urlList.push_back(*i+"/complaintVerificationResult/daily");
       inpFtp.urlList.push_back(*i+"/contract/daily");
-      inpFtp.urlList.push_back(*i+"/contractCompleting/daily");
-      inpFtp.urlList.push_back(*i+"/contractInfo/daily");
-      inpFtp.urlList.push_back(*i+"/explanation/daily");
-
-      inpFtp.urlList.push_back(*i+"/lotCancellation/daily");
-      inpFtp.urlList.push_back(*i+"/orderClause/daily");
-      inpFtp.urlList.push_back(*i+"/protocolLotAllocation/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseContract/daily");
-      inpFtp.urlList.push_back(*i+"/purchaseContractAccount/daily");
-      //inpFtp.urlList.push_back(*i+"/purchasePlan/daily");
-      //inpFtp.urlList.push_back(*i+"/purchasePlanProject/daily");
+      //inpFtp.urlList.push_back(*i+"/contractCompleting/daily");
+      //inpFtp.urlList.push_back(*i+"/contractInfo/daily");
     }
      inpFtp.flgDellArh=CDELDIRANDARH;
 
@@ -235,7 +208,7 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
 void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd)
 {
 
-      QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToDishon(QStringList)));
+      //QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToDishon(QStringList)));
       inpFtp.url="ftp.zakupki.gov.ru";
       inpFtp.login="fz223free";
       inpFtp.password="fz223free";

@@ -30,6 +30,7 @@ public:
     bool findInFile(QString path,QStringList &val);
     bool findInFileAdd(QString path,QStringList &fileFind);
 static  bool findInText(QString &xmlText,QStringList teg,QStringList &valOut);
+static  bool findInText(QString &xmlText,QStringList teg,QString &valOut);
         void setFindAttr(QStringList teg,QString val);
         void setFindAttr(QList<QRegExp> tegs,QString val);
         void setFindAttr(QList<QStringList> tegs);
