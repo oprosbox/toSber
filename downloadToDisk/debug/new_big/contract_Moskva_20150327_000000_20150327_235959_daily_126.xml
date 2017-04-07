@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1">
+    <header>
+        <guid>0648b4da-0cf2-4c67-bca1-148b0fdbaa24</guid>
+        <createDateTime>2015-03-27T10:57:08</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>740c6070-775c-41a4-a89e-61464b121354</guid>
+            <ns2:contractData>
+                <ns2:guid>e8eaa37e-dc6c-4784-b209-2e03078f3b8a</ns2:guid>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=159542&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-03-27T10:55:32</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-03-27T10:57:08</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150003980000</ns2:contractRegNumber>
+                <ns2:name>1600-696</ns2:name>
+                <ns2:contractDate>2015-03-26T00:00:00</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>954f5ccc-db86-4b75-a4b3-01bffe4c5c76</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31501988145</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-02-03T16:56:54</ns2:publicationDateTime>
+                    <ns2:name>[25890] Выбор поставщика услуг по  физической охране ВСП № 8597/ 0319 Ашинского отделения (на правах управления) (Челябинская область, г. Катав-Ивановск, ул. Степана Разина, д.16) -1 полусуточный пост (12 часов)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>0cf7e788-234e-44ae-b006-9403f9feb84e</ns2:lotGuid>
+                <ns2:subjectContract>[25890] Выбор поставщика услуг по  физической охране ВСП № 8597/ 0319 Ашинского отделения (на правах управления) (Челябинская область, г. Катав-Ивановск, ул. Степана Разина, д.16) -1 полусуточный пост (12 часов)</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:resumeDate>2015-02-16T00:00:00</ns2:resumeDate>
+                <ns2:supplierInfo>
+                    <ns2:name>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ЧАСТНАЯ ОХРАННАЯ ОРГАНИЗАЦИЯ "ЛИДЕР"</ns2:name>
+                    <ns2:shortName>ООО ЧОО "ЛИДЕР"</ns2:shortName>
+                    <ns2:inn>7401013722</ns2:inn>
+                    <ns2:kpp>740101001</ns2:kpp>
+                    <ns2:okpo>94828938</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2008-04-16T00:00:00</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>65</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>456120</ns2:postCode>
+                        <ns2:oktmo>75000000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>ЧЕЛЯБИНСКАЯ обл</ns2:fullName>
+                        </ns2:region>
+                        <ns2:area>
+                            <ns2:fullName>КАТАВ-ИВАНОВСКИЙ р-н</ns2:fullName>
+                        </ns2:area>
+                        <ns2:city>
+                            <ns2:fullName>ЮРЮЗАНЬ г</ns2:fullName>
+                        </ns2:city>
+                        <ns2:street>
+                            <ns2:fullName>3 ИНТЕРНАЦИОНАЛА ул</ns2:fullName>
+                        </ns2:street>
+                        <ns2:house>108</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>956280</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-04-01T00:00:00</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-03-31T00:00:00</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>9601d178-260d-4b90-9f08-1755463d7504</ns2:guid>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>7490000</code>
+                            <name>Услуги в области коммерческой и технической деятельности прочие, не включенные в другие группировки</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>1bba110e-bc6a-445d-95a1-0b2746c95035</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31501988145-01</ns2:protocolName>
+                        <ns2:docDate>2015-02-17T00:00:00</ns2:docDate>
+                        <ns2:docNum>31501988145-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

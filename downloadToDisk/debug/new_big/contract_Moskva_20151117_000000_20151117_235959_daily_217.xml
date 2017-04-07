@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.8.10 http://zakupki.gov.ru/223/integration/schema/TFF-3.8.10/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns7="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns10="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1">
+    <header>
+        <guid>59e89d99-fa84-40d0-bb7b-0d6c1f7b74d0</guid>
+        <createDateTime>2015-11-17T16:27:03</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>88967f73-516e-443f-9a46-4990abaf8881</guid>
+            <ns2:contractData>
+                <ns2:guid>cca2d302-9175-4a2a-9f66-b546e527e4bf</ns2:guid>
+                <ns2:registrationNumber>57707083893150033000001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=883645&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-11-17T16:22:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-11-17T16:27:03</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150033000000</ns2:contractRegNumber>
+                <ns2:name>Выбор организации на   разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции помещений инкассации и ремонтно – восстановительных работ фасада, конструктивных элементов кровли на объекте: ВСП №6984/0421 расположенное по адресу: Пермский край,  г. Нытва, ул. К. Маркса, 77 в соответствии требованиями к предмету запроса котировок, указанными в приложении №1 «Техническое задание» к запросу котировок.</ns2:name>
+                <ns2:contractDate>2015-04-28</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>7e87378d-6f82-4e7d-a133-c5b5ae701714</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502163114</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-03-23T17:10:32</ns2:publicationDateTime>
+                    <ns2:name>[26642] Выбор организации на разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции помещений инкассации и ремонтно – восстановительных работ фасада, конструктивных элементов кровли на объекте: ВСП №6984/0421 расположенное по адресу: Пермский край,  г. Нытва, ул. К. Маркса, 77 для нужд ОАО «Сбербанк России» среди поставщиков, аккредитованных по итогам квалификационного отбора 30.01.2015 г.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[26642] Выбор организации на разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции помещений инкассации и ремонтно – восстановительных работ фасада, констр</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "Полимер"</ns2:name>
+                    <ns2:inn>5905279608</ns2:inn>
+                    <ns2:kpp>590401001</ns2:kpp>
+                    <ns2:okpo>67272529</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2010-08-11</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>614039</ns2:postCode>
+                        <ns2:oktmo>57701000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Пермский край</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>7201845.82</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-04-28</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2015-11-27</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>Выбор организации на   разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции помещений инкассации и ремонтно – восстановительных работ фасада, конструктивных элементов кровли на объекте: ВСП №6984/0421 расположенное по адресу: Пермский край,  г. Нытва, ул. К. Маркса, 77 в соответствии требованиями к предмету запроса котировок, указанными в приложении №1 «Техническое задание» к запросу котировок.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>4520000</code>
+                            <name>Услуги по проведению общих строительных работ по возведению зданий и сооружений</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>fade77a1-5306-490e-8580-30db95c25c1a</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31502163114-01</ns2:protocolName>
+                        <ns2:docDate>2015-04-09</ns2:docDate>
+                        <ns2:docNum>24 п.9</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

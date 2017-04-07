@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns12="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns16="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns17="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns18="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/missedNotice/1">
+    <header>
+        <guid>5e984005-b05a-4cce-b843-d3e997c77e9a</guid>
+        <createDateTime>2017-01-27T14:06:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3b536597-acfa-400f-b00b-87589a2efdbd</guid>
+            <ns2:contractData>
+                <ns2:guid>07f5c380-c680-4585-9589-7c6efebe4563</ns2:guid>
+                <ns2:registrationNumber>57707083893170003490001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2781952&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-01-26T15:32:04</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-01-27T14:06:45</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>80b7a54a-a321-4ce0-a3e7-3b22ef4b427c</guid>
+                        <createDateTime>2017-01-26T13:11:56</createDateTime>
+                        <fileName>Договор 79-2017ЦС МавинТехникс от 26.01.2017.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=9963779</url>
+                        <registrationNumber>57707083893170003490002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170003490000</ns2:contractRegNumber>
+                <ns2:name>79/2016ЦС</ns2:name>
+                <ns2:contractDate>2017-01-26</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>d2d2b5f8-6d40-4a9c-b59e-77da7506aa81</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604451769</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-12-08T10:54:48</ns2:publicationDateTime>
+                    <ns2:name>[36934] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП) на выполнение работ по модернизации датчиками газа электронных систем безопасности устройств самообслуживания Сибирского банка ПАО Сбербанк на территории Красноярского края, республики Хакассия, республики Тыва в соответствии с требованиями к предмету запроса котировок, указанными в приложении №1 «Техническое задание» к запросу котировок.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>ef6e752e-88ff-417f-8eea-0c4a38881e3b</ns2:lotGuid>
+                <ns2:subjectContract>[36934] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП) на выполнение работ по модернизации датчиками газа электронных систем безопасности устройств самообслуживания Сиб</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО «Мавин Техникс»</ns2:name>
+                    <ns2:inn>2465232150</ns2:inn>
+                    <ns2:kpp>246001001</ns2:kpp>
+                    <ns2:okpo>64088860</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2010-02-04</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>660048</ns2:postCode>
+                        <ns2:oktmo>03000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Краснодарского края</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>24</ns2:code>
+                            <ns2:name>Красноярский край</ns2:name>
+                        </ns2:region>
+                        <ns2:area>город Красноярск, район Октябрьский</ns2:area>
+                        <ns2:street>улица Калинина</ns2:street>
+                        <ns2:email>mavin-tehniks@yandex.ru</ns2:email>
+                        <ns2:phone>+7(391)2416619; +7(391)6135156</ns2:phone>
+                        <ns2:office>офис помещение 243</ns2:office>
+                        <ns2:house>дом 8</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>3568757</ns2:price>
+                <ns2:rubPrice>3568757</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-26</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-04-01</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>162f45c2-1bc8-4645-8556-6a2fc22cf5ab</ns2:guid>
+                        <ns2:name>1 комплект услуг на выполнение (307 штук)работ по модернизации датчиками газа электронных систем безопасности устройств самообслуживания Сибирского банка ПАО Сбербанк на территории Красноярского края, республики Хакассия, республики Тыва в соответствии с требованиями к предмету запроса котировок, указанными в приложении №1 «Техническое задание» к запросу котировок.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>43.21.10.140</code>
+                            <name>Работы по монтажу систем пожарной сигнализации и охранной сигнализации</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>796</code>
+                            <name>Штука</name>
+                        </ns2:okei>
+                        <ns2:qty>307</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>be0c67b4-0385-4fa3-9324-e9869d5bd707</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604451769-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-29</ns2:docDate>
+                        <ns2:docNum>31604451769-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

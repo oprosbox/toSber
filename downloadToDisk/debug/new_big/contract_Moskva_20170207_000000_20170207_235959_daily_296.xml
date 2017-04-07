@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns16="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns17="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>28891199-bbc2-4294-a5e0-46e6a4270408</guid>
+        <createDateTime>2017-02-07T10:34:32</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>42162a32-9368-4eaa-bd34-88b5fa0a5887</guid>
+            <ns2:contractData>
+                <ns2:guid>50da1171-bb06-4540-bc7d-5ef2de60a7e7</ns2:guid>
+                <ns2:registrationNumber>57707083893170005070001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2845438&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-07T09:57:03</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-07T10:34:32</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>1b4ee791-3da4-4c3c-96f0-75cc09b7b485</guid>
+                        <createDateTime>2017-02-07T09:45:17</createDateTime>
+                        <fileName>ЛД_1605886_03022017.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10356548</url>
+                        <registrationNumber>57707083893170005070002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170005070000</ns2:contractRegNumber>
+                <ns2:name>1605886</ns2:name>
+                <ns2:contractDate>2017-02-03</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>0aea4016-42c9-442e-bd06-3ef3ac8992ed</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31704680092</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2017-01-18T15:39:00</ns2:publicationDateTime>
+                    <ns2:name>[37577] Выбор единственного источника - ЗАО «МТЦ», на основании п.2.2.5.3 Положения о закупках Банка № 2348 от 05.12.2011 г., в качестве  единственного поставщика права на использование программы для ЭВМ, модуля  НПЗ-2 программы для ЭВМ «AFS» и «SСAN-Risk (Social Connections Analysis)» ПО AFS и ScanRisk</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>6f225b8c-7f67-4b8a-a1f3-a6dfeba89556</ns2:lotGuid>
+                <ns2:subjectContract>[37577] Выбор единственного источника - ЗАО «МТЦ», на основании п.2.2.5.3 Положения о закупках Банка № 2348 от 05.12.2011 г., в качестве  единственного поставщика права на использование программы для </ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ЗАО «МТЦ»</ns2:name>
+                    <ns2:inn>7714694100</ns2:inn>
+                    <ns2:kpp>771401001</ns2:kpp>
+                    <ns2:okpo>80844580</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-05-04</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12267</ns2:okopf>
+                    <ns2:okopfName>Непубличные акционерные общества</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>125565</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Москва, район Аэропорт</ns2:area>
+                        <ns2:street>проспект Ленинградский</ns2:street>
+                        <ns2:email>info@mbtc.ru</ns2:email>
+                        <ns2:phone>+7 (495) 795-24-52</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>66</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>2454000</ns2:price>
+                <ns2:rubPrice>2454000</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-02-03</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-02-02</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>120e2b06-95af-42a1-b145-e6d65fcd9787</ns2:guid>
+                        <ns2:name>Право на использование программы для ЭВМ, модуля  НПЗ-2 программы для ЭВМ «AFS» и «SСAN-Risk (Social Connections Analysis)» ПО AFS и ScanRisk, кол-во - 1 компл.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>62</code>
+                            <name>Продукты программные и услуги по разработке программного обеспечения; консультационные и аналогичные услуги в области информационных технологий</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>41ad043a-28b8-434a-8b84-c75c2d5db8a4</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31704680092-01</ns2:protocolName>
+                        <ns2:docDate>2017-01-17</ns2:docDate>
+                        <ns2:docNum>31704680092-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

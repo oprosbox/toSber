@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-4.0 http://zakupki.gov.ru/223/integration/schema/TFF-4.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns11="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1">
+    <header>
+        <guid>6b493dfb-6bea-4649-819a-cabe062dc41a</guid>
+        <createDateTime>2015-12-08T15:05:09</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>c6c5702c-2373-4b17-9c1e-ace881c31bcd</guid>
+            <ns2:contractData>
+                <ns2:guid>6ace5e62-e696-4c0b-8c54-2fe3e9aba91d</ns2:guid>
+                <ns2:registrationNumber>57707083893150036610001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=960413&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-12-08T15:02:04</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-12-08T15:05:09</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150036610000</ns2:contractRegNumber>
+                <ns2:name>Подрядчик по заданию Заказчика обязуется выполнить комплекс работ по праздничному оформлению фасада здания и территории, прилегающей к зданию, сдать результат работ Заказчику, а Заказчик обязуется принять результат работ и оплатить его. Под праздничным оформлением Стороны понимают работы по размещению и монтажу, а также последующему демонтажу  элементов тематического праздничного декора на Объекте и Территории. Конкретные адреса для выполнения Работ по Договору определяются в согласованном Сторо</ns2:name>
+                <ns2:contractDate>2015-12-07</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>82c3e568-d338-4d6d-a6a3-cd576a63b5f4</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502707607</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-08-28T11:59:51</ns2:publicationDateTime>
+                    <ns2:name>[29214] Выбор компании на выполнение работ по оформлению к празднованию Нового 2016 года фасадов зданий и прилегающих к ним территорий на объектах Центрального аппарата ПАО Сбербанк по адресам: г. Москва, ул. Вавилова, д.19 и д.23, г. Москва, ул. Большая Якиманка, д.42, г. Москва, 2-ой Южнопортовый проезд, д.12А, корп. 1, г. Москва, Волгоградский  пр-т, д.32, корп. 45, МО, г. Одинцово, ул. Молодежная, д.21, МО, Люберецкий р-н, пос. Томилино, мик-н Птицефабрика, с  последующими демонтажными работами.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[29214] Выбор компании на выполнение работ по оформлению к празднованию Нового 2016 года фасадов зданий и прилегающих к ним территорий на объектах Центрального аппарата ПАО Сбербанк по адресам: г. Мос</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО «Центум»</ns2:name>
+                    <ns2:inn>7718309359</ns2:inn>
+                    <ns2:kpp>771801001</ns2:kpp>
+                    <ns2:okpo>40245496</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2014-11-25</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>107497</ns2:postCode>
+                        <ns2:oktmo>45300000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>г. Москва</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>2292334.22</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-12-07</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-01-11</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>Подрядчик по заданию Заказчика обязуется выполнить комплекс работ по праздничному оформлению фасада здания и территории, прилегающей к зданию, сдать результат работ Заказчику, а Заказчик обязуется принять результат работ и оплатить его. Под праздничным оформлением Стороны понимают работы по размещению и монтажу, а также последующему демонтажу  элементов тематического праздничного декора на Объекте и Территории. Конкретные адреса для выполнения Работ по Договору определяются в согласованном Сторонами техническом задании на выполнение Работ. Количество: 1 комплект, в соответствии с техническим заданием (приложение №1 к договору).</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>7490000</code>
+                            <name>Услуги в области коммерческой и технической деятельности прочие, не включенные в другие группировки</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>ea0e6be2-e032-40f6-a85e-ee251337bb01</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31502707607-02</ns2:protocolName>
+                        <ns2:docDate>2015-11-17</ns2:docDate>
+                        <ns2:docNum>084/15</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

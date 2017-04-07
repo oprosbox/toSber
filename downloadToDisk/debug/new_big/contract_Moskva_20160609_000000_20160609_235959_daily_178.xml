@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.0 http://zakupki.gov.ru/223/integration/schema/TFF-5.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns12="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns13="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns6="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns7="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1">
+    <header>
+        <guid>456f5d2e-5973-4b81-84e9-71e4c9750bd1</guid>
+        <createDateTime>2016-06-09T14:28:57</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>07b7f532-d6b9-447d-98c2-335c9a1cd73b</guid>
+            <ns2:contractData>
+                <ns2:guid>e57cc9e5-b5a5-451d-91f6-8abe945b8e66</ns2:guid>
+                <ns2:registrationNumber>57707083893160023420001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1749405&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-06-09T14:07:14</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-06-09T14:28:57</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>4fb975ab-848a-4560-8bdf-6066468a129d</guid>
+                        <createDateTime>2016-06-09T12:33:48</createDateTime>
+                        <fileName>ДГ_7944_Лидер.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=3851119</url>
+                        <registrationNumber>57707083893160023420002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160023420000</ns2:contractRegNumber>
+                <ns2:name>6700-7944</ns2:name>
+                <ns2:contractDate>2016-05-11</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>5e1d7e48-6554-4dba-8cc0-6e87dbfef6b2</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603380367</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-03-02T13:15:58</ns2:publicationDateTime>
+                    <ns2:name>[32238] Выбор организации на разработку проекта, поставку, монтаж, проведению пуско-наладочных работ малого грузового лифта BKG 100.45/0  и проведению строительно-монтажных работ на объекте, расположенном по адресу: Тюменская область, с. Омутинское, ул. Первомайская, 81А для нужд Западно-Сибирского банка ПАО Сбербанк.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>95f68654-413f-413f-aa9f-c01afdc53f60</ns2:lotGuid>
+                <ns2:subjectContract>[32238] Выбор организации на разработку проекта, поставку, монтаж, проведению пуско-наладочных работ малого грузового лифта BKG 100.45/0  и проведению строительно-монтажных работ на объекте, расположе</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "Лидер"</ns2:name>
+                    <ns2:inn>8602064550</ns2:inn>
+                    <ns2:kpp>860201001</ns2:kpp>
+                    <ns2:okpo>83322675</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-10-19</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>628403</ns2:postCode>
+                        <ns2:oktmo>71876000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Ханты-Мансийский АО-Югра</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>1353033.38</ns2:price>
+                <ns2:rubPrice>1353033.38</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-05-11</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-08-10</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>3292814e-362c-4de5-a6a2-736c4e952a9d</ns2:guid>
+                        <ns2:name>Выполнение работ по разработке проекта, поставке, монтажу, проведению пуско-наладочных работ малого грузового лифта BKG 100.45/0  и проведению строительно-монтажных работ на объекте, расположенном по адресу: Тюменская область, с. Омутинское, ул. Первомайская, 81А. Перечень Работ, выполняемых Подрядчиком, определен в Проектной документации. Работы на Объекте осуществляются в соответствии с требованиями технических регламентов (нормативными правовыми актами Российской Федерации), нормативных документов, действующих в Российской Федерации (сводов правил, СП, СанПиН, СНиП), Проектной документации. Объем закупки - 1 комплект (согласно проектно-сметной документации, указанном в ТЗ Приложение 1)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>43.29.19.110</code>
+                            <name>Работы по монтажу лифтов, эскалаторов и движущихся тротуаров, требующие специальной квалификации, включая ремонт и техническое обслуживание</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>caa03451-5d47-416b-a3d4-f00ffbcc8326</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603380367-01</ns2:protocolName>
+                        <ns2:docDate>2016-04-11</ns2:docDate>
+                        <ns2:docNum>31603380367-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

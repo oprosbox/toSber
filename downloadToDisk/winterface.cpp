@@ -4,10 +4,19 @@
 #include <QApplication>
 #include <QFileDialog>
 #include "findindom.h"
+#include <algorithm>
+#include <list>
+#include <QHeaderView>
+
 
 void WInterface::createInterface()
 {   base=new WBaseRD;
-    base->connectToBase("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
+
+    QFile fConn(QApplication::applicationDirPath()+"/initFile.txt");
+       fConn.open(QFile::ReadOnly);
+       QString connStr=fConn.readAll();
+       fConn.close();
+    base->connectToBase(connStr,"PAO_SB","lenV","oprosboxopros19");
     baseLine=QList<STypeItem>({{"ИНН подрядчика",C_TYPEITEMSTRING,NULL},
                                 {"компания поставщика услуг",C_TYPEITEMSTRING,NULL},
                                 {"подрядчик",C_TYPEITEMBUTTONS,NULL},
@@ -17,8 +26,15 @@ void WInterface::createInterface()
                                 {"ИНН заказчика",C_TYPEITEMSTRING,NULL},
                                 {"компания заказчика",C_TYPEITEMSTRING,NULL}});
     createTable(baseLine);
-    connect(tableBase,SIGNAL(itemClicked(QTableWidgetItem*)),this,SLOT(createDataReport(QTableWidgetItem*)));
-    connect(tableBase,SIGNAL(itemClicked(QTableWidgetItem*)),this,SLOT(createDishonReport(QTableWidgetItem*)));
+    connect(tableBase,SIGNAL(itemDoubleClicked(QTableWidgetItem*)),this,SLOT(createDataReport(QTableWidgetItem*)));
+    connect(tableBase,SIGNAL(itemDoubleClicked(QTableWidgetItem*)),this,SLOT(createDishonReport(QTableWidgetItem*)));
+    connect(tableBase,SIGNAL(itemDoubleClicked(QTableWidgetItem*)),this,SLOT(addInn(QTableWidgetItem*)));
+    connect(tableBase->horizontalHeader(),SIGNAL(sectionClicked(int)),this,SLOT(sortTable(int)));
+}
+//--------------------------------------------------------------------------------------------------
+void WInterface::getDishonContrTable()
+{
+  refreshTableComm("getDishon");
 }
 //-------------------------------------------------------------------------------------------------
 void WInterface::refreshTable()
@@ -32,7 +48,7 @@ void WInterface::refreshTable()
     lastSelect=select;
     //очистка памяти
     tableBase->setRowCount(0);
-    for(auto it=infoTable.begin();it<infoTable.end();it++)
+    for(auto it=infoTable.begin();it!=infoTable.end();it++)
     {
       it->clear();
     }
@@ -40,12 +56,39 @@ void WInterface::refreshTable()
     base->getFromBase(select);
     //заполнение таблицы
     QList<STypeItem> line;
-    for(auto it=select.lstNotif.begin();it<select.lstNotif.end();it++)
+    for(auto it=select.lstNotif.begin();it!=select.lstNotif.end();it++)
     {
      line=baseLine;
      addObjectToTable(*it,line);
      infoTable.push_back(line);
     }
+    sortTable(3);
+}
+//-------------------------------------------------------------------------------------------------
+void WInterface::refreshTableComm(QString comm)
+{
+    SSelect select;
+    select.tmBegin=tmBegin->dateTime();
+    select.tmEnd=tmEnd->dateTime();
+    select.inn=comm;
+    lastSelect=select;
+    //очистка памяти
+    tableBase->setRowCount(0);
+    for(auto it=infoTable.begin();it!=infoTable.end();it++)
+    {
+      it->clear();
+    }
+    infoTable.clear();
+    base->getFromBase(select);
+    //заполнение таблицы
+    QList<STypeItem> line;
+    for(auto it=select.lstNotif.begin();it!=select.lstNotif.end();it++)
+    {
+     line=baseLine;
+     addObjectToTable(*it,line);
+     infoTable.push_back(line);
+    }
+    sortTable(3);
 }
 //--------------------------------------------------------------------------------------------------
 void WInterface::createTable(QList<STypeItem> heads)
@@ -97,6 +140,7 @@ void WInterface::addObjectToTable(SNotifDishon &select,QList<STypeItem> &paramTa
    it->param=select.name_supp;
    ++it;
    it->param="подрядчик";
+   it->data=select.dataDishonSuplier;
    ++it;
    it->param=select.date.toString("yyyy-MM-dd");
    ++it;
@@ -104,6 +148,7 @@ void WInterface::addObjectToTable(SNotifDishon &select,QList<STypeItem> &paramTa
    QString regNumber;
    ndom::WFindInDom::findInText(select.data,QStringList({"contractRegNumber"}),regNumber);
    it->param=regNumber;
+   it->data=select.data;
    ++it;
    it->param=select.subjectContract;
    ++it;
@@ -115,14 +160,14 @@ void WInterface::addObjectToTable(SNotifDishon &select,QList<STypeItem> &paramTa
 
    it=paramTable.begin();
    ++it;++it;
-   it->param=select.dataDishonSuplier;
-   if(it->param!=""){QTableWidgetItem* item=(QTableWidgetItem*)it->widget;
+
+   if(it->data!=""){QTableWidgetItem* item=(QTableWidgetItem*)it->widget;
                                    item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
                                     }
-//                                  else{QPushButton* button=(QPushButton*)it->widget;
-//                                         button->setStyleSheet("background-color: #ffaaff");}
-   ++it;++it;
-   it->param=select.data;
+    ++it;
+       QTableWidgetItem* item=(QTableWidgetItem*)it->widget;
+        item->setTextAlignment(Qt::AlignCenter);
+
 
 }
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -135,35 +180,33 @@ void WInterface::createBigReport()
    if(lastSelect.inn!=""){nameDir+="_inn_"+lastSelect.inn;}
     dir.mkdir(nameDir);
     namePath+="/"+nameDir+"/";
-    QList<WLines>::iterator it;
     QList<STypeItem>::iterator itCol;
     QString guid,inn,regNumber;
     QDomDocument dom;
     name=namePath+"aReportTable.html";
     WReportTable::createAndWrite(tableBase,name,false);
-
-    for(it=infoTable.begin();it<infoTable.end();it++)
+    flgByRet=true;
+    for(auto it=infoTable.begin();it!=infoTable.end();it++)
     {
          itCol=it->begin();inn=itCol->param;
          ++itCol;
          ++itCol;
-         if(itCol->param==""){}
-                         else{ndom::WFindInDom::findInText(itCol->param,QStringList({"header","guid"}),guid);
+         if(itCol->data==""){}
+                         else{ndom::WFindInDom::findInText(itCol->data,QStringList({"header","guid"}),guid);
                               name="dishones_inn_"+inn+"_"+guid+".html";
-                              dom.setContent(itCol->param);
+                              dom.setContent(itCol->data);
                               name=namePath+name;
                               WReportTable::createAndWrite(dom,name,false);
                                  }
          ++itCol;
          ++itCol;
-
-         dom.setContent(itCol->param);
-         ndom::WFindInDom::findInText(itCol->param,QStringList({"contractRegNumber"}),regNumber);
+         dom.setContent(itCol->data);
+         ndom::WFindInDom::findInText(itCol->data,QStringList({"contractRegNumber"}),regNumber);
           name="data_inn_"+inn+"_"+regNumber+".html";
           name=namePath+name;
          WReportTable::createAndWrite(dom,name,false);
     }
-    infoTable.clear();
+    //infoTable.clear();
 }
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------
 void WInterface::createDataReport(QTableWidgetItem* item)
@@ -178,7 +221,7 @@ QString name;
   name="сделка_ИНН_"+itColumn->param;
   ++itColumn;++itColumn;++itColumn;++itColumn;
   QDomDocument doc;
-  doc.setContent(itColumn->param);
+  doc.setContent(itColumn->data);
   WReportTable::createWriteAndStart(doc,name);
 
 }
@@ -191,12 +234,20 @@ void WInterface::createDishonReport(QTableWidgetItem* item)
     while(i!=item->row()){++i;++it;}
     QString name;
     auto itColumn=it->begin();
-    ++itColumn;
+
     name="недобр_ИНН_"+itColumn->param;
-    ++itColumn;
+    ++itColumn;++itColumn;
     QDomDocument doc;
-    doc.setContent(itColumn->param);
+    doc.setContent(itColumn->data);
     WReportTable::createWriteAndStart(doc,name);
+
+}
+
+//---------------------------------------------------------------------------------------------------------
+void WInterface::addInn(QTableWidgetItem* item)
+{
+    if(item->column()!=0) return;
+    innLine->setText(item->text());
 
 }
 //---------------------------------------------------------------------------------------------------------
@@ -204,4 +255,31 @@ void WInterface::createTableReport()
 {
 
     WReportTable::createWriteAndStart(tableBase,"table");
+}
+//---------------------------------------------------------------------------------------------------------
+void WInterface::refreshTableByList(void)
+{
+tableBase->setRowCount(0);
+ for(auto it=infoTable.begin();it!=infoTable.end();it++)
+ {
+     addStringToTable(*it);
+     auto itColumn=it->begin();++itColumn;++itColumn;
+     if(itColumn->data!=""){QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
+                                     item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
+                                      }
+     ++itColumn;
+        QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
+         item->setTextAlignment(Qt::AlignCenter);
+ }
+
+}
+//----------------------------------------------------------------------------------------------------------
+void WInterface::sortTable(int ind)
+{ flgByRet=!flgByRet;
+  if(ind==3)
+  {
+   std::sort(infoTable.begin(),infoTable.end(),PSortLinesByDate(flgByRet));
+   refreshTableByList();
+  }
+
 }

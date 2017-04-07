@@ -426,7 +426,7 @@
    </palette>
   </property>
   <property name="windowTitle">
-   <string>ПАО Сбербанк</string>
+   <string>Поставщик</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -435,13 +435,13 @@
       <property name="minimumSize">
        <size>
         <width>200</width>
-        <height>200</height>
+        <height>300</height>
        </size>
       </property>
       <property name="maximumSize">
        <size>
         <width>200</width>
-        <height>200</height>
+        <height>300</height>
        </size>
       </property>
       <property name="palette">
@@ -868,9 +868,9 @@
       <widget class="QPushButton" name="btnGet">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>20</y>
-         <width>111</width>
+         <x>30</x>
+         <y>160</y>
+         <width>151</width>
          <height>23</height>
         </rect>
        </property>
@@ -878,14 +878,14 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>отправить</string>
+        <string>контракты</string>
        </property>
       </widget>
       <widget class="QDateEdit" name="tmBegin">
        <property name="geometry">
         <rect>
          <x>50</x>
-         <y>60</y>
+         <y>90</y>
          <width>101</width>
          <height>22</height>
         </rect>
@@ -908,7 +908,7 @@
        <property name="geometry">
         <rect>
          <x>50</x>
-         <y>90</y>
+         <y>120</y>
          <width>101</width>
          <height>22</height>
         </rect>
@@ -931,7 +931,7 @@
        <property name="geometry">
         <rect>
          <x>30</x>
-         <y>60</y>
+         <y>90</y>
          <width>20</width>
          <height>20</height>
         </rect>
@@ -944,7 +944,7 @@
        <property name="geometry">
         <rect>
          <x>30</x>
-         <y>90</y>
+         <y>120</y>
          <width>21</width>
          <height>20</height>
         </rect>
@@ -953,37 +953,11 @@
         <string>по</string>
        </property>
       </widget>
-      <widget class="QToolButton" name="toolButton">
-       <property name="geometry">
-        <rect>
-         <x>150</x>
-         <y>60</y>
-         <width>25</width>
-         <height>19</height>
-        </rect>
-       </property>
-       <property name="text">
-        <string>...</string>
-       </property>
-      </widget>
-      <widget class="QToolButton" name="toolButton_2">
-       <property name="geometry">
-        <rect>
-         <x>150</x>
-         <y>90</y>
-         <width>25</width>
-         <height>19</height>
-        </rect>
-       </property>
-       <property name="text">
-        <string>...</string>
-       </property>
-      </widget>
       <widget class="QLineEdit" name="lineEdit">
        <property name="geometry">
         <rect>
-         <x>40</x>
-         <y>160</y>
+         <x>70</x>
+         <y>210</y>
          <width>113</width>
          <height>20</height>
         </rect>
@@ -992,14 +966,66 @@
       <widget class="QLabel" name="label_3">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>140</y>
+         <x>50</x>
+         <y>190</y>
          <width>101</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
         <string>ИНН подрядчика:</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="btnBegin">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>90</y>
+         <width>21</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>...</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="btnEnd">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>120</y>
+         <width>21</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>...</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="btnDishContr">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>10</y>
+         <width>151</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>все недобросовестные</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_4">
+       <property name="geometry">
+        <rect>
+         <x>50</x>
+         <y>60</y>
+         <width>111</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Интервал времени</string>
        </property>
       </widget>
      </widget>

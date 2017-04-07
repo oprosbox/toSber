@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>950</width>
-    <height>458</height>
+    <height>518</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,7 +20,7 @@
       <x>20</x>
       <y>20</y>
       <width>901</width>
-      <height>411</height>
+      <height>471</height>
      </rect>
     </property>
     <widget class="QPushButton" name="pushButton">
@@ -178,7 +178,7 @@
        </rect>
       </property>
       <property name="text">
-       <string>G:/toSber/downloadToDisk/debug/new</string>
+       <string>G:/toSber/downloadToDisk/debug/contr223</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_4">
@@ -236,7 +236,7 @@
      <widget class="QPushButton" name="btn223fzNotifRegions">
       <property name="geometry">
        <rect>
-        <x>580</x>
+        <x>570</x>
         <y>10</y>
         <width>75</width>
         <height>23</height>
@@ -244,6 +244,32 @@
       </property>
       <property name="text">
        <string>регионы</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkBD223fzContr">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>40</y>
+        <width>91</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>запись в базу</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lblRegions223fzContr">
+      <property name="geometry">
+       <rect>
+        <x>660</x>
+        <y>10</y>
+        <width>81</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>TextLabel</string>
       </property>
      </widget>
     </widget>
@@ -378,6 +404,9 @@
         <height>20</height>
        </rect>
       </property>
+      <property name="text">
+       <string>G:/toSber/downloadToDisk/debug/contr44</string>
+      </property>
      </widget>
      <widget class="QLabel" name="label_8">
       <property name="geometry">
@@ -429,6 +458,45 @@
       </property>
       <property name="text">
        <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn44fzContractRegions">
+      <property name="geometry">
+       <rect>
+        <x>570</x>
+        <y>10</y>
+        <width>75</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>регионы</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chkBD44fzContr">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>40</y>
+        <width>91</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>запись в базу</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lblRegions44fzContr">
+      <property name="geometry">
+       <rect>
+        <x>660</x>
+        <y>10</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>TextLabel</string>
       </property>
      </widget>
     </widget>
@@ -547,6 +615,9 @@
         <height>20</height>
        </rect>
       </property>
+      <property name="text">
+       <string>G:/toSber/downloadToDisk/debug/dishon223</string>
+      </property>
      </widget>
      <widget class="QLabel" name="label_12">
       <property name="geometry">
@@ -603,7 +674,7 @@
      <widget class="QPushButton" name="btn223fzDishonRegions">
       <property name="geometry">
        <rect>
-        <x>580</x>
+        <x>570</x>
         <y>10</y>
         <width>75</width>
         <height>23</height>
@@ -613,11 +684,37 @@
        <string>регионы</string>
       </property>
      </widget>
+     <widget class="QCheckBox" name="chkBD223fzDishon">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>40</y>
+        <width>101</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>запись в базу</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lblRegions223fzDishon">
+      <property name="geometry">
+       <rect>
+        <x>660</x>
+        <y>10</y>
+        <width>91</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>TextLabel</string>
+      </property>
+     </widget>
     </widget>
     <widget class="QLabel" name="label_13">
      <property name="geometry">
       <rect>
-       <x>120</x>
+       <x>110</x>
        <y>200</y>
        <width>171</width>
        <height>16</height>
@@ -631,7 +728,7 @@
      <property name="geometry">
       <rect>
        <x>120</x>
-       <y>310</y>
+       <y>320</y>
        <width>751</width>
        <height>71</height>
       </rect>
@@ -722,6 +819,9 @@
         <height>20</height>
        </rect>
       </property>
+      <property name="text">
+       <string>G:/toSber/downloadToDisk/debug/dishon44</string>
+      </property>
      </widget>
      <widget class="QLabel" name="label_17">
       <property name="geometry">
@@ -775,6 +875,19 @@
        <string/>
       </property>
      </widget>
+     <widget class="QCheckBox" name="chkBD44fzDishon">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>40</y>
+        <width>91</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>запись в базу</string>
+      </property>
+     </widget>
     </widget>
     <widget class="QLabel" name="label_11">
      <property name="geometry">
@@ -787,6 +900,19 @@
      </property>
      <property name="text">
       <string>тендеры</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnCrtBd">
+     <property name="geometry">
+      <rect>
+       <x>750</x>
+       <y>430</y>
+       <width>121</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>создать таблицы БД</string>
      </property>
     </widget>
    </widget>

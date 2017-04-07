@@ -68,7 +68,6 @@ struct SInputFtp
  QList<QRegExp> tegExpPathFind;
  QString val;
  SFilterStr stFilt;
- int countToExitDirUrl;
  int flgDellArh;
 };
 //---------------------------------------------------------------------------------------------------
@@ -106,8 +105,11 @@ class W223fz
     W223fz();
     ~W223fz();
     void create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
+    void create44fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
     void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
-    int getRegions(QStringList &regions);
+    void create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd);
+    void baseConnect(void);
+    int getRegions(QStringList &regions,const int CFZ);
     WLoadFtp *ftp223fz;
 protected:
     SInputFtp inpFtp;

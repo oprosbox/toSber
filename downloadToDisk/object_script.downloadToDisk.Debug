@@ -9,10 +9,12 @@ INPUT(
 ./debug\tobase.o
 ./debug\mainwin.o
 ./debug\mainw.o
+./debug\wdateline.o
 ./debug\moc_mainwindow.o
 ./debug\moc_findindom.o
 ./debug\moc_ftpclient.o
 ./debug\moc_loadsave.o
 ./debug\moc_interface.o
 ./debug\moc_tobase.o
+./debug\moc_wdateline.o
 );

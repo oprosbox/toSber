@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns12="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns5="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns8="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>8d905ec8-0daa-4918-ac43-93354ae2fa20</guid>
+        <createDateTime>2017-02-16T08:54:08</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>62036178-64fe-44a8-8cde-165411be9903</guid>
+            <ns2:contractData>
+                <ns2:guid>fbee0f11-f90c-4ba9-9259-635a0c5e03dc</ns2:guid>
+                <ns2:registrationNumber>57707083893170006330001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2890941&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-16T08:42:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-16T08:54:08</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>5b71bc62-6935-4606-9eda-d9a5e1d59756</guid>
+                        <createDateTime>2017-02-15T12:20:14</createDateTime>
+                        <fileName>0296 (2).pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10655387</url>
+                        <registrationNumber>57707083893170006330002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170006330000</ns2:contractRegNumber>
+                <ns2:name>2/17</ns2:name>
+                <ns2:contractDate>2017-02-14</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>620a1b92-4bb3-44ad-ad67-2fcd3453c140</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604611993</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-12-29T12:04:13</ns2:publicationDateTime>
+                    <ns2:name>[37447] Выбор организации  среди субъектов малого и среднего предпринимательства (СМСП) на оказание услуг по очистке от снежной массы и льда кровель и козырьков зданий  объектов банка, расположенных на территории г. Санкт-Петербург и Ленинградской области, для нужд Северо-Западного банка ПАО Сбербанк  (СЗБ2016-0296(ЗКО)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>6cc03743-24fc-4972-8091-471b5ca70ec0</ns2:lotGuid>
+                <ns2:subjectContract>[37447] Выбор организации  среди субъектов малого и среднего предпринимательства (СМСП) на оказание услуг по очистке от снежной массы и льда кровель и козырьков зданий  объектов банка, расположенных н</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО «Концерт»</ns2:name>
+                    <ns2:inn>7813336546</ns2:inn>
+                    <ns2:kpp>781301001</ns2:kpp>
+                    <ns2:okpo>77789771</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2005-12-19</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>197046</ns2:postCode>
+                        <ns2:oktmo>40000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Города Санкт-Петербурга (города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>78</ns2:code>
+                            <ns2:name>Санкт-Петербург</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Санкт-Петербург, Петроградский район</ns2:area>
+                        <ns2:street>ул. Малая Посадская</ns2:street>
+                        <ns2:email>uhod@yandex.ru</ns2:email>
+                        <ns2:phone>335-03-50</ns2:phone>
+                        <ns2:office>47</ns2:office>
+                        <ns2:house>19</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>5805000</ns2:price>
+                <ns2:rubPrice>5805000</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-02-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-01-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>ca2fc2b9-15b0-4492-a790-99008780c667</ns2:guid>
+                        <ns2:name>на оказание услуг по очистке от снежной массы и льда кровель и козырьков зданий  объектов банка. Объем - согласно п. 1.2 ТЗ - Ориентировочный объем (будет зависеть от погодных условий и выпавших осадков) очистки кровель и козырьков от снежной массы и льда: - по лоту №1  не более 100 000 кв. метров за зимний период; - по лоту №2 не более 45 000  кв. метров за зимний период. Всего 145000 кв.м.  срок действия договора: со дня подписания по 31.12.2017</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>81.2</code>
+                            <name>Услуги по чистке и уборке</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>145000</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>80e2b86f-cf13-4d2d-bc28-787b34637026</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604611993-01</ns2:protocolName>
+                        <ns2:docDate>2017-01-27</ns2:docDate>
+                        <ns2:docNum>31604611993-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

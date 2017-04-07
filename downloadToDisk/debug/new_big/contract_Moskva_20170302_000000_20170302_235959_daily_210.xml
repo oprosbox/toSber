@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns17="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns18="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>95269dfb-8d18-400c-babd-72317bd7bf23</guid>
+        <createDateTime>2017-03-02T14:44:07</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3fe6ff83-fd8f-405e-b4e6-5b887e85a3c0</guid>
+            <ns2:contractData>
+                <ns2:guid>157676d2-b2e5-4089-808a-77f5943f46db</ns2:guid>
+                <ns2:registrationNumber>57707083893170008350001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2944619&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-03-02T14:27:13</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-02T14:44:07</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>0576456c-8a3b-4caf-98b2-7756dedc7778</guid>
+                        <createDateTime>2017-03-02T12:50:20</createDateTime>
+                        <fileName>Договор Тепло 08-т-в от 02.03.2017.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11005412</url>
+                        <registrationNumber>57707083893170008350002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170008350000</ns2:contractRegNumber>
+                <ns2:name>08-т-в</ns2:name>
+                <ns2:contractDate>2017-03-02</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>189dc592-5540-4c5b-935c-addc2ae2d272</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31704805261</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2017-02-17T10:48:16</ns2:publicationDateTime>
+                    <ns2:name>[37920] Выбор на основании 2.2.5.6. Положения о закупках №2348 от 05.12.2011 г. МП ЭМР "Байкитэнерго" поставщиком услуг теплоснабжения и водоснабжения помещения, расположенного по адресу: с. Байкит, ул. Гагарина, 10А для нужд Сибирского банка</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>cf3e1fc9-ee5e-4908-8ddc-e82e889f991e</ns2:lotGuid>
+                <ns2:subjectContract>[37920] Выбор на основании 2.2.5.6. Положения о закупках №2348 от 05.12.2011 г. МП ЭМР "Байкитэнерго" поставщиком услуг теплоснабжения и водоснабжения помещения, расположенного по адресу: с. Байкит, у</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>МП ЭМР "Байкитэнерго"</ns2:name>
+                    <ns2:inn>8802000955</ns2:inn>
+                    <ns2:kpp>880201001</ns2:kpp>
+                    <ns2:okpo>01685690</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>1994-12-09</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>10000</ns2:okopf>
+                    <ns2:okopfName>ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ КОММЕРЧЕСКИМИ КОРПОРАТИВНЫМИ  ОРГАНИЗАЦИЯМИ</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>648360</ns2:postCode>
+                        <ns2:oktmo>04000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Красноярского края</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>24</ns2:code>
+                            <ns2:name>Красноярский край</ns2:name>
+                        </ns2:region>
+                        <ns2:area>село Байкит, район Эвенкийский</ns2:area>
+                        <ns2:street>улица Титова</ns2:street>
+                        <ns2:email>baykenergo@baykin.evenkya.ru</ns2:email>
+                        <ns2:phone>+7(391)2210162</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>дом 24А</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>1020829.14</ns2:price>
+                <ns2:rubPrice>1020829.14</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>e0b07498-5e9d-44e5-8a4d-7d51ed48d740</ns2:guid>
+                        <ns2:name>1 комплект услуг теплоснабжения и водоснабжения (теплопотребление - 138,6 Гкал/год, горячая вода - 40,5 м3/год, холодная вода - 90,3 м3/год)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>35.3</code>
+                            <name>Услуги по снабжению паром и кондиционированию воздуха</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>cbafa7ee-2acc-479b-9326-4241d5f12602</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31704805261-01</ns2:protocolName>
+                        <ns2:docDate>2017-02-16</ns2:docDate>
+                        <ns2:docNum>31704805261-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

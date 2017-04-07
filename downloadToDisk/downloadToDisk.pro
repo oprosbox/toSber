@@ -37,7 +37,8 @@ SOURCES +=\
     interface.cpp \
     tobase.cpp \
     mainwin.cpp \
-    mainw.cpp
+    mainw.cpp \
+    wdateline.cpp
 
 HEADERS  += mainwindow.h \
     findindom.h \
@@ -47,6 +48,9 @@ HEADERS  += mainwindow.h \
     qftp/qftp.h \
     qftp/qurlinfo.h \
     interface.h \
-    tobase.h
+    tobase.h \
+    wdateline.h
 
 FORMS    += mainwindow.ui
+
+RC_FILE  += sbiconDownl.rc

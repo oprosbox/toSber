@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns11="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns13="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns14="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns15="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns16="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns5="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>537069df-2923-4d0d-ba08-1dcb9fc302eb</guid>
+        <createDateTime>2016-12-14T15:20:27</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>00ccf087-5bca-44cf-938f-006053a752fc</guid>
+            <ns2:contractData>
+                <ns2:guid>4ba9295f-7371-49ef-8837-6df008d2f49f</ns2:guid>
+                <ns2:registrationNumber>57707083893160056570001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2495698&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-14T14:41:18</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-14T15:20:27</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>d2b2cf21-9177-4d6e-9ae5-e7e73ccef426</guid>
+                        <createDateTime>2016-12-14T12:54:15</createDateTime>
+                        <fileName>Ценципер_Договор 613-1.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8468086</url>
+                        <registrationNumber>57707083893160056570002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160056570000</ns2:contractRegNumber>
+                <ns2:name>613/1</ns2:name>
+                <ns2:contractDate>2016-12-13</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>144302f2-cc71-4d75-81f8-4304c357dd6a</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604469460</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-12-12T09:53:43</ns2:publicationDateTime>
+                    <ns2:name>[36979] Выбор на основании п. 2.2.5.4 Положения о закупках ПАО Сбербанк ООО «ЦЕНЦИПЕР»  поставщиком услуг по проведению обследований пилотных отделений и оказанию консультационных услуг по выявлению потребностей клиентов и сотрудников в пилотных ВСП с целью улучшения организации пространства отделений, а так же по их возможности локализации с привязкой к расположению для нужд ПАО Сбербанк (1 комплект)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>c9a0596c-217e-4a36-a624-e5175bd89a60</ns2:lotGuid>
+                <ns2:subjectContract>[36979] Выбор на основании п. 2.2.5.4 Положения о закупках ПАО Сбербанк ООО «ЦЕНЦИПЕР»  поставщиком услуг по проведению обследований пилотных отделений и оказанию консультационных услуг по выявлению п</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "Ценципер"</ns2:name>
+                    <ns2:inn>7701401934</ns2:inn>
+                    <ns2:kpp>770101001</ns2:kpp>
+                    <ns2:okpo>32481188</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2014-07-21</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>101000</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Москва, ЦАО, район Басманный</ns2:area>
+                        <ns2:street>улица Маросейка</ns2:street>
+                        <ns2:email>alexei@tsentsiper.com</ns2:email>
+                        <ns2:phone>7 (929) 9366012</ns2:phone>
+                        <ns2:office>10</ns2:office>
+                        <ns2:house>3/13 стр 1</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>2652664</ns2:price>
+                <ns2:rubPrice>2652664</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-12-08</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>316cfebb-6738-4f84-829f-203fa5b8c3c2</ns2:guid>
+                        <ns2:name>Проведение обследований пилотных отделений и оказанию консультационных услуг по выявлению потребностей клиентов и сотрудников в пилотных ВСП с целью улучшения организации пространства отделений, а так же по их возможности локализации с привязкой к расположению для нужд ПАО Сбербанк (1 комплект)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>73.1</code>
+                            <name>Услуги рекламные</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>7676a02a-e86e-4e8d-9822-2d311f1163f8</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604469460-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-08</ns2:docDate>
+                        <ns2:docNum>31604469460-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

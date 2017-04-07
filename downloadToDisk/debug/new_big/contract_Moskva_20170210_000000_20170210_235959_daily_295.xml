@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns7="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1">
+    <header>
+        <guid>6f4f0aff-c448-4600-988e-c944cd3f76af</guid>
+        <createDateTime>2017-02-10T14:02:29</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>8f087d47-5c74-4649-8414-f17d945ac210</guid>
+            <ns2:contractData>
+                <ns2:guid>b1de47a5-4798-4921-88f4-0065c682f3e9</ns2:guid>
+                <ns2:registrationNumber>57707083893170005670001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2868490&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-10T13:52:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-10T14:02:28</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>5b17950a-aaf1-4988-a427-13f0c54437dd</guid>
+                        <createDateTime>2017-02-10T13:26:09</createDateTime>
+                        <fileName>Договор № 50001624787 от 10.02.2016.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10510632</url>
+                        <registrationNumber>57707083893170005670002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170005670000</ns2:contractRegNumber>
+                <ns2:name>50001624787</ns2:name>
+                <ns2:contractDate>2017-02-10</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>0747dbd8-4f38-4853-8f72-576bc31c85df</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604585732</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-12-27T13:48:37</ns2:publicationDateTime>
+                    <ns2:name>[37364] Выбор Федерального государственного казенного учреждения «Управления вневедомственной охраны войск национальной гвардии Российской Федерации по Свердловской области» (ФГКУ «УВО ВНГ России по Свердловской области») поставщиком охранных услуг с помощью технических средств охраны комнат хранения оружия на объектах Свердловского отделения №7003 ПАО Сбербанк, расположенных на территории Свердловской области, для нужд Уральского банка ПАО Сбербанк на основании п. 2.2.5.7, 2.2.5.4 Положения о закупках банка</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>e4cdea8b-9b11-4e7f-a705-b42c8e2cbb01</ns2:lotGuid>
+                <ns2:subjectContract>[37364] Выбор Федерального государственного казенного учреждения «Управления вневедомственной охраны войск национальной гвардии Российской Федерации по Свердловской области» (ФГКУ «УВО ВНГ России по С</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ФГКУ «УВО ВНГ России по Свердловской области»</ns2:name>
+                    <ns2:inn>6671397556</ns2:inn>
+                    <ns2:kpp>667101001</ns2:kpp>
+                    <ns2:okpo>08684280</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2016-10-25</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>20904</ns2:okopf>
+                    <ns2:okopfName>Казенные учреждения</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>620142</ns2:postCode>
+                        <ns2:oktmo>65000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Свердловской области</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>66</ns2:code>
+                            <ns2:name>Свердловская обл</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Екатеринбург, Ленинский район</ns2:area>
+                        <ns2:street>ул. Чапаева</ns2:street>
+                        <ns2:email>uvourist@mail.ru</ns2:email>
+                        <ns2:phone>8(343) 251-45-90, 8(343) 220-92-63</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>д. 12 корпус Б</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>18302500</ns2:price>
+                <ns2:rubPrice>18302500</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>b8de3f47-3233-4a52-a238-0e27379f799e</ns2:guid>
+                        <ns2:name>Оказание охранных услуг с помощью технических средств охраны комнат хранения оружия на объектах Свердловского отделения №7003 ПАО Сбербанк, расположенных на территории Свердловской области, в количестве 1 комплект для нужд Уральского банка ПАО Сбербанк</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>84.24.11.000</code>
+                            <name>Услуги органов охраны правопорядка</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>3f14213a-0a64-4300-a8fc-247a84623599</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604585732-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-27</ns2:docDate>
+                        <ns2:docNum>31604585732-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

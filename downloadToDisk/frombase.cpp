@@ -1,5 +1,6 @@
 #include "frombase.h"
 #include "findindom.h"
+#include <QSqlError>
 //-----------------------------------------------------------------------
 void WFromBASE::prepare()
 {
@@ -12,6 +13,11 @@ void WFromBASE::prepare()
   queryDishonSelectData->prepare("SELECT data FROM DISHON223FZDATA "
                                  "WHERE (guid IN (SELECT guid FROM DISHON223FZ WHERE (:inn=inn)));");
 
+  queryContrDishData->prepare( " SELECT data FROM NOTIFI223FZDATA "
+                               " WHERE (guid IN (SELECT guid FROM NOTIFI223FZ WHERE (inn_supplier IN "
+                               "                (SELECT inn FROM DISHON223FZ )))); ");
+
+
 }
 //----------------------------------------------------------------------
 bool WFromBASE::start(QString url,QString database,QString login, QString pass)
@@ -20,8 +26,11 @@ bool WFromBASE::start(QString url,QString database,QString login, QString pass)
     queryNotifSelectData=new QSqlQuery(base);
     queryDishonSelectData=new QSqlQuery(base);
     queryNotifSelectDataSimple=new QSqlQuery(base);
+    queryContrDishData=new QSqlQuery(base);
     prepare();
     return true;}
+    else{QString txt="base  connect"+base.lastError().text();
+        ndom::toLogFile(txt); }
     return false;
 }
 //------------------------------------------------------------------------------------------
@@ -31,8 +40,25 @@ void WFromBASE::stop()
     delete queryNotifSelectData;
     delete queryNotifSelectDataSimple;
     delete queryDishonSelectData;
+    delete queryContrDishData;
     closeConn();}
 }
+//--------------------------------------------------------------------------------------------------
+ bool WFromBASE::selectNotifDishon(QStringList &notif)
+ {
+
+       if(queryContrDishData->exec())
+       {
+       QString data;
+       notif.clear();
+       while (queryContrDishData->next()) {
+           data = queryContrDishData->value(0).toString();
+           notif.push_back(data);
+          }
+      // QSqlDatabase::database().commit();
+       return true;}
+       return false;
+ }
 //--------------------------------------------------------------------------------
 bool WFromBASE::selectNotif(QString inn,QDateTime tmBegin,QDateTime tmEnd,QStringList &notif)
 { //QSqlDatabase::database().transaction();
@@ -95,8 +121,10 @@ void WBaseRD::getFromBase(SSelect &query)
 {
   QStringList xmlResult;
 if(query.inn=="")
-  {selectNotif(query.tmBegin,query.tmEnd,xmlResult);}
-else{selectNotif(query.inn,query.tmBegin,query.tmEnd,xmlResult);}
+              {selectNotif(query.tmBegin,query.tmEnd,xmlResult);}
+else if (query.inn=="getDishon")
+              {selectNotifDishon(xmlResult);}
+         else {selectNotif(query.inn,query.tmBegin,query.tmEnd,xmlResult);}
 
     if(xmlResult.size()!=0)
        {toSNotifDishon(xmlResult,query.lstNotif);}

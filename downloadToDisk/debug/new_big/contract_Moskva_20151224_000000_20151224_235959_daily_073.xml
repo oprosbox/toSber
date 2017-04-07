@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-4.0 http://zakupki.gov.ru/223/integration/schema/TFF-4.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns15="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns8="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1">
+    <header>
+        <guid>659a2948-3a52-41d7-b508-8d79e1bab011</guid>
+        <createDateTime>2015-12-24T08:38:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d0f41aad-923b-41eb-aa0a-b84d40e838dd</guid>
+            <ns2:contractData>
+                <ns2:guid>c736eb4f-5cea-40b5-a18d-233639d534c0</ns2:guid>
+                <ns2:registrationNumber>57707083893150039730001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1036778&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-12-23T19:02:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-12-24T08:38:49</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150039730000</ns2:contractRegNumber>
+                <ns2:name>6984/2015/2</ns2:name>
+                <ns2:contractDate>2015-12-18</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>a17a24d7-d19d-40f6-b5f2-cd037e96e48e</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31503045522</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-12-07T11:14:33</ns2:publicationDateTime>
+                    <ns2:name>[30625] Выбор организации на  разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции  объектов ВСП 6984/0722 и ВСП 6984/0334 Пермского отделения № 6984 ПАО Сбербанк, расположенных по адресу: Пермский край,  г.Кудымкар, ул. Калинина, 38  для нужд  Западно-Уральского банка ПАО Сбербанк среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 27.08.2015г.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[30625] Выбор организации на  разработку проектно-сметной документации и проведение строительно-монтажных работ по реконструкции  объектов ВСП 6984/0722 и ВСП 6984/0334 Пермского отделения № 6984 ПАО </ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "СК "МиР"</ns2:name>
+                    <ns2:inn>5906060664</ns2:inn>
+                    <ns2:kpp>590601001</ns2:kpp>
+                    <ns2:okpo>75499537</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2005-01-20</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>614077</ns2:postCode>
+                        <ns2:oktmo>57701000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Пермский край</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>19366811.17</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-12-18</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-06-16</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>Разработка проектно-сметной документации и проведение строительно-монтажных работ по реконструкции  объектов ВСП 6984/0722 площадью 357,0 м2 и ВСП 6984/0334 площадью 289,0 м2 Пермского отделения № 6984 ПАО Сбербанк, расположенных по адресу: Пермский край,  г.Кудымкар, ул. Калинина, 38  для нужд  Западно-Уральского банка ПАО Сбербанк</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>4510000</code>
+                            <name>Услуги по подготовке строительного участка, предшествующие строительству</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>646</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>fc6dbee5-1db1-4694-b6b0-a2f4fdee5a74</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31503045522-01</ns2:protocolName>
+                        <ns2:docDate>2015-12-08</ns2:docDate>
+                        <ns2:docNum>91 п.9</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

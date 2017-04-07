@@ -3,8 +3,19 @@
 #include <QDomNodeList>
 #include <QDomElement>
 #include <QDir>
+#include <QDateTime>
+#include <QApplication>
 
 namespace ndom{
+
+void toLogFile(QString errorStr)
+{   QString errStr=QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss");
+    errStr+="  "+errorStr+"\r\n";
+    QFile fLog(QApplication::applicationDirPath()+ "/logfile.txt");
+    fLog.open(QFile::Append);
+    fLog.write(errStr.toLocal8Bit());
+    fLog.close();
+}
 
   //рекурсивная функция проверяет путь вложения list, элемент с которого начинается проверка на вложение считается последним в списке list
 bool controlNode(const QDomNode &controls,QStringList &list,int i)
@@ -79,9 +90,9 @@ bool WFindInDom::findInFile(QString path,QList<SListVal> &value)
          return true;
 }
 //----------------------------------------------------------------------------------------------
-bool WFindInDom::findInText(QString &xmlText,QStringList teg,QStringList &valOut)
+bool WFindInDom::findInText(QString xmlText,QStringList teg,QStringList &valOut)
 {QDomDocument doc;//QRegExp("[a-z]{1,3}[0-9]:")
-  xmlText.replace(QRegExp("[a-z]{1,2}[0-9]{1}:{1}"),"");
+  //xmlText.replace(QRegExp("[a-z]{1,2}[0-9,a-z]{1}:{1}"),"");
   valOut.clear();
   doc.setContent(xmlText);
   QDomNodeList controls = doc.elementsByTagName(teg.back());
@@ -98,9 +109,9 @@ bool WFindInDom::findInText(QString &xmlText,QStringList teg,QStringList &valOut
 }
 
 //----------------------------------------------------------------------------------------------
-bool WFindInDom::findInText(QString &xmlText,QStringList teg,QString &valOut)
+bool WFindInDom::findInText(QString xmlText,QStringList teg,QString &valOut)
 {QDomDocument doc;//QRegExp("[a-z]{1,3}[0-9]:")
-  xmlText.replace(QRegExp("[a-z]{1,2}[0-9]{1}:{1}"),"");
+  xmlText.replace(QRegExp("[o,s,n]{2,3}[0-9]{0,1}:{1}"),"");
   valOut.clear();
   doc.setContent(xmlText);
   QDomNodeList controls = doc.elementsByTagName(teg.back());
@@ -143,14 +154,21 @@ bool WFindInDom::findInFile(QString path,QStringList &listVal)
 bool WFindInDom::findInFileAdd(QString path,QStringList &fileFind)
 {
 QDomDocument doc;
-
+if(path.lastIndexOf(".xml")!=path.size()-4)
+    {return false;}
 QFile file(path);
    if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
    return false;
-
-doc.setContent(&file);
+QString xml=file.readAll();
 file.close();
-QDomNodeList controls = doc.elementsByTagName(listNamesTeg.back());
+xml.replace(QRegExp("[o,n,s]{2,3}[0-9]{0,1}:{1}"),"");
+doc.setContent(xml);
+QDomNodeList controls;
+if(listNamesTeg.size()!=0){
+                           controls = doc.elementsByTagName(listNamesTeg.back());}//присутствует условие
+else if(doc.childNodes().size()==0){return false;}//файл пустой
+      else {fileFind.push_back(doc.toString());
+            return true;}//файл не пустой
 bool flgIt;
 for(int i=0;i<controls.length();i++)
 {  //ищем необходимое вложение

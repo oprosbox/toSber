@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.8 http://zakupki.gov.ru/223/integration/schema/TFF-3.8/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/orderClauseList/1">
+    <header>
+        <guid>736b8661-69e2-4456-99a4-2f1792e7ea44</guid>
+        <createDateTime>2015-09-23T16:39:30</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>3a8c0149-43ae-4025-a1d3-38e3c5e9d205</guid>
+            <ns2:contractData>
+                <ns2:guid>73499ff1-7635-4109-8563-ca089c28480f</ns2:guid>
+                <ns2:registrationNumber>57707083893150026390001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=705067&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-09-23T15:57:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-09-23T16:39:30</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150026390000</ns2:contractRegNumber>
+                <ns2:name>Выполнение работ по реконструкции щитов электроснабжения электрощитовой здания Псковского отделения № 8630, расположенного по адресу: г. Псков, Октябрьский пр-т. д.23/25. Объем 11 м2. Сроки (периоды) поставки продукции и выполнения работ: 90 календарных дней с момента подписания договора.</ns2:name>
+                <ns2:contractDate>2015-09-21</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>feca6df9-b36f-4802-91c3-2461627c0eae</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502681051</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-08-20T10:53:09</ns2:publicationDateTime>
+                    <ns2:name>[29092] Выбор организации на реконструкцию щитов электроснабжения электрощитовой здания Псковского отделения № 8630, расположенного по адресу: г. Псков, Октябрьский пр-т. д.23/25 для нужд  Северо-Западного банка ПАО Сбербанк среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 19.01.2015, 18.03.2015 года. (СЗБ2015-0189(ЗКОгр.)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[29092] Выбор организации на реконструкцию щитов электроснабжения электрощитовой здания Псковского отделения № 8630, расположенного по адресу: г. Псков, Октябрьский пр-т. д.23/25 для нужд  Северо-Запа</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "ЭСМ"</ns2:name>
+                    <ns2:inn>6027107591</ns2:inn>
+                    <ns2:kpp>602701001</ns2:kpp>
+                    <ns2:okpo>99381444</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-06-09</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>180004</ns2:postCode>
+                        <ns2:oktmo>58710000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Псковская область</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>2273710.02</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-09-21</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2015-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>Выполнение работ по реконструкции щитов электроснабжения электрощитовой здания Псковского отделения № 8630, расположенного по адресу: г. Псков, Октябрьский пр-т. д.23/25. Объем 11 м2. Сроки (периоды) поставки продукции и выполнения работ: 90 календарных дней с момента подписания договора.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>4520000</code>
+                            <name>Услуги по проведению общих строительных работ по возведению зданий и сооружений</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>11</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>628d4289-286c-4087-a630-b12973c39c4e</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31502681051-01</ns2:protocolName>
+                        <ns2:docDate>2015-09-07</ns2:docDate>
+                        <ns2:docNum>82</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

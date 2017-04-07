@@ -32,7 +32,8 @@ SOURCES +=\
     mainTb.cpp \
     mainwinTb.cpp \
     frombase.cpp \
-    wreporttable.cpp
+    wreporttable.cpp \
+    wdateline.cpp
 
 HEADERS  += \
     tobase.h \
@@ -40,7 +41,8 @@ HEADERS  += \
     winterface.h \
     mainwinTb.h \
     frombase.h \
-    wreporttable.h
+    wreporttable.h \
+    wdateline.h
 
 FORMS    += \
     winTable.ui

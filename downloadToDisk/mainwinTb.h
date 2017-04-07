@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "winterface.h"
+#include "wdateline.h"
 
 namespace Ui {
 class MainWindow;
@@ -18,6 +19,7 @@ public:
     ~MainWindow();
 
 private:
+    WMainInterf *tmButtons;
     Ui::MainWindow *ui;
 };
 

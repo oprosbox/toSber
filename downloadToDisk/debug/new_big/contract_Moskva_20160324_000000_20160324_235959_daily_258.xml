@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-4.0 http://zakupki.gov.ru/223/integration/schema/TFF-4.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns12="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns18="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>3077e6d4-7c37-4531-8e7d-261ce4a069d3</guid>
+        <createDateTime>2016-03-24T16:29:21</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>9369330d-c66b-45e6-9a00-ea333101707a</guid>
+            <ns2:contractData>
+                <ns2:guid>ccd6891a-bb43-4c1b-8150-309335e0355c</ns2:guid>
+                <ns2:registrationNumber>57707083893160010470001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1421031&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-03-24T15:52:04</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-03-24T16:29:20</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>8dc22503-faed-420b-a832-5a9146efbceb</guid>
+                        <createDateTime>2016-03-24T06:05:46</createDateTime>
+                        <fileName>Договор 17 Омсукчан.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=2369509</url>
+                        <registrationNumber>57707083893160010470002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160010470000</ns2:contractRegNumber>
+                <ns2:name>17</ns2:name>
+                <ns2:contractDate>2016-03-21</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>fab7584e-0cc5-4983-8973-4b48ff9b00ad</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603374367</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-03-01T11:49:54</ns2:publicationDateTime>
+                    <ns2:name>[32213] Выбор на основании п.2.2.5.6 Положения о закупках Банка - ООО "Востокмонтажспецстрой" поставщиком для снабжения тепловой энергией и горячим водоснабжением через присоединительную сеть дополнительного офиса № 030, расположенного по адресу: Магаданская область, пгт. Омсукчан, ул. Ленина, 33</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[32213] Выбор на основании п.2.2.5.6 Положения о закупках Банка - ООО "Востокмонтажспецстрой" поставщиком для снабжения тепловой энергией и горячим водоснабжением через присоединительную сеть дополнит</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "Востокмонтажспецстрой"</ns2:name>
+                    <ns2:inn>4909075402</ns2:inn>
+                    <ns2:kpp>490901001</ns2:kpp>
+                    <ns2:okpo>50544320</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2002-12-11</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>685030</ns2:postCode>
+                        <ns2:oktmo>44000000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Магаданская область</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>690582.6</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-03-21</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>снабжение тепловой энергией и горячим водоснабжением, общим объемом 243 Гкалории</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>35.30.12</code>
+                            <name>Услуги по снабжению паром и горячей водой по трубопроводам</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>233</code>
+                            <name>Гигакалория</name>
+                        </ns2:okei>
+                        <ns2:qty>243</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:docDate>2016-03-01</ns2:docDate>
+                        <ns2:docNum>Протокол КК №8 вопрос 2</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

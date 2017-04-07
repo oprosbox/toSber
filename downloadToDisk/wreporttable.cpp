@@ -9,13 +9,10 @@ WReportTable::WReportTable()
 {
 
 }
-
-
 //-------------------------------------------------------------------------------------------------
 void WReportTable::reportTable(QDomDocument &docIn,QDomDocument &tableOut)
 {
     reportTableRecurs(docIn,tableOut,tableOut);
-
 
 }
 //-------------------------------------------------------------------------------------------------
@@ -25,10 +22,9 @@ void WReportTable::reportTableRecurs(QDomNode docIn,QDomNode &docOut,QDomDocumen
   QDomElement nodeTemp,nodeTempVal;
   QDomElement nodeAdd=domDocument.createElement("table");
               nodeAdd.setAttribute("border","1");
+              nodeAdd.setAttribute("style","background-color:#ffffff");
               docOut.appendChild(nodeAdd);
               table=docOut.lastChild();
-
-
 
     while(!next.isNull())
    { nodeAdd=domDocument.createElement("tr");
@@ -56,24 +52,35 @@ void WReportTable::reportTableRecurs(QDomNode docIn,QDomNode &docOut,QDomDocumen
 }
 //-------------------------------------------------------------------------------------------------------
 void WReportTable::createAndWrite(QDomDocument &docIn,QString &name,bool local)
-{
+{QString nameOriginal;
    if(local){QString localName=name;
    name=QApplication::applicationDirPath()+"/tempReport";
    QDir dirTo;
    if(dirTo.exists(name)){}
                 else{dirTo.mkdir(name);
                      if(dirTo.exists(name)){}else return ;}
-
    name+="/"+localName;name+=".html";}
+
+   nameOriginal=name;
+   nameOriginal.resize(nameOriginal.size()-4);
+   nameOriginal+=".xml";
+   nameOriginal.insert(nameOriginal.lastIndexOf("/")+1,"o_");
 
     QFile fileWR(name);
     fileWR.open(QFile::WriteOnly);
+
+    QFile fileWROriginal(nameOriginal);
+    fileWROriginal.open(QFile::WriteOnly);
+
     QDomDocument WR;
 
     reportTable(docIn,WR);
 
 fileWR.write(WR.toByteArray());
 fileWR.close();
+
+fileWROriginal.write(docIn.toString().toLocal8Bit());
+fileWROriginal.close();
 }
 //---------------------------------------------------------------------------------------------------
 void WReportTable::createWriteAndStart(QDomDocument &docIn,QString name)
@@ -103,16 +110,20 @@ void WReportTable::createAndWrite(QTableWidget *docIn,QString &name,bool local)
                  else{dirTo.mkdir(name);
                       if(dirTo.exists(name)){}else return ;}
 
-    name+="/"+localName;name+=".html";}
+    name+="/"+localName;
+
+    name+=".html";}
 
      QFile fileWR(name);
      fileWR.open(QFile::WriteOnly);
+
      QDomDocument WR;
 
      reportTable(docIn,WR);
 
      fileWR.write(WR.toByteArray());
      fileWR.close();
+
 }
 //---------------------------------------------------------------------------------------------------------
 void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
@@ -120,6 +131,7 @@ void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
     QDomNode table,tr,td;
     QDomElement nodeAdd=tableOut.createElement("table");
                   nodeAdd.setAttribute("border","1");
+                  nodeAdd.setAttribute("style","background-color:#ffffff");
                   tableOut.appendChild(nodeAdd);
                   table=tableOut.lastChild();
                   tr=tableOut.createElement("tr");
@@ -144,6 +156,6 @@ void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
                    table.appendChild(tr);
                   }
     QString text=tableOut.toString();
-int ui=0;
+
 }
 //---------------------------------------------------------------------------------------------------------

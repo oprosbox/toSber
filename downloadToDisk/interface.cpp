@@ -8,6 +8,8 @@ void  QWidgetRegion::addCheck(bool flg)
 {
     for(auto i=chkRegions.begin()+1;i!=chkRegions.end();i++)
     {(*i)->setChecked(flg);}
+
+
 }
 //------------------------------------------------------------------
 void QWidgetRegion::clickOk()
@@ -29,6 +31,7 @@ void QWidgetRegion::setRegionsCheck(QStringList &regions)
       {if((*chk)->text()==*i){(*chk)->setChecked(true);break;}}
 
      }
+
 }
 //---------------------------------------------------------------------------------
 void QWidgetRegion::create(QStringList &regions,QString caption)
@@ -59,7 +62,10 @@ for(auto i=regions.begin();i!=regions.end();i++)
     check->setChecked(true);
     chkRegions.push_back(check);
    }
-
+if (lblRegions!=NULL){QString add;
+                      add.sprintf("%i",regions.size());
+                      add.push_front("выбрано: ");
+                      lblRegions->setText(add);}
 buttonOk=new QPushButton(this);
 buttonOk->setText("принять");
 buttonOk->setGeometry(200,30,100,25);
@@ -72,20 +78,49 @@ QStringList QWidgetRegion::listCurrRegions()
 { QStringList list;
   for(auto i=chkRegions.begin()+1;i!=chkRegions.end();i++)
   {if((*i)->isChecked()){list.push_back((*i)->text());}}
+
+  if (lblRegions!=NULL){QString add;
+                        add.sprintf("%i",list.size());
+                        add.push_front("выбрано: ");
+                        lblRegions->setText(add);}
   return list;
 }
 //----------------------------------------------------------------------------------------------------
 void WUI::createInterf(void)
-{w223fzNotif.getRegions(regionsNotif);
- w223fzNotifReg.create(regionsNotif,"223-ФЗ Тандеры");
- w223fzDishon.getRegions(regionsDishon);
+{
+    w223fzNotif.ftp223fz->id=1;
+    w223fzDishon.ftp223fz->id=2;
+    w44fzNotif.ftp223fz->id=3;
+    w44fzDishon.ftp223fz->id=4;
+ w223fzNotif.getRegions(regionsNotif,CFZ223);
+ w223fzNotifReg.create(regionsNotif,"223-ФЗ Контракты");
+ w223fzDishon.getRegions(regionsDishon,CFZ223);
  w223fzDishonReg.create(regionsDishon,"223-ФЗ Недобросовестные поставщики");
+ w44fzNotif.getRegions(regionsContract44,CFZ44);
+ w44fzNotifReg.create(regionsContract44,"44-ФЗ Контракты");
  connect(&w223fzNotifReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set223fzRegionsNotif(QStringList)));
  connect(&w223fzDishonReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set223fzRegionsDishon(QStringList)));
  connect(btn223fzNotif,SIGNAL(clicked()),this,SLOT(exec223fzNotif()));
  connect(btn223fzDish,SIGNAL(clicked()),this,SLOT(exec223fzDishon()));
+ connect(&w44fzNotifReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set44fzRegionsContr(QStringList)));
+ connect(btn44fzNotif,SIGNAL(clicked()),this,SLOT(exec44fzContr()));
  connect(btnDownloadStart,SIGNAL(clicked()),this,SLOT(btnStart()));
+  connect(w223fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+   connect(w44fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+    connect(w223fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+     connect(w44fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
 }
+//-----------------------------------------------------------------------------------------------------
+ void WUI::allWasLoad(int id)
+ { switch(id)
+     {
+     case 1:{widget223Contr->setEnabled(true);break;}
+     case 2:{widget223Dish->setEnabled(true);break;}
+     case 3:{widget44Contr->setEnabled(true);break;}
+     case 4:{widget44Dish->setEnabled(true);}
+     }
+ }
+
 //----------------------------------------------------------------------------------------------------
 void WUI::exec223fzNotif()
 { w223fzNotifReg.setRegionsCheck(regionsNotif);
@@ -94,12 +129,16 @@ void WUI::exec223fzNotif()
 //------------------------------------------------------------------------------------------------------
 void WUI::exec223fzDishon()
 { w223fzDishonReg.setRegionsCheck(regionsDishon);
-  w223fzNotifReg.exec();
+  w223fzDishonReg.exec();
+}
+//----------------------------------------------------------------------------------------------------
+void WUI::exec44fzContr()
+{ w44fzNotifReg.setRegionsCheck(regionsContract44);
+  w44fzNotifReg.exec();
 }
 //------------------------------------------------------------------------------------------------------------
 void WUI::btnStart(void)
 {
-
    if(chk223fzNotif->isChecked()) {
                                     w223fzNotif.create223fzNotif(this->edt223fzNotif->text(),
                                                                  regionsNotif,
@@ -107,14 +146,49 @@ void WUI::btnStart(void)
                                                                  this->tm223fzNotifEnd->dateTime(),
                                                                  this->edt223fzInn->text());
                                     w223fzNotif.ftp223fz->download();
+
+                                    if(chk223fzContrToBase->isChecked()) w223fzNotif.baseConnect();
+                                    widget223Contr->setEnabled(false);
                                     }
    if(chk223fzDishon->isChecked()) {
-                                     w223fzDishon.create223fzDish(this->edt223fzNotif->text(),
+                                     w223fzDishon.create223fzDish(this->edt223fzDishon->text(),
                                                                   regionsDishon,
-                                                                  this->tm223fzNotifBeg->dateTime(),
-                                                                  this->tm223fzNotifEnd->dateTime());
+                                                                  this->tm223fzDishonBeg->dateTime(),
+                                                                  this->tm223fzDishonEnd->dateTime());
+                                     w223fzDishon.ftp223fz->download();
+
+                                     if(chk223fzDishonToBase->isChecked()) w223fzDishon.baseConnect();
+                                     widget223Dish->setEnabled(false);
+                                    }
+
+   if(chk44fzNotif->isChecked()) {
+                                    w44fzNotif.create44fzNotif(this->edt44fzNotif->text(),
+                                                                 regionsContract44,
+                                                                 this->tm44fzNotifBeg->dateTime(),
+                                                                 this->tm44fzNotifEnd->dateTime(),
+                                                                 this->edt44fzInn->text());
+                                    w44fzNotif.ftp223fz->download();
+
+
+                                    if(chk44fzContrToBase->isChecked()) w44fzNotif.baseConnect();
+                                    widget44Contr->setEnabled(false);
+                                    }
+   if(chk44fzDishon->isChecked()) {
+                                     w44fzDishon.create44fzDish(this->edt44fzDishon->text(),
+                                                                  this->tm44fzDishonBeg->dateTime(),
+                                                                  this->tm44fzDishonEnd->dateTime());
+                                     w44fzDishon.ftp223fz->download();
+
+                                     if(chk44fzDishonToBase->isChecked()) w44fzDishon.baseConnect();
+                                     widget44Dish->setEnabled(false);
                                     }
 }
+//------------------------------------------------------------------------------------------------------------
+void allWasLoad(int id)
+{
+
+}
+
 //------------------------------------------------------------------------------------------------------------
 void WUI::set223fzRegionsNotif(QStringList regions)
 {
@@ -126,49 +200,10 @@ void WUI::set223fzRegionsDishon(QStringList regions)
  regionsDishon=regions;
 }
 //------------------------------------------------------------------------------------------------------------
-void WMainInterf::getPath(void)
+void WUI::set44fzRegionsContr(QStringList regions)
 {
-  QFileDialog dialog;
-  QString path;
-  path=dialog.getExistingDirectory(0,"",QApplication::applicationDirPath());//0,"",QApplication::applicationDirPath(),"");
-  if (path=="")return;
-  emit setPath(path);
+ regionsContract44=regions;
 }
 
-void WMainInterf::getDateEnd()
-{
-
-  dialogEnd=new QCalendarWidget();
-  dialogEnd->setSelectedDate(QDate::currentDate());
-  connect(dialogEnd,SIGNAL(activated(QDate)),this,SLOT(closeDateEnd(QDate)));
-  dialogEnd->show();
 }
-
-void WMainInterf::closeDateBeg(QDate date)
-{
-
-emit setDateBeg(date);
-     delete dialogBeg;
-
-}
-
-void WMainInterf::getDateBeg()
-{
-
-   dialogBeg=new QCalendarWidget();
-   dialogBeg->setSelectedDate(QDate::currentDate());
-   connect(dialogBeg,SIGNAL(activated(QDate)),this,SLOT(closeDateBeg(QDate)));
-   dialogBeg->show();
-}
-
-void WMainInterf::closeDateEnd(QDate date)
-{
-
-emit setDateEnd(date);
-      delete dialogEnd;
-}
-
- WMainInterf::WMainInterf()
- {
-  }
-}
+//----------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/revenue/1">
+    <header>
+        <guid>3bc5e022-1bbc-4bf0-9587-4656a70965df</guid>
+        <createDateTime>2015-02-11T16:43:14</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>32c33eef-e941-4259-b528-9d5c6bcf1d91</guid>
+            <ns2:contractData>
+                <ns2:guid>50320c14-f731-4fc8-bfa4-c22cc6c5fbde</ns2:guid>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=54136&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-02-11T16:41:23</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-02-11T16:43:14</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150000900000</ns2:contractRegNumber>
+                <ns2:name>482/15</ns2:name>
+                <ns2:contractDate>2015-02-09T00:00:00</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>78d4e808-1141-4865-b62c-a47bcca801fd</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31401717597</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2014-11-20T17:29:46</ns2:publicationDateTime>
+                    <ns2:name>[24196] Выбор организации на  поставку зимнего дизельного топлива для котельных Калининградского отделения № 8626 для нужд Северо-Западного банка ОАО «Сбербанк России» для нужд  ОАО «Сбербанк России» (СЗБ2014-0482(АО)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>cfbf04b5-ded6-46c7-9ad5-5cd880c9b564</ns2:lotGuid>
+                <ns2:subjectContract>[24196] Выбор организации на  поставку зимнего дизельного топлива для котельных Калининградского отделения № 8626 для нужд Северо-Западного банка ОАО «Сбербанк России» для нужд  ОАО «Сбербанк России» (СЗБ2014-0482(АО)</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:resumeDate>2015-01-20T00:00:00</ns2:resumeDate>
+                <ns2:supplierInfo>
+                    <ns2:name>Общество с ограниченной ответственностью  "ПРЕМЬЕР"</ns2:name>
+                    <ns2:shortName>ООО "ПРЕМЬЕР"</ns2:shortName>
+                    <ns2:inn>3906174234</ns2:inn>
+                    <ns2:kpp>391701001</ns2:kpp>
+                    <ns2:okpo>81588133</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:individual>false</ns2:individual>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-09-07T00:00:00</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>65</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>238300</ns2:postCode>
+                        <ns2:oktmo>27000000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Калининградская обл</ns2:fullName>
+                        </ns2:region>
+                        <ns2:city>
+                            <ns2:fullName>Гурьевск г</ns2:fullName>
+                        </ns2:city>
+                        <ns2:street>
+                            <ns2:fullName>Калининградское шоссе ул</ns2:fullName>
+                        </ns2:street>
+                        <ns2:building>А</ns2:building>
+                        <ns2:house>1</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>9000000</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-01-21T00:00:00</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-01-20T00:00:00</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>80a39a8d-aa40-436a-96bf-aea6b44fdbf4</ns2:guid>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>2320000</code>
+                            <name>Продукты нефтепереработки, газ нефтепереработки и пиролиза, продукты газоперерабатывающих заводов</name>
+                        </ns2:okdp>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>570d1514-e97b-4106-bfbe-5c9b539e5931</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31401717597-01</ns2:protocolName>
+                        <ns2:docDate>2015-01-21T00:00:00</ns2:docDate>
+                        <ns2:docNum>31401717597-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

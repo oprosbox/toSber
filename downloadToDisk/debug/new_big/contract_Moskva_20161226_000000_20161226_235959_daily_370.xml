@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>99759136-0a3e-4757-8fb2-16150b0733f8</guid>
+        <createDateTime>2016-12-26T11:33:08</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d6aa7282-3f34-4752-95b5-0825c14eb2cc</guid>
+            <ns2:contractData>
+                <ns2:guid>f72a056f-72bd-483f-9acb-b7c7dae757a1</ns2:guid>
+                <ns2:registrationNumber>57707083893160058980001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2571657&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-26T10:28:26</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-26T11:33:08</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>9ce87045-1dfb-4c54-9ab2-3d197a692abc</guid>
+                        <createDateTime>2016-12-26T09:44:58</createDateTime>
+                        <fileName>Договор Лавина.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8865871</url>
+                        <registrationNumber>57707083893160058980002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160058980000</ns2:contractRegNumber>
+                <ns2:name>50001548981</ns2:name>
+                <ns2:contractDate>2016-12-22</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>e4088116-9129-43d0-bd7e-242169937452</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604365854</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-11-23T11:13:50</ns2:publicationDateTime>
+                    <ns2:name>[36624] Выбор организации на оказание охранных услуг с помощью технических средств охраны (тревожная сигнализация) на объектах Коми отделения № 8617 для нужд ПАО Сбербанк среди поставщиков, аккредитованных по итогам постоянно открытого квалификационного отбора, объявленного 14.04.2016г.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>95433677-8718-4bcb-a248-68b9b5d66615</ns2:lotGuid>
+                <ns2:subjectContract>[36624] Выбор организации на оказание охранных услуг с помощью технических средств охраны (тревожная сигнализация) на объектах Коми отделения № 8617 для нужд ПАО Сбербанк среди поставщиков, аккредитов</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО ЧОП "МКБ Лавина"</ns2:name>
+                    <ns2:inn>1101041407</ns2:inn>
+                    <ns2:kpp>110101001</ns2:kpp>
+                    <ns2:okpo>73320474</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2004-06-17</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>167000</ns2:postCode>
+                        <ns2:oktmo>87000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Республики Коми</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>11</ns2:code>
+                            <ns2:name>Коми Респ</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Сыктывкар, Центральный район</ns2:area>
+                        <ns2:street>ул. Пушкина</ns2:street>
+                        <ns2:email>lavina@mkb-gambit.ru</ns2:email>
+                        <ns2:phone>(8212) 24-42-42</ns2:phone>
+                        <ns2:office>0</ns2:office>
+                        <ns2:house>30/1</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>1019100</ns2:price>
+                <ns2:rubPrice>1019100</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>05ed4636-4b3d-4839-a85d-b1e33aa011bd</ns2:guid>
+                        <ns2:name>Оказание охранных услуг с помощью технических средств охраны (тревожная сигнализация) на объектах Коми отделения № 8617 для нужд ПАО Сбербанк, в общем объеме - 9 штук</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>80.20.10.000</code>
+                            <name>Услуги систем обеспечения безопасности</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>796</code>
+                            <name>Штука</name>
+                        </ns2:okei>
+                        <ns2:qty>9</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>a5fddfb7-368b-4ba9-8df0-df40caa8467a</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604365854-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-12</ns2:docDate>
+                        <ns2:docNum>31604365854-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

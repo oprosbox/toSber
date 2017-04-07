@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include "interface.h"
 
+#include "wdateline.h"
+
 namespace Ui {
 class MainWindow;
 
@@ -19,12 +21,12 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
 public slots:
-  void getFunct(QStringList);
+    void createTables(void);
 protected:
-    wui::WMainInterf *w223fzTendPath;
-    wui::WMainInterf *w44fzTendPath;
-    wui::WMainInterf *w223fzPath;
-    wui::WMainInterf *w44fzPath;
+    WMainInterf *w223fzTendPath;
+    WMainInterf *w44fzTendPath;
+    WMainInterf *w223fzPath;
+    WMainInterf *w44fzPath;
 private:
     Ui::MainWindow *ui;
     wui::WUI *headUi;

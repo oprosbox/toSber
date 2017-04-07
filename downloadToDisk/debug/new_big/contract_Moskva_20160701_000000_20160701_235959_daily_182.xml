@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.0 http://zakupki.gov.ru/223/integration/schema/TFF-5.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns11="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns12="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns13="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns14="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns17="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns18="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns8="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>6c232609-9d6a-447a-8872-98df89dfbab2</guid>
+        <createDateTime>2016-07-01T09:25:55</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>b1d0a8c9-1300-466d-99ee-7349eeb5980c</guid>
+            <ns2:contractData>
+                <ns2:guid>c2987206-8c0c-47db-8a3b-317af07b5de6</ns2:guid>
+                <ns2:registrationNumber>57707083893160026700001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1836270&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-07-01T09:02:33</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-07-01T09:25:55</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>7c5b4f78-1388-4c56-b8b4-759aa62e7584</guid>
+                        <createDateTime>2016-07-01T08:20:54</createDateTime>
+                        <fileName>Договор ООО Да будет чистота.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=4324824</url>
+                        <registrationNumber>57707083893160026700002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160026700000</ns2:contractRegNumber>
+                <ns2:name>06/16</ns2:name>
+                <ns2:contractDate>2016-06-29</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>8f51df29-9747-4a4c-8806-07366eaae218</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603597918</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-04-26T13:56:58</ns2:publicationDateTime>
+                    <ns2:name>[33098] Выбор организации на оказание услуг по аренде и уходу за предоставленными вестибюльными напольными покрытиями (коврами) в Калининградском отделении №8626 для нужд  Северо – Западного банка ПАО Сбербанк (СЗБ2016-0079(ЗКО)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>cdea5f6d-6aa7-4b6d-a21d-1fc022af5ef1</ns2:lotGuid>
+                <ns2:subjectContract>[33098] Выбор организации на оказание услуг по аренде и уходу за предоставленными вестибюльными напольными покрытиями (коврами) в Калининградском отделении №8626 для нужд  Северо – Западного банка ПАО</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО «Да будет чистота!»</ns2:name>
+                    <ns2:inn>3917017339</ns2:inn>
+                    <ns2:kpp>390601001</ns2:kpp>
+                    <ns2:okpo>14410888</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2003-03-05</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>236009</ns2:postCode>
+                        <ns2:oktmo>27701000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Калининградская область</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>2188156.4</ns2:price>
+                <ns2:rubPrice>2188156.4</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-06-29</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-05-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>260df409-989f-435f-a644-a476dce315de</ns2:guid>
+                        <ns2:name>на оказание услуг по аренде и уходу за предоставленными вестибюльными напольными покрытиями (коврами)- 1 комплект услуг. •	срок действия договора – 1 год</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>81.2</code>
+                            <name>Услуги по чистке и уборке</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>951f9a1b-1423-4e45-97f6-aaed49b32d64</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603597918-01</ns2:protocolName>
+                        <ns2:docDate>2016-05-26</ns2:docDate>
+                        <ns2:docNum>31603597918-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

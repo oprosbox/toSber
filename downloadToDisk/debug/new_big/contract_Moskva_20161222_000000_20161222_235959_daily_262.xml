@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/reference/1">
+    <header>
+        <guid>4e2a862b-4e9f-4855-aa42-059cc6cde2a2</guid>
+        <createDateTime>2016-12-22T11:10:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>9585e745-a742-487a-903a-7d5f2cf1bcf6</guid>
+            <ns2:contractData>
+                <ns2:guid>cd217f0f-cabe-464c-a7ed-555406e99a10</ns2:guid>
+                <ns2:registrationNumber>57707083893150037950011</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2547824&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-22T10:27:03</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-22T11:10:22</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>6</ns2:version>
+                <ns2:modificationDescription>В перчень услуг в рамках основного договора СБ-37/110-2015 от 15.12.2015 года вносятся изменения, увеличивающие стоимость основного договора. В рамках Дополнительного соглашения №8 организуются дополнительные каналы связи ВСП Волго-Вятского банка</ns2:modificationDescription>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>true</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>e3a832fa-c2d0-4751-856c-60661b0f104d</guid>
+                        <createDateTime>2016-12-22T10:16:48</createDateTime>
+                        <fileName>Доп.соглашение 8 к дог СБ-37-110-2015.rar</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8745051</url>
+                        <registrationNumber>57707083893150037950012</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893150037950000</ns2:contractRegNumber>
+                <ns2:name>Доп.соглашение 8 к договору СБ-37/110-2015 от 15.12.2015</ns2:name>
+                <ns2:contractDate>2016-12-22</ns2:contractDate>
+                <ns2:approveDate>2016-12-22</ns2:approveDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>ec28b3ae-d61d-4d7f-abc0-da9ee31daa1e</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31503012411</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-11-27T15:52:34</ns2:publicationDateTime>
+                    <ns2:name>[30814] Выбор ПАО "Мегафон" для оказания услуг связи в соответствии с п. 2.2.5.4 "Положения о закупках" №2348 от 05.12.2011 на территории Владимирской, Кировской, Нижегородской областей, а также Республик Мордовия и Марий Эл</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>ba0410da-c296-437b-b532-63cea59ac7fd</ns2:lotGuid>
+                <ns2:subjectContract>[30814] Выбор ПАО "Мегафон" для оказания услуг связи в соответствии с п. 2.2.5.4 "Положения о закупках" №2348 от 05.12.2011 на территории Владимирской, Кировской, Нижегородской областей, а также Респу</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ПАО "МегаФон"</ns2:name>
+                    <ns2:inn>7812014560</ns2:inn>
+                    <ns2:kpp>526202001</ns2:kpp>
+                    <ns2:okpo>87836282</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2005-01-31</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12200</ns2:okopf>
+                    <ns2:okopfName>Акционерные общества</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>115035</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Москва, район Якиманка</ns2:area>
+                        <ns2:street>Кадашевская набережная</ns2:street>
+                        <ns2:email>info@megafon.ru</ns2:email>
+                        <ns2:phone>+7(800)550-05-00</ns2:phone>
+                        <ns2:office>1</ns2:office>
+                        <ns2:house>30</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>57043566.8</ns2:price>
+                <ns2:rubPrice>57043566.8</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-12-25</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-12-25</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>3d61144e-f20f-4cc4-86cf-11e73f5d39ba</ns2:guid>
+                        <ns2:name>Предоставление услуг связи на территории Владимирской, Кировской, Нижегородской областей, а также Республик Мордовия и Марий Эл</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>6420000</code>
+                            <name>Услуги электрической связи</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>796</code>
+                            <name>Штука</name>
+                        </ns2:okei>
+                        <ns2:qty>114</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>b3017f76-b9a0-4b76-98dd-96ff5da2ba2e</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31503012411-01</ns2:protocolName>
+                        <ns2:docDate>2015-11-27</ns2:docDate>
+                        <ns2:docNum>31503012411-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>true</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>false</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

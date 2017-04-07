@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1">
+    <header>
+        <guid>ea9ea3f5-1407-46e5-9563-3d922009a18f</guid>
+        <createDateTime>2015-04-08T13:54:24</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>6a4c77ec-cd64-45b3-aa81-cdf61c841dff</guid>
+            <ns2:contractData>
+                <ns2:guid>747a3d13-3b45-46cc-9157-8751acd1daf4</ns2:guid>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=199358&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-04-08T13:52:54</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-04-08T13:54:23</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150005260000</ns2:contractRegNumber>
+                <ns2:name>23/01-20</ns2:name>
+                <ns2:contractDate>2015-04-08T00:00:00</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>1f70e32f-e32f-409c-b758-889b2c4973b4</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502138827</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-03-17T17:15:38</ns2:publicationDateTime>
+                    <ns2:name>[26539] Выбор организации на поставку офисной бумаги формата А4 «Ballet Premier» для отделений ГО по КК и Абаканского отделения №8602 для нужд Восточно-Сибирского банка ОАО «Сбербанк России»</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>254631cd-66ce-4bc8-ba53-47b66846db2a</ns2:lotGuid>
+                <ns2:subjectContract>[26539] Выбор организации на поставку офисной бумаги формата А4 «Ballet Premier» для отделений ГО по КК и Абаканского отделения №8602 для нужд Восточно-Сибирского банка ОАО «Сбербанк России»</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:resumeDate>2015-03-31T00:00:00</ns2:resumeDate>
+                <ns2:supplierInfo>
+                    <ns2:name>Общество с ограниченной ответственностью "ТЕХНО-ЦЕНТР "ИСТОК-БАНКОСЕРВИС"</ns2:name>
+                    <ns2:shortName>ООО ТЦ "ИСТОК-БС"</ns2:shortName>
+                    <ns2:inn>2461019543</ns2:inn>
+                    <ns2:kpp>246001001</ns2:kpp>
+                    <ns2:okpo>0049696444</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2008-10-31T00:00:00</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>65</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>660021</ns2:postCode>
+                        <ns2:oktmo>04000000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Красноярский край</ns2:fullName>
+                        </ns2:region>
+                        <ns2:city>
+                            <ns2:fullName>Красноярск г</ns2:fullName>
+                        </ns2:city>
+                        <ns2:street>
+                            <ns2:fullName>Бограда ул</ns2:fullName>
+                        </ns2:street>
+                        <ns2:house>108</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>19533640</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-04-08T00:00:00</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-04-30T00:00:00</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>fc0a2486-e8a3-4ac1-9d51-c8ff66431d2c</ns2:guid>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>2100000</code>
+                            <name>ЦЕЛЛЮЛОЗА, БУМАГА, КАРТОН И ИЗДЕЛИЯ ИЗ НИХ</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>796</code>
+                            <name>Штука</name>
+                        </ns2:okei>
+                        <ns2:qty>136400</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>20b6615b-884b-4c61-91f4-10f0ec21431f</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31502138827-01</ns2:protocolName>
+                        <ns2:docDate>2015-03-31T00:00:00</ns2:docDate>
+                        <ns2:docNum>31502138827-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

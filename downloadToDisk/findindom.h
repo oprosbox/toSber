@@ -8,6 +8,9 @@
 
 namespace ndom{
 
+
+extern void toLogFile(QString errorStr);
+
    const int CDELDIR=1;
    const int CNODELDIR=2;
    const int CEXPFILTER=2;
@@ -29,8 +32,8 @@ public:
     bool findInFile(QString path,QList<SListVal> &val);
     bool findInFile(QString path,QStringList &val);
     bool findInFileAdd(QString path,QStringList &fileFind);
-static  bool findInText(QString &xmlText,QStringList teg,QStringList &valOut);
-static  bool findInText(QString &xmlText,QStringList teg,QString &valOut);
+static  bool findInText(QString xmlText,QStringList teg,QStringList &valOut);
+static  bool findInText(QString xmlText,QStringList teg,QString &valOut);
         void setFindAttr(QStringList teg,QString val);
         void setFindAttr(QList<QRegExp> tegs,QString val);
         void setFindAttr(QList<QStringList> tegs);

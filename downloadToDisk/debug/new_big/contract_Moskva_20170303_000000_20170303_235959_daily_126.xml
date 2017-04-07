@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns16="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns18="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns8="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns9="http://zakupki.gov.ru/223fz/reference/1">
+    <header>
+        <guid>07ce9f54-1686-44f8-95b7-59cc7b1e7205</guid>
+        <createDateTime>2017-03-03T14:02:25</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>c09d6743-38c2-4a5b-b3d6-73c7f5a5264d</guid>
+            <ns2:contractData>
+                <ns2:guid>1ffc5c26-3626-46af-957d-107a1b0dd87c</ns2:guid>
+                <ns2:registrationNumber>57707083893170008500001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2950827&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-03-03T14:02:04</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-03-03T14:02:25</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>ad38fa30-6a90-4a15-848a-a89fd1d7480a</guid>
+                        <createDateTime>2017-03-03T13:34:03</createDateTime>
+                        <fileName>Анкета-заявка №26.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11044601</url>
+                        <registrationNumber>57707083893170008500002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170008500000</ns2:contractRegNumber>
+                <ns2:name>26</ns2:name>
+                <ns2:contractDate>2017-03-02</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>f8cc967b-397a-4539-942c-650b01862265</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31704734090</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2017-01-31T12:29:25</ns2:publicationDateTime>
+                    <ns2:name>[37699] Выбор организации на оказание услуг по поиску и подбору кандидатов на замещение вакантных должностей Блока «Корпоративный бизнес» для нужд ПАО Сбербанк  (среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 07.12.2015 (протокол № 043/15), 19.02.2016 (протокол №005/16), 29.02.2016 (протокол №006/16), 06.09.2016 (протокол №065/16) по Лоту «Бизнес и операции»)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>cf845861-7635-4166-a9ad-13b643f281d1</ns2:lotGuid>
+                <ns2:subjectContract>[37699] Выбор организации на оказание услуг по поиску и подбору кандидатов на замещение вакантных должностей Блока «Корпоративный бизнес» для нужд ПАО Сбербанк  (среди поставщиков, аккредитованных по </ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "АНКОР Финансовые услуги"</ns2:name>
+                    <ns2:inn>7725684840</ns2:inn>
+                    <ns2:kpp>772201001</ns2:kpp>
+                    <ns2:okpo>64545211</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2009-12-29</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>109316</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Москва, Нижегородский район</ns2:area>
+                        <ns2:street>Остаповский проезд</ns2:street>
+                        <ns2:email>-</ns2:email>
+                        <ns2:phone>-</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>5, стр. 1</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>960000</ns2:price>
+                <ns2:rubPrice>960000</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-03-02</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-05-01</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>42a83d4b-94c1-49d2-b3f2-bbfc9166e838</ns2:guid>
+                        <ns2:name>Оказание услуг по поиску и подбору кандидатов на замещение вакантных должностей  Блока «Корпоративный бизнес» для нужд ПАО Сбербанк, 1 комплект</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>78.1</code>
+                            <name>Услуги, предоставляемые агентствами по трудоустройству</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>33ab1d30-c0ff-4a10-bed9-aa6c59bb5d14</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31704734090-01</ns2:protocolName>
+                        <ns2:docDate>2017-03-01</ns2:docDate>
+                        <ns2:docNum>31704734090-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

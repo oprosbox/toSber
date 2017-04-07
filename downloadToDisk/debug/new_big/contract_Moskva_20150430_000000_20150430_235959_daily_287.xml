@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1">
+    <header>
+        <guid>b353b5df-9c26-41a9-b4ea-b247c57785f7</guid>
+        <createDateTime>2015-04-30T15:20:04</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7fc3184a-0d26-4329-a010-0b3d37d902a1</guid>
+            <ns2:contractData>
+                <ns2:guid>d3156908-997c-4fde-a38f-a8dcc972f3cf</ns2:guid>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=267025&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-04-29T17:27:00</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+                        <shortName>ОАО "Сбербанк России"</shortName>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-04-30T15:20:04</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150007930000</ns2:contractRegNumber>
+                <ns2:name>Поставка оборудования для системы видеонаблюдения и системы контроля и управления доступом</ns2:name>
+                <ns2:contractDate>2015-04-28T00:00:00</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>9133521e-1bb3-4cfb-8c26-d69e4315fb2c</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502147630</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-03-19T12:22:10</ns2:publicationDateTime>
+                    <ns2:name>[26569] Выбор организации на поставку оборудования для системы видеонаблюдения и системы контроля и управления доступом для нужд Уральского банка ОАО «Сбербанк России»</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[26569] Выбор организации на поставку оборудования для системы видеонаблюдения и системы контроля и управления доступом для нужд Уральского банка ОАО «Сбербанк России»</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "ТК-плюс"</ns2:name>
+                    <ns2:inn>7802333416</ns2:inn>
+                    <ns2:kpp>780201001</ns2:kpp>
+                    <ns2:okpo>77734712</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2005-09-26T00:00:00</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>194044</ns2:postCode>
+                        <ns2:oktmo>40300000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>г. Санкт-Петербург</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>470000</ns2:price>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-04-28T00:00:00</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2015-05-31T00:00:00</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>f8d018f9-dfb2-451f-97fd-f461e8308371</ns2:guid>
+                        <ns2:name>Поставка оборудования для системы видеонаблюдения и системы контроля и управления доступом</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>2949000</code>
+                            <name>Машины и оборудование специализированные прочие, не включенные в другие группировки</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>3fb9f8d2-d385-4d16-a615-16d34577f1ac</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31502147630-01</ns2:protocolName>
+                        <ns2:docDate>2015-04-08T00:00:00</ns2:docDate>
+                        <ns2:docNum>81-12</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

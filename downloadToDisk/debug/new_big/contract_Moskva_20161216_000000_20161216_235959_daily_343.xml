@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns15="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns17="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns18="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>1be11b09-b6d6-4c0f-a515-7413b03dbe07</guid>
+        <createDateTime>2016-12-16T11:59:14</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>5c522d0a-eedc-44a3-9a42-62025baf9b1c</guid>
+            <ns2:contractData>
+                <ns2:guid>71b3ba6f-9ae8-4f2e-a5d8-98d942f8f58c</ns2:guid>
+                <ns2:registrationNumber>57707083893160057250001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2509681&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-16T11:22:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-16T11:59:14</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>dcfe3ce6-b910-4180-99f9-a8b32eab8807</guid>
+                        <createDateTime>2016-12-15T11:52:59</createDateTime>
+                        <fileName>0190 лот 4.PDF</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8546159</url>
+                        <registrationNumber>57707083893160057250002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160057250000</ns2:contractRegNumber>
+                <ns2:name>50001495056</ns2:name>
+                <ns2:contractDate>2016-11-09</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>522c0b34-9399-4136-bd3c-862e3e8c92de</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604068975</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-09-06T11:16:30</ns2:publicationDateTime>
+                    <ns2:name>[35270] Выбор организации на оказание услуг по просчету товароматериальных ценностей и основных средств при проведении полных инвентаризаций имущества на объектах Банка для нужд Северо-Западного банка ПАО Сбербанк (СЗБ2016-0190(КО)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>576513de-9d0c-4886-826c-012f899671e0</ns2:lotGuid>
+                <ns2:subjectContract>[35270] Выбор организации на оказание услуг по просчету товароматериальных ценностей и основных средств при проведении полных инвентаризаций имущества на объектах Банка для нужд Северо-Западного банка</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "ЕИЦ"</ns2:name>
+                    <ns2:inn>7704860044</ns2:inn>
+                    <ns2:kpp>770401001</ns2:kpp>
+                    <ns2:okpo>29240162</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2014-03-27</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>121069</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Москва, Район: Пресненский.</ns2:area>
+                        <ns2:street>б-р Новинский</ns2:street>
+                        <ns2:email>vz@ipnt.ru</ns2:email>
+                        <ns2:phone>+7 495 9818563</ns2:phone>
+                        <ns2:office>помещение VIII</ns2:office>
+                        <ns2:house>18, строение 1</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>2342951</ns2:price>
+                <ns2:rubPrice>2342951</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-11-09</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-11-09</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>c1418343-9d0f-4f5c-890b-aad521df1ff0</ns2:guid>
+                        <ns2:name>на оказание услуг по просчету товароматериальных ценностей и основных средств при проведении полных инвентаризаций имущества - 488043,78 кв.м. срок действия договора:до полного исполнения Сторонами взятых на себя обязательств;сроки оказания услуг:срок оказания услуг со дня подписания Договора – по 30 ноября 2016 года включительно;окончательный срок сдачи оформленных Отчётов по просчётам ТМЦ и ОС – до 30 декабря 2016 года;</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>69.2</code>
+                            <name>Услуги в области бухгалтерского учета; по проведению финансового аудита; по налоговому консультированию</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>488043.78</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>1bee29bb-083a-4d22-8064-8ac8ea1c689c</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604068975-02</ns2:protocolName>
+                        <ns2:docDate>2016-11-08</ns2:docDate>
+                        <ns2:docNum>31604068975-02</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.0 http://zakupki.gov.ru/223/integration/schema/TFF-5.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns16="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns18="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns8="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns9="http://zakupki.gov.ru/223fz/reference/1">
+    <header>
+        <guid>d6ac2659-2091-464b-bdd2-5e08cadc65a7</guid>
+        <createDateTime>2016-08-08T14:01:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f0c499ba-b31d-4d4d-8b1a-55442ca91a10</guid>
+            <ns2:contractData>
+                <ns2:guid>f7f5c6c9-9881-4d75-9bea-c7ebc650df0e</ns2:guid>
+                <ns2:registrationNumber>57707083893160033420001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1988300&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-08-08T13:47:15</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-08-08T14:01:49</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>61054146-28cc-472c-92f7-50a1a8e59e59</guid>
+                        <createDateTime>2016-08-01T12:01:53</createDateTime>
+                        <fileName>Генеральное соглашение R-320, Аладдин.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=5193539</url>
+                        <registrationNumber>57707083893160033420002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160033420000</ns2:contractRegNumber>
+                <ns2:name>R/320</ns2:name>
+                <ns2:contractDate>2016-07-01</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>e0ba26d2-3463-40c2-81e3-b69dc64f550e</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603620122</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-04-29T15:16:20</ns2:publicationDateTime>
+                    <ns2:name>[33179] Выбор поставщика носителей информации типа Touch Memory DS-1993 и считывателей информации с ТМ-носителей для USB порта персонального компьютера для нужд ПАО Сбербанк</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>084cd30a-79c4-49a9-8630-d4623c373c71</ns2:lotGuid>
+                <ns2:subjectContract>[33179] Выбор поставщика носителей информации типа Touch Memory DS-1993 и считывателей информации с ТМ-носителей для USB порта персонального компьютера для нужд ПАО Сбербанк</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО “Аладдин” (ЛОТ №1)</ns2:name>
+                    <ns2:inn>5029105132</ns2:inn>
+                    <ns2:kpp>502901001</ns2:kpp>
+                    <ns2:okpo>81663030</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-07-25</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>141018</ns2:postCode>
+                        <ns2:oktmo>46634000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>московская область</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>13534673.75</ns2:price>
+                <ns2:rubPrice>13534673.75</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-07-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-07-01</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>07df2fb8-a06e-461b-9db3-8fc54f22fe12</ns2:guid>
+                        <ns2:name>Предметом настоящего Соглашения является поставка Банку продукции для нужд ПАО Сбербанк и его Территориальных банков  по номенклатуре и ценам, указанным в Приложении № 1 к Соглашению. Количество: 1 комплект.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>26.2</code>
+                            <name>Компьютеры и периферийное оборудование</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>9d57601f-d7f6-471d-8f8b-2405282f85ed</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603620122-04</ns2:protocolName>
+                        <ns2:docDate>2016-07-19</ns2:docDate>
+                        <ns2:docNum>31603620122-04</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

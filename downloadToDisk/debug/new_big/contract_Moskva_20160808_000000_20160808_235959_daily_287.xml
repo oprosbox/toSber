@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.0 http://zakupki.gov.ru/223/integration/schema/TFF-5.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns11="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns12="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns16="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns18="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns5="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns7="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns8="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns9="http://zakupki.gov.ru/223fz/reference/1">
+    <header>
+        <guid>711dae9e-97c3-41cd-8c79-4e9463d915fe</guid>
+        <createDateTime>2016-08-08T11:56:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>1416a7d9-5567-4009-bd4c-9053bff6c94f</guid>
+            <ns2:contractData>
+                <ns2:guid>dc2ba200-946b-49c2-a4e8-c50ece2c39f1</ns2:guid>
+                <ns2:registrationNumber>57707083893160033330001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1986923&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-08-08T10:52:30</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-08-08T11:56:45</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>99e74029-85b6-45a1-a626-be010b888b5f</guid>
+                        <createDateTime>2016-08-05T13:18:13</createDateTime>
+                        <fileName>Договор №8605_228кц от 17.06.2016г.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=5185457</url>
+                        <registrationNumber>57707083893160033330002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160033330000</ns2:contractRegNumber>
+                <ns2:name>8605/228кц</ns2:name>
+                <ns2:contractDate>2016-06-17</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>8eefcca9-6d28-4781-b22e-633d435c14a0</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603704552</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-05-26T15:47:52</ns2:publicationDateTime>
+                    <ns2:name>[33500] Выбор организации на выполнение работ по разработке сметной документации и выполнению строительно-монтажных работ по капитальному ремонту КИЦ «Брянский» (п. Навля) (Брянская область, п. Навля, переулок 30 лет Победы, д. 5) среди субъектов малого и среднего предпринимательства (СМСП) для нужд Среднерусского банка ПАО Сбербанк, среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 19.05.2016г.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>0355802c-b5a6-4a91-9a1f-b64aa007ecb6</ns2:lotGuid>
+                <ns2:subjectContract>[33500] Выбор организации на выполнение работ по разработке сметной документации и выполнению строительно-монтажных работ по капитальному ремонту КИЦ «Брянский» (п. Навля) (Брянская область, п. Навля,</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "РОКОС"</ns2:name>
+                    <ns2:inn>3234041110</ns2:inn>
+                    <ns2:kpp>325701001</ns2:kpp>
+                    <ns2:okpo>54531745</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2003-07-15</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>241050</ns2:postCode>
+                        <ns2:oktmo>15701000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Брянская область</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>1997999</ns2:price>
+                <ns2:rubPrice>1997999</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-06-17</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-07-29</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>3a229c07-9b9e-4a34-99f8-ea99273c6c67</ns2:guid>
+                        <ns2:name>Выполнение работ по разработке сметной документации и выполнение строительно-монтажных работ по капитальному ремонту КИЦ «Брянский» (п. Навля) (Брянская область, п. Навля, переулок 30 лет Победы, д. 5), в соответствии с требованиями к предмету запроса котировок, указанными в Приложении №1 «Техническое задание» к запросу котировок. Общая площадь подлежащая реконструкции: 326.6 м.кв.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>41.20.20.100</code>
+                            <name>Здания нежилые</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>326.6</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>1668740f-945d-4a92-9aef-199469a15f39</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603704552-01</ns2:protocolName>
+                        <ns2:docDate>2016-06-10</ns2:docDate>
+                        <ns2:docNum>31603704552-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

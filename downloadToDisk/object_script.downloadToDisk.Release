@@ -9,10 +9,12 @@ INPUT(
 ./release\tobase.o
 ./release\mainwin.o
 ./release\mainw.o
+./release\wdateline.o
 ./release\moc_mainwindow.o
 ./release\moc_findindom.o
 ./release\moc_ftpclient.o
 ./release\moc_loadsave.o
 ./release\moc_interface.o
 ./release\moc_tobase.o
+./release\moc_wdateline.o
 );

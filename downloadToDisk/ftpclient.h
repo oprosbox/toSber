@@ -25,6 +25,9 @@ struct SFilterStr
 {
 QDateTime dateBegin;
 QDateTime dateEnd;
+QRegExp findExp;
+QString formDateBg;
+QString formDateEnd;
 };
 //-----------------------------------------------------------------------------------------------
 class WFtpFilter
@@ -159,7 +162,7 @@ class WNetFtpClient:public QObject
 public:
   void createFtp(QString serv,QString login,QString passv,QString cd,QString dirSave);
   void destroyFtp(void); 
-  void getListFiles(QStringList &dirList,int count);
+  void getListFiles(QStringList &dirList);
   WFtpClient ftpFiles;
 public slots:
   void sgetListFiles(void);
@@ -189,7 +192,6 @@ protected:
   QString dirForSave;
   QStringList::iterator itDirList;
   QStringList dirListBig;
-  int countBack;
   QTimer updateConnect;
 };
 

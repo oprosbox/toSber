@@ -6,30 +6,38 @@
 
 #include <QFile>
 #include <QTextStream>
+#include "findindom.h"
 
 WFtpClient::WFtpClient()
 {
 fileList = new QFile();
 }
-
+//----------------------фильтр обеспечивает фильтрацию архивов по времени с ftp сервера при создании списка--------------------
 bool WFtpFilter::filter(QString url)
 {
   int indUrl;
-  indUrl=url.indexOf(QRegExp("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}"),0);
+  //indUrl=url.indexOf(QRegExp("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}"),0);
+  indUrl=url.indexOf(stFilter.findExp,0);
   QString dateStrBeg;
   QString dateStrEnd;
-  dateStrBeg.insert(0,url.data()+indUrl,15);
-  dateStrEnd.insert(0,url.data()+indUrl+16,8);
+  dateStrBeg.insert(0,url.data()+indUrl,stFilter.formDateBg.length());
+  dateStrEnd.insert(0,url.data()+indUrl+stFilter.formDateBg.length()+1,stFilter.formDateEnd.length());
   QDateTime dateBegin,dateEnd;
-  dateBegin=QDateTime::fromString(dateStrBeg,"yyyyMMdd_HHmmss");
-  dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd");
-
-  if((stFilter.dateBegin<=dateBegin)&&(stFilter.dateEnd>=dateEnd))
-    {return true;}
+  //dateBegin=QDateTime::fromString(dateStrBeg,"yyyyMMdd_HHmmss");
+  //dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd");
+  dateBegin=QDateTime::fromString(dateStrBeg,stFilter.formDateBg);
+  dateEnd=QDateTime::fromString(dateStrEnd,stFilter.formDateEnd);
+ // if(dateStrBeg=="2017030100")
+ // {int u=0;}
+ // if((stFilter.dateBegin<=dateBegin)&&(stFilter.dateEnd>=dateEnd))
+  //условие пересечения двух отрезков
+  if(((stFilter.dateEnd>=dateBegin)&&
+       (stFilter.dateBegin<=dateEnd)))
+  {return true;}
 return false;
 }
 
-//-------------------------------коннектится к ftp источнику------------------------------------------------
+//-------------------------------коннектится к ftp источнику для получения фильтра------------------------------------------------
 int WFtpClient::connectServ(QString serv,QString login,QString passv)
 {
   ftpLiders = new QFtp(this);
@@ -70,10 +78,24 @@ void WFtpClient::functTimer()
 
 //----------------------------------окончание комманды--------------------------------------------------------
 void WFtpClient::commFinish(int id,bool hasGood)
-{if(hasGood){}else{countTimer=0;}
+{if(!hasGood){}else{QString txt="ftp error getList: "+ftpLiders->errorString().replace("\n"," ") ;
+                    ndom::toLogFile(txt);
+                    countTimer=0;}
  if(id==idCurr){switch(toLoad)
                  {case CLOADCURRFILE:{toLoad=-1;
                                       countTimer=0;
+                                      emit sFiles(ftpLiders->error(),urlFiles);
+                                      break;}
+                   case CLOADCURRDIR:{toLoad=-1;
+                                      countTimer=0;
+//                                      qDebug()<<urlFiles;
+//                                      QFile fLog(QApplication::applicationDirPath()+ "/regions44fz.txt");
+//                                      fLog.open(QFile::WriteOnly);
+//                                      for(int i=0;i<urlFiles.size();i++)
+//                                      {  QString str=urlFiles.at(i)+"\r\n";
+//                                      fLog.write(str.toLocal8Bit());}
+
+//                                      fLog.close();
                                       emit sFiles(ftpLiders->error(),urlFiles);
                                       break;}
                    case CLOADLIST:{readList(urlFiles);}
@@ -83,7 +105,7 @@ void WFtpClient::commFinish(int id,bool hasGood)
 //------------------------------переходим по указанной директории------------------------------------------------------
 void WFtpClient::cd(QString cdFromNull)
 {
- ftpLiders->cd(cdFromNull);
+ if(cdFromNull!="")ftpLiders->cd(cdFromNull);
 }
 //------------------------------читаем все файлы из неё и сохраняем на жесткий диск-------------------------------------------------
 void WFtpClient::readFiles(QString dirToSave)
@@ -326,7 +348,9 @@ void WNetworkFtp::finished(QNetworkReply* reply)
  {if((listDownloads.size()!=0)&&(timer->isActive()))
    {
    if(control.countPrev==control.countRefresh)
-       {abortAll();
+       {QString txt="ftp error getFile: abort";
+                 ndom::toLogFile(txt);
+        abortAll();
         control.flagControl=false;
        }
          control.countPrev=control.countRefresh;
@@ -346,7 +370,7 @@ void WNetworkFtp::finished(QNetworkReply* reply)
                                                          control.flagControl=false;
                                                          timer->stop();
                                                          }
-   if((currNames.size()>100)) {emit emit10Obj(1,currNames);
+   if((currNames.size()>10)) {emit emit10Obj(1,currNames);
                                     currNames.clear();
                                    }
 
@@ -445,18 +469,22 @@ this->updateConnect.setInterval(5000);
 //connect(&this->updateConnect,SIGNAL(timeout()),this,SLOT(sgetListFiles()));
 connect(&ftpFiles,SIGNAL(errBeg()),this,SLOT(sgetListFiles()));
 //connect(&ftpFiles,SIGNAL(errEnd()),&this->updateConnect,SLOT(stop()));
+
+
+
 }
 
-void WNetFtpClient::getListFiles(QStringList &dirList,int count)
-{   countBack=count;
+void WNetFtpClient::getListFiles(QStringList &dirList)
+{
     dirListBig=dirList;
     itDirList=dirListBig.begin();
     ftpFiles.cd(*itDirList);
     ftpFiles.readCurrFiles();
+   // ftpFiles.readDirectories();
 }
 //---------------------------------------------------------------------------------------------------
 void WNetFtpClient::sgetListFiles(void)
-{   //QThread::sleep(1);
+{
    itDirList=dirListBig.begin();
     ftpFiles.cd(*itDirList);
     ftpFiles.readCurrFiles();
@@ -471,12 +499,18 @@ void WNetFtpClient::getListFrom(int err,QStringList list)
 
   dirListBig.erase(itDirList);
 
+QString itOldList=*itDirList;
+
  itDirList=dirListBig.begin();
 
     if(itDirList!=dirListBig.end()){
 if(err==QFtp::NoError)
-    for(int i=0;i<countBack;i++)
-    {ftpFiles.cd("..");}
+    { int size=0;
+      qCount(itOldList,'/',size);//находим сколько раз необходимо вернуться
+      ++size;
+     for(int i=0;i<size;i++)
+       {ftpFiles.cd("..");}
+    }
 
 if(toNetList.size()<200)
     {ftpFiles.cd(*itDirList);

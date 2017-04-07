@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns11="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns13="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns14="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns15="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns16="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns17="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns18="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns6="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns7="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns9="http://zakupki.gov.ru/223fz/complaint/1">
+    <header>
+        <guid>1775f26e-9204-4d3f-97d2-6d9e9b3c01f1</guid>
+        <createDateTime>2017-02-09T13:00:37</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>1ce3dcf1-c8ae-4144-9536-c2a6154356c2</guid>
+            <ns2:contractData>
+                <ns2:guid>785964b3-6aa2-460b-b00e-596c2191b1b6</ns2:guid>
+                <ns2:registrationNumber>57707083893170005490001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2861473&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-09T12:42:08</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-09T13:00:36</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>51b5b8b4-56ef-4071-8d24-9cabd9421bc0</guid>
+                        <createDateTime>2017-02-09T12:19:27</createDateTime>
+                        <fileName>39.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10464106</url>
+                        <registrationNumber>57707083893170005490002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170005490000</ns2:contractRegNumber>
+                <ns2:name>39</ns2:name>
+                <ns2:contractDate>2017-02-06</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>3fa2a2c8-17b4-4fab-ad64-ee0b1f80f431</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604446637</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-12-07T15:09:58</ns2:publicationDateTime>
+                    <ns2:name>[36925] Выбор специализированной организации на оказание транспортно-экспедиционных услуг и услуг по установке устройств самообслуживания (банкоматов информационно-платежных терминалов) в соответствии с требованиями к предмету аукциона, указанными в приложении №1 «Техническое задание» к Аукционной документации.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>7671d5ac-e1d7-43f3-a22f-2cf7d3edb9f0</ns2:lotGuid>
+                <ns2:subjectContract>[36925] Выбор специализированной организации на оказание транспортно-экспедиционных услуг и услуг по установке устройств самообслуживания (банкоматов информационно-платежных терминалов) в соответствии</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "АТМ Альянс"</ns2:name>
+                    <ns2:inn>7204129189</ns2:inn>
+                    <ns2:kpp>770501001</ns2:kpp>
+                    <ns2:okpo>89395758</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2008-10-21</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>625014</ns2:postCode>
+                        <ns2:oktmo>71000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Тюменской области</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>72</ns2:code>
+                            <ns2:name>Тюменская обл</ns2:name>
+                        </ns2:region>
+                        <ns2:area>город Тюмень, район Ленинский</ns2:area>
+                        <ns2:street>улица Республики</ns2:street>
+                        <ns2:email>-</ns2:email>
+                        <ns2:phone>-</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>дом 27</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>2109552.23</ns2:price>
+                <ns2:rubPrice>2109552.23</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-02-06</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-07-01</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>f71cdc6a-d43f-4764-8eb8-b951d8c58715</ns2:guid>
+                        <ns2:name>1 комплект (2616 условных единиц) транспортно-экспедиционных услуг и услуг по установке устройств самообслуживания (банкоматов информационно-платежных терминалов) в соответствии с требованиями к предмету аукциона, указанными в приложении №1 «Техническое задание» к Аукционной документации.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>63.1</code>
+                            <name>Услуги по обработке данных, размещению и взаимосвязанные услуги; порталы в информационно-коммуникационной сети Интернет</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>876</code>
+                            <name>Условная единица</name>
+                        </ns2:okei>
+                        <ns2:qty>2616</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>8b26075d-bc58-4bfd-ba79-ebc43dab3484</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604446637-01</ns2:protocolName>
+                        <ns2:docDate>2017-01-25</ns2:docDate>
+                        <ns2:docNum>31604446637-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

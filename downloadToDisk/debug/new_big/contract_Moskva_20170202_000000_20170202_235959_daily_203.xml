@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns11="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns12="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns13="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns14="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns15="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns16="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns17="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns18="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/missedNotice/1">
+    <header>
+        <guid>71d3c8ac-fff4-4fc4-bab6-c5227bc51a2f</guid>
+        <createDateTime>2017-02-02T13:32:14</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>bdf64fb9-0fb2-46af-bc6d-644f38a523c2</guid>
+            <ns2:contractData>
+                <ns2:guid>99517b7d-4f62-4ca1-a729-cfcfada19969</ns2:guid>
+                <ns2:registrationNumber>57707083893170004440001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2826288&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-02T13:07:07</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-02T13:32:14</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>f9e68446-a9c8-47ae-9f38-bcd0811a2957</guid>
+                        <createDateTime>2017-02-02T11:55:02</createDateTime>
+                        <fileName>Договор РТК 21Ю от 02.02.17.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10233491</url>
+                        <registrationNumber>57707083893170004440002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170004440000</ns2:contractRegNumber>
+                <ns2:name>21Ю-00497/17-860Д</ns2:name>
+                <ns2:contractDate>2017-02-02</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>f17c1a77-7c64-41aa-9583-24c381208c6f</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604380732</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-11-25T11:00:23</ns2:publicationDateTime>
+                    <ns2:name>[36686] Выбор организации на оказание услуг по организации и предоставлению в пользование Среднерусскому банку ПАО Сбербанк каналов связи и доступа к сети Интернет</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>ecb88d43-5a53-418d-8cad-69940bb65936</ns2:lotGuid>
+                <ns2:subjectContract>[36686] Выбор организации на оказание услуг по организации и предоставлению в пользование Среднерусскому банку ПАО Сбербанк каналов связи и доступа к сети Интернет</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ПАО "Ростелеком"</ns2:name>
+                    <ns2:inn>7707049388</ns2:inn>
+                    <ns2:kpp>784001001</ns2:kpp>
+                    <ns2:okpo>17514186</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2005-08-11</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12247</ns2:okopf>
+                    <ns2:okopfName>Публичные акционерные общества</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>191002</ns2:postCode>
+                        <ns2:oktmo>40000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Города Санкт-Петербурга (города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>78</ns2:code>
+                            <ns2:name>Санкт-Петербург</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Город Санкт-Петербург, Центральный район</ns2:area>
+                        <ns2:street>улица Достоевского</ns2:street>
+                        <ns2:email>rostelecom@rt.ru</ns2:email>
+                        <ns2:phone>+7 (499) 999-82-83</ns2:phone>
+                        <ns2:office>1</ns2:office>
+                        <ns2:house>дом 15</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>1339052.76</ns2:price>
+                <ns2:rubPrice>1339052.76</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-02-02</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2019-02-02</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>33d5e5a9-c753-4410-a4f1-7b13e208392d</ns2:guid>
+                        <ns2:name>В соответствии с Договором Исполнитель обязуется оказывать Заказчику Услуги в соответствии с условиями Договора (включая Дополнительные соглашения и Бланки заказа на Услуги) и Техническим заданием (Приложение №1 к Договору), а Заказчик обязуется принимать и оплачивать оказанные ему Услуги. Объем услуг: 105 штук.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>61.2</code>
+                            <name>Услуги телекоммуникационные беспроводные</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>796</code>
+                            <name>Штука</name>
+                        </ns2:okei>
+                        <ns2:qty>105</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>1caee6bd-ab19-4e29-a77f-823619f8f01e</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604380732-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-14</ns2:docDate>
+                        <ns2:docNum>31604380732-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

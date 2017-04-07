@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns16="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns17="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns8="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/stopCommodity/1">
+    <header>
+        <guid>bb49e9e0-a1fa-43ef-8083-3b6eb07ef7fa</guid>
+        <createDateTime>2017-02-08T15:40:28</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>850548c1-b69e-4c59-babd-e0f12a663d23</guid>
+            <ns2:contractData>
+                <ns2:guid>88124a9b-dc13-4e8e-8d1d-1871528bdb0b</ns2:guid>
+                <ns2:registrationNumber>57707083893160049190005</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2854758&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-02-08T11:56:06</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-02-08T15:40:28</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>3</ns2:version>
+                <ns2:modificationDescription>Скорректирована стоимость основного договора, продлены сроки выполнения работ</ns2:modificationDescription>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>true</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>5332b919-615a-40c5-8ffd-d94747074004</guid>
+                        <createDateTime>2017-02-02T10:45:31</createDateTime>
+                        <fileName>ДС 2. Коряжма.rar</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=10417870</url>
+                        <registrationNumber>57707083893160049190006</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160049190000</ns2:contractRegNumber>
+                <ns2:name>2</ns2:name>
+                <ns2:contractDate>2017-01-31</ns2:contractDate>
+                <ns2:approveDate>2017-01-31</ns2:approveDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>7a03dfe6-19a1-4504-8d38-5357dd7a501c</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603846336</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-07-01T12:36:39</ns2:publicationDateTime>
+                    <ns2:name>[34194] Выбор подрядной организации на выполнение работ по реконструкции помещений, расположенных по адресу: Архангельская область, г. Коряжма ул. Кирова д.29 корп. 1, для размещения ДО 8637/0235 и ДО 8637/0284 формата «Базовый» и «ЦЭС», соответственно, среди субъектов малого и среднего предпринимательства (СМСП), с ограниченным составом участников, аккредитованных  по итогам квалификационного отбора, проведенного 31.03.2016, 14.04.2016, 26.05.2016, 09.06.2016  гг., для нужд Северного банка ПАО Сбербанк</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>4cf461f2-f5f3-4568-8007-58a7f1ddc362</ns2:lotGuid>
+                <ns2:subjectContract>[34194] Выбор подрядной организации на выполнение работ по реконструкции помещений, расположенных по адресу: Архангельская область, г. Коряжма ул. Кирова д.29 корп. 1, для размещения ДО 8637/0235 и ДО</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "ИдеалСтрой", г. Вологда</ns2:name>
+                    <ns2:inn>3525290351</ns2:inn>
+                    <ns2:kpp>352501001</ns2:kpp>
+                    <ns2:okpo>22749170</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2012-11-30</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>160000</ns2:postCode>
+                        <ns2:oktmo>19000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Вологодской области</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>35</ns2:code>
+                            <ns2:name>Вологодская обл</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Вологда, р-н Верхний посад</ns2:area>
+                        <ns2:street>Октябрьская</ns2:street>
+                        <ns2:email>Ideal.vol@mail.ru</ns2:email>
+                        <ns2:phone>89217131032, 8(8172)72-71-61</ns2:phone>
+                        <ns2:office>504</ns2:office>
+                        <ns2:house>51</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>17406774.63</ns2:price>
+                <ns2:rubPrice>17406774.63</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-31</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-02-21</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>40ee944b-bd1e-4b95-8b9e-a3c1e87743f3</ns2:guid>
+                        <ns2:name>Реконструкция помещений, расположенных по адресу: Архангельская область, г. Коряжма ул. Кирова д.29 корп. 1, для размещения ДО 8637/0235 и ДО 8637/0284 формата «Базовый» и «ЦЭС». Общей площадью - 583,5 кв. м.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>41.20.40.000</code>
+                            <name>Работы строительные по возведению нежилых зданий и сооружений (работы по строительству новых объектов, возведению пристроек, реконструкции и ремонту зданий)</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>055</code>
+                            <name>Квадратный метр</name>
+                        </ns2:okei>
+                        <ns2:qty>583.5</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>90c2871a-0e98-44ce-ba73-25e1bae47b52</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603846336-02</ns2:protocolName>
+                        <ns2:docDate>2017-01-25</ns2:docDate>
+                        <ns2:docNum>31603846336-02</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns11="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns13="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns14="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns15="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns16="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns5="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns9="http://zakupki.gov.ru/223fz/disagreementProtocol/1">
+    <header>
+        <guid>8ffe9c52-ffa3-4540-a28b-d584ad8a0628</guid>
+        <createDateTime>2016-12-14T12:21:32</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>7bc641b8-b54e-45cc-ada8-b8f05b69f824</guid>
+            <ns2:contractData>
+                <ns2:guid>4f96c3ab-2d7a-4b05-aad0-fe8133bb4d5d</ns2:guid>
+                <ns2:registrationNumber>57707083893160056350001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2493681&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-14T11:42:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-14T12:21:32</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>8cca4a09-422b-4317-99bb-77e11fa16633</guid>
+                        <createDateTime>2016-12-13T18:52:42</createDateTime>
+                        <fileName>Договор ТМА_Sibos.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8455772</url>
+                        <registrationNumber>57707083893160056350002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160056350000</ns2:contractRegNumber>
+                <ns2:name>Т-204-16</ns2:name>
+                <ns2:contractDate>2016-12-13</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>9af55fa6-c205-42cf-a7ca-37eb1eeacf7f</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603985217</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-08-11T15:04:08</ns2:publicationDateTime>
+                    <ns2:name>[34894] Выбор организации на оказание комплекса услуг по организации и проведению рекламной акции в рамках участия Банка в Международном финансовом форуме Sibos 2016 (26 - 29 сентября 2016 г., г. Женева, Швейцария) среди поставщиков, аккредитованных по итогам квалификационного отбора (Протокол № 007/15  от 04.03.2015 г.) (1 комплект)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>01eefa90-b98a-4996-8c4a-f1bfb27229b4</ns2:lotGuid>
+                <ns2:subjectContract>[34894] Выбор организации на оказание комплекса услуг по организации и проведению рекламной акции в рамках участия Банка в Международном финансовом форуме Sibos 2016 (26 - 29 сентября 2016 г., г. Жене</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО "ТМА Маркетинг Сервисез"</ns2:name>
+                    <ns2:inn>7707614424</ns2:inn>
+                    <ns2:kpp>772501001</ns2:kpp>
+                    <ns2:okpo>98937879</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2007-01-09</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>115144</ns2:postCode>
+                        <ns2:oktmo>45000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>77</ns2:code>
+                            <ns2:name>Москва</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Москва, Даниловский район</ns2:area>
+                        <ns2:street>Летниковская</ns2:street>
+                        <ns2:email>mpolyakova@tma-draft.com</ns2:email>
+                        <ns2:phone>84957851707</ns2:phone>
+                        <ns2:office>-</ns2:office>
+                        <ns2:house>11/10,стр.2</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>4640055</ns2:price>
+                <ns2:rubPrice>4640055</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-09-02</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2016-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>3833bc5b-9d31-45ef-bc29-c6136b170801</ns2:guid>
+                        <ns2:name>оказание комплекса услуг по организации и проведению рекламной акции в рамках участия Банка в Международном финансовом форуме Sibos 2016 (26 - 29 сентября 2016 г., г. Женева, Швейцария) среди поставщиков, аккредитованных по итогам квалификационного отбора (Протокол № 007/15  от 04.03.2015 г.) (1 комплект)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>73</code>
+                            <name>Услуги рекламные и услуги по исследованию конъюнктуры рынка</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>8d3aefc6-6d16-4579-9830-03fb5a7b6278</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603985217-01</ns2:protocolName>
+                        <ns2:docDate>2016-09-02</ns2:docDate>
+                        <ns2:docNum>31603985217-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

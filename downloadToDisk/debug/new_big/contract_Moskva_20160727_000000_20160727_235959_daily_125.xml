@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.0 http://zakupki.gov.ru/223/integration/schema/TFF-5.0/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns18="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns6="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
+    <header>
+        <guid>87377d11-e400-4eb2-8637-1241ed56152b</guid>
+        <createDateTime>2016-07-27T14:27:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>f7ba24ce-9116-46db-87eb-66266d6b1e45</guid>
+            <ns2:contractData>
+                <ns2:guid>78e7e7ea-bf23-4dec-bfb9-35bb634ca245</ns2:guid>
+                <ns2:registrationNumber>57707083893160031480001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=1943992&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-07-27T14:27:06</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-07-27T14:27:45</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>59c981de-bc67-4041-9f94-fad7bc6a2b52</guid>
+                        <createDateTime>2016-07-27T13:56:42</createDateTime>
+                        <fileName>Договор Росинкас УС №1057330.pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=4932981</url>
+                        <registrationNumber>57707083893160031480002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160031480000</ns2:contractRegNumber>
+                <ns2:name>1057330</ns2:name>
+                <ns2:contractDate>2016-07-19</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>356142cd-0ddd-42e9-82b3-a5081857a709</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31603590961</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-06-02T15:29:25</ns2:publicationDateTime>
+                    <ns2:name>[33071] Выбор  организации на оказание услуг инкассации, перевозки, доставки денежной наличности и ценностей внутренних структурных подразделений Банка и клиентов Банка, устройств самообслуживания Банка  на территории РФ для нужд ПАО Сбербанк среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 03.07.2015г. протокол №022/15 и 06.04.2016г. протокол №012/16 (Северный Банк и Северо-Западный Банк)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>8f0767d5-9f74-45b7-bcaf-fe6a4b6ad86e</ns2:lotGuid>
+                <ns2:subjectContract>[33071] Выбор  организации на оказание услуг инкассации, перевозки, доставки денежной наличности и ценностей внутренних структурных подразделений Банка и клиентов Банка, устройств самообслуживания Бан</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>РОСИНКАС</ns2:name>
+                    <ns2:inn>7703030058</ns2:inn>
+                    <ns2:kpp>770701001</ns2:kpp>
+                    <ns2:okpo>17108339</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2003-10-21</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>19000</ns2:okopf>
+                    <ns2:okopfName>Прочие юридические лица, являющиеся коммерческими организациями</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>127051</ns2:postCode>
+                        <ns2:oktmo>45300000</ns2:oktmo>
+                        <ns2:region>
+                            <ns2:fullName>Москва</ns2:fullName>
+                        </ns2:region>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>28391000.64</ns2:price>
+                <ns2:rubPrice>28391000.64</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-07-19</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-07-19</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>896ba8e0-163a-4a4d-abae-73f864dd86ce</ns2:guid>
+                        <ns2:name>1. Исполнитель обязуется в соответствии с законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора, а также условиями, определяемыми в согласованной Сторонами форме Соглашения  (Приложение № 5 к Договору), своими силами и средствами в согласованные дни и часы осуществлять для Банка :  1.1.	Перевозку банковских ценностей между подразделениями Банка:  - прием опломбированных одноразовых номерных сейф-пакетов с защитным клапаном (далее – пакеты)/сумок/мешков с денежной наличностью и ценностями (далее - банковскими ценностями) Банка от внутренних структурных подразделений Банка/Кассового центра Банка (далее – ВСП/КЦ Банка); 2. Исполнитель обязуется в соответствии с действующим законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора своими силами и средствами в согласованные дни и часы оказывать Банку услуги по инкассаторскому обслуживанию программно-технических средств, а именно__________________  (далее - устройств самообслуживания; УС) Банка, а также по обеспечению сохранности перевозимых денежной наличности и ценностей Банка от посягательств третьих лиц. 3. Исполнитель обязуется в соответствии с действующим законодательством Российской Федерации, нормативными актами Банка России и условиями настоящего Договора своими силами и средствами в согласованные дни и часы оказывать Банку услуги по :  3.1.	Перевозке денежной наличности Клиента Банка __________________________ (полное наименование Клиента Банка – юридического лица, соответствующее учредительным документам): сбор с объектов Клиента Банка силами инкассаторских и сдача в кассовое подразделение Банка пакетов с денежной наличностью Клиента Банка в сроки, указанные в Приложении № 3 к Соглашению ; Количество - 1 комплект.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>62.02.30</code>
+                            <name>Услуги по технической поддержке информационных технологий</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>5bd64a7f-ae28-4cf0-9353-cd25296d97ea</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31603590961-01</ns2:protocolName>
+                        <ns2:docDate>2016-06-15</ns2:docDate>
+                        <ns2:docNum>31603590961-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.8.10 http://zakupki.gov.ru/223/integration/schema/TFF-3.8.10/Types.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns7="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns10="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchasePlan/1">
+    <header>
+        <guid>c90bb67a-45c4-439a-a142-575c2d38aa74</guid>
+        <createDateTime>2015-11-05T15:50:45</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>d0b1f871-6212-472f-8856-3386c3ad5830</guid>
+            <ns2:contractData>
+                <ns2:guid>3dc17313-03d9-4606-9ef0-5843db96965e</ns2:guid>
+                <ns2:registrationNumber>57707083893150031620001</ns2:registrationNumber>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=845898&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2015-11-05T14:13:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>48</okopf>
+                        <okopfName>Хозяйственные товарищества и общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2015-11-05T15:50:45</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>false</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400002</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments/>
+                <ns2:contractRegNumber>57707083893150031620000</ns2:contractRegNumber>
+                <ns2:name>Договор на поставку лицензий. Количество - 1 комплект.</ns2:name>
+                <ns2:contractDate>2015-09-30</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>4407aabe-dca7-425e-b6d9-55ed4a1d402f</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31502827768</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2015-10-06T15:35:54</ns2:publicationDateTime>
+                    <ns2:name>[29902] Выбор компании  Pegasystems Limited в качестве единственного поставщика  предоставляющего право на использование программы для ЭВМ  Pega на условиях простой (неисключительной) лицензии, на основании п.2.2.5.4 Положения о закупках.</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:subjectContract>[29902] Выбор компании  Pegasystems Limited в качестве единственного поставщика  предоставляющего право на использование программы для ЭВМ  Pega на условиях простой (неисключительной) лицензии, на осн</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>Pegasystems Limited</ns2:name>
+                    <ns2:code>53637 97159</ns2:code>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>false</ns2:provider>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>true</ns2:nonResident>
+                    <ns2:tax>false</ns2:tax>
+                    <ns2:address>
+                        <ns2:country>
+                            <name>СОЕДИНЕННОЕ КОРОЛЕВСТВО</name>
+                            <digitalCode>826</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>RG13JH</ns2:postCode>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:hasGoodInfo>false</ns2:hasGoodInfo>
+                <ns2:price>7000000</ns2:price>
+                <ns2:exchangeRate>66.24</ns2:exchangeRate>
+                <ns2:rubPrice>463656900</ns2:rubPrice>
+                <ns2:currency>
+                    <code>USD</code>
+                    <digitalCode>840</digitalCode>
+                    <name>Доллар США</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2015-09-30</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2018-06-30</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:name>Договор на поставку лицензий. Количество - 1 комплект.</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okdp>
+                            <code>7220000</code>
+                            <name>Консультационные услуги по программному обеспечению</name>
+                        </ns2:okdp>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:docDate>2015-09-30</ns2:docDate>
+                        <ns2:docNum>035/15</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

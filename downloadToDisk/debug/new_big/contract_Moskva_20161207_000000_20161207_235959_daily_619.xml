@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns11="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns16="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns17="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns18="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns7="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns8="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns9="http://zakupki.gov.ru/223fz/missedNotice/1">
+    <header>
+        <guid>0331e2bd-b8d1-480d-a8d9-0cdbcfb49800</guid>
+        <createDateTime>2016-12-07T15:22:22</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>39c89299-0c22-4289-b275-14c3b9a6b3d6</guid>
+            <ns2:contractData>
+                <ns2:guid>906ae121-feda-4021-b48e-7b2f7c18b819</ns2:guid>
+                <ns2:registrationNumber>57707083893160055090001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>true</ns2:termination>
+                <ns2:extension>false</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2458431&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2016-12-07T14:52:45</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2001-06-13T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>775001001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, г МОСКВА, ул ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2016-12-07T15:22:22</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>8c535f24-e1c2-456e-8ee9-53a4e998ff93</guid>
+                        <createDateTime>2016-12-07T12:13:32</createDateTime>
+                        <fileName>Д-50001446428-Павлиогло.rar</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=8253605</url>
+                        <registrationNumber>57707083893160055090002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893160055090000</ns2:contractRegNumber>
+                <ns2:name>50001446428</ns2:name>
+                <ns2:contractDate>2016-12-07</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>f14995ce-4c62-4297-84fc-7912296966a7</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604069651</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-09-06T13:22:04</ns2:publicationDateTime>
+                    <ns2:name>[35277] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП)  на оказание клининговых услуг    на объектах Новоуренгойского  отделения №8369 для нужд Западно-Сибирского банка ПАО Сбербанк ЗСБ 2016-0128(ЗКО)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>5cc1fd51-9f28-42a2-9d48-fb493f6047e6</ns2:lotGuid>
+                <ns2:subjectContract>[35277] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП)  на оказание клининговых услуг    на объектах Новоуренгойского  отделения №8369 для нужд Западно-Сибирского банка</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ИП Павлиогло А.А.</ns2:name>
+                    <ns2:inn>890500459507</ns2:inn>
+                    <ns2:type>P</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2015-01-17</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>629810</ns2:postCode>
+                        <ns2:oktmo>71000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Тюменской области</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>72</ns2:code>
+                            <ns2:name>Тюменская обл</ns2:name>
+                        </ns2:region>
+                        <ns2:area>г. Ноябрьск, микрорайон "М"</ns2:area>
+                        <ns2:street>Улица Изыскателей</ns2:street>
+                        <ns2:email>clining.evelina2828@yandex.ru</ns2:email>
+                        <ns2:phone>8-922-285-03-79</ns2:phone>
+                        <ns2:office>14</ns2:office>
+                        <ns2:house>10А</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>13187329.29</ns2:price>
+                <ns2:rubPrice>13187329.29</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2016-12-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-11-30</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>7fd23468-d020-4c21-8a8c-0d64131f96d1</ns2:guid>
+                        <ns2:name>Оказание услуг по проведению комплексной уборки помещений и прилегающих наружных территорий Заказчика (далее по тексту – «Услуги», а Заказчик обязуется принимать и оплачивать оказанные услуги в порядке и на условиях, предусмотренных Договором.  Перечень помещений Заказчика, подлежащих уборке Исполнителем, согласуется Сторонами и является неотъемлемой частью Договора (Приложение №2 к Договору). Перечень прилегающих наружных территорий Заказчика, подлежащих уборке Исполнителем, согласуется Сторонами и является неотъемлемой частью Договора (Приложение №3 к Договору).Перечень объектов, подлежащих уборке фасада и наружных окон, согласуется Сторонами и является неотъемлемой частью Договора (Приложение №3 к Договору). Перечень Услуг, требования к предоставляемым услугам и график их оказания согласуется Сторонами и является неотъемлемой частью Договора (Приложение №3 к Договору).Объем закупки - 1 комплект (перечень услуг)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>81.10.10.000</code>
+                            <name>Услуги по обслуживанию помещений комплексные</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>ef48390e-ada0-46c5-a85c-f0efc7339135</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604069651-01</ns2:protocolName>
+                        <ns2:docDate>2016-10-10</ns2:docDate>
+                        <ns2:docNum>31604069651-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

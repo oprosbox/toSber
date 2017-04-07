@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "findindom.h"
-
+#include <QFile>
 
 //WFtpClient *ftpclnt;
 //ftpload::WLoadFtp *loadFtp;
@@ -9,42 +9,21 @@
 //wui::QWidgetRegion *widReg;
 
 
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-//    ndom::WFind *findObj;
-//    findObj=new ndom::WFind;
-//    QStringList listNameTeg;
-//    listNameTeg.push_back("customer");
-//    listNameTeg.push_back("mainInfo");
-//    listNameTeg.push_back("inn");
-//    QStringList listFrom;
-//    listFrom.push_back("G:/toSber/forBase223/from");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeAE_Moskva_20170316_000000_20170316_235959_daily_001.xml");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeAE94_Moskva_20170316_000000_20170316_235959_daily_001.xml");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeEP_Moskva_20170316_000000_20170316_235959_daily_001.xml");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeOA_Moskva_20170314_000000_20170314_235959_daily_001.xml");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeOK_Moskva_20170315_000000_20170315_235959_daily_001.xml");
-//    listFrom.push_back("G:/toSber/forBase223/purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml");
-//    findObj->createObj(listFrom,"G:/toSber/forBase223/to",listNameTeg,"7715038478");
-//    findObj->startThreads();
 
-    w223fzTendPath=new wui::WMainInterf();
-    w44fzTendPath=new wui::WMainInterf();
-    w223fzPath=new wui::WMainInterf();
-    w44fzPath=new wui::WMainInterf();
+    QFile fLog(QApplication::applicationDirPath()+"/logfile.txt");
+    fLog.open(QFile::WriteOnly);
+    fLog.close();
 
-    //WToBASE BD;
-    //bool flg=BD.start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
-    //BD.createTable223Notif();
-    //BD.createTable223Dishon();
-  // WNetworkFtp ftp;
-  // ftp.createFtp("ftp://fz223free:fz223free@ftp.zakupki.gov.ru/out/published/Moskva/purchaseNoticeZK/daily");
-  // ftp.getFile("purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip",QApplication::applicationDirPath()+"/"+"purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip");
-  //  int i=0;
-  //purchaseNoticeZK_Moskva_20170316_000000_20170316_235959_daily_001.xml.zip
+    w223fzTendPath=new WMainInterf();
+    w44fzTendPath=new WMainInterf();
+    w223fzPath=new WMainInterf();
+    w44fzPath=new WMainInterf();
 
     headUi=new wui::WUI;
     headUi->btn223fzDish=ui->btn223fzDishonRegions;
@@ -59,41 +38,33 @@ MainWindow::MainWindow(QWidget *parent) :
     headUi->tm223fzDishonBeg=ui->tm223fzBeg;
     headUi->tm223fzDishonEnd=ui->tm223fzEnd;
     headUi->edt223fzInn=ui->lineEdit;
+
+    headUi->btn44fzNotif=ui->btn44fzContractRegions;
+    headUi->chk44fzNotif=ui->chkTand44fz;
+    headUi->chk44fzDishon=ui->chkDis44fz;
+    headUi->edt44fzNotif=ui->dirTand44fz;
+    headUi->edt44fzDishon=ui->dir44fz;
+    headUi->tm44fzNotifBeg=ui->tm44fzTendBeg;
+    headUi->tm44fzNotifEnd=ui->tm44fzTendEnd;
+    headUi->tm44fzDishonBeg=ui->tm44fzBeg;
+    headUi->tm44fzDishonEnd=ui->tm44fzEnd;
+    headUi->edt44fzInn=ui->lineEdit_3;
+
+    headUi->chk44fzContrToBase=ui->chkBD44fzContr;
+    headUi->chk223fzContrToBase=ui->chkBD223fzContr;
+    headUi->chk223fzDishonToBase=ui->chkBD223fzDishon;
+    headUi->chk44fzDishonToBase=ui->chkBD44fzDishon;
+    headUi->w223fzNotifReg.lblRegions=ui->lblRegions223fzContr;
+    headUi->w44fzNotifReg.lblRegions=ui->lblRegions44fzContr;
+    headUi->w223fzDishonReg.lblRegions=ui->lblRegions223fzDishon;
+
+   headUi->widget223Contr=ui->widget_2;
+   headUi->widget44Contr=ui->widget_3;
+   headUi->widget223Dish=ui->widget_4;
+   headUi->widget44Dish=ui->widget_5;
+
     headUi->createInterf();
 
-//    loadFtp=new ftpload::WLoadFtp;
-//    ftpload::SInputFtp input;
-//    input.url="ftp.zakupki.gov.ru";
-//    input.login="fz223free";
-//    input.password="fz223free";
-//    input.countToExitDirUrl=2;
-//    input.stFilt.dateBegin=QDateTime::fromString("2017-03-15","yyyy-MM-dd");
-//    input.stFilt.dateEnd=QDateTime::fromString("2017-03-17","yyyy-MM-dd");
-//    input.pathTo="F:/programsQt/toSber/ftpLoad/sort";
-//    input.pathTemp="F:/programsQt/toSber/ftpLoad/unpack";
-//    input.tegPathFind.push_back("customer");
-//    input.tegPathFind.push_back("mainInfo");
-//    input.tegPathFind.push_back("inn");
-//    input.val="7706061801";
-//    input.urlPath="out/published/Moskva";
-//    input.urlList.push_back("purchaseNoticeEP/daily");
-//    input.urlList.push_back("purchaseNoticeOK/daily");
-//    input.urlList.push_back("purchaseNoticeOA/daily");
-
-    //loadFtp->createFtp(input);
-
-    //ftpload::W223fz obj;
-    //QStringList regions;
-    //obj.getRegions(regions);
-
-    //connect(ui->pushButton,SIGNAL(clicked()),loadFtp,SLOT(download()));
-
-    //ftpclnt=new WFtpClient;
-    //ftpclnt->connectServ("ftp.zakupki.gov.ru","fz223free","fz223free");
-    //ftpclnt->cd("out/published");
-    //ftpclnt->cd("..");
-    //connect(ftpclnt,SIGNAL(endOperations(QStringList)),this,SLOT(getFunct(QStringList)));
-    //ftpclnt->readDirectories();
 
     connect(ui->btn223fzTendPath,SIGNAL(clicked()), w223fzTendPath,SLOT(getPath()));
     connect(w223fzTendPath,SIGNAL(setPath(QString)), ui->dirTand223fz,SLOT(setText(QString)));
@@ -107,55 +78,29 @@ MainWindow::MainWindow(QWidget *parent) :
     connect(ui->btn44fzPath,SIGNAL(clicked()), w44fzPath,SLOT(getPath()));
     connect(w44fzPath,SIGNAL(setPath(QString)), ui->dir44fz,SLOT(setText(QString)));
 
-    ui->tm223fzTendBeg->setDate(QDate::currentDate());
-    connect(ui->btnTmTend223fz,SIGNAL(clicked()), w223fzTendPath,SLOT(getDateBeg()));
-    connect(w223fzTendPath,SIGNAL(setDateBeg(QDate)),ui->tm223fzTendBeg,SLOT(setDate(QDate)));
+     w223fzTendPath->functConnDT(ui->tm223fzTendBeg,ui->btnTmTend223fz,ui->tm223fzTendEnd,ui->btnTmTend223fz_2);
+     w44fzTendPath->functConnDT(ui->tm44fzTendBeg,ui->btnTmTend44fz,ui->tm44fzTendEnd,ui->btnTmTend44fz_2);
+     w223fzPath->functConnDT(ui->tm223fzBeg,ui->btnTm223fz,ui->tm223fzEnd,ui->btnTm223fz_2);
+     w44fzPath->functConnDT(ui->tm44fzBeg,ui->btnTm44fz,ui->tm44fzEnd,ui->btnTm44fz_2);
 
-    ui->tm223fzTendEnd->setDate(QDate::currentDate());
-    connect(ui->btnTmTend223fz_2,SIGNAL(clicked()), w223fzTendPath,SLOT(getDateEnd()));
-    connect(w223fzTendPath,SIGNAL(setDateEnd(QDate)),ui->tm223fzTendEnd,SLOT(setDate(QDate)));
+     connect(ui->btnCrtBd,SIGNAL(clicked()),this,SLOT(createTables()));
 
-    ui->tm44fzTendBeg->setDate(QDate::currentDate());
-    connect(ui->btnTmTend44fz,SIGNAL(clicked()), w44fzTendPath,SLOT(getDateBeg()));
-    connect(w44fzTendPath,SIGNAL(setDateBeg(QDate)),ui->tm44fzTendBeg,SLOT(setDate(QDate)));
 
-    ui->tm44fzEnd->setDate(QDate::currentDate());
-    connect(ui->btnTmTend44fz_2,SIGNAL(clicked()), w44fzTendPath,SLOT(getDateEnd()));
-    connect(w44fzTendPath,SIGNAL(setDateEnd(QDate)),ui->tm44fzEnd,SLOT(setDate(QDate)));
 
-    ui->tm223fzBeg->setDate(QDate::currentDate());
-    connect(ui->btnTm223fz,SIGNAL(clicked()), w223fzPath,SLOT(getDateBeg()));
-    connect(w223fzPath,SIGNAL(setDateBeg(QDate)),ui->tm223fzBeg,SLOT(setDate(QDate)));
-
-    ui->tm223fzEnd->setDate(QDate::currentDate());
-    connect(ui->btnTm223fz_2,SIGNAL(clicked()), w223fzPath,SLOT(getDateEnd()));
-    connect(w223fzPath,SIGNAL(setDateEnd(QDate)),ui->tm223fzEnd,SLOT(setDate(QDate)));
-
-    ui->tm44fzBeg->setDate(QDate::currentDate());
-    connect(ui->btnTm44fz,SIGNAL(clicked()), w44fzPath,SLOT(getDateBeg()));
-    connect(w44fzPath,SIGNAL(setDateBeg(QDate)),ui->tm44fzBeg,SLOT(setDate(QDate)));
-
-    ui->tm44fzEnd->setDate(QDate::currentDate());
-    connect(ui->btnTm44fz_2,SIGNAL(clicked()), w44fzPath,SLOT(getDateEnd()));
-    connect(w44fzPath,SIGNAL(setDateEnd(QDate)),ui->tm44fzEnd,SLOT(setDate(QDate)));
 }
-
+//----------------------------------------------------------------------------------------------------------------------------------------------
 MainWindow::~MainWindow()
-{
+{   delete w223fzTendPath;
+    delete w44fzTendPath;
+    delete w223fzPath;
+    delete w44fzPath;
     delete ui;
 }
-
-void MainWindow::getFunct(QStringList list)
-{   /*QFile *file = new QFile("F:/programsQt/toSber/downloadToDisk/debug/regions.txt");
-    file->open(QIODevice::WriteOnly);
-    QTextStream stream(file);
-    for(auto u=list.begin();u!=list.end();u++)
-      {
-       stream<<*u<<"\n";
-      }
-
-      file->close();
-  int i=0;*/
+//----------------------------------------------------------------------------------------------------------------------------------------------
+void MainWindow::createTables(void)
+{
+  WBaseWR::createTables(true,true,true,true);
 }
+
 
 

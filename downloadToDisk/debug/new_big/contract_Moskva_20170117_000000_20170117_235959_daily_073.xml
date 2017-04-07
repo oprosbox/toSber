@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contract xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns10="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns:ns11="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns:ns12="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns:ns13="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns14="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns:ns15="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns:ns16="http://zakupki.gov.ru/223fz/revenue/1" xmlns:ns17="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns18="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns:ns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/contract/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns:ns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns:ns6="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns8="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns:ns9="http://zakupki.gov.ru/223fz/missedNotice/1">
+    <header>
+        <guid>962aa37f-41a5-4833-adb0-4265439d78fe</guid>
+        <createDateTime>2017-01-17T12:03:53</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>c9f34531-598d-4257-a004-58b617e5faad</guid>
+            <ns2:contractData>
+                <ns2:guid>2dcf2754-0cb0-465d-a2a9-03962e35fb7b</ns2:guid>
+                <ns2:registrationNumber>57707083893170001720001</ns2:registrationNumber>
+                <ns2:notice44>false</ns2:notice44>
+                <ns2:termination>false</ns2:termination>
+                <ns2:extension>true</ns2:extension>
+                <ns2:prolongation>false</ns2:prolongation>
+                <ns2:lotNum>1</ns2:lotNum>
+                <ns2:urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2733257&amp;viewMode=VSRI</ns2:urlOOS>
+                <ns2:createDateTime>2017-01-17T11:52:01</ns2:createDateTime>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okopf>12247</okopf>
+                        <okopfName>Публичные акционерные общества</okopfName>
+                        <okpo>00032537</okpo>
+                        <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+                        <shortName>ПАО СБЕРБАНК</shortName>
+                        <iko>57707083893775001001</iko>
+                        <inn>7707083893</inn>
+                        <kpp>773601001</kpp>
+                        <ogrn>1027700132195</ogrn>
+                        <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+                        <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+                        <phone>7-495-7473789</phone>
+                        <fax>7-495-7473667</fax>
+                        <email>Gref_p@sberbank.ru</email>
+                        <okato>45293554000</okato>
+                        <okpo>00032537</okpo>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:publicationDate>2017-01-17T12:03:53</ns2:publicationDate>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:digitalPurchase>true</ns2:digitalPurchase>
+                <ns2:digitalPurchaseCode>400001</ns2:digitalPurchaseCode>
+                <ns2:provider>false</ns2:provider>
+                <ns2:changeContract>false</ns2:changeContract>
+                <ns2:attachments>
+                    <totalDocumentsCount>1</totalDocumentsCount>
+                    <document>
+                        <guid>0037add5-a0bd-4b66-9299-835efca312ca</guid>
+                        <createDateTime>2017-01-17T11:43:23</createDateTime>
+                        <fileName>Документ (49).pdf</fileName>
+                        <description>Сканкопия договора</description>
+                        <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=9652451</url>
+                        <registrationNumber>57707083893170001720002</registrationNumber>
+                    </document>
+                </ns2:attachments>
+                <ns2:contractRegNumber>57707083893170001720000</ns2:contractRegNumber>
+                <ns2:name>1576065</ns2:name>
+                <ns2:contractDate>2017-01-16</ns2:contractDate>
+                <ns2:purchaseNoticeInfo>
+                    <ns2:guid>2b60d17f-0ed2-4535-9d1f-1830085dc9a5</ns2:guid>
+                    <ns2:purchaseNoticeNumber>31604406715</ns2:purchaseNoticeNumber>
+                    <ns2:publicationDateTime>2016-11-30T12:47:46</ns2:publicationDateTime>
+                    <ns2:name>[36775] Выбор организации на оказание консультационных услуг по обучению сотрудников Центрально-Черноземного банка ПАО Сбербанк по матрицам обучения по должностям (Корпоративный бизнес, Розничный бизнес, Подразделения внутреннего контроля, ПЦП МЦА УКА и ПЦП МЦА УЭРМБ), среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного ПАО Сбербанк (Протокол №017/15 от 25.05.2015г., Протокол №005/16 от 19.02.2016г.)</ns2:name>
+                </ns2:purchaseNoticeInfo>
+                <ns2:lotGuid>17883005-bde3-4f66-8e18-1105fad7a591</ns2:lotGuid>
+                <ns2:subjectContract>[36775] Выбор организации на оказание консультационных услуг по обучению сотрудников Центрально-Черноземного банка ПАО Сбербанк по матрицам обучения по должностям (Корпоративный бизнес, Розничный бизн</ns2:subjectContract>
+                <ns2:purchaseTypeInfo>
+                    <ns2:code>40000</ns2:code>
+                    <ns2:name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</ns2:name>
+                </ns2:purchaseTypeInfo>
+                <ns2:supplierInfo>
+                    <ns2:name>ООО «Интеллект Сервис»</ns2:name>
+                    <ns2:inn>3665043634</ns2:inn>
+                    <ns2:kpp>366201001</ns2:kpp>
+                    <ns2:okpo>70714706</ns2:okpo>
+                    <ns2:type>L</ns2:type>
+                    <ns2:provider>true</ns2:provider>
+                    <ns2:providerCode>30</ns2:providerCode>
+                    <ns2:subcontractor>false</ns2:subcontractor>
+                    <ns2:nonResident>false</ns2:nonResident>
+                    <ns2:registrationDate>2004-01-26</ns2:registrationDate>
+                    <ns2:tax>true</ns2:tax>
+                    <ns2:okopf>12165</ns2:okopf>
+                    <ns2:okopfName>Общества с ограниченной ответственностью</ns2:okopfName>
+                    <ns2:address>
+                        <ns2:egrulEgripChanged>false</ns2:egrulEgripChanged>
+                        <ns2:country>
+                            <name>РОССИЯ</name>
+                            <digitalCode>643</digitalCode>
+                        </ns2:country>
+                        <ns2:postCode>394016</ns2:postCode>
+                        <ns2:oktmo>20000000</ns2:oktmo>
+                        <ns2:oktmoName>Муниципальные образования Воронежской области</ns2:oktmoName>
+                        <ns2:region>
+                            <ns2:code>36</ns2:code>
+                            <ns2:name>Воронежская обл</ns2:name>
+                        </ns2:region>
+                        <ns2:area>Воронеж, Коминтерновский район</ns2:area>
+                        <ns2:street>улица Московский проспект</ns2:street>
+                        <ns2:email>m3@intservis.ru</ns2:email>
+                        <ns2:phone>8(4732)50-25-32</ns2:phone>
+                        <ns2:office>407</ns2:office>
+                        <ns2:house>53</ns2:house>
+                    </ns2:address>
+                </ns2:supplierInfo>
+                <ns2:hasSubcontractor>false</ns2:hasSubcontractor>
+                <ns2:price>358000</ns2:price>
+                <ns2:rubPrice>358000</ns2:rubPrice>
+                <ns2:currency>
+                    <code>RUB</code>
+                    <digitalCode>643</digitalCode>
+                    <name>Российский рубль</name>
+                </ns2:currency>
+                <ns2:startExecutionDate>2017-01-01</ns2:startExecutionDate>
+                <ns2:endExecutionDate>2017-12-31</ns2:endExecutionDate>
+                <ns2:contractPositions>
+                    <ns2:contractPosition>
+                        <ns2:guid>8e6c230d-1efd-414b-882b-cce9b62873f2</ns2:guid>
+                        <ns2:name>Оказание консультационных услуг по обучению сотрудников Центрально-Черноземного банка ПАО Сбербанк по матрицам обучения по должностям (Корпоративный бизнес, Розничный бизнес, Подразделения внутреннего контроля, ПЦП МЦА УКА и ПЦП МЦА УЭРМБ) (1 комплект)</ns2:name>
+                        <ns2:ordinalNumber>1</ns2:ordinalNumber>
+                        <ns2:okpd2>
+                            <code>85.31.11.000</code>
+                            <name>Услуги по профессиональному обучению</name>
+                        </ns2:okpd2>
+                        <ns2:impossibleToDetermineAttr>false</ns2:impossibleToDetermineAttr>
+                        <ns2:okei>
+                            <code>839</code>
+                            <name>Комплект</name>
+                        </ns2:okei>
+                        <ns2:qty>1</ns2:qty>
+                    </ns2:contractPosition>
+                </ns2:contractPositions>
+                <ns2:contractConfirmingDocs>
+                    <ns2:contractDoc>
+                        <ns2:confirmingDocCode>1</ns2:confirmingDocCode>
+                        <ns2:confirmingDocCodeTitle>Протокол, составленный по результатам закупки</ns2:confirmingDocCodeTitle>
+                        <ns2:protocolInfoGuid>dd2b4fe9-61e7-47c9-bf79-9393f8107a36</ns2:protocolInfoGuid>
+                        <ns2:protocolName>СБ: протокол подведения итогов/выбор победителя 31604406715-01</ns2:protocolName>
+                        <ns2:docDate>2016-12-15</ns2:docDate>
+                        <ns2:docNum>31604406715-01</ns2:docNum>
+                    </ns2:contractDoc>
+                </ns2:contractConfirmingDocs>
+                <ns2:hasOkpdAndOkdpRows>false</ns2:hasOkpdAndOkdpRows>
+                <ns2:hasOkpd2Rows>true</ns2:hasOkpd2Rows>
+            </ns2:contractData>
+        </ns2:item>
+    </ns2:body>
+</ns2:contract>

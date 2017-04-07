@@ -35,9 +35,11 @@ public:
     void stop();
     bool selectNotif(QString inn,QDateTime tmBegin,QDateTime tmEnd,QStringList &notif);
     bool selectNotif(QDateTime tmBegin,QDateTime tmEnd,QStringList &notif);
+    bool selectNotifDishon(QStringList &notif);
     bool selectDishon(QString inn,QStringList &dishon);
 protected:
  QSqlQuery *queryNotifSelectData;
+ QSqlQuery *queryContrDishData;
  QSqlQuery *queryNotifSelectDataSimple;
  QSqlQuery *queryDishonSelectData;
 };

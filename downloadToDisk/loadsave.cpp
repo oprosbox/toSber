@@ -91,8 +91,8 @@ void WLoadZip::fromDirToEnd(QStringList strListFrom)//обрабатывает �
   domObj->id=countId;++countId;
   connect(domObj,SIGNAL(allThreadsStop(int)),this,SLOT(delObjThreads(int)));
   connect(domObj,SIGNAL(allThreadsLists(QStringList)),this,SLOT(formListFiles(QStringList)));
-  if(tegFind.size()>0)domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);
-  else if(tegFindExp.size()>0)domObj->createObj(strListFrom,pathToEnd, tegFindExp, valFind,flgClearAll);
+  if(tegFindExp.size()==0){domObj->createObj(strListFrom,pathToEnd, tegFind, valFind,flgClearAll);}
+  else if(tegFindExp.size()>0){domObj->createObj(strListFrom,pathToEnd, tegFindExp, valFind,flgClearAll);}
   domObj->startThreads();
   listThread.push_back(domObj);
 }
@@ -140,7 +140,7 @@ int WLoadFtp::createFtp(SInputFtp inputFtp)
 //------------------------------------------------------------------------------------------------
 void WLoadFtp::download()
 {flgDownloadsAll=false;
-client->getListFiles(params.urlList,params.countToExitDirUrl);
+client->getListFiles(params.urlList);
 }
 //-------------------------------------------------------------------------------------------------
 void WLoadFtp::nextUnpack(int err,QStringList listGet)
@@ -176,22 +176,32 @@ void WLoadFtp::delObjectThatStop(int idLocal)
   if((flgDownloadsAll)&&(fromZip.size()==0))
     {emit allFilesProcess(id);}
 }
+//-------------------------------------------------------------------------------------------------------------------
+void W223fz::baseConnect(void)
+{
+
+    QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
+}
+
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-    BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
-    QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
+    BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ223);
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="fz223free";
     inpFtp.password="fz223free";
-    inpFtp.countToExitDirUrl=3;
     inpFtp.stFilt.dateBegin=tmBegin;
     inpFtp.stFilt.dateEnd=tmEnd;
+    inpFtp.stFilt.findExp.setPattern("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}");
+    inpFtp.stFilt.formDateBg="yyyyMMdd_HHmmss";
+    inpFtp.stFilt.formDateEnd="yyyyMMdd";
     inpFtp.pathTo=dirToReport;
     inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Notif";
-    inpFtp.tegPathFind.push_back("customer");
+    inn.replace(" ","");
+    if(inn!="")
+    {inpFtp.tegPathFind.push_back("customer");
     inpFtp.tegPathFind.push_back("mainInfo");
-    inpFtp.tegPathFind.push_back("inn");
+    inpFtp.tegPathFind.push_back("inn");}
     inpFtp.val=inn;
     inpFtp.urlPath="out/published";
     for(auto i=regions.begin();i!=regions.end();i++)
@@ -207,14 +217,15 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd)
 {
-
-      //QObject::connect(ftp223fz,SIGNAL(sProcessFiles(QStringList)),BD,SLOT(writeToDishon(QStringList)));
+       BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ223);
       inpFtp.url="ftp.zakupki.gov.ru";
       inpFtp.login="fz223free";
       inpFtp.password="fz223free";
-      inpFtp.countToExitDirUrl=3;
       inpFtp.stFilt.dateBegin=tmBegin;
       inpFtp.stFilt.dateEnd=tmEnd;
+      inpFtp.stFilt.findExp.setPattern("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}");
+      inpFtp.stFilt.formDateBg="yyyyMMdd_HHmmss";
+      inpFtp.stFilt.formDateEnd="yyyyMMdd";
       inpFtp.pathTo=dirToReport;
       inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp223Dish";
       inpFtp.urlPath="out/published";
@@ -222,14 +233,70 @@ void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime t
       {
         inpFtp.urlList.push_back(*i+"/dishonestSupplier/daily");
       }
-       inpFtp.flgDellArh=CDELARHNOPROCESS;
+       inpFtp.flgDellArh=CDELDIRANDARH;
 
        ftp223fz->createFtp(inpFtp);
 }
 //--------------------------------------------------------------------------------------------------------------------
-int W223fz::getRegions(QStringList &regions)
+void W223fz::create44fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-    QFile *file=new QFile(QApplication::applicationDirPath()+"/regions223FZ.txt");
+     BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ44);
+    inpFtp.url="ftp.zakupki.gov.ru";
+    inpFtp.login="free";
+    inpFtp.password="free";
+    inpFtp.stFilt.dateBegin=tmBegin;
+    inpFtp.stFilt.dateEnd=tmEnd;
+    inpFtp.stFilt.findExp.setPattern("[0-9]{10}_[0-9]{10}");
+    inpFtp.stFilt.formDateBg="yyyyMMddHH";
+    inpFtp.stFilt.formDateEnd="yyyyMMdd";
+    inpFtp.val=inn;
+    inpFtp.pathTo=dirToReport;
+    inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp44Contr";
+    inpFtp.urlPath="fcs_regions";
+    if(inn!=""){
+    inpFtp.tegPathFind.push_back("customer");
+    inpFtp.tegPathFind.push_back("inn");}
+    for(auto i=regions.begin();i!=regions.end();i++)
+    {
+      inpFtp.urlList.push_back(*i+"/contracts");
+      inpFtp.urlList.push_back(*i+"/contracts/currMonth");
+    }
+     inpFtp.flgDellArh=CDELDIRANDARH;
+
+     ftp223fz->createFtp(inpFtp);
+}
+
+//--------------------------------------------------------------------------------------------------------------------
+void W223fz::create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd)
+{
+     BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ44);
+    inpFtp.url="ftp.zakupki.gov.ru";
+    inpFtp.login="free";
+    inpFtp.password="free";
+    inpFtp.stFilt.dateBegin=tmBegin;
+    inpFtp.stFilt.dateEnd=tmEnd;
+    inpFtp.stFilt.findExp.setPattern("[0-9]{10}_[0-9]{10}");
+    inpFtp.stFilt.formDateBg="yyyyMMddHH";
+    inpFtp.stFilt.formDateEnd="yyyyMMdd";
+    inpFtp.pathTo=dirToReport;
+    inpFtp.pathTemp=QApplication::applicationDirPath()+"/temp44Dish";
+    inpFtp.urlPath="fcs_fas";
+    inpFtp.urlList.push_back("unfairSupplier");
+    inpFtp.urlList.push_back("unfairSupplier/currMonth");
+    inpFtp.flgDellArh=CDELDIRANDARH;
+
+     ftp223fz->createFtp(inpFtp);
+}
+
+//--------------------------------------------------------------------------------------------------------------------
+int W223fz::getRegions(QStringList &regions,const int CFZ)
+{ QString path;
+    switch(CFZ)
+    {case CFZ223:{path=QApplication::applicationDirPath()+"/regions223FZ.txt";break;}
+     case CFZ44:{path=QApplication::applicationDirPath()+"/regions44FZ.txt";}
+    }
+
+    QFile *file=new QFile(path);
      if (!file->open(QIODevice::ReadOnly)) {return (-1);}
 regions.clear();
      QTextStream ts(file); // из файла
