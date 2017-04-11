@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3384167 bytes (3305 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_001.xml.zip
+Type = zip
+Physical Size = 3384167
+
+Everything is Ok
+
+Files: 370
+Size:       15556755
+Compressed: 3384167
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3448660 bytes (3368 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_002.xml.zip
+Type = zip
+Physical Size = 3448660
+
+Everything is Ok
+
+Files: 418
+Size:       34718148
+Compressed: 3448660
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 19887 bytes (20 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Voronezhskaja_obl_2017031300_2017031400_003.xml.zip
+Type = zip
+Physical Size = 19887
+
+Everything is Ok
+
+Files: 38
+Size:       24311
+Compressed: 19887

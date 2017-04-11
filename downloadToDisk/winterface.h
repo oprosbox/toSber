@@ -6,6 +6,7 @@
 #include <QPushButton>
 #include <QDateEdit>
 #include <QLineEdit>
+#include <QCheckBox>
 #include "frombase.h"
 
 const int C_TYPEITEMSTRING=1;
@@ -46,6 +47,8 @@ public:
   QDateEdit* tmBegin;
   QDateEdit* tmEnd;
   QLineEdit* innLine;
+  QCheckBox* dish223;
+  QCheckBox* dish44;
   void createInterface();
 public slots:
   void createTableReport();

@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2429347 bytes (2373 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_001.xml.zip
+Type = zip
+Physical Size = 2429347
+
+Everything is Ok
+
+Files: 436
+Size:       9456632
+Compressed: 2429347
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2240380 bytes (2188 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_002.xml.zip
+Type = zip
+Physical Size = 2240380
+
+Everything is Ok
+
+Files: 420
+Size:       18863213
+Compressed: 2240380
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5365 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Krim_Resp_2017032800_2017032900_003.xml.zip
+Type = zip
+Physical Size = 5365
+
+Everything is Ok
+
+Files: 4
+Size:       10090
+Compressed: 5365

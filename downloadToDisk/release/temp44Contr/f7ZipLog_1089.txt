@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5451922 bytes (5325 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kemerovskaja_obl_2017032800_2017032900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kemerovskaja_obl_2017032800_2017032900_001.xml.zip
+Type = zip
+Physical Size = 5451922
+
+Everything is Ok
+
+Files: 918
+Size:       27177151
+Compressed: 5451922
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5756310 bytes (5622 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kemerovskaja_obl_2017032800_2017032900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kemerovskaja_obl_2017032800_2017032900_002.xml.zip
+Type = zip
+Physical Size = 5756310
+
+Everything is Ok
+
+Files: 944
+Size:       70294236
+Compressed: 5756310

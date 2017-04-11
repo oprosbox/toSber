@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 934378 bytes (913 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kabardino-Balkarskaja_Resp_2017032000_2017032100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kabardino-Balkarskaja_Resp_2017032000_2017032100_001.xml.zip
+Type = zip
+Physical Size = 934378
+
+Everything is Ok
+
+Files: 164
+Size:       4096094
+Compressed: 934378
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1145150 bytes (1119 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kabardino-Balkarskaja_Resp_2017032000_2017032100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kabardino-Balkarskaja_Resp_2017032000_2017032100_002.xml.zip
+Type = zip
+Physical Size = 1145150
+
+Everything is Ok
+
+Files: 214
+Size:       10671958
+Compressed: 1145150

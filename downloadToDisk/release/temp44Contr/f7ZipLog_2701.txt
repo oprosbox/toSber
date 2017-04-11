@@ -1,0 +1,53 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 913936 bytes (893 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040100_2017040200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040100_2017040200_001.xml.zip
+Type = zip
+Physical Size = 913936
+
+Everything is Ok
+
+Files: 166
+Size:       3261629
+Compressed: 913936
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 588143 bytes (575 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040100_2017040200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040100_2017040200_002.xml.zip
+Type = zip
+Physical Size = 588143
+
+Everything is Ok
+
+Files: 102
+Size:       6358205
+Compressed: 588143
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040200_2017040300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Saratovskaja_obl_2017040200_2017040300_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22

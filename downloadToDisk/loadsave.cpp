@@ -99,14 +99,15 @@ void WLoadZip::fromDirToEnd(QStringList strListFrom)//обрабатывает �
 //--------------------------------------------------------------------------------------------------
 void  WLoadZip::delObjThreads(int idLocal)
 {
+    for(auto it=listThread.begin();it!=listThread.end();it++)
+            {
+             if((*it)->id==idLocal){(*it)->deleteLater();
+                                    listThread.erase(it);
+                                    break;}
+            }
 --countObj;
   if(countObj<1)
-    {for(auto it=listThread.begin();it!=listThread.end();it++)
-        {
-         if((*it)->id==idLocal){//(*it)->deleteLater();
-                                listThread.erase(it);
-                                break;}
-        }
+    {
       emit allObjectsStop(id);
        }
 }
@@ -179,14 +180,20 @@ void WLoadFtp::delObjectThatStop(int idLocal)
 //-------------------------------------------------------------------------------------------------------------------
 void W223fz::baseConnect(void)
 {
+switch(CFZ)
+{case CFZ223:
+ case CFZ44:{ QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));break;}
+ case CFZ223Dish:
+ case CFZ44Dish:{ QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToDishon(QStringList)));}
+}
 
-    QObject::connect(ftp223fz,SIGNAL(sGetFiles(QStringList)),BD,SLOT(writeToNotif(QStringList)));
 }
 
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-    BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ223);
+    BD->start(CFZ223);
+    CFZ=CFZ223;
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="fz223free";
     inpFtp.password="fz223free";
@@ -217,7 +224,8 @@ void W223fz::create223fzNotif(QString dirToReport,QStringList regions,QDateTime 
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd)
 {
-       BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ223);
+       BD->start(CFZ223);
+       CFZ=CFZ223Dish;
       inpFtp.url="ftp.zakupki.gov.ru";
       inpFtp.login="fz223free";
       inpFtp.password="fz223free";
@@ -240,7 +248,8 @@ void W223fz::create223fzDish(QString dirToReport,QStringList regions,QDateTime t
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create44fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn)
 {
-     BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ44);
+     BD->start(CFZ44);
+     CFZ=CFZ44;
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="free";
     inpFtp.password="free";
@@ -258,7 +267,7 @@ void W223fz::create44fzNotif(QString dirToReport,QStringList regions,QDateTime t
     inpFtp.tegPathFind.push_back("inn");}
     for(auto i=regions.begin();i!=regions.end();i++)
     {
-      inpFtp.urlList.push_back(*i+"/contracts");
+      inpFtp.urlList.push_back(*i+"/contracts/prevMonth");
       inpFtp.urlList.push_back(*i+"/contracts/currMonth");
     }
      inpFtp.flgDellArh=CDELDIRANDARH;
@@ -269,7 +278,8 @@ void W223fz::create44fzNotif(QString dirToReport,QStringList regions,QDateTime t
 //--------------------------------------------------------------------------------------------------------------------
 void W223fz::create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd)
 {
-     BD->start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19",CFZ44);
+    BD->start(CFZ44);
+    CFZ=CFZ44Dish;
     inpFtp.url="ftp.zakupki.gov.ru";
     inpFtp.login="free";
     inpFtp.password="free";
@@ -284,7 +294,6 @@ void W223fz::create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEn
     inpFtp.urlList.push_back("unfairSupplier");
     inpFtp.urlList.push_back("unfairSupplier/currMonth");
     inpFtp.flgDellArh=CDELDIRANDARH;
-
      ftp223fz->createFtp(inpFtp);
 }
 

@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 376210 bytes (368 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031500_2017031600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031500_2017031600_001.xml.zip
+Type = zip
+Physical Size = 376210
+
+Everything is Ok
+
+Files: 41
+Size:       1726845
+Compressed: 376210
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 275013 bytes (269 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031500_2017031600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031500_2017031600_002.xml.zip
+Type = zip
+Physical Size = 275013
+
+Everything is Ok
+
+Files: 33
+Size:       2503929
+Compressed: 275013
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 93830 bytes (92 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Evrejskaja_Aobl_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 93830
+
+Everything is Ok
+
+Files: 10
+Size:       373640
+Compressed: 93830

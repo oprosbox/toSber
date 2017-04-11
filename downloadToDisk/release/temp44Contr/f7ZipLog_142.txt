@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1453525 bytes (1420 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Arkhangelskaja_obl_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Arkhangelskaja_obl_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 1453525
+
+Everything is Ok
+
+Files: 159
+Size:       6778335
+Compressed: 1453525
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2837789 bytes (2772 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Arkhangelskaja_obl_2017030200_2017030300_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Arkhangelskaja_obl_2017030200_2017030300_002.xml.zip
+Type = zip
+Physical Size = 2837789
+
+Everything is Ok
+
+Files: 277
+Size:       47015492
+Compressed: 2837789

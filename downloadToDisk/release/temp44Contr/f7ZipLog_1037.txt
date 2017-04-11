@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1371139 bytes (1340 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_001.xml.zip
+Type = zip
+Physical Size = 1371139
+
+Everything is Ok
+
+Files: 148
+Size:       6498906
+Compressed: 1371139
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1354729 bytes (1323 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_002.xml.zip
+Type = zip
+Physical Size = 1354729
+
+Everything is Ok
+
+Files: 152
+Size:       16152947
+Compressed: 1354729
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1085 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031500_2017031600_003.xml.zip
+Type = zip
+Physical Size = 1085
+
+Everything is Ok
+
+Files: 2
+Size:       1301
+Compressed: 1085

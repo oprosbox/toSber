@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<contract xmlns10="http://zakupki.gov.ru/223fz/revenue/1" xmlns4="http://zakupki.gov.ru/223fz/purchase/1" xmlns12="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns16="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns9="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlns8="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns11="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns17="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns14="http://zakupki.gov.ru/223fz/complaint/1" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns6="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns5="http://zakupki.gov.ru/223fz/reference/1" xmlns18="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns13="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns7="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns15="http://zakupki.gov.ru/223fz/notificationIssue/1">
+ <header>
+  <guid>8651e3df-253a-4737-9b1b-06f4118f0c28</guid>
+  <createDateTime>2017-04-06T14:07:18</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>3ee8c625-9d62-46c7-9376-c47899c2a615</guid>
+   <contractData>
+    <guid>b1bdba77-1466-4260-9aef-2fc3a4efb516</guid>
+    <registrationNumber>57707083893170013570001</registrationNumber>
+    <notice44>false</notice44>
+    <termination>false</termination>
+    <extension>false</extension>
+    <prolongation>false</prolongation>
+    <lotNum>1</lotNum>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=3093838&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2017-04-06T13:52:41</createDateTime>
+    <customer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okopf>12247</okopf>
+      <okopfName>Публичные акционерные общества</okopfName>
+      <okpo>00032537</okpo>
+      <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+     </mainInfo>
+    </customer>
+    <placer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okpo>00032537</okpo>
+     </mainInfo>
+    </placer>
+    <publicationDate>2017-04-06T14:07:18</publicationDate>
+    <status>P</status>
+    <version>1</version>
+    <digitalPurchase>true</digitalPurchase>
+    <digitalPurchaseCode>400001</digitalPurchaseCode>
+    <provider>false</provider>
+    <changeContract>false</changeContract>
+    <attachments>
+     <totalDocumentsCount>1</totalDocumentsCount>
+     <document>
+      <guid>b075e7a0-b5f1-48b2-befa-c8dad0810e8c</guid>
+      <createDateTime>2017-04-06T12:27:45</createDateTime>
+      <fileName>Договор № 50001735021.pdf</fileName>
+      <description>Сканкопия договора</description>
+      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11962955</url>
+      <registrationNumber>57707083893170013570002</registrationNumber>
+     </document>
+    </attachments>
+    <contractRegNumber>57707083893170013570000</contractRegNumber>
+    <name>50001735021</name>
+    <contractDate>2017-04-05</contractDate>
+    <purchaseNoticeInfo>
+     <guid>97482c78-11ef-4ae7-938d-72acac7990e6</guid>
+     <purchaseNoticeNumber>31704822453</purchaseNoticeNumber>
+     <publicationDateTime>2017-02-22T11:24:58</publicationDateTime>
+     <name>[37961] Выбор организации на оказание услуг по хозяйственной и инженерной  эксплуатации  для   нужд Байкальского банка ПАО Сбербанк</name>
+    </purchaseNoticeInfo>
+    <lotGuid>ba747cfd-f152-49a7-b4c9-a7c67a7d19d6</lotGuid>
+    <subjectContract>[37961] Выбор организации на оказание услуг по хозяйственной и инженерной  эксплуатации  для   нужд Байкальского банка ПАО Сбербанк</subjectContract>
+    <purchaseTypeInfo>
+     <code>40000</code>
+     <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
+    </purchaseTypeInfo>
+    <supplierInfo>
+     <name>ООО "Клинок"</name>
+     <inn>2722087727</inn>
+     <kpp>272201001</kpp>
+     <okpo>62208917</okpo>
+     <type>L</type>
+     <provider>true</provider>
+     <providerCode>30</providerCode>
+     <subcontractor>false</subcontractor>
+     <nonResident>false</nonResident>
+     <registrationDate>2009-09-18</registrationDate>
+     <tax>true</tax>
+     <okopf>12165</okopf>
+     <okopfName>Общества с ограниченной ответственностью</okopfName>
+     <address>
+      <egrulEgripChanged>false</egrulEgripChanged>
+      <country>
+       <name>РОССИЯ</name>
+       <digitalCode>643</digitalCode>
+      </country>
+      <postCode>680038</postCode>
+      <oktmo>08000000</oktmo>
+      <oktmoName>Муниципальные образования Хабаровского края</oktmoName>
+      <region>
+       <code>27</code>
+       <name>Хабаровский край</name>
+      </region>
+      <area>Хабаровск, Кировский район</area>
+      <street>улица Серышева</street>
+      <email>info@cleanok.ru</email>
+      <phone>8(4212) 455-100</phone>
+      <office>301</office>
+      <house>56</house>
+     </address>
+    </supplierInfo>
+    <hasSubcontractor>false</hasSubcontractor>
+    <price>133006</price>
+    <rubPrice>133006</rubPrice>
+    <currency>
+     <code>RUB</code>
+     <digitalCode>643</digitalCode>
+     <name>Российский рубль</name>
+    </currency>
+    <startExecutionDate>2017-04-01</startExecutionDate>
+    <endExecutionDate>2018-04-01</endExecutionDate>
+    <contractPositions>
+     <contractPosition>
+      <guid>8887b008-0e2e-405b-8c16-3a22caed6337</guid>
+      <name>Оказание услуг по хозяйственной и инженерной  эксплуатации  для   нужд Байкальского банка ПАО Сбербанк в соответствии с требованиями к предмету аукциона, указанными в приложении №1 «Техническое задание» к аукционной документации в количестве 1 комплекта</name>
+      <ordinalNumber>1</ordinalNumber>
+      <okpd2>
+       <code>81.10</code>
+       <name>Услуги по комплексному обслуживанию помещений</name>
+      </okpd2>
+      <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
+      <okei>
+       <code>839</code>
+       <name>Комплект</name>
+      </okei>
+      <qty>1</qty>
+     </contractPosition>
+    </contractPositions>
+    <contractConfirmingDocs>
+     <contractDoc>
+      <confirmingDocCode>1</confirmingDocCode>
+      <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
+      <protocolInfoGuid>a21554e1-145a-4063-8d66-061dcb6adb62</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31704822453-01</protocolName>
+      <docDate>2017-03-27</docDate>
+      <docNum>31704822453-01</docNum>
+     </contractDoc>
+    </contractConfirmingDocs>
+    <hasOkpdAndOkdpRows>false</hasOkpdAndOkdpRows>
+    <hasOkpd2Rows>true</hasOkpd2Rows>
+   </contractData>
+  </item>
+ </body>
+</contract>

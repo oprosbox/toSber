@@ -158,6 +158,7 @@ public:
         chkBD223fzContr = new QCheckBox(widget_2);
         chkBD223fzContr->setObjectName(QStringLiteral("chkBD223fzContr"));
         chkBD223fzContr->setGeometry(QRect(650, 40, 91, 20));
+        chkBD223fzContr->setChecked(true);
         lblRegions223fzContr = new QLabel(widget_2);
         lblRegions223fzContr->setObjectName(QStringLiteral("lblRegions223fzContr"));
         lblRegions223fzContr->setGeometry(QRect(660, 10, 81, 16));
@@ -210,6 +211,7 @@ public:
         chkBD44fzContr = new QCheckBox(widget_3);
         chkBD44fzContr->setObjectName(QStringLiteral("chkBD44fzContr"));
         chkBD44fzContr->setGeometry(QRect(650, 40, 91, 20));
+        chkBD44fzContr->setChecked(true);
         lblRegions44fzContr = new QLabel(widget_3);
         lblRegions44fzContr->setObjectName(QStringLiteral("lblRegions44fzContr"));
         lblRegions44fzContr->setGeometry(QRect(660, 10, 91, 16));
@@ -257,6 +259,7 @@ public:
         chkBD223fzDishon = new QCheckBox(widget_4);
         chkBD223fzDishon->setObjectName(QStringLiteral("chkBD223fzDishon"));
         chkBD223fzDishon->setGeometry(QRect(650, 40, 101, 17));
+        chkBD223fzDishon->setChecked(true);
         lblRegions223fzDishon = new QLabel(widget_4);
         lblRegions223fzDishon->setObjectName(QStringLiteral("lblRegions223fzDishon"));
         lblRegions223fzDishon->setGeometry(QRect(660, 10, 91, 16));
@@ -302,9 +305,10 @@ public:
         chkBD44fzDishon = new QCheckBox(widget_5);
         chkBD44fzDishon->setObjectName(QStringLiteral("chkBD44fzDishon"));
         chkBD44fzDishon->setGeometry(QRect(650, 40, 91, 17));
+        chkBD44fzDishon->setChecked(true);
         label_11 = new QLabel(widget);
         label_11->setObjectName(QStringLiteral("label_11"));
-        label_11->setGeometry(QRect(120, 10, 51, 16));
+        label_11->setGeometry(QRect(120, 10, 71, 16));
         btnCrtBd = new QPushButton(widget);
         btnCrtBd->setObjectName(QStringLiteral("btnCrtBd"));
         btnCrtBd->setGeometry(QRect(750, 430, 121, 23));
@@ -369,7 +373,7 @@ public:
         btnTm44fz->setText(QString());
         btnTm44fz_2->setText(QString());
         chkBD44fzDishon->setText(QApplication::translate("MainWindow", "\320\267\320\260\320\277\320\270\321\201\321\214 \320\262 \320\261\320\260\320\267\321\203", Q_NULLPTR));
-        label_11->setText(QApplication::translate("MainWindow", "\321\202\320\265\320\275\320\264\320\265\321\200\321\213", Q_NULLPTR));
+        label_11->setText(QApplication::translate("MainWindow", "\320\272\320\276\320\275\321\202\321\200\320\260\320\272\321\202\321\213", Q_NULLPTR));
         btnCrtBd->setText(QApplication::translate("MainWindow", "\321\201\320\276\320\267\320\264\320\260\321\202\321\214 \321\202\320\260\320\261\320\273\320\270\321\206\321\213 \320\221\320\224", Q_NULLPTR));
     } // retranslateUi
 

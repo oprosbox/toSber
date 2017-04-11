@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 769778 bytes (752 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_001.xml.zip
+Type = zip
+Physical Size = 769778
+
+Everything is Ok
+
+Files: 132
+Size:       3619891
+Compressed: 769778
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2400168 bytes (2344 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_002.xml.zip
+Type = zip
+Physical Size = 2400168
+
+Everything is Ok
+
+Files: 460
+Size:       20008056
+Compressed: 2400168
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2744 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Penzenskaja_obl_2017040600_2017040700_003.xml.zip
+Type = zip
+Physical Size = 2744
+
+Everything is Ok
+
+Files: 2
+Size:       5126
+Compressed: 2744

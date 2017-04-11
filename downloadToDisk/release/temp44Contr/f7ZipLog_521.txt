@@ -1,0 +1,50 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1402756 bytes (1370 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_001.xml.zip
+Type = zip
+Physical Size = 1402756
+
+Everything is Ok
+
+Files: 152
+Size:       5853715
+Compressed: 1402756
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1161390 bytes (1135 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_002.xml.zip
+Type = zip
+Physical Size = 1161390
+
+Everything is Ok
+
+Files: 132
+Size:       12415843
+Compressed: 1161390
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 574 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chuvashskaja_Resp_2017030700_2017030800_003.xml.zip
+Type = zip
+Physical Size = 574
+
+Everything is Ok
+
+Size:       672
+Compressed: 574

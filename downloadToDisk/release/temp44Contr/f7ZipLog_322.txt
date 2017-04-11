@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1930347 bytes (1886 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 1930347
+
+Everything is Ok
+
+Files: 210
+Size:       8396941
+Compressed: 1930347
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3379507 bytes (3301 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_002.xml.zip
+Type = zip
+Physical Size = 3379507
+
+Everything is Ok
+
+Files: 388
+Size:       36310406
+Compressed: 3379507
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4797 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Brjanskaja_obl_2017030200_2017030300_003.xml.zip
+Type = zip
+Physical Size = 4797
+
+Everything is Ok
+
+Files: 9
+Size:       5851
+Compressed: 4797

@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1126361 bytes (1100 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kamchatskij_kraj_2017040600_2017040700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kamchatskij_kraj_2017040600_2017040700_002.xml.zip
+Type = zip
+Physical Size = 1126361
+
+Everything is Ok
+
+Files: 206
+Size:       10691492
+Compressed: 1126361
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 539669 bytes (528 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kamchatskij_kraj_2017040700_2017040800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kamchatskij_kraj_2017040700_2017040800_001.xml.zip
+Type = zip
+Physical Size = 539669
+
+Everything is Ok
+
+Files: 94
+Size:       2358968
+Compressed: 539669

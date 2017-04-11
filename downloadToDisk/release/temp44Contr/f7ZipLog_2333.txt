@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3647583 bytes (3563 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_001.xml.zip
+Type = zip
+Physical Size = 3647583
+
+Everything is Ok
+
+Files: 638
+Size:       15095248
+Compressed: 3647583
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4979458 bytes (4863 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_002.xml.zip
+Type = zip
+Physical Size = 4979458
+
+Everything is Ok
+
+Files: 892
+Size:       43064572
+Compressed: 4979458
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 24394 bytes (24 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017040500_2017040600_003.xml.zip
+Type = zip
+Physical Size = 24394
+
+Everything is Ok
+
+Files: 18
+Size:       45989
+Compressed: 24394

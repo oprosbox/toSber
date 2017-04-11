@@ -258,6 +258,9 @@
       <property name="text">
        <string>запись в базу</string>
       </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QLabel" name="lblRegions223fzContr">
       <property name="geometry">
@@ -485,6 +488,9 @@
       <property name="text">
        <string>запись в базу</string>
       </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QLabel" name="lblRegions44fzContr">
       <property name="geometry">
@@ -696,6 +702,9 @@
       <property name="text">
        <string>запись в базу</string>
       </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QLabel" name="lblRegions223fzDishon">
       <property name="geometry">
@@ -887,6 +896,9 @@
       <property name="text">
        <string>запись в базу</string>
       </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
      </widget>
     </widget>
     <widget class="QLabel" name="label_11">
@@ -894,12 +906,12 @@
       <rect>
        <x>120</x>
        <y>10</y>
-       <width>51</width>
+       <width>71</width>
        <height>16</height>
       </rect>
      </property>
      <property name="text">
-      <string>тендеры</string>
+      <string>контракты</string>
      </property>
     </widget>
     <widget class="QPushButton" name="btnCrtBd">

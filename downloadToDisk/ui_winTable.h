@@ -13,6 +13,7 @@
 #include <QtWidgets/QAction>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QButtonGroup>
+#include <QtWidgets/QCheckBox>
 #include <QtWidgets/QDateEdit>
 #include <QtWidgets/QGridLayout>
 #include <QtWidgets/QHeaderView>
@@ -43,6 +44,8 @@ public:
     QPushButton *btnEnd;
     QPushButton *btnDishContr;
     QLabel *label_4;
+    QCheckBox *chk223;
+    QCheckBox *chk44;
     QWidget *widget_3;
     QWidget *widget_2;
     QGridLayout *gridLayout_2;
@@ -182,42 +185,50 @@ public:
         widget->setStyleSheet(QStringLiteral(""));
         btnGet = new QPushButton(widget);
         btnGet->setObjectName(QStringLiteral("btnGet"));
-        btnGet->setGeometry(QRect(30, 160, 151, 23));
+        btnGet->setGeometry(QRect(30, 220, 151, 23));
         btnGet->setAutoFillBackground(false);
         tmBegin = new QDateEdit(widget);
         tmBegin->setObjectName(QStringLiteral("tmBegin"));
-        tmBegin->setGeometry(QRect(50, 90, 101, 22));
+        tmBegin->setGeometry(QRect(50, 150, 101, 22));
         tmBegin->setStyleSheet(QStringLiteral("background-color:rgb(255, 255, 255)"));
         tmBegin->setDateTime(QDateTime(QDate(2017, 3, 15), QTime(0, 0, 0)));
         tmEnd = new QDateEdit(widget);
         tmEnd->setObjectName(QStringLiteral("tmEnd"));
-        tmEnd->setGeometry(QRect(50, 120, 101, 22));
+        tmEnd->setGeometry(QRect(50, 180, 101, 22));
         tmEnd->setStyleSheet(QStringLiteral("background-color:rgb(255, 255, 255)"));
         tmEnd->setDateTime(QDateTime(QDate(2017, 3, 29), QTime(0, 0, 0)));
         label = new QLabel(widget);
         label->setObjectName(QStringLiteral("label"));
-        label->setGeometry(QRect(30, 90, 20, 20));
+        label->setGeometry(QRect(30, 150, 20, 20));
         label_2 = new QLabel(widget);
         label_2->setObjectName(QStringLiteral("label_2"));
-        label_2->setGeometry(QRect(30, 120, 21, 20));
+        label_2->setGeometry(QRect(30, 180, 21, 20));
         lineEdit = new QLineEdit(widget);
         lineEdit->setObjectName(QStringLiteral("lineEdit"));
-        lineEdit->setGeometry(QRect(70, 210, 113, 20));
+        lineEdit->setGeometry(QRect(70, 270, 113, 20));
         label_3 = new QLabel(widget);
         label_3->setObjectName(QStringLiteral("label_3"));
-        label_3->setGeometry(QRect(50, 190, 101, 16));
+        label_3->setGeometry(QRect(50, 250, 101, 16));
         btnBegin = new QPushButton(widget);
         btnBegin->setObjectName(QStringLiteral("btnBegin"));
-        btnBegin->setGeometry(QRect(150, 90, 21, 23));
+        btnBegin->setGeometry(QRect(150, 150, 21, 23));
         btnEnd = new QPushButton(widget);
         btnEnd->setObjectName(QStringLiteral("btnEnd"));
-        btnEnd->setGeometry(QRect(150, 120, 21, 23));
+        btnEnd->setGeometry(QRect(150, 180, 21, 23));
         btnDishContr = new QPushButton(widget);
         btnDishContr->setObjectName(QStringLiteral("btnDishContr"));
         btnDishContr->setGeometry(QRect(30, 10, 151, 23));
         label_4 = new QLabel(widget);
         label_4->setObjectName(QStringLiteral("label_4"));
-        label_4->setGeometry(QRect(50, 60, 111, 16));
+        label_4->setGeometry(QRect(50, 120, 111, 16));
+        chk223 = new QCheckBox(widget);
+        chk223->setObjectName(QStringLiteral("chk223"));
+        chk223->setGeometry(QRect(30, 50, 70, 17));
+        chk223->setChecked(true);
+        chk44 = new QCheckBox(widget);
+        chk44->setObjectName(QStringLiteral("chk44"));
+        chk44->setGeometry(QRect(110, 50, 70, 17));
+        chk44->setChecked(true);
 
         gridLayout->addWidget(widget, 0, 0, 1, 1);
 
@@ -322,6 +333,8 @@ public:
         btnEnd->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
         btnDishContr->setText(QApplication::translate("MainWindow", "\320\262\321\201\320\265 \320\275\320\265\320\264\320\276\320\261\321\200\320\276\321\201\320\276\320\262\320\265\321\201\321\202\320\275\321\213\320\265", Q_NULLPTR));
         label_4->setText(QApplication::translate("MainWindow", "\320\230\320\275\321\202\320\265\321\200\320\262\320\260\320\273 \320\262\321\200\320\265\320\274\320\265\320\275\320\270", Q_NULLPTR));
+        chk223->setText(QApplication::translate("MainWindow", "223-\320\244\320\227", Q_NULLPTR));
+        chk44->setText(QApplication::translate("MainWindow", "44-\320\244\320\227", Q_NULLPTR));
         btnSave->setText(QApplication::translate("MainWindow", "\321\201\320\276\321\205\321\200\320\260\320\275\320\270\321\202\321\214", Q_NULLPTR));
         btnReportTable->setText(QApplication::translate("MainWindow", "\320\276\321\202\321\207\320\265\321\202 html", Q_NULLPTR));
     } // retranslateUi

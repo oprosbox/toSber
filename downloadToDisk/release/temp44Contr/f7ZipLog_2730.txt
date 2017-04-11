@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 656936 bytes (642 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032200_2017032300_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032200_2017032300_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 656936
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 118
+Size:       2919797
+Compressed: 656936
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 458060 bytes (448 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032200_2017032300_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032200_2017032300_002.xml.zip
+Type = zip
+Physical Size = 458060
+
+Everything is Ok
+
+Files: 92
+Size:       3330133
+Compressed: 458060
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 290046 bytes (284 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032300_2017032400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sevastopol_g_2017032300_2017032400_001.xml.zip
+Type = zip
+Physical Size = 290046
+
+Everything is Ok
+
+Files: 52
+Size:       1260334
+Compressed: 290046

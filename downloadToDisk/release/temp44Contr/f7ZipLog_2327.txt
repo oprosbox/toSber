@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3344649 bytes (3267 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 3344649
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 572
+Size:       14340004
+Compressed: 3344649
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4658527 bytes (4550 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_002.xml.zip
+Type = zip
+Physical Size = 4658527
+
+Everything is Ok
+
+Files: 798
+Size:       45574467
+Compressed: 4658527
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 26612 bytes (26 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Primorskij_kraj_2017032900_2017033000_003.xml.zip
+Type = zip
+Physical Size = 26612
+
+Everything is Ok
+
+Files: 20
+Size:       50334
+Compressed: 26612

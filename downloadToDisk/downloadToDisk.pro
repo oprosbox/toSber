@@ -38,7 +38,8 @@ SOURCES +=\
     tobase.cpp \
     mainwin.cpp \
     mainw.cpp \
-    wdateline.cpp
+    wdateline.cpp \
+    errorsLog.cpp
 
 HEADERS  += mainwindow.h \
     findindom.h \
@@ -49,7 +50,8 @@ HEADERS  += mainwindow.h \
     qftp/qurlinfo.h \
     interface.h \
     tobase.h \
-    wdateline.h
+    wdateline.h \
+    errorsLog.h
 
 FORMS    += mainwindow.ui
 

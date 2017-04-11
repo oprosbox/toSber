@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 776662 bytes (759 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Amurskaja_obl_2017040700_2017040800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Amurskaja_obl_2017040700_2017040800_001.xml.zip
+Type = zip
+Physical Size = 776662
+
+Everything is Ok
+
+Files: 138
+Size:       3280915
+Compressed: 776662
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1070163 bytes (1046 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Amurskaja_obl_2017040700_2017040800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Amurskaja_obl_2017040700_2017040800_002.xml.zip
+Type = zip
+Physical Size = 1070163
+
+Everything is Ok
+
+Files: 206
+Size:       9235388
+Compressed: 1070163

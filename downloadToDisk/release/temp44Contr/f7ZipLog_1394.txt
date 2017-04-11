@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9896992 bytes (9666 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Krasnodarskij_kraj_2017040400_2017040500_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Krasnodarskij_kraj_2017040400_2017040500_001.xml.zip
+Type = zip
+Physical Size = 9896992
+
+Everything is Ok
+
+Files: 1754
+Size:       39660630
+Compressed: 9896992
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10961978 bytes (11 MiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Krasnodarskij_kraj_2017040400_2017040500_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Krasnodarskij_kraj_2017040400_2017040500_002.xml.zip
+Type = zip
+Physical Size = 10961978
+
+Everything is Ok
+
+Files: 2000
+Size:       103251328
+Compressed: 10961978

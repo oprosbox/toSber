@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 179155 bytes (175 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031500_2017031600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031500_2017031600_001.xml.zip
+Type = zip
+Physical Size = 179155
+
+Everything is Ok
+
+Files: 18
+Size:       1121169
+Compressed: 179155
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 200193 bytes (196 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031500_2017031600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031500_2017031600_002.xml.zip
+Type = zip
+Physical Size = 200193
+
+Everything is Ok
+
+Files: 24
+Size:       1945057
+Compressed: 200193
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 95187 bytes (93 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bajkonur_g_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 95187
+
+Everything is Ok
+
+Files: 10
+Size:       523226
+Compressed: 95187

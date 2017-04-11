@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 499512 bytes (488 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017040300_2017040400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017040300_2017040400_001.xml.zip
+Type = zip
+Physical Size = 499512
+
+Everything is Ok
+
+Files: 88
+Size:       2112226
+Compressed: 499512
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 114163 bytes (112 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017040300_2017040400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017040300_2017040400_002.xml.zip
+Type = zip
+Physical Size = 114163
+
+Everything is Ok
+
+Files: 22
+Size:       1050632
+Compressed: 114163

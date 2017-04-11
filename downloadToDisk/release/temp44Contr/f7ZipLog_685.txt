@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5053552 bytes (4936 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_001.xml.zip
+Type = zip
+Physical Size = 5053552
+
+Everything is Ok
+
+Files: 902
+Size:       21333399
+Compressed: 5053552
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5301898 bytes (5178 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_002.xml.zip
+Type = zip
+Physical Size = 5301898
+
+Everything is Ok
+
+Files: 1004
+Size:       46254885
+Compressed: 5301898
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10693 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017032800_2017032900_003.xml.zip
+Type = zip
+Physical Size = 10693
+
+Everything is Ok
+
+Files: 8
+Size:       20176
+Compressed: 10693

@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1565668 bytes (1529 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_001.xml.zip
+Type = zip
+Physical Size = 1565668
+
+Everything is Ok
+
+Files: 167
+Size:       8279528
+Compressed: 1565668
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 714802 bytes (699 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_002.xml.zip
+Type = zip
+Physical Size = 714802
+
+Everything is Ok
+
+Files: 78
+Size:       8597838
+Compressed: 714802
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12827 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Smolenskaja_obl_2017030700_2017030800_003.xml.zip
+Type = zip
+Physical Size = 12827
+
+Everything is Ok
+
+Files: 25
+Size:       15736
+Compressed: 12827

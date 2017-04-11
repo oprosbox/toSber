@@ -1,0 +1,89 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1279113 bytes (1250 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_001.xml.zip
+Type = zip
+Physical Size = 1279113
+
+Everything is Ok
+
+Files: 132
+Size:       6647541
+Compressed: 1279113
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1424625 bytes (1392 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_002.xml.zip
+Type = zip
+Physical Size = 1424625
+
+Everything is Ok
+
+Files: 168
+Size:       14484352
+Compressed: 1424625
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2751 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031000_2017031100_003.xml.zip
+Type = zip
+Physical Size = 2751
+
+Everything is Ok
+
+Files: 5
+Size:       3369
+Compressed: 2751
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031100_2017031200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031100_2017031200_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031200_2017031300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karelija_Resp_2017031200_2017031300_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22

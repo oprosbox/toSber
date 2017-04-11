@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1266777 bytes (1238 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_001.xml.zip
+Type = zip
+Physical Size = 1266777
+
+Everything is Ok
+
+Files: 230
+Size:       5078704
+Compressed: 1266777
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5548549 bytes (5419 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_002.xml.zip
+Type = zip
+Physical Size = 5548549
+
+Everything is Ok
+
+Files: 1068
+Size:       44147721
+Compressed: 5548549
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2672 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017032000_2017032100_003.xml.zip
+Type = zip
+Physical Size = 2672
+
+Everything is Ok
+
+Files: 2
+Size:       5022
+Compressed: 2672

@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1269741 bytes (1240 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Adygeja_Resp_2017030100_2017030200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Adygeja_Resp_2017030100_2017030200_002.xml.zip
+Type = zip
+Physical Size = 1269741
+
+Everything is Ok
+
+Files: 151
+Size:       13108122
+Compressed: 1269741
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 885800 bytes (866 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Adygeja_Resp_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Adygeja_Resp_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 885800
+
+Everything is Ok
+
+Files: 94
+Size:       4794311
+Compressed: 885800

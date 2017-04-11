@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 576689 bytes (564 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kalmykija_Resp_2017033000_2017033100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kalmykija_Resp_2017033000_2017033100_001.xml.zip
+Type = zip
+Physical Size = 576689
+
+Everything is Ok
+
+Files: 104
+Size:       2434089
+Compressed: 576689
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 263735 bytes (258 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kalmykija_Resp_2017033000_2017033100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kalmykija_Resp_2017033000_2017033100_002.xml.zip
+Type = zip
+Physical Size = 263735
+
+Everything is Ok
+
+Files: 46
+Size:       2809442
+Compressed: 263735

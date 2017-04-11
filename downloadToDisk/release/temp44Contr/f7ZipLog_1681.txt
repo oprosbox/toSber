@@ -1,0 +1,50 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 574386 bytes (561 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031400_2017031500_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031400_2017031500_002.xml.zip
+Type = zip
+Physical Size = 574386
+
+Everything is Ok
+
+Files: 68
+Size:       4930056
+Compressed: 574386
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 540 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031400_2017031500_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031400_2017031500_003.xml.zip
+Type = zip
+Physical Size = 540
+
+Everything is Ok
+
+Size:       630
+Compressed: 540
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 341219 bytes (334 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031500_2017031600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Magadanskaja_obl_2017031500_2017031600_001.xml.zip
+Type = zip
+Physical Size = 341219
+
+Everything is Ok
+
+Files: 37
+Size:       1597568
+Compressed: 341219

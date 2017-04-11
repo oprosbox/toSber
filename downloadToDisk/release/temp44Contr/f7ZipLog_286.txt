@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3777849 bytes (3690 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Belgorodskaja_obl_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Belgorodskaja_obl_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 3777849
+
+Everything is Ok
+
+Files: 428
+Size:       15931970
+Compressed: 3777849
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1695240 bytes (1656 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Belgorodskaja_obl_2017030200_2017030300_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Belgorodskaja_obl_2017030200_2017030300_002.xml.zip
+Type = zip
+Physical Size = 1695240
+
+Everything is Ok
+
+Files: 202
+Size:       18501373
+Compressed: 1695240

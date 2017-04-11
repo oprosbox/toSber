@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1104954 bytes (1080 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khakasija_Resp_2017022800_2017030100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khakasija_Resp_2017022800_2017030100_001.xml.zip
+Type = zip
+Physical Size = 1104954
+
+Everything is Ok
+
+Files: 121
+Size:       5001598
+Compressed: 1104954
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1099346 bytes (1074 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khakasija_Resp_2017022800_2017030100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khakasija_Resp_2017022800_2017030100_002.xml.zip
+Type = zip
+Physical Size = 1099346
+
+Everything is Ok
+
+Files: 133
+Size:       10194684
+Compressed: 1099346

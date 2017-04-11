@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 665748 bytes (651 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 665748
+
+Everything is Ok
+
+Files: 75
+Size:       2691250
+Compressed: 665748
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1133252 bytes (1107 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_002.xml.zip
+Type = zip
+Physical Size = 1133252
+
+Everything is Ok
+
+Files: 135
+Size:       11295283
+Compressed: 1133252
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1169 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakhalinskaja_obl_2017031600_2017031700_003.xml.zip
+Type = zip
+Physical Size = 1169
+
+Everything is Ok
+
+Files: 2
+Size:       1444
+Compressed: 1169

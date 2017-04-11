@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8087 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Novosibirskaja_obl_2017040400_2017040500_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Novosibirskaja_obl_2017040400_2017040500_003.xml.zip
+Type = zip
+Physical Size = 8087
+
+Everything is Ok
+
+Files: 6
+Size:       15278
+Compressed: 8087
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6448999 bytes (6298 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Novosibirskaja_obl_2017040500_2017040600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Novosibirskaja_obl_2017040500_2017040600_001.xml.zip
+Type = zip
+Physical Size = 6448999
+
+Everything is Ok
+
+Files: 1132
+Size:       28597253
+Compressed: 6448999

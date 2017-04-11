@@ -1,0 +1,72 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 758844 bytes (742 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032400_2017032500_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032400_2017032500_001.xml.zip
+Type = zip
+Physical Size = 758844
+
+Everything is Ok
+
+Files: 136
+Size:       3017126
+Compressed: 758844
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 432120 bytes (422 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032400_2017032500_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032400_2017032500_002.xml.zip
+Type = zip
+Physical Size = 432120
+
+Everything is Ok
+
+Files: 74
+Size:       4872524
+Compressed: 432120
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032500_2017032600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032500_2017032600_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032600_2017032700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017032600_2017032700_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22

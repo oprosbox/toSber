@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2733 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040700_2017040800_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040700_2017040800_003.xml.zip
+Type = zip
+Physical Size = 2733
+
+Everything is Ok
+
+Files: 2
+Size:       5111
+Compressed: 2733
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11105 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040800_2017040900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040800_2017040900_001.xml.zip
+Type = zip
+Physical Size = 11105
+
+Everything is Ok
+
+Files: 2
+Size:       36497
+Compressed: 11105
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 17558 bytes (18 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040800_2017040900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017040800_2017040900_002.xml.zip
+Type = zip
+Physical Size = 17558
+
+Everything is Ok
+
+Files: 4
+Size:       132889
+Compressed: 17558

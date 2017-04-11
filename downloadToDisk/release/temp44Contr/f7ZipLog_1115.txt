@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1892054 bytes (1848 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_001.xml.zip
+Type = zip
+Physical Size = 1892054
+
+Everything is Ok
+
+Files: 206
+Size:       8710420
+Compressed: 1892054
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3417840 bytes (3338 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_002.xml.zip
+Type = zip
+Physical Size = 3417840
+
+Everything is Ok
+
+Files: 400
+Size:       35947487
+Compressed: 3417840
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1190 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017030900_2017031000_003.xml.zip
+Type = zip
+Physical Size = 1190
+
+Everything is Ok
+
+Files: 2
+Size:       1420
+Compressed: 1190

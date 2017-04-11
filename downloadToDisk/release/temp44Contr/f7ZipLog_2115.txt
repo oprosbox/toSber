@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3147159 bytes (3074 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Omskaja_obl_2017031400_2017031500_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Omskaja_obl_2017031400_2017031500_001.xml.zip
+Type = zip
+Physical Size = 3147159
+
+Everything is Ok
+
+Files: 348
+Size:       14216518
+Compressed: 3147159
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2449373 bytes (2392 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Omskaja_obl_2017031400_2017031500_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Omskaja_obl_2017031400_2017031500_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 2449373
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 277
+Size:       30511881
+Compressed: 2449373

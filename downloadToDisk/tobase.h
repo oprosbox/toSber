@@ -9,13 +9,14 @@
 
 const int CFZ223=223;
 const int CFZ44=44;
-
+const int CFZ44Dish=441;
+const int CFZ223Dish=2231;
 //-------------------------------------------------------------------------------
 class WOpenBase
 {
 public:
   // bool openMySQL();//открывает удаленное соединение с MySql
-   bool openMSSQL(QString url,QString database,QString login, QString pass);//открывает соединение с MSSql
+   bool openMSSQL(QString connStr);//открывает соединение с MSSql
    void closeConn();//закрывает работающее соединение
    QSqlDatabase base;
 };
@@ -24,9 +25,6 @@ struct SDishon
 {
   QString inn;
   QString name_organization;
-  int date_add;
-  QString date_addUTC;
-  QString guid;
   QString data;
 };
 //-------------------------------------------------------------------------------
@@ -46,12 +44,13 @@ class WToBASE:public WOpenBase
 {
 public:
     WToBASE();
+    ~WToBASE(){stop();}
     void prepare(int CFZ);
-    bool start(QString url,QString database,QString login, QString pass);
-    void stop();
-    bool createTable223Notif();
+    bool start(void);
+    void stop(void);
+    bool createTable223Notif(void);
     bool insertToBase223Notif(SNotif &notif,QSqlError &error);
-    bool createTable223Dishon();
+    bool createTable223Dishon(void);
     bool insertToBase223Dishon(SDishon &dishon);
 protected:
  QSqlTableModel toViewTable;
@@ -66,12 +65,11 @@ protected:
 class WBaseWR:public QObject,protected WToBASE
 {Q_OBJECT
     public:
-    bool start(QString url,QString database,QString login, QString pass,const int CNoFZ);
+    bool start(const int CNoFZ);
 static int createTables(bool table223fz=true,bool table44fz=true,bool tableDishon223fz=true,bool tableDishon44fz=true);
 public slots:
 bool writeToNotif(QStringList findObjects);
 bool writeToDishon(QStringList findObjects);
-//void createTables(void);
 signals:
 void getError(QString error);
 protected:

@@ -1,0 +1,17 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 302940 bytes (296 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017022800_2017030100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017022800_2017030100_001.xml.zip
+Type = zip
+Physical Size = 302940
+
+Everything is Ok
+
+Files: 32
+Size:       1705727
+Compressed: 302940

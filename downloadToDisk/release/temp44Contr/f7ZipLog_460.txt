@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3262994 bytes (3187 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017032200_2017032300_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017032200_2017032300_003.xml.zip
+Type = zip
+Physical Size = 3262994
+
+Everything is Ok
+
+Files: 646
+Size:       24528681
+Compressed: 3262994
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 42470 bytes (42 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017032200_2017032300_004.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017032200_2017032300_004.xml.zip
+Type = zip
+Physical Size = 42470
+
+Everything is Ok
+
+Files: 32
+Size:       80356
+Compressed: 42470

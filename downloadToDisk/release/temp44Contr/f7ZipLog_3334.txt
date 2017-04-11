@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 141976 bytes (139 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Vologodskaja_obl_2017030500_2017030600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Vologodskaja_obl_2017030500_2017030600_002.xml.zip
+Type = zip
+Physical Size = 141976
+
+Everything is Ok
+
+Files: 19
+Size:       830442
+Compressed: 141976
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1793173 bytes (1752 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Vologodskaja_obl_2017030600_2017030700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Vologodskaja_obl_2017030600_2017030700_001.xml.zip
+Type = zip
+Physical Size = 1793173
+
+Everything is Ok
+
+Files: 195
+Size:       8324356
+Compressed: 1793173

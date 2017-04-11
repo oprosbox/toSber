@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1130014 bytes (1104 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 1130014
+
+Everything is Ok
+
+Files: 121
+Size:       5408507
+Compressed: 1130014
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2574476 bytes (2515 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_002.xml.zip
+Type = zip
+Physical Size = 2574476
+
+Everything is Ok
+
+Files: 292
+Size:       31160714
+Compressed: 2574476
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1942 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tomskaja_obl_2017030200_2017030300_003.xml.zip
+Type = zip
+Physical Size = 1942
+
+Everything is Ok
+
+Files: 3
+Size:       2502
+Compressed: 1942

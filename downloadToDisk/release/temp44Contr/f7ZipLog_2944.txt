@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3059999 bytes (2989 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_001.xml.zip
+Type = zip
+Physical Size = 3059999
+
+Everything is Ok
+
+Files: 347
+Size:       12823183
+Compressed: 3059999
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4984565 bytes (4868 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_002.xml.zip
+Type = zip
+Physical Size = 4984565
+
+Everything is Ok
+
+Files: 596
+Size:       51777803
+Compressed: 4984565
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4977 bytes (5 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tatarstan_Resp_2017030100_2017030200_003.xml.zip
+Type = zip
+Physical Size = 4977
+
+Everything is Ok
+
+Files: 9
+Size:       6049
+Compressed: 4977

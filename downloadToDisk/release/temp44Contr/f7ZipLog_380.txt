@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 660830 bytes (646 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Burjatija_Resp_2017032700_2017032800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Burjatija_Resp_2017032700_2017032800_002.xml.zip
+Type = zip
+Physical Size = 660830
+
+Everything is Ok
+
+Files: 130
+Size:       5358229
+Compressed: 660830
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1427736 bytes (1395 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Burjatija_Resp_2017032800_2017032900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Burjatija_Resp_2017032800_2017032900_001.xml.zip
+Type = zip
+Physical Size = 1427736
+
+Everything is Ok
+
+Files: 254
+Size:       5850269
+Compressed: 1427736

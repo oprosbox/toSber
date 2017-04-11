@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6796113 bytes (6637 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tulskaja_obl_2017022800_2017030100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tulskaja_obl_2017022800_2017030100_002.xml.zip
+Type = zip
+Physical Size = 6796113
+
+Everything is Ok
+
+Files: 758
+Size:       84089230
+Compressed: 6796113
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2912 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tulskaja_obl_2017022800_2017030100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tulskaja_obl_2017022800_2017030100_003.xml.zip
+Type = zip
+Physical Size = 2912
+
+Everything is Ok
+
+Files: 5
+Size:       3631
+Compressed: 2912

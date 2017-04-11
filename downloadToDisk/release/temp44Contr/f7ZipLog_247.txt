@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4258288 bytes (4159 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_001.xml.zip
+Type = zip
+Physical Size = 4258288
+
+Everything is Ok
+
+Files: 475
+Size:       17909321
+Compressed: 4258288
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3604398 bytes (3520 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_002.xml.zip
+Type = zip
+Physical Size = 3604398
+
+Everything is Ok
+
+Files: 452
+Size:       31364096
+Compressed: 3604398
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2185 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Bashkortostan_Resp_2017030600_2017030700_003.xml.zip
+Type = zip
+Physical Size = 2185
+
+Everything is Ok
+
+Files: 4
+Size:       2642
+Compressed: 2185

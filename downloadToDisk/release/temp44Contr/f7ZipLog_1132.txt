@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4114645 bytes (4019 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017032800_2017032900_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017032800_2017032900_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 4114645
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 746
+Size:       15512834
+Compressed: 4114645
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4067495 bytes (3973 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017032800_2017032900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khabarovskij_kraj_2017032800_2017032900_002.xml.zip
+Type = zip
+Physical Size = 4067495
+
+Everything is Ok
+
+Files: 730
+Size:       41107912
+Compressed: 4067495

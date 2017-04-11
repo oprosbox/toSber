@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1340452 bytes (1310 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tambovskaja_obl_2017032900_2017033000_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tambovskaja_obl_2017032900_2017033000_001.xml.zip
+Type = zip
+Physical Size = 1340452
+
+Everything is Ok
+
+Files: 234
+Size:       5710866
+Compressed: 1340452
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3098146 bytes (3026 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tambovskaja_obl_2017032900_2017033000_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tambovskaja_obl_2017032900_2017033000_002.xml.zip
+Type = zip
+Physical Size = 3098146
+
+Everything is Ok
+
+Files: 570
+Size:       30021688
+Compressed: 3098146

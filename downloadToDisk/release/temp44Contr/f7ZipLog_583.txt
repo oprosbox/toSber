@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 289102 bytes (283 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017033100_2017040100_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017033100_2017040100_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 289102
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 52
+Size:       1125204
+Compressed: 289102
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 172318 bytes (169 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017033100_2017040100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017033100_2017040100_002.xml.zip
+Type = zip
+Physical Size = 172318
+
+Everything is Ok
+
+Files: 34
+Size:       1350648
+Compressed: 172318
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 11003 bytes (11 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017040100_2017040200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Cheljabinskaja_obl_2017040100_2017040200_001.xml.zip
+Type = zip
+Physical Size = 11003
+
+Everything is Ok
+
+Files: 2
+Size:       37561
+Compressed: 11003

@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2044536 bytes (1997 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_001.xml.zip
+Type = zip
+Physical Size = 2044536
+
+Everything is Ok
+
+Files: 374
+Size:       7366888
+Compressed: 2044536
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2035335 bytes (1988 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 2035335
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 378
+Size:       19351210
+Compressed: 2035335
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5415 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Rjazanskaja_obl_2017040500_2017040600_003.xml.zip
+Type = zip
+Physical Size = 5415
+
+Everything is Ok
+
+Files: 4
+Size:       10180
+Compressed: 5415

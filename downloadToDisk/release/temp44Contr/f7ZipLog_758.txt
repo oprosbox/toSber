@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1634825 bytes (1597 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032400_2017032500_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032400_2017032500_001.xml.zip
+Type = zip
+Physical Size = 1634825
+
+Everything is Ok
+
+Files: 290
+Size:       6669503
+Compressed: 1634825
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1753560 bytes (1713 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032400_2017032500_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032400_2017032500_002.xml.zip
+Type = zip
+Physical Size = 1753560
+
+Everything is Ok
+
+Files: 318
+Size:       16227422
+Compressed: 1753560
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12230 bytes (12 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032500_2017032600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jamalo-Neneckij_AO_2017032500_2017032600_001.xml.zip
+Type = zip
+Physical Size = 12230
+
+Everything is Ok
+
+Files: 2
+Size:       62092
+Compressed: 12230

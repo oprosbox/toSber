@@ -1,0 +1,77 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 9104507 bytes (8892 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_002.xml.zip
+Type = zip
+Physical Size = 9104507
+
+Everything is Ok
+
+Files: 1000
+Size:       120786239
+Compressed: 9104507
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5697112 bytes (5564 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_003.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_003.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 5697112
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 645
+Size:       67507164
+Compressed: 5697112
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 41307 bytes (41 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_004.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031700_2017031800_004.xml.zip
+Type = zip
+Physical Size = 41307
+
+Everything is Ok
+
+Files: 76
+Size:       50604
+Compressed: 41307
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 12547 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031800_2017031900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017031800_2017031900_001.xml.zip
+Type = zip
+Physical Size = 12547
+
+Everything is Ok
+
+Files: 2
+Size:       85193
+Compressed: 12547

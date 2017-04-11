@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1638914 bytes (1601 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017033100_2017040100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017033100_2017040100_002.xml.zip
+Type = zip
+Physical Size = 1638914
+
+Everything is Ok
+
+Files: 300
+Size:       15966773
+Compressed: 1638914
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22025 bytes (22 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017040100_2017040200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017040100_2017040200_001.xml.zip
+Type = zip
+Physical Size = 22025
+
+Everything is Ok
+
+Files: 4
+Size:       76102
+Compressed: 22025
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 61979 bytes (61 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017040100_2017040200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017040100_2017040200_002.xml.zip
+Type = zip
+Physical Size = 61979
+
+Everything is Ok
+
+Files: 12
+Size:       496993
+Compressed: 61979

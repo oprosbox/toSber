@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 835051 bytes (816 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_001.xml.zip
+Type = zip
+Physical Size = 835051
+
+Everything is Ok
+
+Files: 93
+Size:       3582394
+Compressed: 835051
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1391235 bytes (1359 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_002.xml.zip
+Type = zip
+Physical Size = 1391235
+
+Everything is Ok
+
+Files: 170
+Size:       12511337
+Compressed: 1391235
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2133 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kaliningradskaja_obl_2017022800_2017030100_003.xml.zip
+Type = zip
+Physical Size = 2133
+
+Everything is Ok
+
+Files: 4
+Size:       2576
+Compressed: 2133

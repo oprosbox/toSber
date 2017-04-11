@@ -5,11 +5,9 @@
 #include <QStringList>
 #include <QThread>
 #include <qiterator.h>
+#include "errorsLog.h"
 
 namespace ndom{
-
-
-extern void toLogFile(QString errorStr);
 
    const int CDELDIR=1;
    const int CNODELDIR=2;
@@ -34,9 +32,10 @@ public:
     bool findInFileAdd(QString path,QStringList &fileFind);
 static  bool findInText(QString xmlText,QStringList teg,QStringList &valOut);
 static  bool findInText(QString xmlText,QStringList teg,QString &valOut);
-        void setFindAttr(QStringList teg,QString val);
-        void setFindAttr(QList<QRegExp> tegs,QString val);
-        void setFindAttr(QList<QStringList> tegs);
+static  bool findInText(QString xmlText,QList<QStringList> teg,QString &valOut);
+void setFindAttr(QStringList teg,QString val);
+void setFindAttr(QList<QRegExp> tegs,QString val);
+void setFindAttr(QList<QStringList> tegs);
 protected:
     QStringList listNamesTeg;
     QList<QStringList> listOftegs;

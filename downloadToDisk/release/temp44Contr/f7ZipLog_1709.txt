@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 528556 bytes (517 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030600_2017030700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030600_2017030700_002.xml.zip
+Type = zip
+Physical Size = 528556
+
+Everything is Ok
+
+Files: 65
+Size:       4877000
+Compressed: 528556
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 874166 bytes (854 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030700_2017030800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030700_2017030800_001.xml.zip
+Type = zip
+Physical Size = 874166
+
+Everything is Ok
+
+Files: 95
+Size:       3564773
+Compressed: 874166
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 315405 bytes (309 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030700_2017030800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Marij_El_Resp_2017030700_2017030800_002.xml.zip
+Type = zip
+Physical Size = 315405
+
+Everything is Ok
+
+Files: 39
+Size:       2843541
+Compressed: 315405

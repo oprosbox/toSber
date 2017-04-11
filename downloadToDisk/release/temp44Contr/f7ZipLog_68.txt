@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 717954 bytes (702 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017030300_2017030400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017030300_2017030400_001.xml.zip
+Type = zip
+Physical Size = 717954
+
+Everything is Ok
+
+Files: 77
+Size:       3271939
+Compressed: 717954
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2065772 bytes (2018 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017030300_2017030400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017030300_2017030400_002.xml.zip
+Type = zip
+Physical Size = 2065772
+
+Everything is Ok
+
+Files: 245
+Size:       20049717
+Compressed: 2065772

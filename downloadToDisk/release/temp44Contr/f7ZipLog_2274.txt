@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2113062 bytes (2064 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Permskij_kraj_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Permskij_kraj_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 2113062
+
+Everything is Ok
+
+Files: 228
+Size:       9845041
+Compressed: 2113062
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3542431 bytes (3460 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Permskij_kraj_2017031600_2017031700_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Permskij_kraj_2017031600_2017031700_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 3542431
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 409
+Size:       41180025
+Compressed: 3542431

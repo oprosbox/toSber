@@ -88,15 +88,11 @@ QStringList QWidgetRegion::listCurrRegions()
 //----------------------------------------------------------------------------------------------------
 void WUI::createInterf(void)
 {
-    w223fzNotif.ftp223fz->id=1;
-    w223fzDishon.ftp223fz->id=2;
-    w44fzNotif.ftp223fz->id=3;
-    w44fzDishon.ftp223fz->id=4;
- w223fzNotif.getRegions(regionsNotif,CFZ223);
+ ftpload::W223fz::getRegions(regionsNotif,CFZ223);
  w223fzNotifReg.create(regionsNotif,"223-ФЗ Контракты");
- w223fzDishon.getRegions(regionsDishon,CFZ223);
+ ftpload::W223fz::getRegions(regionsDishon,CFZ223);
  w223fzDishonReg.create(regionsDishon,"223-ФЗ Недобросовестные поставщики");
- w44fzNotif.getRegions(regionsContract44,CFZ44);
+ ftpload::W223fz::getRegions(regionsContract44,CFZ44);
  w44fzNotifReg.create(regionsContract44,"44-ФЗ Контракты");
  connect(&w223fzNotifReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set223fzRegionsNotif(QStringList)));
  connect(&w223fzDishonReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set223fzRegionsDishon(QStringList)));
@@ -105,20 +101,24 @@ void WUI::createInterf(void)
  connect(&w44fzNotifReg,SIGNAL(emitListReg(QStringList)),this,SLOT(set44fzRegionsContr(QStringList)));
  connect(btn44fzNotif,SIGNAL(clicked()),this,SLOT(exec44fzContr()));
  connect(btnDownloadStart,SIGNAL(clicked()),this,SLOT(btnStart()));
-  connect(w223fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
-   connect(w44fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
-    connect(w223fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
-     connect(w44fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+// connect(w223fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+//  connect(w44fzNotif.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+//   connect(w223fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+//    connect(w44fzDishon.ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
 }
 //-----------------------------------------------------------------------------------------------------
  void WUI::allWasLoad(int id)
- { switch(id)
+ { if(listDownload.size()!=0)
+     {listDownload.pop_front();}
+     switch(id)
      {
-     case 1:{widget223Contr->setEnabled(true);break;}
-     case 2:{widget223Dish->setEnabled(true);break;}
-     case 3:{widget44Contr->setEnabled(true);break;}
-     case 4:{widget44Dish->setEnabled(true);}
+     case 1:{widget223Contr->setEnabled(true);delete w223fzNotif;break;}
+     case 2:{widget223Dish->setEnabled(true);delete w223fzDishon;break;}
+     case 3:{widget44Contr->setEnabled(true);delete w44fzNotif;break;}
+     case 4:{widget44Dish->setEnabled(true);delete w44fzDishon;}
      }
+    if(listDownload.size()!=0)
+    {listDownload.front()->download();}
  }
 
 //----------------------------------------------------------------------------------------------------
@@ -136,57 +136,73 @@ void WUI::exec44fzContr()
 { w44fzNotifReg.setRegionsCheck(regionsContract44);
   w44fzNotifReg.exec();
 }
+
 //------------------------------------------------------------------------------------------------------------
 void WUI::btnStart(void)
-{
-   if(chk223fzNotif->isChecked()) {
-                                    w223fzNotif.create223fzNotif(this->edt223fzNotif->text(),
+{int countAdd=0;
+   if((chk223fzNotif->isChecked())&&
+       widget223Contr->isEnabled()){w223fzNotif=new ftpload::W223fz;
+                                      ++countAdd;
+                                    w223fzNotif->ftp223fz->id=1;
+                                    connect(w223fzNotif->ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+                                    w223fzNotif->create223fzNotif(this->edt223fzNotif->text(),
                                                                  regionsNotif,
                                                                  this->tm223fzNotifBeg->dateTime(),
                                                                  this->tm223fzNotifEnd->dateTime(),
                                                                  this->edt223fzInn->text());
-                                    w223fzNotif.ftp223fz->download();
+                                    listDownload.push_back(w223fzNotif->ftp223fz);
 
-                                    if(chk223fzContrToBase->isChecked()) w223fzNotif.baseConnect();
+                                    if(chk223fzContrToBase->isChecked()) w223fzNotif->baseConnect();
                                     widget223Contr->setEnabled(false);
                                     }
-   if(chk223fzDishon->isChecked()) {
-                                     w223fzDishon.create223fzDish(this->edt223fzDishon->text(),
+
+   if((chk223fzDishon->isChecked())&&
+      (widget223Dish->isEnabled())){w223fzDishon=new ftpload::W223fz;
+                                      ++countAdd;
+                                      w223fzDishon->ftp223fz->id=2;
+                                     connect(w223fzDishon->ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+                                     w223fzDishon->create223fzDish(this->edt223fzDishon->text(),
                                                                   regionsDishon,
                                                                   this->tm223fzDishonBeg->dateTime(),
                                                                   this->tm223fzDishonEnd->dateTime());
-                                     w223fzDishon.ftp223fz->download();
 
-                                     if(chk223fzDishonToBase->isChecked()) w223fzDishon.baseConnect();
+                                     listDownload.push_back(w223fzDishon->ftp223fz);
+                                     if(chk223fzDishonToBase->isChecked()) w223fzDishon->baseConnect();
                                      widget223Dish->setEnabled(false);
                                     }
 
-   if(chk44fzNotif->isChecked()) {
-                                    w44fzNotif.create44fzNotif(this->edt44fzNotif->text(),
+   if((chk44fzNotif->isChecked())&&
+      (widget44Contr->isEnabled())){w44fzNotif = new ftpload::W223fz;
+                                    ++countAdd;
+                                     w44fzNotif->ftp223fz->id=3;
+                                    connect(w44fzNotif->ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+                                    w44fzNotif->create44fzNotif(this->edt44fzNotif->text(),
                                                                  regionsContract44,
                                                                  this->tm44fzNotifBeg->dateTime(),
                                                                  this->tm44fzNotifEnd->dateTime(),
                                                                  this->edt44fzInn->text());
-                                    w44fzNotif.ftp223fz->download();
 
+                                    listDownload.push_back(w44fzNotif->ftp223fz);
 
-                                    if(chk44fzContrToBase->isChecked()) w44fzNotif.baseConnect();
+                                    if(chk44fzContrToBase->isChecked()) w44fzNotif->baseConnect();
                                     widget44Contr->setEnabled(false);
                                     }
-   if(chk44fzDishon->isChecked()) {
-                                     w44fzDishon.create44fzDish(this->edt44fzDishon->text(),
+
+   if((chk44fzDishon->isChecked())&&
+      (widget44Dish->isEnabled())){ w44fzDishon=new ftpload::W223fz;
+                                    ++countAdd;
+                                      w44fzDishon->ftp223fz->id=4;
+                                     connect(w44fzDishon->ftp223fz,SIGNAL(allFilesProcess(int)),this,SLOT(allWasLoad(int)));
+                                     w44fzDishon->create44fzDish(this->edt44fzDishon->text(),
                                                                   this->tm44fzDishonBeg->dateTime(),
                                                                   this->tm44fzDishonEnd->dateTime());
-                                     w44fzDishon.ftp223fz->download();
 
-                                     if(chk44fzDishonToBase->isChecked()) w44fzDishon.baseConnect();
+                                     listDownload.push_back(w44fzDishon->ftp223fz);
+                                     if(chk44fzDishonToBase->isChecked()) w44fzDishon->baseConnect();
                                      widget44Dish->setEnabled(false);
                                     }
-}
-//------------------------------------------------------------------------------------------------------------
-void allWasLoad(int id)
-{
 
+   if(countAdd!=0) listDownload.front()->download();
 }
 
 //------------------------------------------------------------------------------------------------------------

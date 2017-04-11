@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 93719 bytes (92 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017030500_2017030600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017030500_2017030600_002.xml.zip
+Type = zip
+Physical Size = 93719
+
+Everything is Ok
+
+Files: 12
+Size:       771732
+Compressed: 93719
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2736040 bytes (2672 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017030600_2017030700_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Irkutskaja_obl_2017030600_2017030700_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 2736040
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 294
+Size:       14028584
+Compressed: 2736040

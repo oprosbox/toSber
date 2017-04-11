@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<dishonestSupplier xmlns3="http://zakupki.gov.ru/223fz/contract/1" xmlns4="http://zakupki.gov.ru/223fz/revenue/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns7="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns8="http://zakupki.gov.ru/223fz/purchase/1" xmlns2="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns9="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns10="http://zakupki.gov.ru/223fz/reference/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.8 http://zakupki.gov.ru/223/integration/schema/TFF-3.8/Types.xsd">
+ <header>
+  <guid>c95e776c-e5cd-45ce-86b3-cca908ccd0cd</guid>
+  <createDateTime>2015-07-14T18:55:31</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>ab7994d7-53f3-4591-8576-4c52a4eafe68</guid>
+   <dishonestSupplierData>
+    <guid>1d767edd-4b03-41ec-9d90-95cd5c96c4bd</guid>
+    <placer>
+     <mainInfo>
+      <fullName>Федеральная антимонопольная служба</fullName>
+      <shortName>Федеральная антимонопольная служба</shortName>
+      <iko>57703516539770301001</iko>
+      <inn>7703516539</inn>
+      <kpp>770301001</kpp>
+      <ogrn>1047796269663</ogrn>
+      <legalAddress>123995, г Москва, ул Садовая-Кудринская, дом 11</legalAddress>
+      <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+      <phone>7-499-2526865</phone>
+      <fax>7-499-2548300</fax>
+      <email>tsvetkova@fas.gov.ru</email>
+     </mainInfo>
+    </placer>
+    <registrationNumber>Р1500569</registrationNumber>
+    <createDateTime>2015-07-14T18:55:14</createDateTime>
+    <applicationNumber>.</applicationNumber>
+    <includeReasonInfo>Приказ ФАС России от 20.02.2015 № 88/15</includeReasonInfo>
+    <commonApplicationInfo>
+     <includeReason>WD</includeReason>
+     <includeReasonText>Уклонение победителя от заключения договора</includeReasonText>
+     <controlAgency>
+      <fullName>Федеральная антимонопольная служба</fullName>
+      <shortName>Федеральная антимонопольная служба</shortName>
+      <iko>57703516539770301001</iko>
+      <inn>7703516539</inn>
+      <kpp>770301001</kpp>
+      <ogrn>1047796269663</ogrn>
+      <legalAddress>123995, г Москва, ул Садовая-Кудринская, дом 11</legalAddress>
+      <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+      <phone>7-499-2526865</phone>
+      <fax>7-499-2548300</fax>
+      <email>tsvetkova@fas.gov.ru</email>
+     </controlAgency>
+     <topSecret>false</topSecret>
+     <supplier>
+      <name>ООО «ТелеСвязь»</name>
+      <inn>7705121991</inn>
+      <address>
+       <country>
+        <name>Российская Федерация</name>
+        <digitalCode>643</digitalCode>
+       </country>
+       <area>.</area>
+       <corpus>стр. 12</corpus>
+       <house>д. 1</house>
+       <zip>127083</zip>
+       <region>.</region>
+       <settlement>Москва</settlement>
+       <street>8 Марта ул.</street>
+      </address>
+     </supplier>
+     <purchaseInfo>
+      <purchaseNoticeNumber>31401664515</purchaseNoticeNumber>
+      <name>31401664515</name>
+      <documentRequisites>
+       <documentNumber>№106</documentNumber>
+       <documentName>выписка из протокола заседания комиссии по подведению итогов</documentName>
+       <documentDate>2014-12-04</documentDate>
+      </documentRequisites>
+     </purchaseInfo>
+    </commonApplicationInfo>
+    <includeDate>2015-07-14T18:55:31</includeDate>
+    <attachments>
+     <totalDocumentsCount>2</totalDocumentsCount>
+     <document>
+      <guid>fb81803c-7499-415a-bcdd-2df4c36291f2</guid>
+      <createDateTime>2015-02-25T18:50:30</createDateTime>
+      <fileName>Приказ № 88-15.pdf</fileName>
+      <description>Приказ № 88-15</description>
+      <url>http://zakupki.gov.ru/223/dishonest/public/download/download.html?id=2380</url>
+     </document>
+     <document>
+      <guid>6ddcbe8f-011a-414f-887e-2bd3a9e80376</guid>
+      <createDateTime>2015-07-14T18:55:23</createDateTime>
+      <fileName>Приказ № 573-15 от 08.07.2015.pdf</fileName>
+      <description>Приказ № 573-15 от 08.07.2015</description>
+      <url>http://zakupki.gov.ru/223/dishonest/public/download/download.html?id=2381</url>
+     </document>
+    </attachments>
+   </dishonestSupplierData>
+  </item>
+ </body>
+</dishonestSupplier>

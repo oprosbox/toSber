@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 3577692 bytes (3494 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Rostovskaja_obl_2017031000_2017031100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Rostovskaja_obl_2017031000_2017031100_003.xml.zip
+Type = zip
+Physical Size = 3577692
+
+Everything is Ok
+
+Files: 424
+Size:       36944730
+Compressed: 3577692
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6639 bytes (7 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Rostovskaja_obl_2017031000_2017031100_004.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Rostovskaja_obl_2017031000_2017031100_004.xml.zip
+Type = zip
+Physical Size = 6639
+
+Everything is Ok
+
+Files: 12
+Size:       8110
+Compressed: 6639

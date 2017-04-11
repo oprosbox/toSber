@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4796152 bytes (4684 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_001.xml.zip
+Type = zip
+Physical Size = 4796152
+
+Everything is Ok
+
+Files: 850
+Size:       18920969
+Compressed: 4796152
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 10470702 bytes (10226 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_002.xml.zip
+Type = zip
+Physical Size = 10470702
+
+Everything is Ok
+
+Files: 1856
+Size:       118652217
+Compressed: 10470702
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 27270 bytes (27 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Khanty-Mansijskij_AO-Jugra_AO_2017040300_2017040400_003.xml.zip
+Type = zip
+Physical Size = 27270
+
+Everything is Ok
+
+Files: 20
+Size:       51462
+Compressed: 27270

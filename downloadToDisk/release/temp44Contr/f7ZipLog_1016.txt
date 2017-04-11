@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 490459 bytes (479 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017033000_2017033100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017033000_2017033100_001.xml.zip
+Type = zip
+Physical Size = 490459
+
+Everything is Ok
+
+Files: 88
+Size:       1806945
+Compressed: 490459
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 371061 bytes (363 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017033000_2017033100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Karachaevo-Cherkesskaja_Resp_2017033000_2017033100_002.xml.zip
+Type = zip
+Physical Size = 371061
+
+Everything is Ok
+
+Files: 70
+Size:       3279928
+Compressed: 371061

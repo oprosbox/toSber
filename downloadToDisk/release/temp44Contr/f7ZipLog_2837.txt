@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5281 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Stavropolskij_kraj_2017032000_2017032100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Stavropolskij_kraj_2017032000_2017032100_003.xml.zip
+Type = zip
+Physical Size = 5281
+
+Everything is Ok
+
+Files: 4
+Size:       9982
+Compressed: 5281
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5235533 bytes (5113 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Stavropolskij_kraj_2017032100_2017032200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Stavropolskij_kraj_2017032100_2017032200_001.xml.zip
+Type = zip
+Physical Size = 5235533
+
+Everything is Ok
+
+Files: 940
+Size:       20240109
+Compressed: 5235533

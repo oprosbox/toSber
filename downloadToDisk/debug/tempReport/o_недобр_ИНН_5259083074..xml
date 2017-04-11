@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<dishonestSupplier xmlns5="http://zakupki.gov.ru/223fz/purchase/1" xmlns9="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns6="http://zakupki.gov.ru/223fz/reference/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns2="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns7="http://zakupki.gov.ru/223fz/complaint/1" xmlns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns3="http://zakupki.gov.ru/223fz/revenue/1" xmlns4="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns8="http://zakupki.gov.ru/223fz/contract/1">
+ <header>
+  <guid>69d6428a-5472-46ed-aab6-3d2663308e74</guid>
+  <createDateTime>2015-02-05T19:08:31</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>56fcb534-6f15-4887-9289-f42290aa51d7</guid>
+   <dishonestSupplierData>
+    <guid>c2f0f4e8-8b27-479a-9ee2-e9aea8fb29a2</guid>
+    <placer>
+     <mainInfo>
+      <fullName>Федеральная антимонопольная служба</fullName>
+      <shortName>Федеральная антимонопольная служба</shortName>
+      <inn>7703516539</inn>
+      <kpp>770301001</kpp>
+      <ogrn>1047796269663</ogrn>
+      <legalAddress>123995, г Москва, ул Садовая-Кудринская, дом 11</legalAddress>
+      <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+      <phone>7-499-2526865</phone>
+      <fax>7-499-2548300</fax>
+      <email>tsvetkova@fas.gov.ru</email>
+     </mainInfo>
+    </placer>
+    <registrationNumber>Р1500526</registrationNumber>
+    <createDateTime>2015-02-05T19:04:51</createDateTime>
+    <applicationNumber>.</applicationNumber>
+    <includeReasonInfo>Приказ ФАС России от 02.02.2015 №35/15</includeReasonInfo>
+    <commonApplicationInfo>
+     <includeReason>WD</includeReason>
+     <includeReasonText>Уклонение победителя от заключения договора</includeReasonText>
+     <controlAgency>
+      <fullName>Федеральная антимонопольная служба</fullName>
+      <shortName>Федеральная антимонопольная служба</shortName>
+      <inn>7703516539</inn>
+      <kpp>770301001</kpp>
+      <ogrn>1047796269663</ogrn>
+      <legalAddress>123995, г Москва, ул Садовая-Кудринская, дом 11</legalAddress>
+      <postalAddress>123995, г. Москва, ул. Садовая Кудринская, д. 11</postalAddress>
+      <phone>7-499-2526865</phone>
+      <fax>7-499-2548300</fax>
+      <email>tsvetkova@fas.gov.ru</email>
+     </controlAgency>
+     <topSecret>false</topSecret>
+     <supplier>
+      <name>ООО "НБК "Трейд"</name>
+      <inn>5259083074</inn>
+      <address>
+       <country>
+        <name>Российская Федерация</name>
+        <digitalCode>643</digitalCode>
+       </country>
+       <area>Балашиха</area>
+       <corpus>каб. 22</corpus>
+       <house>влд. 253</house>
+       <zip>143930</zip>
+       <region>Московская область</region>
+       <settlement>мкр. Салтыкова</settlement>
+       <street>Носовихинское шоссе</street>
+      </address>
+     </supplier>
+     <purchaseInfo>
+      <purchaseNoticeNumber>.</purchaseNoticeNumber>
+      <name>.</name>
+      <documentRequisites>
+       <documentNumber>101-01</documentNumber>
+       <documentName>решение конкурсной комиссии</documentName>
+       <documentDate>2014-09-16</documentDate>
+      </documentRequisites>
+     </purchaseInfo>
+    </commonApplicationInfo>
+    <includeDate>2015-02-05T19:08:31</includeDate>
+    <attachments>
+     <totalDocumentsCount>1</totalDocumentsCount>
+     <document>
+      <guid>56046872-42f6-4af5-95e3-664f7b664a6b</guid>
+      <createDateTime>2015-02-05T19:08:23</createDateTime>
+      <fileName>Приказ № 35-15.pdf</fileName>
+      <description>Приказ № 35-15</description>
+      <url>http://zakupki.gov.ru/223/dishonest/public/download/download.html?id=1567</url>
+     </document>
+    </attachments>
+   </dishonestSupplierData>
+  </item>
+ </body>
+</dishonestSupplier>

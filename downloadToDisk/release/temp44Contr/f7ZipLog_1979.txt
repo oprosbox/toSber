@@ -1,0 +1,70 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 292451 bytes (286 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_001.xml.zip
+Type = zip
+Physical Size = 292451
+
+Everything is Ok
+
+Files: 52
+Size:       1240851
+Compressed: 292451
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 308340 bytes (302 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_002.xml.zip
+Type = zip
+Physical Size = 308340
+
+Everything is Ok
+
+Files: 62
+Size:       2094686
+Compressed: 308340
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2718 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040700_2017040800_003.xml.zip
+Type = zip
+Physical Size = 2718
+
+Everything is Ok
+
+Files: 2
+Size:       5091
+Compressed: 2718
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 22 bytes (1 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040800_2017040900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Neneckij_AO_2017040800_2017040900_001.xml.zip
+Type = zip
+Physical Size = 22
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 22

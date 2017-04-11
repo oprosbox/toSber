@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 64773 bytes (64 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Ingushetija_Resp_2017032100_2017032200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Ingushetija_Resp_2017032100_2017032200_001.xml.zip
+Type = zip
+Physical Size = 64773
+
+Everything is Ok
+
+Files: 12
+Size:       232821
+Compressed: 64773
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 48560 bytes (48 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Ingushetija_Resp_2017032100_2017032200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Ingushetija_Resp_2017032100_2017032200_002.xml.zip
+Type = zip
+Physical Size = 48560
+
+Everything is Ok
+
+Files: 10
+Size:       247990
+Compressed: 48560

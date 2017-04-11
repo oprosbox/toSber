@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7541917 bytes (7366 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_001.xml.zip
+Type = zip
+Physical Size = 7541917
+
+Everything is Ok
+
+Files: 1348
+Size:       30905956
+Compressed: 7541917
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 6827384 bytes (6668 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_002.xml.zip
+Type = zip
+Physical Size = 6827384
+
+Everything is Ok
+
+Files: 1208
+Size:       67293072
+Compressed: 6827384
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 52896 bytes (52 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sverdlovskaja_obl_2017032800_2017032900_003.xml.zip
+Type = zip
+Physical Size = 52896
+
+Everything is Ok
+
+Files: 40
+Size:       100249
+Compressed: 52896

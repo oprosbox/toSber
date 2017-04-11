@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1302930 bytes (1273 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_001.xml.zip
+Type = zip
+Physical Size = 1302930
+
+Everything is Ok
+
+Files: 232
+Size:       5128426
+Compressed: 1302930
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2003325 bytes (1957 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_002.xml.zip
+Type = zip
+Physical Size = 2003325
+
+Everything is Ok
+
+Files: 376
+Size:       17651765
+Compressed: 2003325
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2715 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kostromskaja_obl_2017040500_2017040600_003.xml.zip
+Type = zip
+Physical Size = 2715
+
+Everything is Ok
+
+Files: 2
+Size:       5091
+Compressed: 2715

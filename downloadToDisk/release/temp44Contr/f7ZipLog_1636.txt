@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 959664 bytes (938 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Lipeckaja_obl_2017031000_2017031100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Lipeckaja_obl_2017031000_2017031100_001.xml.zip
+Type = zip
+Physical Size = 959664
+
+Everything is Ok
+
+Files: 103
+Size:       4566760
+Compressed: 959664
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 7212211 bytes (7044 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Lipeckaja_obl_2017031000_2017031100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Lipeckaja_obl_2017031000_2017031100_002.xml.zip
+Type = zip
+Physical Size = 7212211
+
+Everything is Ok
+
+Files: 857
+Size:       77186743
+Compressed: 7212211

@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 584065 bytes (571 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_001.xml.zip
+Type = zip
+Physical Size = 584065
+
+Everything is Ok
+
+Files: 61
+Size:       3409681
+Compressed: 584065
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 993874 bytes (971 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_002.xml.zip
+Type = zip
+Physical Size = 993874
+
+Everything is Ok
+
+Files: 101
+Size:       14760494
+Compressed: 993874
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2276 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Novgorodskaja_obl_2017031700_2017031800_003.xml.zip
+Type = zip
+Physical Size = 2276
+
+Everything is Ok
+
+Files: 4
+Size:       2748
+Compressed: 2276

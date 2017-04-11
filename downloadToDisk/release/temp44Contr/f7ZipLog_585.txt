@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 472897 bytes (462 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_001.xml.zip
+Type = zip
+Physical Size = 472897
+
+Everything is Ok
+
+Files: 86
+Size:       1751725
+Compressed: 472897
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 618118 bytes (604 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_002.xml.zip
+Type = zip
+Physical Size = 618118
+
+Everything is Ok
+
+Files: 114
+Size:       5267142
+Compressed: 618118
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5447 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017040300_2017040400_003.xml.zip
+Type = zip
+Physical Size = 5447
+
+Everything is Ok
+
+Files: 4
+Size:       10230
+Compressed: 5447

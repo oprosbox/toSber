@@ -17,6 +17,9 @@ MainWindow::MainWindow(QWidget *parent) :
     interf.tmBegin=ui->tmBegin;
     interf.tmEnd=ui->tmEnd;
     interf.innLine=ui->lineEdit;
+    interf.dish223=ui->chk223;
+    interf.dish44=ui->chk44;
+
     interf.createInterface();
     connect(ui->btnGet,SIGNAL(clicked()),&interf,SLOT(refreshTable()));
     connect(ui->btnReportTable,SIGNAL(clicked()),&interf,SLOT(createTableReport()));
@@ -26,13 +29,9 @@ MainWindow::MainWindow(QWidget *parent) :
 
     tmButtons=new WMainInterf();
     tmButtons->functConnDT(ui->tmBegin,ui->btnBegin,ui->tmEnd,ui->btnEnd);
-    ui->tableWidget->setEditTriggers(QAbstractItemView::NoEditTriggers);
-   // QFile file("G:/toSber/forBase223/from/purchaseNoticeAE_Moskva_20170316_000000_20170316_235959_daily_003.xml");
-  //  file.open(QFile::ReadOnly);
-  //  QDomDocument RD;
-  //  RD.setContent(&file);
 
- //WReportTable::createWriteAndStart(RD,"ИНН");
+    ui->tableWidget->setEditTriggers(QAbstractItemView::NoEditTriggers);
+
 }
 
 MainWindow::~MainWindow()

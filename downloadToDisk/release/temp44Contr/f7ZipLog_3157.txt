@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 389446 bytes (381 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tyva_Resp_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tyva_Resp_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 389446
+
+Everything is Ok
+
+Files: 44
+Size:       1772580
+Compressed: 389446
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 331264 bytes (324 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tyva_Resp_2017031600_2017031700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tyva_Resp_2017031600_2017031700_002.xml.zip
+Type = zip
+Physical Size = 331264
+
+Everything is Ok
+
+Files: 39
+Size:       3591440
+Compressed: 331264

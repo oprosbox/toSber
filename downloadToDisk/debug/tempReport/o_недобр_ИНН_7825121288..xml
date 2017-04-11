@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmloos="http://zakupki.gov.ru/oos/types/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://zakupki.gov.ru/oos/export/1">
+ <unfairSupplier schemeVersion="6.2">
+  <registryNum>РНП.75138-16</registryNum>
+  <publishDate>2016-08-16T00:00:00Z</publishDate>
+  <approveDate>2016-08-15T00:00:00Z</approveDate>
+  <state>PUBLISHED</state>
+  <publishOrg>
+   <regNum>01721000054</regNum>
+   <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ АНТИМОНОПОЛЬНОЙ СЛУЖБЫ ПО САНКТ-ПЕТЕРБУРГУ</fullName>
+  </publishOrg>
+  <createReason>CANCEL_CONTRACT</createReason>
+  <approveReason>Решение</approveReason>
+  <customer>
+   <regNum>04720000033</regNum>
+   <fullName>АКЦИОНЕРНОЕ ОБЩЕСТВО "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ КОМАНДНЫХ ПРИБОРОВ"</fullName>
+   <factAddress>Российская Федерация, 198216, Санкт-Петербург, ТРАМВАЙНЫЙ, 16, -</factAddress>
+   <INN>7805654288</INN>
+   <KPP>780501001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>ФГУП "ГУССТ № 3 при Спецстрое России"</fullName>
+   <type>U</type>
+   <firmName>ФГУП "ГУССТ № 3 при Спецстрое России"</firmName>
+   <inn>7825121288</inn>
+   <kpp>781301001</kpp>
+   <place>
+    <kladr>
+     <kladrCode>78000000000</kladrCode>
+     <fullName>Санкт-Петербург</fullName>
+     <subjectRF>Санкт-Петербург</subjectRF>
+     <street>Мира</street>
+     <building>15</building>
+     <office>лит. Б</office>
+    </kladr>
+    <zip>197101</zip>
+    <place/>
+    <email>kanc@usst3.spb.ru </email>
+   </place>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0472000003315000001</purchaseNumber>
+   <purchaseObjectInfo>Выполнение комплекса работ в составе проекта «Реконструкция и техническое
+перевооружение сборочного производства и испытательной базы»
+с вводом 1 этапа проекта</purchaseObjectInfo>
+   <placingWayName>Открытый конкурс</placingWayName>
+   <protocolDate>2015-09-04</protocolDate>
+   <lotNumber>1</lotNumber>
+   <document>
+    <date>2015-09-04</date>
+   </document>
+  </purchase>
+  <contract>
+   <productInfo>Выполнение комплекса работ в составе проекта «Реконструкция и техническое перевооружение сборочного производства и испытательной базы» с вводом 1 этапа проекта в соответствии с Техническим заданием и условиями, указанными в проекте контракта конкурсной документации.</productInfo>
+   <OKPD>
+    <code>45.21.13.110</code>
+    <name>Работы общестроительные по возведению производственных зданий</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>238638700</price>
+   <cancel>
+    <signDate>2015-09-24</signDate>
+    <performanceDate>2015-12-20</performanceDate>
+    <base>
+     <name>нарушение Участником условий контракта, а именно неисполнение обязательств по контракту в полном объеме</name>
+    </base>
+    <cancelDate>2016-02-25</cancelDate>
+   </cancel>
+  </contract>
+ </unfairSupplier>
+</export>

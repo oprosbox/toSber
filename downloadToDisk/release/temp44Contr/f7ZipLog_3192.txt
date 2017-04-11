@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2124005 bytes (2075 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_001.xml.zip
+Type = zip
+Physical Size = 2124005
+
+Everything is Ok
+
+Files: 232
+Size:       9540140
+Compressed: 2124005
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2893592 bytes (2826 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_002.xml.zip
+Type = zip
+Physical Size = 2893592
+
+Everything is Ok
+
+Files: 334
+Size:       31097800
+Compressed: 2893592
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1102 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Udmurtskaja_Resp_2017031600_2017031700_003.xml.zip
+Type = zip
+Physical Size = 1102
+
+Everything is Ok
+
+Files: 2
+Size:       1320
+Compressed: 1102

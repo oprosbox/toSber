@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 280678 bytes (275 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017033100_2017040100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017033100_2017040100_001.xml.zip
+Type = zip
+Physical Size = 280678
+
+Everything is Ok
+
+Files: 50
+Size:       1080728
+Compressed: 280678
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 130325 bytes (128 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017033100_2017040100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017033100_2017040100_002.xml.zip
+Type = zip
+Physical Size = 130325
+
+Everything is Ok
+
+Files: 24
+Size:       1265712
+Compressed: 130325
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 88462 bytes (87 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017040100_2017040200_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Severnaja_Osetija-Alanija_Resp_2017040100_2017040200_001.xml.zip
+Type = zip
+Physical Size = 88462
+
+Everything is Ok
+
+Files: 16
+Size:       296313
+Compressed: 88462

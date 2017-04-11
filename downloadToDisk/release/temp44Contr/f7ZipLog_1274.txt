@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1127 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017030900_2017031000_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017030900_2017031000_003.xml.zip
+Type = zip
+Physical Size = 1127
+
+Everything is Ok
+
+Files: 2
+Size:       1352
+Compressed: 1127
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1322107 bytes (1292 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017031000_2017031100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017031000_2017031100_001.xml.zip
+Type = zip
+Physical Size = 1322107
+
+Everything is Ok
+
+Files: 145
+Size:       6508264
+Compressed: 1322107

@@ -16,20 +16,15 @@ fileList = new QFile();
 bool WFtpFilter::filter(QString url)
 {
   int indUrl;
-  //indUrl=url.indexOf(QRegExp("[0-9]{8}_[0-9]{6}_[0-9]{8}_[0-9]{6}"),0);
   indUrl=url.indexOf(stFilter.findExp,0);
   QString dateStrBeg;
   QString dateStrEnd;
   dateStrBeg.insert(0,url.data()+indUrl,stFilter.formDateBg.length());
   dateStrEnd.insert(0,url.data()+indUrl+stFilter.formDateBg.length()+1,stFilter.formDateEnd.length());
   QDateTime dateBegin,dateEnd;
-  //dateBegin=QDateTime::fromString(dateStrBeg,"yyyyMMdd_HHmmss");
-  //dateEnd=QDateTime::fromString(dateStrEnd,"yyyyMMdd");
+
   dateBegin=QDateTime::fromString(dateStrBeg,stFilter.formDateBg);
   dateEnd=QDateTime::fromString(dateStrEnd,stFilter.formDateEnd);
- // if(dateStrBeg=="2017030100")
- // {int u=0;}
- // if((stFilter.dateBegin<=dateBegin)&&(stFilter.dateEnd>=dateEnd))
   //условие пересечения двух отрезков
   if(((stFilter.dateEnd>=dateBegin)&&
        (stFilter.dateBegin<=dateEnd)))
@@ -44,8 +39,6 @@ int WFtpClient::connectServ(QString serv,QString login,QString passv)
   connect(this,SIGNAL(errorTo()),this,SLOT(reconToHost()));
   connect(ftpLiders, SIGNAL(commandFinished(int,bool)), this, SLOT(commFinish(int,bool)));
   connect(ftpLiders, SIGNAL(listInfo(QUrlInfo)), this, SLOT(doneURLInfo(QUrlInfo)));
-  connect(ftpLiders, SIGNAL(commandFinished(int,bool)), this, SLOT(ftpConnected(int,bool)));
-  connect(ftpLiders, SIGNAL(done(bool)), this, SLOT(doneEnd(bool)));
   mserv=serv;
   mlogin=login;
   mpassv=passv;
@@ -56,19 +49,14 @@ int WFtpClient::connectServ(QString serv,QString login,QString passv)
   return 1;
 }
 //------------------------------------------------------------------------------------------------------------
-void WFtpClient::doneEnd(bool hasGood)
-{
-    if(hasGood)
-    {int i=0;}
-    else{int i=0;}
-}
-
 void WFtpClient::functTimer()
 {
  if(toLoad!=-1)
        {++countTimer;
  if(countTimer>4)
       {reconToHost();
+       QString txt="ftp error getList reconnect: "+ftpLiders->errorString().replace("\n"," ") ;
+                         errorsLog.toLogFile(txt);
        countTimer=0;
        cd(cdBegin);
        emit errBeg();}
@@ -79,7 +67,7 @@ void WFtpClient::functTimer()
 //----------------------------------окончание комманды--------------------------------------------------------
 void WFtpClient::commFinish(int id,bool hasGood)
 {if(!hasGood){}else{QString txt="ftp error getList: "+ftpLiders->errorString().replace("\n"," ") ;
-                    ndom::toLogFile(txt);
+                    errorsLog.toLogFile(txt);
                     countTimer=0;}
  if(id==idCurr){switch(toLoad)
                  {case CLOADCURRFILE:{toLoad=-1;
@@ -88,17 +76,8 @@ void WFtpClient::commFinish(int id,bool hasGood)
                                       break;}
                    case CLOADCURRDIR:{toLoad=-1;
                                       countTimer=0;
-//                                      qDebug()<<urlFiles;
-//                                      QFile fLog(QApplication::applicationDirPath()+ "/regions44fz.txt");
-//                                      fLog.open(QFile::WriteOnly);
-//                                      for(int i=0;i<urlFiles.size();i++)
-//                                      {  QString str=urlFiles.at(i)+"\r\n";
-//                                      fLog.write(str.toLocal8Bit());}
-
-//                                      fLog.close();
                                       emit sFiles(ftpLiders->error(),urlFiles);
                                       break;}
-                   case CLOADLIST:{readList(urlFiles);}
                   }
                }
 }
@@ -106,15 +85,6 @@ void WFtpClient::commFinish(int id,bool hasGood)
 void WFtpClient::cd(QString cdFromNull)
 {
  if(cdFromNull!="")ftpLiders->cd(cdFromNull);
-}
-//------------------------------читаем все файлы из неё и сохраняем на жесткий диск-------------------------------------------------
-void WFtpClient::readFiles(QString dirToSave)
-{
- dirSave=dirToSave;
- toLoad=CLOADFILES;
- QDir dir(QApplication::applicationDirPath());
- if(!QDir(QApplication::applicationDirPath()+dirSave).exists())dir.mkdir(dirSave);
- idCurr=ftpLiders->list();
 }
 //-----------------------------------------слот получает список всех файлов-------------------------------------------
 void WFtpClient::doneURLInfo(QUrlInfo urlInfo)
@@ -124,96 +94,19 @@ void WFtpClient::doneURLInfo(QUrlInfo urlInfo)
                           {urlFiles.push_back(urlInfo.name());}
                         break;}
 
-     case CLOADCURRFILE:case CLOADLIST:{ if (urlInfo.isFile() && urlInfo.isReadable())
+     case CLOADCURRFILE:{ if (urlInfo.isFile() && urlInfo.isReadable())
                                              {if(filter(urlInfo.name()))urlFiles.push_back(urlInfo.name());}
-                                          break;}
-
-     case CLOADFILES:{if (urlInfo.isFile() && urlInfo.isReadable()) {
-                        QFile *file = new QFile(dirSave+"/"+urlInfo.name());
-                        if (!file->open(QIODevice::WriteOnly)) {
-                        //emit sendError(dirSave+"/"+urlInfo.name());
-                        return;}
-                        if(filter(urlInfo.name()))ftpLiders->get(urlInfo.name(), file);
-                        openedFiles.push_back(file);}}
+                                          }
     }
-}
-//--------------------------------------------------------------------------------------------------------------
-void WFtpClient::readList(QStringList lstFiles)
-{ listFiles=lstFiles;
-  toLoad=CLOADLIST;
-  it=listFiles.begin();
-  listFilesAdd.clear();
-  FileListErrors.clear();
-  do{++it;}
-  while((it!=listFiles.end())&&(!filter(*it)));
-  if(it!=listFiles.end()){}else{toLoad=-1;
-                                emit finishedList(listFilesAdd,FileListErrors);
-                           return;}
-  fileList->setFileName(dirSave+"/"+*it);
-  QString name=*it;
-  if (!fileList->open(QIODevice::WriteOnly)) {
-  //emit sendError(dirSave+"/"+*it);
-  return;}
-  QFile errorsN(QApplication::applicationDirPath()+"/errorsFtp.txt");
-  if (!errorsN.open(QIODevice::WriteOnly)) {}
-  listFilesAdd.push_back(*it);
-  currCommGet=ftpLiders->get(*it, fileList);
-
 }
 //----------------------------------------------------------------------------------------
 void WFtpClient::reconToHost(void)
 {
   delete ftpLiders;
-  int ret=connectServ(mserv,mlogin,mpassv);
-  int yu=0;
+  connectServ(mserv,mlogin,mpassv);
+
 }
 
-//-------------------------------------------слот получает соединение-------------------------------------------
-void WFtpClient::ftpConnected(int id,bool hasError)
-{ //toLoad=-1;
-
-    if(hasError){
-                //emit sendError(ftpLiders->error(),ftpLiders->errorString());
-                //QString err=ftpLiders->errorString();
-                //emit sFiles(ftpLiders->error(),urlFiles);
-                //reconToHost();
-               //QFile errorsN(QApplication::applicationDirPath()+"/errorsFtp.txt");
-               //if (!errorsN.open(QIODevice::Append)) {}
-                //QTextStream out(&errorsN);
-                //out<<*it<<err;
-                 }
-  //             return;}
-
-  if(currCommGet==id)
-  {
-   switch (toLoad)
-     {case CLOADFILES:{QStringList filename;
-                       for (int i = 0; i < (int)openedFiles.size(); ++i)
-                       {filename.push_back(openedFiles.at(i)->fileName());
-                        delete openedFiles[i];
-                        }
-                        emit finished(filename);
-                        break;}
-      case CLOADLIST:{   fileList->close();
-
-                         do{++it;}
-                          while((it!=listFiles.end())&&(!filter(*it)));
-
-                          if(it!=listFiles.end()){}else{toLoad=-1;
-                                     emit finishedList(listFilesAdd,FileListErrors);
-                                     return;}
-
-                          fileList->setFileName(dirSave+"/"+*it);
-                          if (!fileList->open(QIODevice::WriteOnly)) {
-                          //emit sendError(dirSave+"/"+*it);
-                          return;}
-                          currCommGet=ftpLiders->get(*it, fileList);
-                          listFilesAdd.push_back(*it);
-                          break;
-                       }
-
-     }}
-}
 //------------------------------сохраняем уже полученые файлы на жесткий диск------------------------------------------------
 void WFtpClient::save(void)
 {
@@ -241,51 +134,12 @@ void WFtpClient::readCurrFiles(void)
 {
  toLoad=CLOADCURRFILE;
  urlFiles.clear();
- //countTimer=0;
  idCurr=ftpLiders->list();
 }
-
-int  WFtpClient::readFilesPosledov(QString dirToSave)
-{    QDir  dirTo;
-       if(dirTo.exists(dirToSave)){}
-                    else{dirTo.mkdir(dirToSave);
-                         if(dirTo.exists(dirToSave)){}else return -1;}
-    toLoad=CLOADLIST;
-    urlFiles.clear();
-    dirSave=dirToSave;
-    idCurr=ftpLiders->list();
-
-}
-
+//------------------------------------------------------------------------------------------------
 void WNetworkFtp::errors(QNetworkReply::NetworkError err)
 {emit errorEmit();}
-
-//int WNetworkFtp::getFile(QString urlFile, QString out,QString &name)
-//{
-
-// QUrl url(urlFile);
-// int pos=urlFile.lastIndexOf("/")+1;
-// name=QString(urlFile.constData()+pos);
-// currName=name;
-// reply =  manager->get(QNetworkRequest(url));
-// QObject::connect(reply,SIGNAL(finished()),loop,SLOT(quit()));
-// QObject::connect(reply,SIGNAL(error(QNetworkReply::NetworkError)),this,SLOT(errors(QNetworkReply::NetworkError)));
-// QObject::connect(this,SIGNAL(errorEmit()),loop,SLOT(quit()));
-// QObject::connect(reply,SIGNAL(downloadProgress(qint64,qint64)),this,SLOT(downloadProgress(qint64,qint64)));
-// loop->exec();
-// loop->disconnect();
-// if(reply->error()==QNetworkReply::NoError)
-//   { QFile  file(out+"/"+name);
-//     file.open(QIODevice::WriteOnly);
-//     file.write(reply->readAll());
-//   delete reply;}
-// else
-//   {delete reply;
-//     return -1;}
-
-// return 0;
-//}
-
+//------------------------------------------------------------------------------------------------
  void WTimerControl::run()
  {flagWork=true;
    while(flagWork)
@@ -349,7 +203,7 @@ void WNetworkFtp::finished(QNetworkReply* reply)
    {
    if(control.countPrev==control.countRefresh)
        {QString txt="ftp error getFile: abort";
-                 ndom::toLogFile(txt);
+        errorsLog.toLogFile(txt);
         abortAll();
         control.flagControl=false;
        }
@@ -370,7 +224,7 @@ void WNetworkFtp::finished(QNetworkReply* reply)
                                                          control.flagControl=false;
                                                          timer->stop();
                                                          }
-   if((currNames.size()>10)) {emit emit10Obj(1,currNames);
+   if((currNames.size()>maxLoad)) {emit emit10Obj(1,currNames);
                                     currNames.clear();
                                    }
 
@@ -409,7 +263,7 @@ void WNetworkFtp::createFtp(QString out)
   control.countPrev=10;
  outDir=out;
  control.ftp=this;
-
+ maxLoad=errorsLog.fromIniFile("maxLoad","5").toInt();
  QObject::connect(timer,SIGNAL(timeout()),this,SLOT(startNext()));
  //connect(&manager, SIGNAL(finished ( QNetworkReply *)), this, SLOT(finishRequest(QNetworkReply *)));
  }
@@ -462,15 +316,10 @@ void WNetFtpClient::createFtp(QString serv,QString login,QString passv,QString c
  connect(ftpGet,SIGNAL(emit10Obj(int,QStringList)),this,SLOT(downloadTen(int,QStringList)));
  connect(ftpGet,SIGNAL(allDownloads()),this,SLOT(endDownloads()));
  ftpGet->createFtp(dirForSave);
-//connect(ftpGet,SIGNAL(allStoped(int,int,QStringList)),this,SLOT(downloadStop(int,int,QStringList)));
 connect(&ftpFiles,SIGNAL(sFiles(int,QStringList)),this,SLOT(getListFrom(int,QStringList)));
 connect(&ftpFiles,SIGNAL(sendError(int,QString)),this,SLOT(getError(int,QString)));
 this->updateConnect.setInterval(5000);
-//connect(&this->updateConnect,SIGNAL(timeout()),this,SLOT(sgetListFiles()));
 connect(&ftpFiles,SIGNAL(errBeg()),this,SLOT(sgetListFiles()));
-//connect(&ftpFiles,SIGNAL(errEnd()),&this->updateConnect,SLOT(stop()));
-
-
 
 }
 
@@ -542,6 +391,6 @@ delete ftpGet;
 //--------------------------------------------------------------------------------------------------------
 void WNetFtpClient::downloadProgress(QString name,qint64 getInf,qint64 totalInf)
 {
-  int i=0;
+
 }
 //-------------------------------------------------------------------------------------------------------------

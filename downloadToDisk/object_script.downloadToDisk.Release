@@ -10,6 +10,7 @@ INPUT(
 ./release\mainwin.o
 ./release\mainw.o
 ./release\wdateline.o
+./release\errorsLog.o
 ./release\moc_mainwindow.o
 ./release\moc_findindom.o
 ./release\moc_ftpclient.o

@@ -3,6 +3,9 @@
 
 #include "tobase.h"
 
+const int CFSD223=223;
+const int CFSD44=44;
+
 //-------------------------------------------------------------------------------
 struct SNotifDishon
 {
@@ -31,27 +34,32 @@ class WFromBASE:public WOpenBase
 public:
     WFromBASE(){}
     void prepare();
-    bool start(QString url,QString database,QString login, QString pass);
+    bool start(void);
     void stop();
     bool selectNotif(QString inn,QDateTime tmBegin,QDateTime tmEnd,QStringList &notif);
     bool selectNotif(QDateTime tmBegin,QDateTime tmEnd,QStringList &notif);
-    bool selectNotifDishon(QStringList &notif);
-    bool selectDishon(QString inn,QStringList &dishon);
+    bool selectNotifDishon44(QStringList &notif);
+    bool selectNotifDishon223(QStringList &notif);
+    bool selectNotifDishon44AND223(QStringList &notif);
+    bool selectDishon44(QString inn,QStringList &dishon);
+    bool selectDishon223(QString inn,QStringList &dishon);
 protected:
  QSqlQuery *queryNotifSelectData;
- QSqlQuery *queryContrDishData;
+ QSqlQuery *queryContrDishData44;
+ QSqlQuery *queryContrDishData223;
  QSqlQuery *queryNotifSelectDataSimple;
- QSqlQuery *queryDishonSelectData;
+ QSqlQuery *queryDishonSelectData44;
+ QSqlQuery *queryDishonSelectData223;
 };
 //-------------------------------------------------------------------------------------
 class WBaseRD:protected WFromBASE
 {
 public:
-bool connectToBase(QString url,QString database,QString login, QString pass);
-void getFromBase(SSelect &query);
+bool connectToBase(void);
+void getFromBase(SSelect &query,int typeFSD);
 protected:
-void toSNotifDishon(QStringList &list,QList<SNotifDishon> &lstNotif);
-void toSDishon(QString inn,QString &date);
+void toSNotifDishon(QStringList &list,QList<SNotifDishon> &lstNotif,int typeFSD);
+void toSDishon(QString inn,QString &date,int typeFSD);
 };
 //--------------------------------------------------------------------------------------------
 #endif // FROMBASE_H

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlns="http://zakupki.gov.ru/oos/export/1" xmloos="http://zakupki.gov.ru/oos/types/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance">
+ <unfairSupplier schemeVersion="5.0">
+  <registryNum>РНП.41565-15</registryNum>
+  <publishDate>2015-02-02T00:00:00Z</publishDate>
+  <approveDate>2015-01-19T00:00:00Z</approveDate>
+  <state>PUBLISHED</state>
+  <publishOrg>
+   <regNum>01581000179</regNum>
+   <fullName>Управление Федеральной антимонопольной службы по Ростовской области</fullName>
+  </publishOrg>
+  <reason>WINNER_DEVIATION</reason>
+  <unfairSupplier>
+   <fullName>Закрытое акционерное общество "Ростовское энергетическое ремонтно-строительное предприятие"</fullName>
+   <type>U</type>
+   <firmName>ЗАО "Ростовэнергоспецремонт"</firmName>
+   <inn>6163069049</inn>
+   <place>
+    <kladr>
+     <kladrCode>610000010001208</kladrCode>
+     <fullName>Пескова ул</fullName>
+     <subjectRF>Ростовская обл</subjectRF>
+     <area>Ростов-на-Дону г</area>
+     <street>Пескова</street>
+     <building>17В</building>
+    </kladr>
+    <zip>344055</zip>
+    <place/>
+    <email/>
+   </place>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0358300121714000001</purchaseNumber>
+   <purchaseObjectInfo>Строительство межпоселковой автомобильной дороги  "х.Мещеряковский- х.Батальщиковский- х.Бирюковский" 1-й  этап строительства длинной 4,00 км: начало трассы на примыкании к  х.Мещеряковский ПК 0+00-ПК40+00</purchaseObjectInfo>
+   <placingWayName>Открытый конкурс</placingWayName>
+   <protocolDate/>
+   <lotNumber>1</lotNumber>
+  </purchase>
+  <contract>
+   <productInfo>Строительство межпоселковой автомобильной дороги  "х.Мещеряковский- х.Батальщиковский- х.Бирюковский" 1-й  этап строительства длинной 4,00 км: начало трассы на примыкании к  х.Мещеряковский ПК 0+00-ПК40+00</productInfo>
+   <signDate/>
+   <OKPD>
+    <code>45.23.12.120</code>
+    <name>Работы общестроительные по устройству дорожных покрытий автомобильных дорог III-IV категорий</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>63907596</price>
+  </contract>
+ </unfairSupplier>
+</export>

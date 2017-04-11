@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1943 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017030600_2017030700_003.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017030600_2017030700_003.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 1943
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 3
+Size:       2477
+Compressed: 1943
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2668235 bytes (2606 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017030700_2017030800_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017030700_2017030800_001.xml.zip
+Type = zip
+Physical Size = 2668235
+
+Everything is Ok
+
+Files: 288
+Size:       13178612
+Compressed: 2668235

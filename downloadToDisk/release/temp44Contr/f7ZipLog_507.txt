@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 242288 bytes (237 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_001.xml.zip
+Type = zip
+Physical Size = 242288
+
+Everything is Ok
+
+Files: 44
+Size:       847800
+Compressed: 242288
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 306895 bytes (300 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_002.xml.zip
+Type = zip
+Physical Size = 306895
+
+Everything is Ok
+
+Files: 56
+Size:       2619233
+Compressed: 306895
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2643 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Chukotskij_AO_2017032900_2017033000_003.xml.zip
+Type = zip
+Physical Size = 2643
+
+Everything is Ok
+
+Files: 2
+Size:       4982
+Compressed: 2643

@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 463465 bytes (453 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017030100_2017030200_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017030100_2017030200_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 463465
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 47
+Size:       7198107
+Compressed: 463465
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 177565 bytes (174 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Dagestan_Resp_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 177565
+
+Everything is Ok
+
+Files: 20
+Size:       711236
+Compressed: 177565

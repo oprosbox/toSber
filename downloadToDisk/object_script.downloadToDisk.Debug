@@ -10,6 +10,7 @@ INPUT(
 ./debug\mainwin.o
 ./debug\mainw.o
 ./debug\wdateline.o
+./debug\errorsLog.o
 ./debug\moc_mainwindow.o
 ./debug\moc_findindom.o
 ./debug\moc_ftpclient.o

@@ -94,10 +94,12 @@ public slots:
   void allWasLoad(int id);
 protected:
 
-ftpload::W223fz w223fzNotif;
-ftpload::W223fz w223fzDishon;
-ftpload::W223fz w44fzNotif;
-ftpload::W223fz w44fzDishon;
+ftpload::W223fz *w223fzNotif;
+ftpload::W223fz *w223fzDishon;
+ftpload::W223fz *w44fzNotif;
+ftpload::W223fz *w44fzDishon;
+
+QList<ftpload::WLoadFtp*> listDownload;
 
 QStringList regionsNotif;
 QStringList regionsDishon;

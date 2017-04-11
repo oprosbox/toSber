@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmloos="http://zakupki.gov.ru/oos/types/1" xmlns="http://zakupki.gov.ru/oos/export/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance">
+ <unfairSupplier schemeVersion="6.2">
+  <registryNum>РНП.74991-16</registryNum>
+  <publishDate>2016-08-03T00:00:00Z</publishDate>
+  <approveDate>2016-08-03T00:00:00Z</approveDate>
+  <state>PUBLISHED</state>
+  <publishOrg>
+   <regNum>01511000186</regNum>
+   <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ АНТИМОНОПОЛЬНОЙ СЛУЖБЫ ПО НОВОСИБИРСКОЙ ОБЛАСТИ</fullName>
+  </publishOrg>
+  <createReason>CANCEL_CONTRACT</createReason>
+  <approveReason>№ РНП-54-95</approveReason>
+  <customer>
+   <regNum>03513002958</regNum>
+   <fullName>МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ГОРОДА НОВОСИБИРСКА "ГОРОДСКОЕ ЖИЛИЩНОЕ АГЕНТСТВО"</fullName>
+   <factAddress>Российская Федерация, 630099, Новосибирская обл, Новосибирск г, ТРУДОВАЯ, 1</factAddress>
+   <INN>5406017131</INN>
+   <KPP>540601001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>Общество с ограниченной ответственностью "Заря"</fullName>
+   <type>U</type>
+   <inn>5405258800</inn>
+   <kpp>540501001</kpp>
+   <place>
+    <kladr>
+     <kladrCode>540000010000268</kladrCode>
+     <fullName>Гаранина ул</fullName>
+     <subjectRF>Новосибирская обл</subjectRF>
+     <area>Новосибирск г</area>
+     <street>Гаранина</street>
+     <building>33</building>
+    </kladr>
+    <zip>630039</zip>
+    <place/>
+    <email/>
+   </place>
+   <founders>
+    <names>Болдырев А.И.</names>
+    <inn>540308181060</inn>
+   </founders>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0351300295815000024</purchaseNumber>
+   <purchaseObjectInfo>Выполнение работ по кадастровому учету объектов недвижимости (жилых помещений) расположенных на территории муниципального образования город Новосибирск (изготовление технических планов, постановка на кадастровый учет, получение кадастровых паспортов).</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <protocolDate>2015-11-02</protocolDate>
+   <lotNumber>1</lotNumber>
+   <document>
+    <date>2015-11-02</date>
+   </document>
+  </purchase>
+  <contract>
+   <regNum>3540601713115000020</regNum>
+   <productInfo>Выполнение работ по кадастровому учету объектов недвижимости (жилых помещений), расположенных на территории муниципального образования город Новосибирск (изготовление технических планов, постановка на кадастровый учет, получение кадастровых паспортов).</productInfo>
+   <OKPD>
+    <code>70.32.11.130</code>
+    <name>Услуги по технической инвентаризации и технической паспортизации жилого фонда</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>1611900</price>
+   <cancel>
+    <signDate>2015-11-18</signDate>
+    <performanceDate>2015-12-31</performanceDate>
+    <base>
+     <name>Односторонний отказ заказчика от исполнения контракта в соответствии с гражданским законодательством</name>
+    </base>
+    <cancelDate>2015-12-28</cancelDate>
+   </cancel>
+  </contract>
+ </unfairSupplier>
+</export>

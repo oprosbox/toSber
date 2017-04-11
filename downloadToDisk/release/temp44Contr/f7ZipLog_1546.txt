@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 879911 bytes (860 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kurskaja_obl_2017030100_2017030200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kurskaja_obl_2017030100_2017030200_002.xml.zip
+Type = zip
+Physical Size = 879911
+
+Everything is Ok
+
+Files: 94
+Size:       11766040
+Compressed: 879911
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1011534 bytes (988 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Kurskaja_obl_2017030200_2017030300_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Kurskaja_obl_2017030200_2017030300_001.xml.zip
+Type = zip
+Physical Size = 1011534
+
+Everything is Ok
+
+Files: 111
+Size:       4482782
+Compressed: 1011534

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlns="http://zakupki.gov.ru/oos/export/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmloos="http://zakupki.gov.ru/oos/types/1">
+ <unfairSupplier schemeVersion="5.2">
+  <registryNum>РНП.52022-15</registryNum>
+  <publishDate>2015-07-15T00:00:00Z</publishDate>
+  <approveDate>2015-07-15T00:00:00Z</approveDate>
+  <state>PUBLISHED</state>
+  <publishOrg>
+   <regNum>01311000128</regNum>
+   <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ АНТИМОНОПОЛЬНОЙ СЛУЖБЫ ПО ВОРОНЕЖСКОЙ ОБЛАСТИ</fullName>
+  </publishOrg>
+  <createReason>WINNER_DEVIATION</createReason>
+  <approveReason>решение от 15.07.2015г. № РНП - 36-328</approveReason>
+  <customer>
+   <regNum>01311000068</regNum>
+   <fullName>Инспекция Федеральной налоговой службы по Коминтерновскому району г. Воронежа</fullName>
+   <factAddress>Российская Федерация, 394026, Воронежская обл, Воронеж г, Варейкиса, 49, -</factAddress>
+   <INN>3662097776</INN>
+   <KPP>366201001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "КАНЦЕРНА"</fullName>
+   <type>U</type>
+   <inn>7726631320</inn>
+   <place>
+    <kladr>
+     <kladrCode>770000000001228</kladrCode>
+     <fullName>Дорожная ул</fullName>
+     <subjectRF>Москва</subjectRF>
+     <street>Дорожная</street>
+     <building>32</building>
+    </kladr>
+    <zip>117535</zip>
+    <place/>
+    <email/>
+   </place>
+   <founders>
+    <names>Учредитель - Виноградов Николай Вадимович</names>
+    <inn>773605751210</inn>
+   </founders>
+   <founders>
+    <names>генеральный директор - Цаплина Ирина Васильевна</names>
+    <inn>772482099367</inn>
+   </founders>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0131100006815000012</purchaseNumber>
+   <purchaseObjectInfo>Поставка бумаги для офисной техники</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <protocolDate>2015-05-15</protocolDate>
+   <lotNumber>1</lotNumber>
+   <document>
+    <date>2015-05-15</date>
+   </document>
+  </purchase>
+  <contract>
+   <productInfo>Поставка бумаги для офисной техники</productInfo>
+   <OKPD>
+    <code>21.23.11</code>
+    <name>Бумага копировальная; бумага самокопировальная; и прочая бумага копировальная или переводная; трафареты для копировальных аппаратов и формы офсетные (пластины) из бумаги; бумага клейкая или гуммированная</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>99467.95</price>
+  </contract>
+ </unfairSupplier>
+</export>

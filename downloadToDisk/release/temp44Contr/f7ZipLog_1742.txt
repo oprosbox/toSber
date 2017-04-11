@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1316389 bytes (1286 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Mordovija_Resp_2017022800_2017030100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Mordovija_Resp_2017022800_2017030100_001.xml.zip
+Type = zip
+Physical Size = 1316389
+
+Everything is Ok
+
+Files: 137
+Size:       7538127
+Compressed: 1316389
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 748802 bytes (732 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Mordovija_Resp_2017022800_2017030100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Mordovija_Resp_2017022800_2017030100_002.xml.zip
+Type = zip
+Physical Size = 748802
+
+Everything is Ok
+
+Files: 85
+Size:       8264710
+Compressed: 748802

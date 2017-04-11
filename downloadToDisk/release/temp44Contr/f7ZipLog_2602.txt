@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8770241 bytes (8565 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_003.xml.zip
+Type = zip
+Physical Size = 8770241
+
+Everything is Ok
+
+Files: 1000
+Size:       99852220
+Compressed: 8770241
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2535610 bytes (2477 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_004.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_004.xml.zip
+Type = zip
+Physical Size = 2535610
+
+Everything is Ok
+
+Files: 307
+Size:       25167445
+Compressed: 2535610
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 49675 bytes (49 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_005.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sankt-Peterburg_2017030300_2017030400_005.xml.zip
+Type = zip
+Physical Size = 49675
+
+Everything is Ok
+
+Files: 94
+Size:       60739
+Compressed: 49675

@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 711072 bytes (695 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altaj_Resp_2017032100_2017032200_001.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altaj_Resp_2017032100_2017032200_001.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 711072
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 128
+Size:       2685826
+Compressed: 711072
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 788789 bytes (771 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altaj_Resp_2017032100_2017032200_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altaj_Resp_2017032100_2017032200_002.xml.zip
+Type = zip
+Physical Size = 788789
+
+Everything is Ok
+
+Files: 148
+Size:       6356653
+Compressed: 788789

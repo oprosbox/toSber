@@ -14,10 +14,10 @@
 #include <algorithm>
 #include <iterator>
 
-#define CLOADFILES 1
+
 #define CLOADCURRFILE 2
 #define CLOADCURRDIR 3
-#define CLOADLIST 4
+
 
 class WNetworkFtp;
 
@@ -101,6 +101,7 @@ protected:
   QTimer *timer;
   WTimerControl control;
   int countErr;
+  int maxLoad;
 };
 //----------------------------------------------------------------------------------------------------
 class WFtpClient:public QObject,protected WFtpFilter
@@ -113,20 +114,14 @@ public:
   int connectServ(QString serv,QString login,QString passv);//коннектится к ftp источнику
   void disconnectServ(void);//отключаем ftp
   void cd(QString cdFromNull);//переходим по указанной директории
-  void readFiles(QString dirToSave);//читаем все файлы из неё и сохраняем на жесткий диск.
-  int readFilesPosledov(QString dirToSave);
-  void readList(QStringList listFiles);
   void readDirectories(void);//читаем список всех директорий из текущего положения
   void readCurrFiles(void);//читаем список всех файлов
   void save(void);//сохраняем уже полученые файлы на жесткий диск
   QString cdBegin;
-QFtp *ftpLiders;
 public slots:
   void reconToHost();
   void doneURLInfo(QUrlInfo urlInfo);//слот получает список всех файлов
-  void ftpConnected(int id,bool hasError);//проверка на ошибки ftp;
   void commFinish(int id,bool hasBed);//окончание комманды
-  void doneEnd(bool hasGood);
   void functTimer();
 signals:
   void sendError(int,QString);//невозможно создать файл
@@ -137,7 +132,7 @@ signals:
   void errBeg(void);
   void errEnd(void);
 protected:
-//QFtp *ftpLiders;
+QFtp *ftpLiders;
 QList<QFile*> openedFiles;
 QString dirSave;
 int toLoad;
@@ -184,7 +179,6 @@ protected:
    void cd(QString path);
    //void getListFiles(void);
    void start(QStringList &listUrl);
-
    WNetworkFtp *ftpGet;
   QString toNet;
   QString tempCd;
@@ -196,26 +190,4 @@ protected:
 };
 
 
-////--------------------------------------------------------------------------------------------------
-//class WNetworkFtpThread:public QObject//:public QThread
-//{ Q_OBJECT
-//public:
-//  WNetworkFtpThread(){ftp=new WNetworkFtp;
-//                      //ftp->moveToThread(this);
-//                      //ftp->manager->moveToThread(this);
-//                      //ftp->loop->moveToThread(this);
-//                      //ftp->setParent(this);
-//                      }
-//  int id;
-//  WNetworkFtp *ftp;
-//  QStringList urlToGet;
-//  //QString dirSave;
-
-// public slots:
-
-// signals:
-//  //void emit10Obj(int id,int err,QStringList listGet);
-//  void allStoped(int err,QStringList listGet);
-
-//};
 #endif // FTPCLIENT_H

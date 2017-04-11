@@ -1,0 +1,34 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1080186 bytes (1055 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Astrakhanskaja_obl_2017033000_2017033100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Astrakhanskaja_obl_2017033000_2017033100_001.xml.zip
+Type = zip
+Physical Size = 1080186
+
+Everything is Ok
+
+Files: 194
+Size:       4097272
+Compressed: 1080186
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2361443 bytes (2307 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Astrakhanskaja_obl_2017033000_2017033100_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Astrakhanskaja_obl_2017033000_2017033100_002.xml.zip
+Type = zip
+Physical Size = 2361443
+
+Everything is Ok
+
+Files: 454
+Size:       18758625
+Compressed: 2361443

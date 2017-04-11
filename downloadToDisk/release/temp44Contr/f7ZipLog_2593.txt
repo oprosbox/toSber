@@ -1,0 +1,17 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1886802 bytes (1843 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017033100_2017040100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Sakha_Jakutija_Resp_2017033100_2017040100_001.xml.zip
+Type = zip
+Physical Size = 1886802
+
+Everything is Ok
+
+Files: 338
+Size:       7727807
+Compressed: 1886802

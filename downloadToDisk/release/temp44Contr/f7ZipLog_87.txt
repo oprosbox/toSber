@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2915511 bytes (2848 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_001.xml.zip
+Type = zip
+Physical Size = 2915511
+
+Everything is Ok
+
+Files: 508
+Size:       13501215
+Compressed: 2915511
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5918937 bytes (5781 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_002.xml.zip
+Type = zip
+Physical Size = 5918937
+
+Everything is Ok
+
+Files: 1070
+Size:       60010143
+Compressed: 5918937
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5201 bytes (6 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_003.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Altajskij_kraj_2017032300_2017032400_003.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 5201
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 4
+Size:       9930
+Compressed: 5201

@@ -12,11 +12,9 @@
 void WInterface::createInterface()
 {   base=new WBaseRD;
 
-    QFile fConn(QApplication::applicationDirPath()+"/initFile.txt");
-       fConn.open(QFile::ReadOnly);
-       QString connStr=fConn.readAll();
-       fConn.close();
-    base->connectToBase(connStr,"PAO_SB","lenV","oprosboxopros19");
+
+
+    base->connectToBase();
     baseLine=QList<STypeItem>({{"ИНН подрядчика",C_TYPEITEMSTRING,NULL},
                                 {"компания поставщика услуг",C_TYPEITEMSTRING,NULL},
                                 {"подрядчик",C_TYPEITEMBUTTONS,NULL},
@@ -53,7 +51,10 @@ void WInterface::refreshTable()
       it->clear();
     }
     infoTable.clear();
-    base->getFromBase(select);
+    int type=0;
+    if(dish223->isChecked()){type=CFSD223;}
+    if(dish44->isChecked()){type+=CFSD44;}
+    base->getFromBase(select,type);
     //заполнение таблицы
     QList<STypeItem> line;
     for(auto it=select.lstNotif.begin();it!=select.lstNotif.end();it++)
@@ -79,7 +80,10 @@ void WInterface::refreshTableComm(QString comm)
       it->clear();
     }
     infoTable.clear();
-    base->getFromBase(select);
+    int type=0;
+    if(dish223->isChecked()){type=CFSD223;}
+    if(dish44->isChecked()){type+=CFSD44;}
+    base->getFromBase(select,type);
     //заполнение таблицы
     QList<STypeItem> line;
     for(auto it=select.lstNotif.begin();it!=select.lstNotif.end();it++)
@@ -122,7 +126,7 @@ for(auto i=columns.begin();i<columns.end();i++)
                           break;}
    case C_TYPEITEMBUTTONS:{item->setText((*i).param);
                            item->setTextAlignment(Qt::AlignCenter);
-                           item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button1.png")));
+                           item->setBackground(QBrush(qRgb(235,235,200)));
                            tableBase->setItem(currIndex,ind,item);
                            i->widget=item;}
     }
@@ -139,7 +143,7 @@ void WInterface::addObjectToTable(SNotifDishon &select,QList<STypeItem> &paramTa
    ++it;
    it->param=select.name_supp;
    ++it;
-   it->param="подрядчик";
+   it->param="чистый";
    it->data=select.dataDishonSuplier;
    ++it;
    it->param=select.date.toString("yyyy-MM-dd");
@@ -162,7 +166,10 @@ void WInterface::addObjectToTable(SNotifDishon &select,QList<STypeItem> &paramTa
    ++it;++it;
 
    if(it->data!=""){QTableWidgetItem* item=(QTableWidgetItem*)it->widget;
-                                   item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
+                    it->param="недобросов";
+                    item->setText(it->param);
+                    item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
+                    item->setBackground(QBrush(qRgb(255,170,255)));
                                     }
     ++it;
        QTableWidgetItem* item=(QTableWidgetItem*)it->widget;
@@ -265,7 +272,9 @@ tableBase->setRowCount(0);
      addStringToTable(*it);
      auto itColumn=it->begin();++itColumn;++itColumn;
      if(itColumn->data!=""){QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
-                                     item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
+                                      item->setText(itColumn->param);
+                                     //item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
+                                      item->setBackground(QBrush(qRgb(255,170,255)));
                                       }
      ++itColumn;
         QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
@@ -273,7 +282,7 @@ tableBase->setRowCount(0);
  }
 
 }
-//----------------------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------------------------------------
 void WInterface::sortTable(int ind)
 { flgByRet=!flgByRet;
   if(ind==3)
@@ -283,3 +292,4 @@ void WInterface::sortTable(int ind)
   }
 
 }
+//--------------------------------------------------------------------------------------------------------------------------

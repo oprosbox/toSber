@@ -12,6 +12,7 @@ WReportTable::WReportTable()
 //-------------------------------------------------------------------------------------------------
 void WReportTable::reportTable(QDomDocument &docIn,QDomDocument &tableOut)
 {
+    tableOut.appendChild(tableOut.createProcessingInstruction("xml", "version=\"1.0\" encoding=\"UTF-8\""));
     reportTableRecurs(docIn,tableOut,tableOut);
 
 }
@@ -129,6 +130,8 @@ void WReportTable::createAndWrite(QTableWidget *docIn,QString &name,bool local)
 void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
 {
     QDomNode table,tr,td;
+    QString color;
+    tableOut.appendChild(tableOut.createProcessingInstruction("xml", "version=\"1.0\" encoding=\"UTF-8\""));
     QDomElement nodeAdd=tableOut.createElement("table");
                   nodeAdd.setAttribute("border","1");
                   nodeAdd.setAttribute("style","background-color:#ffffff");
@@ -139,6 +142,7 @@ void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
                   for(int col=0;col<docIn->columnCount();col++)
                   {
                       td=tableOut.createElement("td");
+
                       if(col==3){td.toElement().setAttribute("nowrap","");}
                       td.appendChild(tableOut.createTextNode(docIn->horizontalHeaderItem(col)->text()));
                       tr.appendChild(td);
@@ -149,6 +153,23 @@ void WReportTable::reportTable(QTableWidget *docIn,QDomDocument &tableOut)
                       for(int col=0;col<docIn->columnCount();col++)
                       {
                         td=tableOut.createElement("td");
+                        if(docIn->item(row,col)->backgroundColor().isValid())
+                        {
+                        color="rgb(";
+                        color+=QString::asprintf("%i",docIn->item(row,col)->backgroundColor().red());
+                        color+=",";
+                        color+=QString::asprintf("%i",docIn->item(row,col)->backgroundColor().green());
+                        color+=",";
+                        color+=QString::asprintf("%i",docIn->item(row,col)->backgroundColor().blue());
+                        color+=")";
+                        }
+                        else
+                        {
+                          color="rgb(255,255,255)";
+                        }
+
+                        td.toElement().setAttribute("style","background-color:"+color);
+
                         if(col==3){td.toElement().setAttribute("nowrap","");}
                         td.appendChild(tableOut.createTextNode(docIn->item(row,col)->text()));
                         tr.appendChild(td);

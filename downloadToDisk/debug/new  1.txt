@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlns="http://zakupki.gov.ru/oos/export/1" xmloos="http://zakupki.gov.ru/oos/types/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance">
+ <unfairSupplier schemeVersion="5.0">
+  <registryNum>РНП.31201-15</registryNum>
+  <publishDate>2015-02-02T00:00:00Z</publishDate>
+  <approveDate>2015-01-23T00:00:00Z</approveDate>
+  <state>PUBLISHED</state>
+  <publishOrg>
+   <regNum>03251000202</regNum>
+   <fullName>Управление Федеральной антимонопольной службы по Астраханской области</fullName>
+  </publishOrg>
+  <reason>WINNER_DEVIATION</reason>
+  <unfairSupplier>
+   <fullName>Общество с ограниченной ответственностью "Доброта"</fullName>
+   <type>U</type>
+   <firmName>Общество с ограниченной ответственностью "Доброта"</firmName>
+   <inn>3017064992</inn>
+   <kpp>302501001</kpp>
+   <place>
+    <kladr>
+     <kladrCode>30000001000</kladrCode>
+     <fullName>Астрахань г</fullName>
+     <subjectRF>Астраханская обл</subjectRF>
+     <area>Астрахань г</area>
+     <street>Боевая</street>
+     <building>67</building>
+     <office>3</office>
+    </kladr>
+    <zip>414024</zip>
+    <place/>
+    <email/>
+   </place>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0225100000114000084</purchaseNumber>
+   <purchaseObjectInfo>Поставка специальных средств при нарушениях функций выделения - поясов для калоприемников и уроприемников для обеспечения ими инвалидов в 2014 году</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <protocolDate/>
+   <lotNumber>1</lotNumber>
+  </purchase>
+  <contract>
+   <productInfo>поставка специальных средств при нарушениях функций выделения - поясов для калоприемников и уроприемников для обеспечения ими инвалидов в 2014 году</productInfo>
+   <signDate/>
+   <OKPD>
+    <code>21.22.12.350</code>
+    <name>Изделия санитарно-гигиенические для взрослых, страдающих недержанием</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>11316</price>
+  </contract>
+ </unfairSupplier>
+</export>

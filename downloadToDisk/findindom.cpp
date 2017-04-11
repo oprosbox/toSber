@@ -8,15 +8,6 @@
 
 namespace ndom{
 
-void toLogFile(QString errorStr)
-{   QString errStr=QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss");
-    errStr+="  "+errorStr+"\r\n";
-    QFile fLog(QApplication::applicationDirPath()+ "/logfile.txt");
-    fLog.open(QFile::Append);
-    fLog.write(errStr.toLocal8Bit());
-    fLog.close();
-}
-
   //рекурсивная функция проверяет путь вложения list, элемент с которого начинается проверка на вложение считается последним в списке list
 bool controlNode(const QDomNode &controls,QStringList &list,int i)
   { --i;
@@ -115,17 +106,30 @@ bool WFindInDom::findInText(QString xmlText,QStringList teg,QString &valOut)
   valOut.clear();
   doc.setContent(xmlText);
   QDomNodeList controls = doc.elementsByTagName(teg.back());
-  bool flgIt;
+  bool flgIt,flgFind=false;
   for(int i=0;i<controls.length();i++)
   {  //ищем необходимое вложение
       flgIt=controlNode(controls.at(i),teg,teg.size());
      if(!flgIt){}
      else{ //добавляет значения в список
            valOut=controls.at(i).toElement().text();
+           flgFind=true;
            break;
            }
   }
-       return true;
+       return flgFind;
+}
+//----------------------------------------------------------------------------------------------
+bool WFindInDom::findInText(QString xmlText,QList<QStringList> teg,QString &valOut)
+{ bool flgFind=false;
+    for(auto it=teg.begin() ;it!=teg.end();it++)
+    {
+     flgFind=findInText(xmlText,*it,valOut);
+     if(flgFind){
+                 break;
+                 }
+    }
+    return flgFind;
 }
 //----------------------------------------------------------------------------------------------
 bool WFindInDom::findInFile(QString path,QStringList &listVal)
@@ -317,9 +321,6 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
                   thrStart->listDirFrom.push_back(*it);}
    listThr.push_back(thrStart);
    connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
-   //thrStart->moveToThread(this);
-   //connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
-  // thrStart->moveToThread(this);
    if(sz==0){threadsWork=1;break;}
   ++threadsWork;
  }
@@ -327,7 +328,7 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
 //-----------------Создает потоки для последующего запуска и обработки, использует фильтр QReg-------------------------------------
 void WFind::createObj(QStringList listDirFrom,QString dirTo,QList<QRegExp> teg,QString val,bool flgClearAll)
 { flgStart=CEXPFILTER;
- int maxThreadsWork=QThread::idealThreadCount();
+ int maxThreadsWork=1;//QThread::idealThreadCount();
 
  if(maxThreadsWork!=1){--maxThreadsWork;}
  WFindThrExp* thrStart;
@@ -352,8 +353,6 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QList<QRegExp> teg,Q
                   thrStart->listDirFrom.push_back(*it);}
    listThrExp.push_back(thrStart);
    connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
-   //connect(thrStart,SIGNAL(findFiles(QStringList)),this,SLOT(allThreadsFormLists(QStringList)));
-  //this->moveToThread(thrStart);
    if(sz==0){threadsWork=1;break;}
   ++threadsWork;
  }
@@ -387,12 +386,11 @@ void WFind::stopThreads()
     for(int i=0;i<threadsWork;i++)
     {if(flgStart==CEXPFILTER)
         {
-      //listThrExp.at(i)->terminate();
-      //listThrExp.at(i)->deleteLater();}
-//        if(flgStart==CSTRFILTER)
-//        {listThr.at(i)->terminate();
-//         listThr.at(i)->deleteLater();}
-    }}
+      listThrExp.at(i)->deleteLater();}
+     else if(flgStart==CSTRFILTER)
+        {
+         listThr.at(i)->deleteLater();}
+    }
     countThr=0;
     emit allThreadsStop(id);
 }
@@ -405,11 +403,13 @@ void WFind::getSignalStop()
                     for(auto i=listThr.begin();i!=listThr.end();i++)
                       {
                         list<<(*i)->listFilesFind;
+                        (*i)->listFilesFind.clear();
                       }
                     if(listThrExp.size()!=0)
                     for(auto i=listThrExp.begin();i!=listThrExp.end();i++)
                       {
                         list<<(*i)->listFilesFind;
+                        (*i)->listFilesFind.clear();
                         //(*i)->deleteLater();
                       }
                     emit allThreadsLists(list);

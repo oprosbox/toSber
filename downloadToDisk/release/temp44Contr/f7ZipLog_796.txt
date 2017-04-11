@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2474727 bytes (2417 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_001.xml.zip
+Type = zip
+Physical Size = 2474727
+
+Everything is Ok
+
+Files: 434
+Size:       10449668
+Compressed: 2474727
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 5268467 bytes (5145 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 5268467
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 984
+Size:       49797407
+Compressed: 5268467
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 13178 bytes (13 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Jaroslavskaja_obl_2017032300_2017032400_003.xml.zip
+Type = zip
+Physical Size = 13178
+
+Everything is Ok
+
+Files: 10
+Size:       24978
+Compressed: 13178

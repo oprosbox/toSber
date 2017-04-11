@@ -1,0 +1,51 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1478067 bytes (1444 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_001.xml.zip
+Type = zip
+Physical Size = 1478067
+
+Everything is Ok
+
+Files: 264
+Size:       5903570
+Compressed: 1478067
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1393219 bytes (1361 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_002.xml.zip
+Type = zip
+Physical Size = 1393219
+
+Everything is Ok
+
+Files: 254
+Size:       13608240
+Compressed: 1393219
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 8060 bytes (8 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Pskovskaja_obl_2017040600_2017040700_003.xml.zip
+Type = zip
+Physical Size = 8060
+
+Everything is Ok
+
+Files: 6
+Size:       15227
+Compressed: 8060

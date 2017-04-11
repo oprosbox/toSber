@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<contract xmlns7="http://zakupki.gov.ru/223fz/reference/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns11="http://zakupki.gov.ru/223fz/webRequest/1" xmlns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns10="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns5="http://zakupki.gov.ru/223fz/revenue/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.5 http://zakupki.gov.ru/223/integration/schema/TFF-3.5/Types.xsd" xmlns9="http://zakupki.gov.ru/223fz/complaint/1" xmlns8="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns4="http://zakupki.gov.ru/223fz/purchase/1">
+ <header>
+  <guid>dab0d688-5505-49c2-b454-f3bb57e93344</guid>
+  <createDateTime>2015-03-25T15:44:05</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>c89524dc-9b16-492c-a0ac-d97f4f2515f4</guid>
+   <contractData>
+    <guid>63fd53b5-837e-4040-8a78-8df4d1a8ed77</guid>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=152763&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2015-03-25T14:29:49</createDateTime>
+    <customer>
+     <mainInfo>
+      <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+      <shortName>ОАО "Сбербанк России"</shortName>
+      <inn>7707083893</inn>
+      <kpp>775001001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okopf>48</okopf>
+      <okopfName>Хозяйственные товарищества и общества</okopfName>
+      <customerRegistrationDate>2007-06-13T00:00:00</customerRegistrationDate>
+     </mainInfo>
+    </customer>
+    <placer>
+     <mainInfo>
+      <fullName>Открытое акционерное общество "Сбербанк России"</fullName>
+      <shortName>ОАО "Сбербанк России"</shortName>
+      <inn>7707083893</inn>
+      <kpp>775001001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Москва, Вавилова, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+     </mainInfo>
+    </placer>
+    <publicationDate>2015-03-25T15:44:05</publicationDate>
+    <status>P</status>
+    <version>1</version>
+    <digitalPurchase>true</digitalPurchase>
+    <digitalPurchaseCode>400001</digitalPurchaseCode>
+    <provider>false</provider>
+    <changeContract>false</changeContract>
+    <attachments/>
+    <contractRegNumber>57707083893150003790000</contractRegNumber>
+    <name>23/03-3</name>
+    <contractDate>2015-02-18T00:00:00</contractDate>
+    <purchaseNoticeInfo>
+     <guid>c1da89dd-bb6a-44bf-9a55-0cefade1a323</guid>
+     <purchaseNoticeNumber>31501976705</purchaseNoticeNumber>
+     <publicationDateTime>2015-01-30T15:56:44</publicationDateTime>
+     <name>[25848] Выбор организации на поставку Чековой и термо ленты для нужд Восточно-Сибирского банка ОАО «Сбербанк России»</name>
+    </purchaseNoticeInfo>
+    <lotGuid>569d29d4-6486-46c5-b605-e4ad3c5e2fa1</lotGuid>
+    <subjectContract>[25848] Выбор организации на поставку Чековой и термо ленты для нужд Восточно-Сибирского банка ОАО «Сбербанк России»</subjectContract>
+    <purchaseTypeInfo>
+     <code>40000</code>
+     <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
+    </purchaseTypeInfo>
+    <resumeDate>2015-02-10T00:00:00</resumeDate>
+    <supplierInfo>
+     <name>ООО "НБК Трейд" </name>
+     <inn>5259083074</inn>
+     <kpp>500101001</kpp>
+     <okpo>62221409</okpo>
+     <type>L</type>
+     <provider>true</provider>
+     <providerCode>30</providerCode>
+     <subcontractor>false</subcontractor>
+     <nonResident>false</nonResident>
+     <registrationDate>2009-06-11T00:00:00</registrationDate>
+     <tax>true</tax>
+     <okopf>12165</okopf>
+     <okopfName>Общества с ограниченной ответственностью</okopfName>
+     <address>
+      <country>
+       <name>РОССИЯ</name>
+       <digitalCode>643</digitalCode>
+      </country>
+      <postCode>143930</postCode>
+      <oktmo>46000000</oktmo>
+      <region>
+       <fullName>Московская область</fullName>
+      </region>
+     </address>
+    </supplierInfo>
+    <hasSubcontractor>false</hasSubcontractor>
+    <price>22491552</price>
+    <currency>
+     <code>RUB</code>
+     <digitalCode>643</digitalCode>
+     <name>Российский рубль</name>
+    </currency>
+    <startExecutionDate>2015-02-28T00:00:00</startExecutionDate>
+    <endExecutionDate>2017-02-28T00:00:00</endExecutionDate>
+    <contractPositions>
+     <contractPosition>
+      <guid>90b5f0d4-db6b-4770-a8d3-da58e925650d</guid>
+      <ordinalNumber>1</ordinalNumber>
+      <okdp>
+       <code>2100000</code>
+       <name>ЦЕЛЛЮЛОЗА, БУМАГА, КАРТОН И ИЗДЕЛИЯ ИЗ НИХ</name>
+      </okdp>
+      <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
+      <okei>
+       <code>839</code>
+       <name>Комплект</name>
+      </okei>
+      <qty>1</qty>
+     </contractPosition>
+    </contractPositions>
+    <contractConfirmingDocs>
+     <contractDoc>
+      <confirmingDocCode>1</confirmingDocCode>
+      <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
+      <protocolInfoGuid>c18cebd4-47b9-406b-b904-56b2fb119897</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31501976705-01</protocolName>
+      <docDate>2015-02-11T00:00:00</docDate>
+      <docNum>31501976705-01</docNum>
+     </contractDoc>
+    </contractConfirmingDocs>
+   </contractData>
+  </item>
+ </body>
+</contract>

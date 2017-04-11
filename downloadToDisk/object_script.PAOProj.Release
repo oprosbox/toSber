@@ -7,6 +7,7 @@ INPUT(
 ./release\frombase.o
 ./release\wreporttable.o
 ./release\wdateline.o
+./release\errorsLog.o
 ./release\moc_tobase.o
 ./release\moc_findindom.o
 ./release\moc_winterface.o

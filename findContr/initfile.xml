@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<params>
+ <dbConnString>Driver={SQL Server};Server=LVVPC\SQLEXPR;Database=PAO_SB;Uid=lenV;Pwd=oprosboxopros19;</dbConnString>
+ <maxLoad>1</maxLoad>
+ <params>

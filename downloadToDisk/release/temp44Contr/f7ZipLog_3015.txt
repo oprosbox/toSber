@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1273636 bytes (1244 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017033000_2017033100_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017033000_2017033100_001.xml.zip
+Type = zip
+Physical Size = 1273636
+
+Everything is Ok
+
+Files: 226
+Size:       5712369
+Compressed: 1273636
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 4130819 bytes (4035 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017033000_2017033100_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Tjumenskaja_obl_2017033000_2017033100_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 4130819
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 826
+Size:       30492331
+Compressed: 4130819

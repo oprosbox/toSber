@@ -1,0 +1,60 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2636771 bytes (2575 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_001.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_001.xml.zip
+Type = zip
+Physical Size = 2636771
+
+Everything is Ok
+
+Files: 474
+Size:       10409090
+Compressed: 2636771
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2884915 bytes (2818 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_002.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_002.xml.zip
+Type = zip
+Physical Size = 2884915
+
+Everything is Ok
+
+Files: 534
+Size:       27523566
+Compressed: 2884915
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 2726 bytes (3 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_003.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Komi_Resp_2017040500_2017040600_003.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 2726
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 2
+Size:       5100
+Compressed: 2726

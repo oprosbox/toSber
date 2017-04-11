@@ -1,0 +1,43 @@
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 909204 bytes (888 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Zabajkalskij_kraj_2017022800_2017030100_002.xml.zip
+
+WARNINGS:
+Headers Error
+
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Zabajkalskij_kraj_2017022800_2017030100_002.xml.zip
+Type = zip
+WARNINGS:
+Headers Error
+Physical Size = 909204
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Files: 91
+Size:       13455721
+Compressed: 909204
+
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive for archives:
+1 file, 1127 bytes (2 KiB)
+
+Extracting archive: G:\toSber\downloadToDisk\release\temp44Contr\contract_Zabajkalskij_kraj_2017022800_2017030100_003.xml.zip
+--
+Path = G:\toSber\downloadToDisk\release\temp44Contr\contract_Zabajkalskij_kraj_2017022800_2017030100_003.xml.zip
+Type = zip
+Physical Size = 1127
+
+Everything is Ok
+
+Files: 2
+Size:       1356
+Compressed: 1127

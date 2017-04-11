@@ -3,19 +3,19 @@
 #include <QApplication>
 #include <QFile>
 
-
+//---------------------------------------------------------------------------------------------
  bool WPackUnpack7z::initObj(QString pathTo7z,QString logDir)
 {
   path7z=pathTo7z;
   dirLog=logDir;
   return true;
 }
-
+//---------------------------------------------------------------------------------------------
 void WPackUnpack7z::destroyObj(void)
 {
 
 }
-
+//---------------------------------------------------------------------------------------------
 void WPackUnpack7z::unpackZip(QString pathZip,QString dirOut,int id,bool delArh)
 {
   QStringList comm;
@@ -26,7 +26,7 @@ void WPackUnpack7z::unpackZip(QString pathZip,QString dirOut,int id,bool delArh)
   if(delArh)
      { QFile(pathZip).remove(); }
 }
-
+//---------------------------------------------------------------------------------------------
 void WPackUnpack7z::packToZip(QString pathZip,QStringList files)
 {
   QStringList comm;
@@ -35,7 +35,7 @@ void WPackUnpack7z::packToZip(QString pathZip,QStringList files)
   {comm[0]+=" "+files[i];}
 QProcess::execute("cmd.exe",comm);
 }
-
+//---------------------------------------------------------------------------------------------
 void WPackUnpack7z::command(QString command)
 {
  QStringList comm;

@@ -39,7 +39,6 @@ protected:
   QList<QRegExp> tegFindExp;
   QString valFind;
   QList<ndom::WFind*> listThread;
-  QStringList listZip;
   int countObj;
   int countId;
   int flgClearAll;
@@ -82,7 +81,8 @@ public slots:
   void download();
   void endLoad(void);
   void nextUnpack(int,QStringList files);
-  void getProcessFiles(QStringList procFiles){emit sGetFiles(procFiles);}
+  void getProcessFiles(QStringList procFiles)
+  {emit sGetFiles(procFiles);}
   void delObjectThatStop(int id);
 signals:
   void sGetFiles(QStringList);
@@ -109,11 +109,12 @@ class W223fz
     void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
     void create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd);
     void baseConnect(void);
-    int getRegions(QStringList &regions,const int CFZ);
+  static  int getRegions(QStringList &regions,const int CFZ);
     WLoadFtp *ftp223fz;
 protected:
     SInputFtp inpFtp;
     WBaseWR *BD;
+    int CFZ;
 };
 
 }

@@ -10,19 +10,16 @@ WToBASE::WToBASE()
 {
 
 }
+int paramConn=0;
 //------открывает локальное соединение с MSSql--------------------
-bool WOpenBase::openMSSQL(QString url,QString database,QString login, QString pass)
-{
-    base = QSqlDatabase::addDatabase("QODBC", "dbPAO");
-    base.setDatabaseName("Driver={SQL Server};"
-    "Server="+url+";"
-    "Database="+database+";"
-    "Trusted_Connection=yes;");
-   return base.open(login,pass);
+bool WOpenBase::openMSSQL(QString connStr)
+{ QString nameConn="ODBCPAO_";
+    nameConn+=QString::asprintf("%i",paramConn);
+    ++paramConn;
+    base = QSqlDatabase::addDatabase("QODBC",nameConn);
+    base.setDatabaseName(connStr);
+   return base.open();
 }
-//----------------------------------------------------------------------------------------------------------------
-
-
 //-------------------закрывает работающее соединение----------------------------
 void WOpenBase::closeConn()
 {
@@ -36,108 +33,90 @@ void WToBASE::prepare(int CFZ)
   queryNotif->prepare("INSERT INTO NOTIFI223FZ(inn,name_organization,inn_supplier,name_organization_supplier,date,dateUTC,guid)"
                      "VALUES (:inn, :name, :inn_supplier, :name_supplier, :date,:dateUTC, :guid);");
 
-  queryDishon->prepare("INSERT INTO DISHON223FZ (inn,name_organization,date,dateUTC,guid)"
-                      "VALUES (:inn, :name, :date,:dateUTC, :guid);");
-
   queryNotifData->prepare("INSERT INTO NOTIFI223FZDATA (guid,data)"
                       "VALUES (:guid, :data);");
 
-  queryDishonData->prepare("INSERT INTO DISHON223FZDATA (guid,data)"
-                      "VALUES (:guid, :data);");
+  queryDishonData->prepare("INSERT INTO DISHON223FZDATA (inn,name,data)"
+                      "VALUES (:inn, :name, :data);");
 
   queryNotifSelectData->prepare(//"DROP TABLE NOTIFI223FZ;"
                                 //"DROP TABLE NOTIFI223FZDATA;"
         "CREATE TABLE NOTIFI223FZ ("
-        "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
         "inn varchar(20),"
         "name_organization varchar(3000),"
         "inn_supplier varchar(20),"
         "name_organization_supplier varchar(3000),"
         "date INTEGER,"
         "dateUTC varchar(20),"
-        "guid varchar(50));"
+        "guid varchar(50) PRIMARY KEY NOT NULL);"
         "CREATE TABLE NOTIFI223FZDATA ("
-        "guid varchar(50) PRIMARY KEY,"
+        "guid varchar(50) PRIMARY KEY NOT NULL,"
         "data varchar(MAX));"
        );
 
-  queryDishonSelectData->prepare(//"DROP TABLE DISHON223FZ;"
-                                 //"DROP TABLE DISHON223FZDATA;"
-        "CREATE TABLE DISHON223FZ ("
-        "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
-        "inn CHAR(20),"
-        "name_organization varchar(3000),"
-        "date INTEGER,"
-        "dateUTC varchar(20),"
-        "guid varchar(50));"
+  queryDishonSelectData->prepare(
         "CREATE TABLE DISHON223FZDATA ("
-        "guid varchar(50) PRIMARY KEY,"
+        "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
+        "inn varchar(20),"
+        "name varchar(3000),"
         "data varchar(MAX));"
        );
      break;}
     case CFZ44:{queryNotif->prepare("INSERT INTO CONTRACT44FZ(inn,name_organization,inn_supplier,name_organization_supplier,date,dateUTC,idContract)"
                                    "VALUES (:inn, :name, :inn_supplier, :name_supplier, :date,:dateUTC, :guid);");
 
-                queryDishon->prepare("INSERT INTO DISHON44FZ (inn,name_organization,date,dateUTC,idContract)"
-                                    "VALUES (:inn, :name, :date,:dateUTC, :guid);");
-
                 queryNotifData->prepare("INSERT INTO CONTRACT44FZDATA (idContract,data)"
                                     "VALUES (:guid, :data);");
 
-                queryDishonData->prepare("INSERT INTO DISHON44FZDATA (idContract,data)"
-                                    "VALUES (:guid, :data);");
+                queryDishonData->prepare("INSERT INTO DISHON44FZDATA (inn,name,data)"
+                                    "VALUES (:inn, :name, :data);");
 
-                queryNotifSelectData->prepare(//"DROP TABLE CONTRACT44FZ;"
-                                              //"DROP TABLE CONTRACT44FZDATA;"
+                queryNotifSelectData->prepare(
                       "CREATE TABLE CONTRACT44FZ ("
-                      "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
                       "inn varchar(20),"
                       "name_organization varchar(3000),"
                       "inn_supplier varchar(20),"
                       "name_organization_supplier varchar(3000),"
                       "date INTEGER,"
                       "dateUTC varchar(20),"
-                      "idContract varchar(50));"
+                      "idContract varchar(50) PRIMARY KEY NOT NULL);"
                       "CREATE TABLE CONTRACT44FZDATA ("
-                      "idContract varchar(50) PRIMARY KEY,"
+                      "idContract varchar(50) PRIMARY KEY NOT NULL,"
                       "data varchar(MAX));"
                      );
 
-                queryDishonSelectData->prepare(//"DROP TABLE DISHON44FZ;"
-                                               //"DROP TABLE DISHON44FZDATA;"
-                      "CREATE TABLE DISHON44FZ ("
-                      "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
-                      "inn CHAR(20),"
-                      "name_organization varchar(3000),"
-                      "date INTEGER,"
-                      "dateUTC varchar(20),"
-                      "idContract varchar(50));"
+                queryDishonSelectData->prepare(
                       "CREATE TABLE DISHON44FZDATA ("
-                      "idContract varchar(50) PRIMARY KEY,"
+                      "id INTEGER PRIMARY KEY NOT NULL IDENTITY(1,1),"
+                      "inn varchar(20),"
+                      "name varchar(3000),"
                       "data varchar(MAX));"
                      );break;}
     }
 
 }
 //----------------------------------------------------------------------
-bool WToBASE::start(QString url,QString database,QString login, QString pass)
-{   if(openMSSQL(url,database,login,pass))
+bool WToBASE::start()
+{   QString connStr=errorsLog.fromIniFile("dbConnString","Driver={SQL Server};"
+                                                     "Server=LVVPC\\SQLEXPR;"
+                                                     "Database=PAO_SB;"
+                                                    "Uid=lenV;"
+                                                     "Pwd=oprosboxopros19;");
+    if(openMSSQL(connStr))
     {queryNotif=new QSqlQuery(base);
-    queryDishon=new QSqlQuery(base);
     queryNotifData=new QSqlQuery(base);
     queryDishonData=new QSqlQuery(base);
     queryNotifSelectData=new QSqlQuery(base);
     queryDishonSelectData=new QSqlQuery(base);
     return true;}
     else{QString txt="base  connect"+base.lastError().text();
-              ndom::toLogFile(txt); }
+              errorsLog.toLogFile(txt); }
     return false;
 }
 //---------------------------------------------------------------------------------------------
 void WToBASE::stop()
 {if(base.isOpen())
     {delete queryNotif;
-    delete queryDishon;
     delete queryNotifData;
     delete queryDishonData;
     delete queryNotifSelectData;
@@ -149,32 +128,26 @@ bool WToBASE::createTable223Notif()
 {
 
   if(!queryNotifSelectData->exec()){ QString txt="base create  notifTable"+queryNotifSelectData->lastError().text();
-                           ndom::toLogFile(txt); return false;}
+                           errorsLog.toLogFile(txt); return false;}
  return true;
 }
 //------------------------------------------------------------------
 bool WToBASE::createTable223Dishon()
 {
 
-  if(!queryDishonSelectData->exec()){ QString txt="base create  dishonTable"+queryDishonSelectData->lastError().text();
-                            ndom::toLogFile(txt); return false;}
+  if(!queryDishonSelectData->exec()){ QString txt="base create  dishonTable: "+queryDishonSelectData->lastError().text();
+                            errorsLog.toLogFile(txt); return false;}
   return true;
 }
 //------------------------------------------------------------------
 bool WToBASE::insertToBase223Dishon(SDishon &dish)
-{ //QSqlDatabase::database().transaction();
-  queryDishon->bindValue(":inn", dish.inn);
-  queryDishon->bindValue(":name", dish.name_organization);
-  queryDishon->bindValue(":date", dish.date_add);
-  queryDishon->bindValue(":dateUTC", dish.date_addUTC);
-  queryDishon->bindValue(":guid",dish.guid);
-  if(!queryDishon->exec()){ QString txt="base write  queryDishon"+queryDishon->lastError().text();
-                            ndom::toLogFile(txt); return false;}
+{
 
-  queryDishonData->bindValue(":guid", dish.guid);
+  queryDishonData->bindValue(":inn", dish.inn);
+  queryDishonData->bindValue(":name",dish.name_organization);
   queryDishonData->bindValue(":data",dish.data);
-  if(!queryDishonData->exec()){ QString txt="base write  queryDishonData"+queryDishonData->lastError().text();
-                                ndom::toLogFile(txt); return false;}
+  if(!queryDishonData->exec()){ QString txt="base write  queryDishonData: "+queryDishonData->lastError().text();
+                                errorsLog.toLogFile(txt); return false;}
  // QSqlDatabase::database().commit();
   return true;
 }
@@ -188,21 +161,21 @@ bool WToBASE::insertToBase223Notif(SNotif &notif,QSqlError &error)
   queryNotif->bindValue(":date", notif.date);
   queryNotif->bindValue(":dateUTC", notif.dateUTC);
   queryNotif->bindValue(":guid",notif.guid);
-  if(!queryNotif->exec()){ QString txt="base write  queryNotif"+queryNotif->lastError().text();
-                           ndom::toLogFile(txt); return false;}
+  if(!queryNotif->exec()){ QString txt="base write  queryNotif: "+queryNotif->lastError().text();
+                           errorsLog.toLogFile(txt); return false;}
 
   queryNotifData->bindValue(":guid", notif.guid);
   queryNotifData->bindValue(":data",notif.data);
-  if(!queryNotifData->exec()){ QString txt="base write  queryNotifData"+queryNotifData->lastError().text();
-                              ndom::toLogFile(txt); return false;}
+  if(!queryNotifData->exec()){ QString txt="base write  queryNotifData: "+queryNotifData->lastError().text();
+                              errorsLog.toLogFile(txt); return false;}
   //QSqlDatabase::database().commit();
   return true;
 }
 
 //-------------------------------------------------------------------------------------------
-bool WBaseWR::start(QString url,QString database,QString login, QString pass,int CNoFZ)
+bool WBaseWR::start(int CNoFZ)
 {CFZType=CNoFZ;
- bool flgOpen=WToBASE::start(url,database,login,pass);
+ bool flgOpen=WToBASE::start();
 if(flgOpen){prepare(CFZType);}
 
 return flgOpen;
@@ -214,7 +187,7 @@ bool WBaseWR::writeToNotif(QStringList findObjects)
 QList<SNotif> lstNotif;
 switch(CFZType)
 {case CFZ223:{ toSNotif(findObjects,lstNotif);break;}
- case CFZ44:{ toSNotif44(findObjects,lstNotif);break;}
+ case CFZ44:{ toSNotif44(findObjects,lstNotif);}
 }
 QSqlError error;
 for(auto i=lstNotif.begin();i!=lstNotif.end();i++)
@@ -254,42 +227,57 @@ void WBaseWR::toSNotif(QStringList &list,QList<SNotif> &lstNotif)
     {
       notif.inn="";
       notif.data=*i;
+      ndom::WFindInDom::findInText(*i,QStringList({"header","guid"}),temp);
+      if(temp.size()!=0){notif.guid=temp[0];}
+                        else{notif.guid="";
+                             errorsLog.toErrReportFile(*i,"logReports223/header_guid.xml");
+                                       continue;}
+
       ndom::WFindInDom::findInText(*i,QStringList({"customer","mainInfo","inn"}),temp);
-      if(temp.size()!=0){notif.inn=temp[0]; }
+      if(temp.size()!=0){notif.inn=temp[0];
+                         notif.inn.replace(" ","");}
+      if(notif.inn==""){errorsLog.toErrReportFile(*i,"logReports223/customer_mainInfo_inn.xml");
+                        continue;}
 
       ndom::WFindInDom::findInText(*i,QStringList({"customer","mainInfo","fullName"}),temp);
       if(temp.size()!=0){notif.name_organization=temp[0];}
-                        else {notif.name_organization="";}
+                        else {notif.name_organization="";
+                              errorsLog.toErrReportFile(*i,"logReports223/customer_mainInfo_fullName.xml");
+                                       continue;}
 
       ndom::WFindInDom::findInText(*i,QStringList({"supplierInfo","inn"}),temp);
       if(temp.size()!=0){notif.inn_supplier=temp[0]; }
-                         else{notif.inn_supplier="";}
+                         else{ndom::WFindInDom::findInText(*i,QStringList({"subcontractor","inn"}),temp);
+                             if(temp.size()!=0){notif.inn_supplier=temp[0]; }
+                              else{notif.inn_supplier="";
+                                   errorsLog.toErrReportFile(*i,"logReports223/supplierInfo_inn.xml");}
+                                      }
 
       ndom::WFindInDom::findInText(*i,QStringList({"supplierInfo","name"}),temp);
       if(temp.size()!=0){notif.name_organization_supplier=temp[0];}
-      //else{ndom::WFindInDom::findInText(*i,QStringList({"contractInfo","supplierName"}),temp);
-      //        if(temp.size()!=0) {notif.name_organization_supplier=temp[0];}
-              else {notif.name_organization_supplier="";}
+              else {  ndom::WFindInDom::findInText(*i,QStringList({"subcontractor","name"}),temp);
+                      if(temp.size()!=0){notif.name_organization_supplier=temp[0];}
+                         else {notif.name_organization_supplier="";
+                            errorsLog.toErrReportFile(*i,"logReports223/supplierInfo_name.xml");
+                             if(notif.inn_supplier=="")
+                              continue;}
+                     }
 
       ndom::WFindInDom::findInText(*i,QStringList({"contractDate"}),temp);
       if(temp.size()!=0){notif.dateUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-dd");
-                         //если формат времени не подходит пишет в лог
-                         if(!time.isValid()){ QString txt="notif bad format date: "+temp[0];
-                                             ndom::toLogFile(txt);
-                                             }
-
-                         notif.date=time.toTime_t();}
+                         notif.dateUTC.resize(10);
+                         QDateTime time=QDateTime::fromString(notif.dateUTC,"yyyy-MM-dd");
+                         notif.date=time.toTime_t();
+                         if(notif.date==-1){errorsLog.toErrReportFile(*i,"logReports223/contractDate_minus1.xml");
+                                                continue;}
+                         }
                           else{notif.date=0;
                           notif.dateUTC="";
+                          errorsLog.toErrReportFile(*i,"logReports223/contractDate.xml");
+                          continue;
                           }
 
-      ndom::WFindInDom::findInText(*i,QStringList({"header","guid"}),temp);
-      if(temp.size()!=0){notif.guid=temp[0];}
-                        else{notif.guid="";}
-
-      if((notif.inn=="")||(notif.guid=="")){}
-                    else{lstNotif.push_back(notif);}
+   lstNotif.push_back(notif);
     }
 }
 
@@ -299,85 +287,130 @@ void WBaseWR::toSNotif44(QStringList &list,QList<SNotif> &lstNotif)
   SNotif notif;
   lstNotif.clear();
   QStringList temp;
-  for(auto i=list.begin();i!=list.end();i++)
+
+ for(auto i=list.begin();i!=list.end();i++)
     {
       notif.inn="";
       notif.data=*i;
+      ndom::WFindInDom::findInText(*i,QStringList({"contract","id"}),temp);
+      if(temp.size()!=0){notif.guid=temp[0];}
+                        else{errorsLog.toErrReportFile(*i,"logReports44/contract_id.xml");
+                             continue;}
+
       ndom::WFindInDom::findInText(*i,QStringList({"customer","inn"}),temp);
-      if(temp.size()!=0){notif.inn=temp[0]; }
+      if(temp.size()!=0){notif.inn=temp[0];
+                         notif.inn.replace(" ","");}
+      if(notif.inn==""){errorsLog.toErrReportFile(*i,"logReports44/customer_inn.xml");
+                        continue;}
+
 
       ndom::WFindInDom::findInText(*i,QStringList({"customer","fullName"}),temp);
-      if(temp.size()!=0){notif.name_organization=temp[0];}
-                        else {notif.name_organization="";}
+      if(temp.size()!=0){notif.name_organization=temp.at(0);}
+                        else {notif.name_organization="";
+                              errorsLog.toErrReportFile(*i,"logReports44/customer_fullName.xml");
+                                        continue;}
 
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","legalEntityRF","INN"}),temp);
-      if(temp.size()!=0){notif.inn_supplier=temp[0]; }
-                         else{notif.inn_supplier="";}
-
+      if(temp.size()!=0){notif.inn_supplier=temp.at(0); }
+                         else{ ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonRF","INN"}),temp);
+                               if(temp.size()!=0){notif.inn_supplier=temp.at(0); }
+                               else{
+                                notif.inn_supplier="";
+                                errorsLog.toErrReportFile(*i,"logReports44/supplier_legalEntityRF_INN.xml");
+                                }
+                              }
+QString name;
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","legalEntityRF","fullName"}),temp);
-      if(temp.size()!=0){notif.name_organization_supplier=temp[0];}
-      //else{ndom::WFindInDom::findInText(*i,QStringList({"contractInfo","supplierName"}),temp);
-      //        if(temp.size()!=0) {notif.name_organization_supplier=temp[0];}
-              else {notif.name_organization_supplier="";}
+      if(temp.size()!=0){notif.name_organization_supplier=temp.at(0);
+                         }
+              else {
+                    ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonRF","lastName"}),temp);
+                    if(temp.size()!=0)name=temp.at(0);name+=" ";
+                    ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonRF","firstName"}),temp);
+                    if(temp.size()!=0)name+=temp.at(0); name+=" ";
+                    ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonRF","middleName"}),temp);
+                     if(temp.size()!=0)name+=temp.at(0);
+                    if(name.size()>2){notif.name_organization_supplier=name;}
+
+                    else{ndom::WFindInDom::findInText(*i,QStringList({"supplier","legalEntityForeignState","fullName"}),temp);
+                          if(temp.size()!=0){notif.name_organization_supplier=temp.at(0);}
+                                            else{ ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonForeignState","lastName"}),temp);
+                                                   if(temp.size()!=0)name=temp.at(0);name+=" ";
+                                                   ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonForeignState","firstName"}),temp);
+                                                   if(temp.size()!=0)name+=temp.at(0); name+=" ";
+                                                    ndom::WFindInDom::findInText(*i,QStringList({"supplier","individualPersonForeignState","middleName"}),temp);
+                                                    if(temp.size()!=0)name+=temp.at(0);
+                                                    if(name.size()>2){notif.name_organization_supplier=name;}
+                                                       else{
+                                                              notif.name_organization_supplier="";
+                                                              errorsLog.toErrReportFile(*i,"logReports44/supplier_legalEntityRF_fullName.xml");
+                                                              if(notif.inn_supplier=="")
+                                                      continue;}
+                                                    }
+                          }
+                   }
+
 
       ndom::WFindInDom::findInText(*i,QStringList({"signDate"}),temp);
       if(temp.size()!=0){notif.dateUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-dd");
+                          notif.dateUTC.resize(10);
+                         QDateTime time=QDateTime::fromString(notif.dateUTC,"yyyy-MM-dd");
                          //если формат времени не подходит пишет в лог
-                         if(!time.isValid()){ QString txt="notif bad format date: "+temp[0];
-                                              ndom::toLogFile(txt);
+                         if(!time.isValid()){
+                                              errorsLog.toErrReportFile(*i,"logReports44/signDate_badTime.xml");
+                                              continue;
                                              }
-
-                         notif.date=time.toTime_t();}
+                         notif.date=time.toTime_t();
+                          }
                           else{notif.date=0;
                           notif.dateUTC="";
-                          }
-
-      ndom::WFindInDom::findInText(*i,QStringList({"contract","id"}),temp);
-      if(temp.size()!=0){notif.guid=temp[0];}
-                        else{notif.guid="";}
-
-      if((notif.inn=="")||(notif.guid=="")){}
-                    else{lstNotif.push_back(notif);}
+                          errorsLog.toErrReportFile(*i,"logReports44/signDate.xml");
+                                    continue;
+                                }
+     lstNotif.push_back(notif);
     }
+
 }
+
+
 //---------------------------------------------------------------------------------------------
 void WBaseWR::toSDishon(QStringList &list,QList<SDishon> &lstDish)
 { SDishon dishon;
     lstDish.clear();
     QStringList temp;
+
   for(auto i=list.begin();i!=list.end();i++)
     {
       dishon.inn="";
       dishon.data=*i;
-      ndom::WFindInDom::findInText(*i,QStringList({"supplier","inn"}),temp);
-      if(temp.size()!=0){dishon.inn=temp[0]; }
 
+
+      ndom::WFindInDom::findInText(*i,QStringList({"supplier","inn"}),temp);
+
+      if(temp.size()!=0){dishon.inn=temp[0];
+                         dishon.inn.replace(" ","");}
+                        else{ ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","inn"}),temp);
+                              if(temp.size()!=0){dishon.inn=temp[0];
+                               dishon.inn.replace(" ","");}
+                             }
+      if(dishon.inn==""){errorsLog.toErrReportFile(*i,"logReports223d/supplier_inn.xml");
+                         }
 
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","name"}),temp);
       if(temp.size()!=0){dishon.name_organization=temp[0]; }
-                        else{dishon.name_organization="";}
+                        else{ ndom::WFindInDom::findInText(*i,QStringList({"supplier","supplierName"}),temp);
+                              if(temp.size()!=0){dishon.name_organization=temp[0]; }
+                             else{ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","fullName"}),temp);
+                                  if(temp.size()!=0){dishon.name_organization=temp[0]; }
+                                  else{
+                                  dishon.name_organization="";
+                                   errorsLog.toErrReportFile(*i,"logReports223d/supplier_name.xml");
+                                  if(dishon.inn=="")
+                                      continue;}
+                                }
+                           }
 
-      ndom::WFindInDom::findInText(*i,QStringList({"includeDate"}),temp);
-      if(temp.size()!=0){dishon.date_addUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddThh:mm:ss");
-                         //если формат времени не подходит пишет в лог
-                         if(!time.isValid()){ QString txt="dishon bad format date: "+temp[0];
-                                             ndom::toLogFile(txt);
-                                             }
-
-                         dishon.date_add=time.toTime_t();}
-                          else{dishon.date_add=0;
-                          dishon.date_addUTC="";
-                          }
-
-      ndom::WFindInDom::findInText(*i,QStringList({"header","guid"}),temp);
-      if(temp.size()!=0){dishon.guid=temp[0];}
-                        else{dishon.guid="";}
-
-      if((dishon.inn=="")||(dishon.guid=="")){}
-                      else{lstDish.push_back(dishon);}
-
+      lstDish.push_back(dishon);
     }
 }
 
@@ -390,38 +423,26 @@ void WBaseWR::toSDishon44(QStringList &list,QList<SDishon> &lstDish)
     {
       dishon.inn="";
       dishon.data=*i;
-      ndom::WFindInDom::findInText(*i,QStringList({"supplier","inn"}),temp);
-      if(temp.size()!=0){dishon.inn=temp[0]; }
+
+      ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","inn"}),temp);
+      if(temp.size()!=0){dishon.inn=temp[0];
+                         dishon.inn.replace(" ","");}
+      //if(dishon.inn==""){errorsLog.toErrReportFile(*i,"logReports44d/unfairSupplier_inn.xml");
+      //                   }
 
 
-      ndom::WFindInDom::findInText(*i,QStringList({"supplier","name"}),temp);
+      ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","fullName"}),temp);
       if(temp.size()!=0){dishon.name_organization=temp[0]; }
-                        else{dishon.name_organization="";}
+                        else{dishon.name_organization="";
+          errorsLog.toErrReportFile(*i,"logReports44d/unfairSupplier_fullName.xml");
+          if(dishon.inn=="")continue;}
 
-      ndom::WFindInDom::findInText(*i,QStringList({"includeDate"}),temp);
-      if(temp.size()!=0){dishon.date_addUTC=temp[0];
-                         QDateTime time=QDateTime::fromString(temp[0],"yyyy-MM-ddThh:mm:ss");
-                         //если формат времени не подходит пишет в лог
-                         if(!time.isValid()){ QString txt="dishon bad format date: "+temp[0];
-                                             ndom::toLogFile(txt);
-                                             }
-
-                         dishon.date_add=time.toTime_t();}
-                          else{dishon.date_add=0;
-                          dishon.date_addUTC="";
-                          }
-
-      ndom::WFindInDom::findInText(*i,QStringList({"header","guid"}),temp);
-      if(temp.size()!=0){dishon.guid=temp[0];}
-                        else{dishon.guid="";}
-
-      if((dishon.inn=="")||(dishon.guid=="")){}
-                      else{lstDish.push_back(dishon);}
+      lstDish.push_back(dishon);
 
     }
 }
 
-////---------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------
 //void WBaseWR::createTables(void)
 //{
 //   if(createTable223Notif()){}else {emit getError("create dishon");return;}
@@ -431,7 +452,7 @@ void WBaseWR::toSDishon44(QStringList &list,QList<SDishon> &lstDish)
 
 int WBaseWR::createTables(bool table223fz,bool table44fz,bool tableDishon223fz,bool tableDishon44fz)
 {    WToBASE BD;
-     bool flg=BD.start("LVVPC\\SQLEXPRESS","PAO_SB","lenV","oprosboxopros19");
+     bool flg=BD.start();
      if(!flg){return -1;}
      BD.prepare(CFZ223);
      if(table223fz){flg=BD.createTable223Notif();

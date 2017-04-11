@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://zakupki.gov.ru/oos/export/1" xmloos="http://zakupki.gov.ru/oos/types/1">
+ <unfairSupplier schemeVersion="5.2">
+  <approveDate>2015-10-02T00:00:00Z</approveDate>
+  <state>REVIEW_CANCELED</state>
+  <publishOrg>
+   <regNum>01481000016</regNum>
+   <fullName>Управление Федеральной антимонопольной службы по Московской области</fullName>
+  </publishOrg>
+  <createReason>WINNER_DEVIATION</createReason>
+  <customer>
+   <regNum>03481000462</regNum>
+   <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "САНАТОРИЙ "ДУБРАВА" ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ"</fullName>
+   <factAddress>Российская Федерация, 141044, Московская обл, Мытищинский р-н, Поведники п, -</factAddress>
+   <INN>5029058059</INN>
+   <KPP>502901001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>Филиал Федерального государственного унитарного предприятия «Охрана» Министерства внутренних дел Российской Федерации по Московской области</fullName>
+   <type>U</type>
+   <firmName>Филиал Федерального государственного унитарного предприятия «Охрана» Министерства внутренних дел Российской Федерации по Московской области</firmName>
+   <inn>7719555477</inn>
+   <kpp>770101001</kpp>
+   <place>
+    <kladr>
+     <kladrCode>500000160000002</kladrCode>
+     <fullName>Войтовича ул</fullName>
+     <subjectRF>Московская обл</subjectRF>
+     <area>Реутов г</area>
+     <street>Войтовича</street>
+     <building>1</building>
+    </kladr>
+    <zip>143964</zip>
+    <place/>
+    <email/>
+   </place>
+   <founders>
+    <names>КЛЮЙКОВ БОРИС ВЛАДИМИРОВИЧ</names>
+    <inn>772738103865</inn>
+   </founders>
+   <founders>
+    <names>МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ</names>
+    <inn>7706074737</inn>
+   </founders>
+   <founders>
+    <names>ФЕДЕРАЛЬНОЕ АГЕНТСТВО ПО УПРАВЛЕНИЮ ФЕДЕРАЛЬНЫМ ИМУЩЕСТВОМ</names>
+    <inn>7710542402</inn>
+   </founders>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0348100046215000091</purchaseNumber>
+   <purchaseObjectInfo>Оказание комплекса услуг по техническому обслуживанию систем и установок охранной сигнализации и видеонаблюдения</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <protocolDate>2015-08-10</protocolDate>
+   <lotNumber>1</lotNumber>
+   <document>
+    <date>2015-08-10</date>
+   </document>
+  </purchase>
+  <contract>
+   <productInfo>Техническое обслуживание систем и установок охранной сигнализации и видеонаблюдения на объекте №1 и на объекте №2</productInfo>
+   <OKPD>
+    <code>70.32.13.820</code>
+    <name>Работы по техническому обслуживанию систем сигнализации</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>730000</price>
+  </contract>
+ </unfairSupplier>
+</export>
