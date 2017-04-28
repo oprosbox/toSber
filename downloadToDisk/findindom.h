@@ -33,9 +33,9 @@ public:
 static  bool findInText(QString xmlText,QStringList teg,QStringList &valOut);
 static  bool findInText(QString xmlText,QStringList teg,QString &valOut);
 static  bool findInText(QString xmlText,QList<QStringList> teg,QString &valOut);
-void setFindAttr(QStringList teg,QString val);
-void setFindAttr(QList<QRegExp> tegs,QString val);
-void setFindAttr(QList<QStringList> tegs);
+    void setFindAttr(QStringList teg,QString val);
+    void setFindAttr(QList<QRegExp> tegs,QString val);
+    void setFindAttr(QList<QStringList> tegs);
 protected:
     QStringList listNamesTeg;
     QList<QStringList> listOftegs;
@@ -60,15 +60,15 @@ signals:
 class WFindThrExp:public QObject//:public QThread
 {Q_OBJECT
  public:
-  int id;
-  WFindInDom *findInDom;
-  QStringList listDirFrom;
-  QStringList listFilesFind;
-  QString pathTo;
-  int clearAll;
-  void process();
+   int id;
+   WFindInDom *findInDom;
+   QStringList listDirFrom;
+   QStringList listFilesFind;
+   QString pathTo;
+   int clearAll;
+   void process();
  signals:
-  void finished();
+   void finished();
 };
 
 class WFind:public QObject

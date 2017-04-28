@@ -23,18 +23,18 @@ class WNetworkFtp;
 
 struct SFilterStr
 {
-QDateTime dateBegin;
-QDateTime dateEnd;
-QRegExp findExp;
-QString formDateBg;
-QString formDateEnd;
+   QDateTime dateBegin;
+   QDateTime dateEnd;
+   QRegExp findExp;
+   QString formDateBg;
+   QString formDateEnd;
 };
 //-----------------------------------------------------------------------------------------------
 class WFtpFilter
 {public:
- bool filter(QString urlFileName);
+   bool filter(QString urlFileName);
 protected:
-  SFilterStr stFilter;
+   SFilterStr stFilter;
 };
 //------------------------------------------------------------------------------------------------
 struct SDownloads
@@ -42,19 +42,7 @@ struct SDownloads
   QNetworkReply *reply;
   QString path;
 };
-//---------------------------------------------------------------------------------------------------
-class PDel
-{public:
-    PDel(QNetworkReply *reply){downl=reply;}
- bool operator ()(SDownloads &man1)
-{if(downl->objectName()==man1.reply->objectName())
-     {return true;}
- return false ;
- }
- protected:
-    QNetworkReply * downl;
-};
-
+//-----------------------------------------------------------------------------------------------------
 class WTimerControl:public QThread
 {
 public:
@@ -64,7 +52,6 @@ public:
     int countRefresh;
     int countPrev;
     void run();
-
 };
 
 //---------------------------------------------------------------------------------------------------
@@ -132,23 +119,23 @@ signals:
   void errBeg(void);
   void errEnd(void);
 protected:
-QFtp *ftpLiders;
-QList<QFile*> openedFiles;
-QString dirSave;
-int toLoad;
-QStringList urlFiles;
-int idCurr;
-QStringList::iterator it;
-QFile *fileList;
-QStringList FileListErrors;
-QStringList listFiles;
-QStringList listFilesAdd;
-QString mserv;
-QString mlogin;
-QString mpassv;
-int currCommGet;
-QTimer timer;
-int countTimer;
+  QFtp *ftpLiders;
+  QList<QFile*> openedFiles;
+  QString dirSave;
+  int toLoad;
+  QStringList urlFiles;
+  int idCurr;
+  QStringList::iterator it;
+  QFile *fileList;
+  QStringList FileListErrors;
+  QStringList listFiles;
+  QStringList listFilesAdd;
+  QString mserv;
+  QString mlogin;
+  QString mpassv;
+  int currCommGet;
+  QTimer timer;
+  int countTimer;
 };
 
 

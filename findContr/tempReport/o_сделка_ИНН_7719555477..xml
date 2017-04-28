@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<contract xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns11="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns8="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns4="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns7="http://zakupki.gov.ru/223fz/purchase/1" xmlns5="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns12="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns13="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns10="http://zakupki.gov.ru/223fz/reference/1" xmlns15="http://zakupki.gov.ru/223fz/revenue/1" xmlns18="http://zakupki.gov.ru/223fz/complaint/1" xmlns9="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns17="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns14="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns16="http://zakupki.gov.ru/223fz/orderClauseList/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns6="http://zakupki.gov.ru/223fz/purchasePlanProject/1">
+<contract xmlns15="http://zakupki.gov.ru/223fz/reference/1" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns8="http://zakupki.gov.ru/223fz/complaint/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns12="http://zakupki.gov.ru/223fz/purchase/1" xmlns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns9="http://zakupki.gov.ru/223fz/notificationIssue/1">
  <header>
-  <guid>9f279e51-9f87-4ee4-bc4f-82f6acc06e23</guid>
-  <createDateTime>2016-11-02T10:47:35</createDateTime>
+  <guid>a9edb348-b431-40f0-a562-d56f05313769</guid>
+  <createDateTime>2016-12-29T16:28:23</createDateTime>
  </header>
  <body>
   <item>
-   <guid>d2d92c50-9dd1-4c0f-b77c-62e45167f5c9</guid>
+   <guid>a4d52fdd-3958-4356-b941-5da7b4a798cd</guid>
    <contractData>
-    <guid>c4ddb250-5d43-41e0-9997-24f51fb666fd</guid>
-    <registrationNumber>57707083893160048910001</registrationNumber>
+    <guid>a4c1e0fe-b9d6-4950-acc0-972f221186f1</guid>
+    <registrationNumber>57707083893160060210001</registrationNumber>
     <notice44>false</notice44>
     <termination>true</termination>
-    <extension>false</extension>
+    <extension>true</extension>
     <prolongation>false</prolongation>
     <lotNum>1</lotNum>
-    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2316369&amp;viewMode=VSRI</urlOOS>
-    <createDateTime>2016-11-02T10:12:12</createDateTime>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2627733&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2016-12-29T16:16:39</createDateTime>
     <customer>
      <mainInfo>
       <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
@@ -54,7 +54,7 @@
       <okpo>00032537</okpo>
      </mainInfo>
     </placer>
-    <publicationDate>2016-11-02T10:47:35</publicationDate>
+    <publicationDate>2016-12-29T16:28:23</publicationDate>
     <status>P</status>
     <version>1</version>
     <digitalPurchase>false</digitalPurchase>
@@ -64,72 +64,81 @@
     <attachments>
      <totalDocumentsCount>1</totalDocumentsCount>
      <document>
-      <guid>e83dcc1a-1bcd-44a0-8fcd-1957f1409e83</guid>
-      <createDateTime>2016-11-02T07:11:21</createDateTime>
-      <fileName>50001455810 от 01.11.2016 г.pdf</fileName>
+      <guid>87dbd38a-ad31-4c90-afef-44002aa15687</guid>
+      <createDateTime>2016-12-29T13:00:17</createDateTime>
+      <fileName>39-011-11138.pdf</fileName>
       <description>Сканкопия договора</description>
-      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=7306477</url>
-      <registrationNumber>57707083893160048910002</registrationNumber>
+      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=9136220</url>
+      <registrationNumber>57707083893160060210002</registrationNumber>
      </document>
     </attachments>
-    <contractRegNumber>57707083893160048910000</contractRegNumber>
-    <name>50001455810</name>
-    <contractDate>2016-11-01</contractDate>
+    <contractRegNumber>57707083893160060210000</contractRegNumber>
+    <name>39/011-11138</name>
+    <contractDate>2016-12-28</contractDate>
     <purchaseNoticeInfo>
-     <guid>8260143f-46b3-496a-9b0c-93ab682403a4</guid>
-     <purchaseNoticeNumber>31603873967</purchaseNoticeNumber>
-     <publicationDateTime>2016-07-11T14:29:54</publicationDateTime>
-     <name>[34338] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП) для оказания услуг по техническому обслуживанию электронных систем безопасности (охранно-пожарной и тревожной сигнализации, оповещения и управления эвакуацией людей при пожаре, телевизионной системы видеонаблюдения, системы контроля и управления доступом) на объектах Западно-Сибирского банка ПАО Сбербанк расположенных в г. Пыть-Ях для нужд Западно-Сибирского банка ПАО Сбербанк среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 13.04.2016 года.</name>
+     <guid>2c384323-b947-4b12-8ab5-6c6630630efa</guid>
+     <purchaseNoticeNumber>31604366156</purchaseNoticeNumber>
+     <publicationDateTime>2016-11-23T11:43:34</publicationDateTime>
+     <name>[36638] Выбор ФГУП «Охрана» МВД России по Волгоградской области поставщиком услуг по физической охране объектов с использованием служебного оружия, для нужд Поволжского банка ПАО Сбербанк, на основании п.2.2.5.7 Положения о закупках банка.</name>
     </purchaseNoticeInfo>
-    <lotGuid>b5aa396a-5157-4a98-b3e5-11961a5900fb</lotGuid>
-    <subjectContract>[34338] Выбор организации среди субъектов малого и среднего предпринимательства (СМСП) для оказания услуг по техническому обслуживанию электронных систем безопасности (охранно-пожарной и тревожной сиг</subjectContract>
+    <lotGuid>e4513a1b-7289-4015-85a9-7d9958c54e6f</lotGuid>
+    <subjectContract>[36638] Выбор ФГУП «Охрана» МВД России по Волгоградской области поставщиком услуг по физической охране объектов с использованием служебного оружия, для нужд Поволжского банка ПАО Сбербанк, на основани</subjectContract>
     <purchaseTypeInfo>
      <code>40000</code>
      <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
     </purchaseTypeInfo>
     <supplierInfo>
-     <name>ФГУП "Охрана" МВД РФ по ХМАО-Югре в г. Пыть-Ях</name>
+     <name>ФГУП «Охрана» МВД России по Волгоградской области</name>
      <inn>7719555477</inn>
-     <kpp>860243001</kpp>
-     <okpo>08837967</okpo>
+     <kpp>344402001</kpp>
+     <okpo>08837542</okpo>
      <type>L</type>
      <provider>false</provider>
      <subcontractor>false</subcontractor>
      <nonResident>false</nonResident>
      <registrationDate>2005-05-30</registrationDate>
      <tax>true</tax>
-     <okopf>15241</okopf>
-     <okopfName>Федеральные государственные унитарные предприятия</okopfName>
+     <okopf>15100</okopf>
+     <okopfName>Унитарные предприятия, основанные на праве оперативного управления (казенные предприятия)</okopfName>
      <address>
+      <egrulEgripChanged>false</egrulEgripChanged>
       <country>
        <name>РОССИЯ</name>
        <digitalCode>643</digitalCode>
       </country>
-      <postCode>628418</postCode>
-      <oktmo>71876000</oktmo>
+      <postCode>400005</postCode>
+      <oktmo>45000000</oktmo>
+      <oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</oktmoName>
       <region>
-       <name>Ханты-Мансийский АО - Югра</name>
+       <code>77</code>
+       <name>Москва</name>
       </region>
+      <area>город Москва, ЦАО, Басманный район</area>
+      <street>улица Нижняя Красносельская</street>
+      <email>volgograd@fgup-ohrana.ru</email>
+      <phone>8 (8442) 23-02-42</phone>
+      <office>0</office>
+      <house>35</house>
      </address>
     </supplierInfo>
     <hasSubcontractor>false</hasSubcontractor>
-    <price>1306117.26</price>
-    <rubPrice>1306117.26</rubPrice>
+    <price>9375319.56</price>
+    <rubPrice>9375319.56</rubPrice>
     <currency>
      <code>RUB</code>
      <digitalCode>643</digitalCode>
      <name>Российский рубль</name>
     </currency>
-    <startExecutionDate>2016-09-01</startExecutionDate>
-    <endExecutionDate>2019-08-31</endExecutionDate>
+    <startExecutionDate>2017-01-01</startExecutionDate>
+    <endExecutionDate>2017-12-31</endExecutionDate>
     <contractPositions>
      <contractPosition>
-      <guid>06c775aa-12cb-4d3c-b936-ead168ee0650</guid>
-      <name>Оказание услуг по техническому обслуживанию электронных систем безопасности (охранно-пожарной и тревожной сигнализации, оповещения и управления эвакуацией людей при пожаре, телевизионной системы видеонаблюдения, системы контроля и управления доступом) на объектах Западно-Сибирского банка ПАО Сбербанк расположенных в г. Пыть-Ях. Объем закупки - 1 комплект (услуги указаны в приложении к техническому заданию документации)</name>
+      <guid>d7ea269e-fd34-43b5-834d-eea7fe67343e</guid>
+      <name>Услуги по физической охране объектов с использованием служебного оружия, 1 комплект.</name>
       <ordinalNumber>1</ordinalNumber>
       <okpd2>
-       <code>81.10.10.000</code>
-       <name>Услуги по обслуживанию помещений комплексные</name>
+       <code>80.10.12.000</code>
+       <name>Услуги охраны</name>
       </okpd2>
       <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
       <okei>
@@ -143,10 +152,10 @@
      <contractDoc>
       <confirmingDocCode>1</confirmingDocCode>
       <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
-      <protocolInfoGuid>51404d94-ae67-4439-9992-88f3f9dc07b1</protocolInfoGuid>
-      <protocolName>СБ: протокол подведения итогов/выбор победителя 31603873967-02</protocolName>
-      <docDate>2016-08-22</docDate>
-      <docNum>31603873967-02</docNum>
+      <protocolInfoGuid>c0fc5cea-65ea-4ff6-832d-74f62dbb415e</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31604366156-01</protocolName>
+      <docDate>2016-11-23</docDate>
+      <docNum>31604366156-01</docNum>
      </contractDoc>
     </contractConfirmingDocs>
     <hasOkpdAndOkdpRows>false</hasOkpdAndOkdpRows>

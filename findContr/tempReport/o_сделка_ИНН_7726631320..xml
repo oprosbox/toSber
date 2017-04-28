@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<contract xmlns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns8="http://zakupki.gov.ru/223fz/reference/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns4="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns15="http://zakupki.gov.ru/223fz/complaint/1" xmlns11="http://zakupki.gov.ru/223fz/purchase/1" xmlns5="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns17="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns9="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlns10="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns16="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns7="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1">
+ <header>
+  <guid>ab3b0a2d-a91f-4661-8742-ab78f5ee3c8e</guid>
+  <createDateTime>2017-04-03T12:38:32</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>dc5642c0-4e6b-4cc7-b79e-647bbb9819ea</guid>
+   <contractData>
+    <guid>e882c6d5-882d-4851-9d9b-bfea2e6fcecb</guid>
+    <registrationNumber>57707083893170012830001</registrationNumber>
+    <notice44>false</notice44>
+    <termination>false</termination>
+    <extension>false</extension>
+    <prolongation>false</prolongation>
+    <lotNum>1</lotNum>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=3071164&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2017-04-03T11:57:01</createDateTime>
+    <customer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okopf>12247</okopf>
+      <okopfName>Публичные акционерные общества</okopfName>
+      <okpo>00032537</okpo>
+      <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+     </mainInfo>
+    </customer>
+    <placer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okpo>00032537</okpo>
+     </mainInfo>
+    </placer>
+    <publicationDate>2017-04-03T12:38:32</publicationDate>
+    <status>P</status>
+    <version>1</version>
+    <digitalPurchase>true</digitalPurchase>
+    <digitalPurchaseCode>400001</digitalPurchaseCode>
+    <provider>false</provider>
+    <changeContract>false</changeContract>
+    <attachments>
+     <totalDocumentsCount>1</totalDocumentsCount>
+     <document>
+      <guid>81e07452-ffe2-4096-997a-8bec4428afcf</guid>
+      <createDateTime>2017-04-03T11:46:46</createDateTime>
+      <fileName>645106F1-83B0-1ED7-85C1-7814545C7956___20170403_111549.ZIP</fileName>
+      <description>Сканкопия договора</description>
+      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11817339</url>
+      <registrationNumber>57707083893170012830002</registrationNumber>
+     </document>
+    </attachments>
+    <contractRegNumber>57707083893170012830000</contractRegNumber>
+    <name>1728489</name>
+    <contractDate>2017-03-31</contractDate>
+    <purchaseNoticeInfo>
+     <guid>1270a4e1-60c9-44ad-87ab-98d57f0886a4</guid>
+     <purchaseNoticeNumber>31704814815</purchaseNoticeNumber>
+     <publicationDateTime>2017-02-20T16:44:00</publicationDateTime>
+     <name>[37940] Выбор организации на поставку канцелярских товаров c доставкой до складов и внутренних структурных подразделений (ВСП) для нужд Северного банка ПАО Сбербанк</name>
+    </purchaseNoticeInfo>
+    <lotGuid>2122ff43-1c41-44b8-892a-d108805c3537</lotGuid>
+    <subjectContract>[37940] Выбор организации на поставку канцелярских товаров c доставкой до складов и внутренних структурных подразделений (ВСП) для нужд Северного банка ПАО Сбербанк</subjectContract>
+    <purchaseTypeInfo>
+     <code>40000</code>
+     <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
+    </purchaseTypeInfo>
+    <supplierInfo>
+     <name>ООО "Канцерна"</name>
+     <inn>7726631320</inn>
+     <kpp>772601001</kpp>
+     <okpo>62101912</okpo>
+     <type>L</type>
+     <provider>true</provider>
+     <providerCode>30</providerCode>
+     <subcontractor>false</subcontractor>
+     <nonResident>false</nonResident>
+     <registrationDate>2009-06-11</registrationDate>
+     <tax>true</tax>
+     <okopf>12165</okopf>
+     <okopfName>Общества с ограниченной ответственностью</okopfName>
+     <address>
+      <egrulEgripChanged>false</egrulEgripChanged>
+      <country>
+       <name>РОССИЯ</name>
+       <digitalCode>643</digitalCode>
+      </country>
+      <postCode>117535</postCode>
+      <oktmo>45000000</oktmo>
+      <oktmoName>Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</oktmoName>
+      <region>
+       <code>77</code>
+       <name>Москва</name>
+      </region>
+      <area>г. Москва район Южное Чертаново</area>
+      <street>ул. Дорожная</street>
+      <email>DSidorov@farm.ru</email>
+      <phone>(495) 380-14-00</phone>
+      <office>*</office>
+      <house>32</house>
+     </address>
+    </supplierInfo>
+    <hasSubcontractor>false</hasSubcontractor>
+    <price>2386544.45</price>
+    <rubPrice>2386544.45</rubPrice>
+    <currency>
+     <code>RUB</code>
+     <digitalCode>643</digitalCode>
+     <name>Российский рубль</name>
+    </currency>
+    <startExecutionDate>2017-03-31</startExecutionDate>
+    <endExecutionDate>2018-03-30</endExecutionDate>
+    <contractPositions>
+     <contractPosition>
+      <guid>89128522-ff0d-4af6-a20b-64242251bd3d</guid>
+      <name>Поставка канцелярских товаров c доставкой до складов и внутренних структурных подразделений (ВСП) для нужд Северного банка ПАО Сбербанк . В количестве 1 комплект.</name>
+      <ordinalNumber>1</ordinalNumber>
+      <okpd2>
+       <code>22.2</code>
+       <name>Изделия из пластмасс</name>
+      </okpd2>
+      <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
+      <okei>
+       <code>839</code>
+       <name>Комплект</name>
+      </okei>
+      <qty>1</qty>
+     </contractPosition>
+    </contractPositions>
+    <contractConfirmingDocs>
+     <contractDoc>
+      <confirmingDocCode>1</confirmingDocCode>
+      <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
+      <protocolInfoGuid>0ead48c1-6476-4023-9573-2e67fdf6d487</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31704814815-01</protocolName>
+      <docDate>2017-03-23</docDate>
+      <docNum>31704814815-01</docNum>
+     </contractDoc>
+    </contractConfirmingDocs>
+    <hasOkpdAndOkdpRows>false</hasOkpdAndOkdpRows>
+    <hasOkpd2Rows>true</hasOkpd2Rows>
+   </contractData>
+  </item>
+ </body>
+</contract>

@@ -327,35 +327,35 @@ void WFind::createObj(QStringList listDirFrom,QString dirTo,QStringList teg,QStr
 }
 //-----------------Создает потоки для последующего запуска и обработки, использует фильтр QReg-------------------------------------
 void WFind::createObj(QStringList listDirFrom,QString dirTo,QList<QRegExp> teg,QString val,bool flgClearAll)
-{ flgStart=CEXPFILTER;
- int maxThreadsWork=1;//QThread::idealThreadCount();
-
- if(maxThreadsWork!=1){--maxThreadsWork;}
- WFindThrExp* thrStart;
- int sz,szBeg;threadsWork=0;
- sz=(int)(listDirFrom.size()/maxThreadsWork);
- szBeg=listDirFrom.size()-sz*(maxThreadsWork-1);
- QStringList::iterator it;
+{
+   flgStart=CEXPFILTER;
+   int maxThreadsWork=1;//QThread::idealThreadCount();
+   if(maxThreadsWork!=1){--maxThreadsWork;}
+   WFindThrExp* thrStart;
+   int sz,szBeg;threadsWork=0;
+   sz=(int)(listDirFrom.size()/maxThreadsWork);
+   szBeg=listDirFrom.size()-sz*(maxThreadsWork-1);
+   QStringList::iterator it;
  for(int i=0;i<maxThreadsWork;i++)
- {if(i==0){if(szBeg==0){threadsWork=0;
+   {if(i==0){if(szBeg==0){threadsWork=0;
                         emit allThreadsStop(id);
                         break;}}
-   thrStart=new WFindThrExp;
-   thrStart->findInDom=new WFindInDom;
-   thrStart->findInDom->setFindAttr(teg,val);
-   thrStart->pathTo=dirTo;
-   thrStart->id=i;
-   if(flgClearAll){thrStart->clearAll=ndom::CDELDIR;}else{thrStart->clearAll=ndom::CNODELDIR;}
-   if(i==0){for(it=listDirFrom.begin();it!=listDirFrom.begin()+szBeg;it++)
-                thrStart->listDirFrom.push_back(*it);
-           }
-         else{for(;it!=listDirFrom.begin()+(szBeg+(i)*sz);it++)
-                  thrStart->listDirFrom.push_back(*it);}
-   listThrExp.push_back(thrStart);
-   connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
-   if(sz==0){threadsWork=1;break;}
-  ++threadsWork;
- }
+     thrStart=new WFindThrExp;
+     thrStart->findInDom=new WFindInDom;
+     thrStart->findInDom->setFindAttr(teg,val);
+     thrStart->pathTo=dirTo;
+     thrStart->id=i;
+     if(flgClearAll){thrStart->clearAll=ndom::CDELDIR;}else{thrStart->clearAll=ndom::CNODELDIR;}
+     if(i==0){for(it=listDirFrom.begin();it!=listDirFrom.begin()+szBeg;it++)
+                  thrStart->listDirFrom.push_back(*it);
+             }
+           else{for(;it!=listDirFrom.begin()+(szBeg+(i)*sz);it++)
+                    thrStart->listDirFrom.push_back(*it);}
+     listThrExp.push_back(thrStart);
+     connect(thrStart,SIGNAL(finished()),this,SLOT(getSignalStop()));
+     if(sz==0){threadsWork=1;break;}
+   ++threadsWork;
+   }
 }
 //----------------------------------------------------------------------------------------------
 void WFind::destroyObj()
@@ -375,9 +375,9 @@ void WFind::startThreads()
 countThr=threadsWork;
 for(int i=0;i<threadsWork;i++)
 { if(flgStart==CSTRFILTER)
-  {listThr.at(i)->process();}
+      {listThr.at(i)->process();}
   if(flgStart==CEXPFILTER)
-  {listThrExp.at(i)->process();}
+      {listThrExp.at(i)->process();}
 }
 }
 //----------------------------------------------------------------------------------------------

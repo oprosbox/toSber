@@ -3,12 +3,6 @@
 #include "findindom.h"
 #include <QFile>
 
-//WFtpClient *ftpclnt;
-//ftpload::WLoadFtp *loadFtp;
-
-//wui::QWidgetRegion *widReg;
-
-
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -64,29 +58,21 @@ MainWindow::MainWindow(QWidget *parent) :
    headUi->widget44Dish=ui->widget_5;
 
     headUi->createInterf();
-
-
     connect(ui->btn223fzTendPath,SIGNAL(clicked()), w223fzTendPath,SLOT(getPath()));
     connect(w223fzTendPath,SIGNAL(setPath(QString)), ui->dirTand223fz,SLOT(setText(QString)));
-
     connect(ui->btn44fzTendPath,SIGNAL(clicked()), w44fzTendPath,SLOT(getPath()));
     connect(w44fzTendPath,SIGNAL(setPath(QString)), ui->dirTand44fz,SLOT(setText(QString)));
-
     connect(ui->btn223fzPath,SIGNAL(clicked()), w223fzPath,SLOT(getPath()));
     connect(w223fzPath,SIGNAL(setPath(QString)), ui->dir223fz,SLOT(setText(QString)));
-
     connect(ui->btn44fzPath,SIGNAL(clicked()), w44fzPath,SLOT(getPath()));
     connect(w44fzPath,SIGNAL(setPath(QString)), ui->dir44fz,SLOT(setText(QString)));
 
-     w223fzTendPath->functConnDT(ui->tm223fzTendBeg,ui->btnTmTend223fz,ui->tm223fzTendEnd,ui->btnTmTend223fz_2);
-     w44fzTendPath->functConnDT(ui->tm44fzTendBeg,ui->btnTmTend44fz,ui->tm44fzTendEnd,ui->btnTmTend44fz_2);
-     w223fzPath->functConnDT(ui->tm223fzBeg,ui->btnTm223fz,ui->tm223fzEnd,ui->btnTm223fz_2);
-     w44fzPath->functConnDT(ui->tm44fzBeg,ui->btnTm44fz,ui->tm44fzEnd,ui->btnTm44fz_2);
+    w223fzTendPath->functConnDT(ui->tm223fzTendBeg,ui->btnTmTend223fz,ui->tm223fzTendEnd,ui->btnTmTend223fz_2);
+    w44fzTendPath->functConnDT(ui->tm44fzTendBeg,ui->btnTmTend44fz,ui->tm44fzTendEnd,ui->btnTmTend44fz_2);
+    w223fzPath->functConnDT(ui->tm223fzBeg,ui->btnTm223fz,ui->tm223fzEnd,ui->btnTm223fz_2);
+    w44fzPath->functConnDT(ui->tm44fzBeg,ui->btnTm44fz,ui->tm44fzEnd,ui->btnTm44fz_2);
 
-     connect(ui->btnCrtBd,SIGNAL(clicked()),this,SLOT(createTables()));
-
-
-
+    connect(ui->btnCrtBd,SIGNAL(clicked()),this,SLOT(createTables()));
 }
 //----------------------------------------------------------------------------------------------------------------------------------------------
 MainWindow::~MainWindow()
@@ -99,7 +85,9 @@ MainWindow::~MainWindow()
 //----------------------------------------------------------------------------------------------------------------------------------------------
 void MainWindow::createTables(void)
 {
-  WBaseWR::createTables(true,true,true,true);
+  QString mess;
+  mess=WBaseWR::createTables(true,true,true,true);
+  ui->statusBar->showMessage(mess,5000);
 }
 
 

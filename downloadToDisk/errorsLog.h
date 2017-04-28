@@ -11,7 +11,6 @@ public:
     QString fromIniFile(QString param,QString valNull,QString localPath="initfile.xml");
 protected:
     int idAllErrorReports;
-
 };
 
 

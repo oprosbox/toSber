@@ -12,6 +12,17 @@ WFtpClient::WFtpClient()
 {
 fileList = new QFile();
 }
+//----------------------предикат предназначен для удаления уже скачаных объектов из списка на загрузку----
+class PDel
+{public:
+    PDel(QNetworkReply *reply){downl=reply;}
+ bool operator ()(SDownloads &man1)
+       {if(downl->objectName()==man1.reply->objectName())
+                 {return true;}
+           return false ;}
+ protected:
+    QNetworkReply * downl;
+};
 //----------------------фильтр обеспечивает фильтрацию архивов по времени с ftp сервера при создании списка--------------------
 bool WFtpFilter::filter(QString url)
 {
@@ -125,16 +136,16 @@ void WFtpClient::disconnectServ(void)
 //----------------------------------читаем список всех директорий из текущего положения----------------------------------------
 void WFtpClient::readDirectories(void)
 {
-toLoad=CLOADCURRDIR;
-urlFiles.clear();
-idCurr=ftpLiders->list();
+   toLoad=CLOADCURRDIR;
+   urlFiles.clear();
+   idCurr=ftpLiders->list();
 }
 //---------------------------------------читаем список всех файлов-----------------------------------------
 void WFtpClient::readCurrFiles(void)
 {
- toLoad=CLOADCURRFILE;
- urlFiles.clear();
- idCurr=ftpLiders->list();
+   toLoad=CLOADCURRFILE;
+   urlFiles.clear();
+   idCurr=ftpLiders->list();
 }
 //------------------------------------------------------------------------------------------------
 void WNetworkFtp::errors(QNetworkReply::NetworkError err)
@@ -158,27 +169,27 @@ WNetworkFtp::WNetworkFtp()
  }
 //--------------------------------------------------------------------------------------------------
 WNetworkFtp::~WNetworkFtp()
-              {delete timer;
-               delete manager;
-               delete loop;}
+ {   delete timer;
+     delete manager;
+     delete loop;}
 //-------------------------------------------------------------------------------------------------
 void WNetworkFtp::downloadProgress(qint64 recv,qint64 total)
 {
- ++control.countRefresh;
- control.countRefresh%=500000;
+    ++control.countRefresh;
+    control.countRefresh%=500000;
 }
 //---------------------------------------------------------------------------------------------------
 int WNetworkFtp::getFile(SDownloads &urlFile)
 {
- QUrl url(urlFile.path);
- urlFile.reply =  manager->get(QNetworkRequest(url));
- QString name;
- int pos=urlFile.path.lastIndexOf("/")+1;
- name=QString(urlFile.path.constData()+pos);
- urlFile.reply->setObjectName(name);
- connect(urlFile.reply,SIGNAL(error(QNetworkReply::NetworkError)),this,SLOT(errors(QNetworkReply::NetworkError)));
- connect(urlFile.reply,SIGNAL(downloadProgress(qint64,qint64)),this,SLOT(downloadProgress(qint64,qint64)));
- return 0;
+    QUrl url(urlFile.path);
+    urlFile.reply =  manager->get(QNetworkRequest(url));
+    QString name;
+    int pos=urlFile.path.lastIndexOf("/")+1;
+    name=QString(urlFile.path.constData()+pos);
+    urlFile.reply->setObjectName(name);
+    connect(urlFile.reply,SIGNAL(error(QNetworkReply::NetworkError)),this,SLOT(errors(QNetworkReply::NetworkError)));
+    connect(urlFile.reply,SIGNAL(downloadProgress(qint64,qint64)),this,SLOT(downloadProgress(qint64,qint64)));
+    return 0;
 }
 //----------------------------------------------------------------------------------------------------
 void WNetworkFtp::finished(QNetworkReply* reply)
@@ -217,16 +228,19 @@ void WNetworkFtp::finished(QNetworkReply* reply)
    if((!control.flagControl)&&(listDownloads.size()!=0))
    {control.countPrev=control.countRefresh+1;
        getFiles();}
-   if((listDownloads.size()==0)&&(currNames.size()!=0)) {emit emit10Obj(1,currNames);
-                                                         currNames.clear();
-                                                         manager->deleteLater();
-                                                         emit allDownloads();
-                                                         control.flagControl=false;
-                                                         timer->stop();
-                                                         }
-   if((currNames.size()>maxLoad)) {emit emit10Obj(1,currNames);
-                                    currNames.clear();
-                                   }
+   if((listDownloads.size()==0)&&(currNames.size()!=0))
+       {
+       emit emit10Obj(1,currNames);
+       currNames.clear();
+       manager->deleteLater();
+       emit allDownloads();
+       control.flagControl=false;
+       timer->stop();
+        }
+   if((currNames.size()>maxLoad))
+       {emit emit10Obj(1,currNames);
+        currNames.clear();
+       }
 
  }
 //------------------------------------------------------------------------------------------------
@@ -245,7 +259,7 @@ void WNetworkFtp::abortAll()
 int WNetworkFtp::getFiles()
  {
     manager=new QNetworkAccessManager;
-  QObject::connect(manager,SIGNAL(finished(QNetworkReply*)),this,SLOT(finished(QNetworkReply*)));
+    QObject::connect(manager,SIGNAL(finished(QNetworkReply*)),this,SLOT(finished(QNetworkReply*)));
     int ind=0;
   for(auto i=listDownloads.begin();i!=listDownloads.end();i++)
     {
@@ -259,12 +273,12 @@ control.flagControl=true;
 
 //------------------------------------------------------------------------------------------------
 void WNetworkFtp::createFtp(QString out)
-{ control.countRefresh=0;
-  control.countPrev=10;
- outDir=out;
- control.ftp=this;
- maxLoad=errorsLog.fromIniFile("maxLoad","5").toInt();
- QObject::connect(timer,SIGNAL(timeout()),this,SLOT(startNext()));
+{  control.countRefresh=0;
+   control.countPrev=10;
+   outDir=out;
+   control.ftp=this;
+   maxLoad=errorsLog.fromIniFile("maxLoad","5").toInt();
+   QObject::connect(timer,SIGNAL(timeout()),this,SLOT(startNext()));
  //connect(&manager, SIGNAL(finished ( QNetworkReply *)), this, SLOT(finishRequest(QNetworkReply *)));
  }
 //---------------------------------------------------------------------------------
@@ -274,17 +288,17 @@ void WNetworkFtp::finishRequest(QNetworkReply *Reply)
 }
 //---------------------------------------------------------------------------------------------------
 void WNetworkFtp::start(QStringList &urlToGet)
-{SDownloads temp;
+{   SDownloads temp;
     for(auto i=urlToGet.begin();i!=urlToGet.end();i++)
       {
         temp.path=*i;
         listDownloads.push_back(temp);
       }
-getFiles();
-control.flagControl=true;
-control.countPrev=control.countRefresh+1;
-if (!control.isRunning())control.start();
-timer->start(2000);
+    getFiles();
+    control.flagControl=true;
+    control.countPrev=control.countRefresh+1;
+    if (!control.isRunning())control.start();
+    timer->start(2000);
 }
 //------------------------------------------------------------------------------------------------------
 void WNetFtpClient::start(QStringList &listFiles)
@@ -307,20 +321,19 @@ void WNetFtpClient::createFtp(QString serv,QString login,QString passv,QString c
         if(dirTo.exists(dirSave)){}
                      else{dirTo.mkdir(dirSave);
                           if(dirTo.exists(dirSave)){}else return ;}
- ftpFiles.connectServ(serv,login,passv);
- ftpFiles.cdBegin=cd;
- ftpFiles.cd(cd);
- dirForSave=dirSave;
- toNet="ftp://"+login+":"+passv+"@"+serv+"/"+cd;
- ftpGet=new WNetworkFtp;
- connect(ftpGet,SIGNAL(emit10Obj(int,QStringList)),this,SLOT(downloadTen(int,QStringList)));
- connect(ftpGet,SIGNAL(allDownloads()),this,SLOT(endDownloads()));
- ftpGet->createFtp(dirForSave);
-connect(&ftpFiles,SIGNAL(sFiles(int,QStringList)),this,SLOT(getListFrom(int,QStringList)));
-connect(&ftpFiles,SIGNAL(sendError(int,QString)),this,SLOT(getError(int,QString)));
-this->updateConnect.setInterval(5000);
-connect(&ftpFiles,SIGNAL(errBeg()),this,SLOT(sgetListFiles()));
-
+       ftpFiles.connectServ(serv,login,passv);
+       ftpFiles.cdBegin=cd;
+       ftpFiles.cd(cd);
+       dirForSave=dirSave;
+       toNet="ftp://"+login+":"+passv+"@"+serv+"/"+cd;
+       ftpGet=new WNetworkFtp;
+       connect(ftpGet,SIGNAL(emit10Obj(int,QStringList)),this,SLOT(downloadTen(int,QStringList)));
+       connect(ftpGet,SIGNAL(allDownloads()),this,SLOT(endDownloads()));
+       ftpGet->createFtp(dirForSave);
+       connect(&ftpFiles,SIGNAL(sFiles(int,QStringList)),this,SLOT(getListFrom(int,QStringList)));
+       connect(&ftpFiles,SIGNAL(sendError(int,QString)),this,SLOT(getError(int,QString)));
+       this->updateConnect.setInterval(5000);
+       connect(&ftpFiles,SIGNAL(errBeg()),this,SLOT(sgetListFiles()));
 }
 
 void WNetFtpClient::getListFiles(QStringList &dirList)
@@ -335,8 +348,8 @@ void WNetFtpClient::getListFiles(QStringList &dirList)
 void WNetFtpClient::sgetListFiles(void)
 {
    itDirList=dirListBig.begin();
-    ftpFiles.cd(*itDirList);
-    ftpFiles.readCurrFiles();
+   ftpFiles.cd(*itDirList);
+   ftpFiles.readCurrFiles();
 }
 //----------------------------------------------------------------------------------------------------------
 void WNetFtpClient::getListFrom(int err,QStringList list)
@@ -347,10 +360,8 @@ void WNetFtpClient::getListFrom(int err,QStringList list)
     }
 
   dirListBig.erase(itDirList);
-
-QString itOldList=*itDirList;
-
- itDirList=dirListBig.begin();
+  QString itOldList=*itDirList;
+  itDirList=dirListBig.begin();
 
     if(itDirList!=dirListBig.end()){
 if(err==QFtp::NoError)

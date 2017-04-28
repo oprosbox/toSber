@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<contract xmlns5="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns7="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns12="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlns18="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns14="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns11="http://zakupki.gov.ru/223fz/purchase/1" xmlns4="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns10="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns15="http://zakupki.gov.ru/223fz/complaint/1" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns8="http://zakupki.gov.ru/223fz/reference/1" xmlns17="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns6="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns13="http://zakupki.gov.ru/223fz/revenue/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlns9="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns16="http://zakupki.gov.ru/223fz/missedNotice/1">
+ <header>
+  <guid>8f07c67b-084f-4eba-8cd9-5f01338eb76a</guid>
+  <createDateTime>2017-04-04T11:13:19</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>f620a14b-fc12-4357-8524-fefc38d4c75f</guid>
+   <contractData>
+    <guid>6caa6c29-31e2-47f3-b339-aa075386b816</guid>
+    <registrationNumber>57707083893170012990001</registrationNumber>
+    <notice44>false</notice44>
+    <termination>false</termination>
+    <extension>false</extension>
+    <prolongation>false</prolongation>
+    <lotNum>1</lotNum>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=3078015&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2017-04-04T10:37:08</createDateTime>
+    <customer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okopf>12247</okopf>
+      <okopfName>Публичные акционерные общества</okopfName>
+      <okpo>00032537</okpo>
+      <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+     </mainInfo>
+    </customer>
+    <placer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okpo>00032537</okpo>
+     </mainInfo>
+    </placer>
+    <publicationDate>2017-04-04T11:13:19</publicationDate>
+    <status>P</status>
+    <version>1</version>
+    <digitalPurchase>true</digitalPurchase>
+    <digitalPurchaseCode>400001</digitalPurchaseCode>
+    <provider>false</provider>
+    <changeContract>false</changeContract>
+    <attachments>
+     <totalDocumentsCount>1</totalDocumentsCount>
+     <document>
+      <guid>8113b759-a069-446a-901f-e59b7b9cfae9</guid>
+      <createDateTime>2017-04-04T09:31:04</createDateTime>
+      <fileName>50001723034.pdf</fileName>
+      <description>Сканкопия договора</description>
+      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11852648</url>
+      <registrationNumber>57707083893170012990002</registrationNumber>
+     </document>
+    </attachments>
+    <contractRegNumber>57707083893170012990000</contractRegNumber>
+    <name>50001723034</name>
+    <contractDate>2017-04-03</contractDate>
+    <purchaseNoticeInfo>
+     <guid>32124123-afcf-4419-8928-43bef8a9f1e2</guid>
+     <purchaseNoticeNumber>31704892561</purchaseNoticeNumber>
+     <publicationDateTime>2017-03-15T15:08:11</publicationDateTime>
+     <name>[38164] Выбор организации на  выполнение комплекса работ по разработке проектно-сметной документации и реконструкции ДО 8610/0258 расположенного по адресу: Республика Татарстан, г. Нижнекамск, пр. Химиков 49б для нужд Волго-Вятского банка ПАО Сбербанк среди поставщиков, аккредитованных по итогам квалификационного отбора, проведенного 26.01.2017 года.</name>
+    </purchaseNoticeInfo>
+    <lotGuid>1c7306dc-bfa9-47a8-ace4-5f763bc72eb9</lotGuid>
+    <subjectContract>[38164] Выбор организации на  выполнение комплекса работ по разработке проектно-сметной документации и реконструкции ДО 8610/0258 расположенного по адресу: Республика Татарстан, г. Нижнекамск, пр. Хим</subjectContract>
+    <purchaseTypeInfo>
+     <code>40000</code>
+     <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
+    </purchaseTypeInfo>
+    <supplierInfo>
+     <name>ООО "Алькор"</name>
+     <inn>1659069285</inn>
+     <kpp>165801001</kpp>
+     <okpo>98357426</okpo>
+     <type>L</type>
+     <provider>true</provider>
+     <providerCode>30</providerCode>
+     <subcontractor>false</subcontractor>
+     <nonResident>false</nonResident>
+     <registrationDate>2006-12-20</registrationDate>
+     <tax>true</tax>
+     <okopf>12165</okopf>
+     <okopfName>Общества с ограниченной ответственностью</okopfName>
+     <address>
+      <egrulEgripChanged>false</egrulEgripChanged>
+      <country>
+       <name>РОССИЯ</name>
+       <digitalCode>643</digitalCode>
+      </country>
+      <postCode>420066</postCode>
+      <oktmo>92000000</oktmo>
+      <oktmoName>Муниципальные образования Республики Татарстан (Татарстана)</oktmoName>
+      <region>
+       <code>16</code>
+       <name>Татарстан Респ</name>
+      </region>
+      <area>г. Казань, Казанский</area>
+      <street>проспект Ямашева</street>
+      <email>alkor-10@mail.ru</email>
+      <phone>(843) 293-59-08</phone>
+      <office>1</office>
+      <house>1</house>
+     </address>
+    </supplierInfo>
+    <hasSubcontractor>false</hasSubcontractor>
+    <price>7899542.4</price>
+    <rubPrice>7899542.4</rubPrice>
+    <currency>
+     <code>RUB</code>
+     <digitalCode>643</digitalCode>
+     <name>Российский рубль</name>
+    </currency>
+    <startExecutionDate>2017-04-03</startExecutionDate>
+    <endExecutionDate>2019-04-03</endExecutionDate>
+    <contractPositions>
+     <contractPosition>
+      <guid>9df7dadd-c192-44e9-ab68-05a511959265</guid>
+      <name>Выполнение комплекса работ по разработке проектно-сметной документации и реконструкции ДО 8610/0258 расположенного по адресу: Республика Татарстан, г. Нижнекамск, пр. Химиков 49б на 262,10 кв.м.</name>
+      <ordinalNumber>1</ordinalNumber>
+      <okpd2>
+       <code>42.99.29.000</code>
+       <name>Работы строительные по строительству гражданских сооружений, не включенные в другие группировки</name>
+      </okpd2>
+      <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
+      <okei>
+       <code>055</code>
+       <name>Квадратный метр</name>
+      </okei>
+      <qty>262.1</qty>
+     </contractPosition>
+    </contractPositions>
+    <contractConfirmingDocs>
+     <contractDoc>
+      <confirmingDocCode>1</confirmingDocCode>
+      <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
+      <protocolInfoGuid>6fed437c-1c55-4bba-a5a6-08fa48642635</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31704892561-01</protocolName>
+      <docDate>2017-03-27</docDate>
+      <docNum>31704892561-01</docNum>
+     </contractDoc>
+    </contractConfirmingDocs>
+    <hasOkpdAndOkdpRows>false</hasOkpdAndOkdpRows>
+    <hasOkpd2Rows>true</hasOkpd2Rows>
+   </contractData>
+  </item>
+ </body>
+</contract>

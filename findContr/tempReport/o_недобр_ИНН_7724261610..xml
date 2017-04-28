@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlns="http://zakupki.gov.ru/oos/export/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xmloos="http://zakupki.gov.ru/oos/types/1">
+ <unfairSupplier schemeVersion="5.1">
+  <state>REVIEW_CANCELED</state>
+  <createReason>WINNER_DEVIATION</createReason>
+  <customer>
+   <regNum>02111000041</regNum>
+   <fullName>государственное учреждение - Управление Пенсионного фонда Российской Федерации в Ново-Савиновском районе г. Казани Республики Татарстан</fullName>
+   <factAddress>Российская Федерация, 420126, Татарстан Респ, Казань г, Ямашева, 79</factAddress>
+   <INN>1657035940</INN>
+   <KPP>165701001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>Управление Федеральной почтовой службы "Татарстан почтасы - филиал Федерального государственного унитарного предприятия "Почта России"</fullName>
+   <type>U</type>
+   <firmName>УФПС "Татарстан почтасы - филиал ФГУП "Почта России"</firmName>
+   <inn>7724261610</inn>
+   <place>
+    <kladr>
+     <kladrCode>160000010001227</kladrCode>
+     <fullName>Рахматуллина ул</fullName>
+     <subjectRF>Татарстан Респ</subjectRF>
+     <area>Казань г</area>
+     <street>Рахматуллина</street>
+     <building>3</building>
+    </kladr>
+    <zip>420111</zip>
+    <place/>
+    <email/>
+   </place>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0211100004114000037</purchaseNumber>
+   <purchaseObjectInfo>Оказание услуг по отправке почтовой корреспонденции с использованием франкировальной машины</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <lotNumber>1</lotNumber>
+  </purchase>
+  <contract>
+   <productInfo>услуги по отправке почтовой корреспонденции с использованием франкировальной машины</productInfo>
+   <OKPD>
+    <code>64.11.12.190</code>
+    <name>Услуги почтовой связи прочие, связанные с пересылкой письменной корреспонденции</name>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>2200818</price>
+  </contract>
+ </unfairSupplier>
+</export>

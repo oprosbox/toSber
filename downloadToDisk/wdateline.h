@@ -7,17 +7,16 @@
 
 class WMainInterf : public QObject
 {
-    Q_OBJECT
+   Q_OBJECT
 public:
-    WMainInterf();
-
+   WMainInterf();
 public slots:
- void getPath(void);
- void getDateBeg();
- void getDateEnd();
- void closeDateBeg(QDate);
- void closeDateEnd(QDate);
- void functConnDT(QDateEdit *dateEditBg,QPushButton *buttonBg,QDateEdit *dateEditEnd,QPushButton *buttonEnd);
+  void getPath(void);
+  void getDateBeg();
+  void getDateEnd();
+  void closeDateBeg(QDate);
+  void closeDateEnd(QDate);
+  void functConnDT(QDateEdit *dateEditBg,QPushButton *buttonBg,QDateEdit *dateEditEnd,QPushButton *buttonEnd);
 signals:
   void setPath(QString path);
   void setDateBeg(QDate);

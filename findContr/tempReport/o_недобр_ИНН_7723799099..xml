@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export xmlns="http://zakupki.gov.ru/oos/export/1" xmloos="http://zakupki.gov.ru/oos/types/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance">
+ <unfairSupplier schemeVersion="6.2">
+  <state>REVIEW_CANCELED</state>
+  <createReason>WINNER_DEVIATION</createReason>
+  <customer>
+   <regNum>01543000146</regNum>
+   <fullName>АДМИНИСТРАЦИЯ ГОРОДА ОРЛА</fullName>
+   <factAddress>Российская Федерация, 302028, Орловская обл, Орёл г, ПРОЛЕТАРСКАЯ ГОРА, 1, -</factAddress>
+   <INN>5701000745</INN>
+   <KPP>575301001</KPP>
+  </customer>
+  <unfairSupplier>
+   <fullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЭЛЛЕН-ВЕСТ.БЕЗОПАСНОСТЬ"</fullName>
+   <type>U</type>
+   <firmName>ООО «ЭЛЛЕН-ВЕСТ.БЕЗОПАСНОСТЬ»</firmName>
+   <inn>7723799099</inn>
+   <kpp>772301001</kpp>
+   <place>
+    <kladr>
+     <kladrCode>770000000004542</kladrCode>
+     <fullName>Марьинский Парк ул</fullName>
+     <subjectRF>Москва</subjectRF>
+     <street>Марьинский Парк</street>
+     <building>9</building>
+     <office>2</office>
+    </kladr>
+    <zip>109469</zip>
+    <place/>
+    <email>ellen-vest@mail.ru   </email>
+   </place>
+  </unfairSupplier>
+  <purchase>
+   <purchaseNumber>0154300014616000458</purchaseNumber>
+   <purchaseObjectInfo>Поставка металлических стеллажей</purchaseObjectInfo>
+   <placingWayName>Электронный аукцион</placingWayName>
+   <protocolDate>2016-07-29</protocolDate>
+   <lotNumber>1</lotNumber>
+   <document>
+    <name>протокол</name>
+    <date>2016-07-29</date>
+    <number>б/н</number>
+   </document>
+  </purchase>
+  <contract>
+   <productInfo>Поставка металлических стеллажей</productInfo>
+   <OKPD>
+    <code>31.01.11.130</code>
+   </OKPD>
+   <currency>
+    <code>RUB</code>
+    <name>Российский рубль</name>
+   </currency>
+   <price>189980</price>
+  </contract>
+ </unfairSupplier>
+</export>

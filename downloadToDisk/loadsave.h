@@ -31,7 +31,6 @@ public slots:
 signals:
  void allObjectsStop(int);
  void signAddFiles(QStringList);
-
 protected:
   QString tempDir;
   QString pathToEnd;
@@ -47,10 +46,9 @@ protected:
 class WLoadZipThread:public QThread
 {Q_OBJECT
  public:
- WLoadZipThread(){ //LoadZip.moveToThread(this);
-                 }
-  WLoadZip LoadZip;
-  QStringList listPathZip;
+    WLoadZipThread(){} //LoadZip.moveToThread(this);
+    WLoadZip LoadZip;
+    QStringList listPathZip;
  void run(){LoadZip.startUnpackWork(listPathZip);}
             //this->deleteLater();}
 };
@@ -90,31 +88,31 @@ signals:
   void allFilesDownload(int);
   void allFilesProcess(int);
 protected:
-QList<WLoadZipThread*> fromZip;
-WNetFtpClient *client;
-QStringList::iterator it;
-SInputFtp params;
-int countId;
-bool flgDownloadsAll;
+  QList<WLoadZipThread*> fromZip;
+  WNetFtpClient *client;
+  QStringList::iterator it;
+  SInputFtp params;
+  int countId;
+  bool flgDownloadsAll;
 };
 //--------------------------------------------------------------------------------------------------
 
 class W223fz
 {
-  public:
-    W223fz();
-    ~W223fz();
-    void create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
-    void create44fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
-    void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
-    void create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd);
-    void baseConnect(void);
-  static  int getRegions(QStringList &regions,const int CFZ);
-    WLoadFtp *ftp223fz;
+public:
+   W223fz();
+   ~W223fz();
+   void create223fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
+   void create44fzNotif(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd,QString inn);
+   void create223fzDish(QString dirToReport,QStringList regions,QDateTime tmBegin,QDateTime tmEnd);
+   void create44fzDish(QString dirToReport,QDateTime tmBegin,QDateTime tmEnd);
+   void baseConnect(void);
+static  int getRegions(QStringList &regions,const int CFZ);
+   WLoadFtp *ftp223fz;
 protected:
-    SInputFtp inpFtp;
-    WBaseWR *BD;
-    int CFZ;
+   SInputFtp inpFtp;
+   WBaseWR *BD;
+   int CFZ;
 };
 
 }

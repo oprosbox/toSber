@@ -13,18 +13,18 @@ WToBASE::WToBASE()
 int paramConn=0;
 //------открывает локальное соединение с MSSql--------------------
 bool WOpenBase::openMSSQL(QString connStr)
-{ QString nameConn="ODBCPAO_";
+{   QString nameConn="ODBCPAO_";
     nameConn+=QString::asprintf("%i",paramConn);
     ++paramConn;
     base = QSqlDatabase::addDatabase("QODBC",nameConn);
     base.setDatabaseName(connStr);
-   return base.open();
+    return base.open();
 }
 //-------------------закрывает работающее соединение----------------------------
 void WOpenBase::closeConn()
 {
-base.close();
-QSqlDatabase::removeDatabase("dbPAO");
+    base.close();
+    QSqlDatabase::removeDatabase("dbPAO");
 }
 //------------------подготавливает запросы--------------------------------
 void WToBASE::prepare(int CFZ)
@@ -174,29 +174,28 @@ bool WToBASE::insertToBase223Notif(SNotif &notif,QSqlError &error)
 
 //-------------------------------------------------------------------------------------------
 bool WBaseWR::start(int CNoFZ)
-{CFZType=CNoFZ;
- bool flgOpen=WToBASE::start();
-if(flgOpen){prepare(CFZType);}
-
-return flgOpen;
+{ CFZType=CNoFZ;
+  bool flgOpen=WToBASE::start();
+  if(flgOpen){prepare(CFZType);}
+  return flgOpen;
 }
 
 //--------------------------------------------------------------------------------------------
 bool WBaseWR::writeToNotif(QStringList findObjects)
 {
-QList<SNotif> lstNotif;
-switch(CFZType)
-{case CFZ223:{ toSNotif(findObjects,lstNotif);break;}
- case CFZ44:{ toSNotif44(findObjects,lstNotif);}
-}
-QSqlError error;
-for(auto i=lstNotif.begin();i!=lstNotif.end();i++)
-  {
-if(insertToBase223Notif(*i,error)){}
-                    else{QString err="write  223Notif";
-                         emit getError(err);}
-  }
-return true;
+    QList<SNotif> lstNotif;
+    switch(CFZType)
+    {case CFZ223:{ toSNotif(findObjects,lstNotif);break;}
+     case CFZ44:{ toSNotif44(findObjects,lstNotif);}
+    }
+    QSqlError error;
+    for(auto i=lstNotif.begin();i!=lstNotif.end();i++)
+      {
+    if(insertToBase223Notif(*i,error)){}
+                        else{QString err="write  223Notif";
+                             emit getError(err);}
+      }
+    return true;
 }
 //---------------------------------------------------------------------------------------------
 bool WBaseWR::writeToDishon(QStringList findObjects)
@@ -319,7 +318,7 @@ void WBaseWR::toSNotif44(QStringList &list,QList<SNotif> &lstNotif)
                                 errorsLog.toErrReportFile(*i,"logReports44/supplier_legalEntityRF_INN.xml");
                                 }
                               }
-QString name;
+      QString name;
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","legalEntityRF","fullName"}),temp);
       if(temp.size()!=0){notif.name_organization_supplier=temp.at(0);
                          }
@@ -371,11 +370,9 @@ QString name;
     }
 
 }
-
-
 //---------------------------------------------------------------------------------------------
 void WBaseWR::toSDishon(QStringList &list,QList<SDishon> &lstDish)
-{ SDishon dishon;
+{   SDishon dishon;
     lstDish.clear();
     QStringList temp;
 
@@ -383,8 +380,6 @@ void WBaseWR::toSDishon(QStringList &list,QList<SDishon> &lstDish)
     {
       dishon.inn="";
       dishon.data=*i;
-
-
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","inn"}),temp);
 
       if(temp.size()!=0){dishon.inn=temp[0];
@@ -399,16 +394,17 @@ void WBaseWR::toSDishon(QStringList &list,QList<SDishon> &lstDish)
       ndom::WFindInDom::findInText(*i,QStringList({"supplier","name"}),temp);
       if(temp.size()!=0){dishon.name_organization=temp[0]; }
                         else{ ndom::WFindInDom::findInText(*i,QStringList({"supplier","supplierName"}),temp);
-                              if(temp.size()!=0){dishon.name_organization=temp[0]; }
-                             else{ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","fullName"}),temp);
-                                  if(temp.size()!=0){dishon.name_organization=temp[0]; }
-                                  else{
-                                  dishon.name_organization="";
-                                   errorsLog.toErrReportFile(*i,"logReports223d/supplier_name.xml");
-                                  if(dishon.inn=="")
+                              if(temp.size()!=0)
+                                     {dishon.name_organization=temp[0]; }
+                               else{ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","fullName"}),temp);
+                                    if(temp.size()!=0){dishon.name_organization=temp[0]; }
+                                     else{
+                                     dishon.name_organization="";
+                                     errorsLog.toErrReportFile(*i,"logReports223d/supplier_name.xml");
+                                     if(dishon.inn=="")
                                       continue;}
-                                }
-                           }
+                                    }
+                            }
 
       lstDish.push_back(dishon);
     }
@@ -427,9 +423,6 @@ void WBaseWR::toSDishon44(QStringList &list,QList<SDishon> &lstDish)
       ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","inn"}),temp);
       if(temp.size()!=0){dishon.inn=temp[0];
                          dishon.inn.replace(" ","");}
-      //if(dishon.inn==""){errorsLog.toErrReportFile(*i,"logReports44d/unfairSupplier_inn.xml");
-      //                   }
-
 
       ndom::WFindInDom::findInText(*i,QStringList({"unfairSupplier","fullName"}),temp);
       if(temp.size()!=0){dishon.name_organization=temp[0]; }
@@ -441,27 +434,26 @@ void WBaseWR::toSDishon44(QStringList &list,QList<SDishon> &lstDish)
 
     }
 }
+//--------------------------------------------------------------------------------------------------------------
+QString WBaseWR::createTables(bool table223fz,bool table44fz,bool tableDishon223fz,bool tableDishon44fz)
+{    WToBASE BD;QString mess;
 
-//---------------------------------------------------------------------------------------------
-//void WBaseWR::createTables(void)
-//{
-//   if(createTable223Notif()){}else {emit getError("create dishon");return;}
-//   if(createTable223Dishon()){}else {emit getError("create notif");return;}
-//   emit getError("all right");
-//}
-
-int WBaseWR::createTables(bool table223fz,bool table44fz,bool tableDishon223fz,bool tableDishon44fz)
-{    WToBASE BD;
      bool flg=BD.start();
-     if(!flg){return -1;}
+     if(!flg){return BD.base.lastError().text();}
      BD.prepare(CFZ223);
      if(table223fz){flg=BD.createTable223Notif();
-                     if(!flg){return -2;}}
+                     if(flg){mess+="223FZ TABLES OK; ";}
+                              else {mess+="223FZ TABLES EXIST; ";}
+                              }
      if(tableDishon223fz){flg=BD.createTable223Dishon();
-                          if(!flg){return -3;}}
+         if(flg){mess+="223FZ DISHON TABLES OK; ";}
+                  else {mess+="223FZ DISHON TABLES EXIST; ";}}
      BD.prepare(CFZ44);
      if(table44fz){flg=BD.createTable223Notif();
-                   if(!flg){return -4;}}
+                  if(flg){mess+="44FZ TABLES OK; ";}
+                          else {mess+="44FZ TABLES EXIST; ";}}
      if(tableDishon44fz){flg=BD.createTable223Dishon();
-                         if(!flg){return -5;}}
+                       if(flg){mess+="223FZ DISHON TABLES OK; ";}
+                             else {mess+="223FZ DISHON TABLES EXIST; ";}}
+     return mess;
 }

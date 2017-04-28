@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<contract xmlns19="http://zakupki.gov.ru/223fz/webRequest/1" xmlns11="http://zakupki.gov.ru/223fz/purchasePlanProject/1" xmlns13="http://zakupki.gov.ru/223fz/purchasePlanProjectAdditionalPosition/1" xmlns8="http://zakupki.gov.ru/223fz/complaint/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns5="http://zakupki.gov.ru/223fz/revenue/1" xmlns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns17="http://zakupki.gov.ru/223fz/decisionSuspension/1" xmlns18="http://zakupki.gov.ru/223fz/purchasePlanAdditionalPosition/1" xmlns10="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns16="http://zakupki.gov.ru/223fz/stopCommodity/1" xmlns7="http://zakupki.gov.ru/223fz/disagreementProtocol/1" xmlns9="http://zakupki.gov.ru/223fz/notificationIssue/1" xmlns15="http://zakupki.gov.ru/223fz/reference/1" xmlns3="http://zakupki.gov.ru/223fz/dishonestSupplier/1" xmlxsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-5.2 http://zakupki.gov.ru/223/integration/schema/TFF-5.2/Types.xsd" xmlns14="http://zakupki.gov.ru/223fz/missedNotice/1" xmlns2="http://zakupki.gov.ru/223fz/contract/1" xmlns4="http://zakupki.gov.ru/223fz/machineryListInfo/1" xmlns12="http://zakupki.gov.ru/223fz/purchase/1">
+ <header>
+  <guid>aebc5c87-661c-4172-8769-68fe103c9fce</guid>
+  <createDateTime>2017-03-13T11:02:03</createDateTime>
+ </header>
+ <body>
+  <item>
+   <guid>c1fb079f-8e9a-4013-b2ef-4e7029809395</guid>
+   <contractData>
+    <guid>a91b698e-aecd-46f1-bbd4-3cdfa3e3fbc6</guid>
+    <registrationNumber>57707083893170009360001</registrationNumber>
+    <notice44>false</notice44>
+    <termination>false</termination>
+    <extension>false</extension>
+    <prolongation>false</prolongation>
+    <lotNum>1</lotNum>
+    <urlOOS>https://zakupki.gov.ru/223/contract/private/contract/view/general-information.html?id=2976965&amp;viewMode=VSRI</urlOOS>
+    <createDateTime>2017-03-13T08:57:06</createDateTime>
+    <customer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okopf>12247</okopf>
+      <okopfName>Публичные акционерные общества</okopfName>
+      <okpo>00032537</okpo>
+      <customerRegistrationDate>2017-01-09T00:00:00</customerRegistrationDate>
+     </mainInfo>
+    </customer>
+    <placer>
+     <mainInfo>
+      <fullName>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"</fullName>
+      <shortName>ПАО СБЕРБАНК</shortName>
+      <iko>57707083893775001001</iko>
+      <inn>7707083893</inn>
+      <kpp>773601001</kpp>
+      <ogrn>1027700132195</ogrn>
+      <legalAddress>117997, Г МОСКВА, УЛ ВАВИЛОВА, дом 19</legalAddress>
+      <postalAddress>117997, г. Москва, ул. Вавилова, 19</postalAddress>
+      <phone>7-495-7473789</phone>
+      <fax>7-495-7473667</fax>
+      <email>Gref_p@sberbank.ru</email>
+      <okato>45293554000</okato>
+      <okpo>00032537</okpo>
+     </mainInfo>
+    </placer>
+    <publicationDate>2017-03-13T11:02:03</publicationDate>
+    <status>P</status>
+    <version>1</version>
+    <digitalPurchase>false</digitalPurchase>
+    <digitalPurchaseCode>400002</digitalPurchaseCode>
+    <provider>false</provider>
+    <changeContract>false</changeContract>
+    <attachments>
+     <totalDocumentsCount>1</totalDocumentsCount>
+     <document>
+      <guid>f269007d-91ea-4ff9-9055-a7cc243352a7</guid>
+      <createDateTime>2017-03-13T05:54:39</createDateTime>
+      <fileName>Оригинал дог. № 8.5.1.1_2674_50001670962 от 13.03.17.pdf</fileName>
+      <description>Сканкопия договора</description>
+      <url>https://zakupki.gov.ru/223/contract/private/download/download.html?id=11224445</url>
+      <registrationNumber>57707083893170009360002</registrationNumber>
+     </document>
+    </attachments>
+    <contractRegNumber>57707083893170009360000</contractRegNumber>
+    <name>50001670962</name>
+    <contractDate>2017-03-13</contractDate>
+    <purchaseNoticeInfo>
+     <guid>18a21732-bd3a-4fa8-b430-d1e0034a609e</guid>
+     <purchaseNoticeNumber>31704818502</purchaseNoticeNumber>
+     <publicationDateTime>2017-02-21T13:39:44</publicationDateTime>
+     <name>[37952] Выбор на основании п. 2.2.5.3. Положения о закупках ПАО Сбербанк № 2348 УФПС Иркутской области - филиал ФГУП "Почта России" - поставщиком услуг почтовой связи для нужд Братского отделения Иркутского ГОСБ № 8586 Байкальского банка ПАО Сбербанк</name>
+    </purchaseNoticeInfo>
+    <lotGuid>595c1b62-86dc-4c53-a00b-cae7508adcdf</lotGuid>
+    <subjectContract>[37952] Выбор на основании п. 2.2.5.3. Положения о закупках ПАО Сбербанк № 2348 УФПС Иркутской области - филиал ФГУП "Почта России" - поставщиком услуг почтовой связи для нужд Братского отделения Ирку</subjectContract>
+    <purchaseTypeInfo>
+     <code>40000</code>
+     <name>Иной способ закупки, предусмотренный правовым актом заказчика, указанным в части 1 статьи 2 Федерального закона</name>
+    </purchaseTypeInfo>
+    <supplierInfo>
+     <name>УФПС Иркутской области - филиал ФГУП "Почта России"</name>
+     <inn>7724261610</inn>
+     <kpp>380802001</kpp>
+     <okpo>27257945</okpo>
+     <type>L</type>
+     <provider>false</provider>
+     <subcontractor>false</subcontractor>
+     <nonResident>false</nonResident>
+     <registrationDate>2003-02-13</registrationDate>
+     <tax>true</tax>
+     <okopf>30002</okopf>
+     <okopfName>Филиалы юридических лиц</okopfName>
+     <address>
+      <egrulEgripChanged>false</egrulEgripChanged>
+      <country>
+       <name>РОССИЯ</name>
+       <digitalCode>643</digitalCode>
+      </country>
+      <postCode>664011</postCode>
+      <oktmo>25701000</oktmo>
+      <oktmoName>Город Иркутск</oktmoName>
+      <region>
+       <code>38</code>
+       <name>Иркутская обл</name>
+      </region>
+      <area>г.Иркутск, Кировский район</area>
+      <street>пер. Богданова</street>
+      <email>POSTMASTER@CANS.UFPSI.IRKUTSK.RU</email>
+      <phone>3952-24-03-33,24-23-15</phone>
+      <office>-</office>
+      <house>8 "а"</house>
+     </address>
+    </supplierInfo>
+    <hasSubcontractor>false</hasSubcontractor>
+    <price>944000</price>
+    <rubPrice>944000</rubPrice>
+    <currency>
+     <code>RUB</code>
+     <digitalCode>643</digitalCode>
+     <name>Российский рубль</name>
+    </currency>
+    <startExecutionDate>2017-03-13</startExecutionDate>
+    <endExecutionDate>2017-12-31</endExecutionDate>
+    <contractPositions>
+     <contractPosition>
+      <guid>817a8215-cdb7-4ecd-b0a0-bf60c6734d3c</guid>
+      <name>Услуги почтовой связи для нужд Братского отделения Иркутского ГОСБ № 8586 Байкальского банка ПАО Сбербанк (в количестве 1 комплекта)</name>
+      <ordinalNumber>1</ordinalNumber>
+      <okpd2>
+       <code>53.20.11.110</code>
+       <name>Услуги специальной почтовой связи</name>
+      </okpd2>
+      <impossibleToDetermineAttr>false</impossibleToDetermineAttr>
+      <okei>
+       <code>839</code>
+       <name>Комплект</name>
+      </okei>
+      <qty>1</qty>
+     </contractPosition>
+    </contractPositions>
+    <contractConfirmingDocs>
+     <contractDoc>
+      <confirmingDocCode>1</confirmingDocCode>
+      <confirmingDocCodeTitle>Протокол, составленный по результатам закупки</confirmingDocCodeTitle>
+      <protocolInfoGuid>09ebe39f-071d-48b9-b7cf-21ee6a999a00</protocolInfoGuid>
+      <protocolName>СБ: протокол подведения итогов/выбор победителя 31704818502-01</protocolName>
+      <docDate>2017-02-21</docDate>
+      <docNum>31704818502-01</docNum>
+     </contractDoc>
+    </contractConfirmingDocs>
+    <hasOkpdAndOkdpRows>false</hasOkpdAndOkdpRows>
+    <hasOkpd2Rows>true</hasOkpd2Rows>
+   </contractData>
+  </item>
+ </body>
+</contract>

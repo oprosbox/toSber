@@ -53,31 +53,31 @@ public:
     bool createTable223Dishon(void);
     bool insertToBase223Dishon(SDishon &dishon);
 protected:
- QSqlTableModel toViewTable;
- QSqlQuery *queryNotif;
- QSqlQuery *queryDishon;
- QSqlQuery *queryNotifData;
- QSqlQuery *queryDishonData;
- QSqlQuery *queryNotifSelectData;
- QSqlQuery *queryDishonSelectData;
+   QSqlTableModel toViewTable;
+   QSqlQuery *queryNotif;
+   QSqlQuery *queryDishon;
+   QSqlQuery *queryNotifData;
+   QSqlQuery *queryDishonData;
+   QSqlQuery *queryNotifSelectData;
+   QSqlQuery *queryDishonSelectData;
 };
 
 class WBaseWR:public QObject,protected WToBASE
 {Q_OBJECT
-    public:
-    bool start(const int CNoFZ);
-static int createTables(bool table223fz=true,bool table44fz=true,bool tableDishon223fz=true,bool tableDishon44fz=true);
+  public:
+  bool start(const int CNoFZ);
+static QString createTables(bool table223fz=true,bool table44fz=true,bool tableDishon223fz=true,bool tableDishon44fz=true);
 public slots:
-bool writeToNotif(QStringList findObjects);
-bool writeToDishon(QStringList findObjects);
+  bool writeToNotif(QStringList findObjects);
+  bool writeToDishon(QStringList findObjects);
 signals:
-void getError(QString error);
+  void getError(QString error);
 protected:
-void toSNotif(QStringList &list,QList<SNotif> &lstNotif);
-void toSDishon(QStringList &list,QList<SDishon> &lstDish);
-void toSNotif44(QStringList &list,QList<SNotif> &lstNotif);
-void toSDishon44(QStringList &list,QList<SDishon> &lstDish);
-int CFZType;
+  void toSNotif(QStringList &list,QList<SNotif> &lstNotif);
+  void toSDishon(QStringList &list,QList<SDishon> &lstDish);
+  void toSNotif44(QStringList &list,QList<SNotif> &lstNotif);
+  void toSDishon44(QStringList &list,QList<SDishon> &lstDish);
+  int CFZType;
 };
 
 //-------------------------------------------------------------------------------

@@ -272,10 +272,9 @@ tableBase->setRowCount(0);
      addStringToTable(*it);
      auto itColumn=it->begin();++itColumn;++itColumn;
      if(itColumn->data!=""){QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
-                                      item->setText(itColumn->param);
-                                     //item->setBackground(QBrush(QImage(QApplication::applicationDirPath()+"/images/button2.png")));
-                                      item->setBackground(QBrush(qRgb(255,170,255)));
-                                      }
+                            item->setText(itColumn->param);
+                            item->setBackground(QBrush(qRgb(255,170,255)));
+                            }
      ++itColumn;
         QTableWidgetItem* item=(QTableWidgetItem*)itColumn->widget;
          item->setTextAlignment(Qt::AlignCenter);
@@ -284,7 +283,9 @@ tableBase->setRowCount(0);
 }
 //-----------------------------------------------------------------------------------------------------------------------
 void WInterface::sortTable(int ind)
-{ flgByRet=!flgByRet;
+{ //flgByRet=!flgByRet;
+    if(flgByRet){flgByRet=false;}
+        else{flgByRet=true;}
   if(ind==3)
   {
    std::sort(infoTable.begin(),infoTable.end(),PSortLinesByDate(flgByRet));

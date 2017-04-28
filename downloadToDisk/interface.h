@@ -21,7 +21,7 @@ namespace  wui {
 class QWidgetRegion:public QDialog//создан объект отображающий регионы
 {Q_OBJECT
  public:
-    QWidgetRegion(){lblRegions=NULL;}
+   QWidgetRegion(){lblRegions=NULL;}
    void create(QStringList &regions,QString caption="223-ФЗ");
    void setRegionsCheck(QStringList &regions);
    void destr(void);
@@ -52,7 +52,6 @@ public:
   QLineEdit *edt223fzInn;
   QPushButton *btn223fzNotif;
   QPushButton *btn223fzDish;
-
   QCheckBox *chk44fzNotif;
   QCheckBox *chk44fzDishon;
   QLineEdit *edt44fzNotif;
@@ -63,20 +62,16 @@ public:
   QDateEdit *tm44fzDishonEnd;
   QLineEdit *edt44fzInn;
   QPushButton *btn44fzNotif;
-
   QPushButton *btnDownloadStart;
   QLabel *regionsListNotif;
   QLabel *regionsListDish;
-
   QCheckBox *chk44fzContrToBase;
   QCheckBox *chk223fzContrToBase;
   QCheckBox *chk44fzDishonToBase;
   QCheckBox *chk223fzDishonToBase;
-
   QWidgetRegion w223fzNotifReg;
   QWidgetRegion w223fzDishonReg;
   QWidgetRegion w44fzNotifReg;
-
   QWidget *widget44Contr;
   QWidget *widget223Contr;
   QWidget *widget44Dish;
@@ -92,18 +87,16 @@ public slots:
   void exec223fzDishon();
   void exec44fzContr();
   void allWasLoad(int id);
+
 protected:
-
-ftpload::W223fz *w223fzNotif;
-ftpload::W223fz *w223fzDishon;
-ftpload::W223fz *w44fzNotif;
-ftpload::W223fz *w44fzDishon;
-
-QList<ftpload::WLoadFtp*> listDownload;
-
-QStringList regionsNotif;
-QStringList regionsDishon;
-QStringList regionsContract44;
+  ftpload::W223fz *w223fzNotif;
+  ftpload::W223fz *w223fzDishon;
+  ftpload::W223fz *w44fzNotif;
+  ftpload::W223fz *w44fzDishon;
+  QList<ftpload::WLoadFtp*> listDownload;
+  QStringList regionsNotif;
+  QStringList regionsDishon;
+  QStringList regionsContract44;
 
 };
 
